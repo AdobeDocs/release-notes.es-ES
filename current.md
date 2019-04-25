@@ -1,0 +1,244 @@
+---
+title: Notas de la versión de Adobe Experience Cloud
+description: Notas de la versión de Experience Cloud
+doc-type: notas de la versión
+last-update: Abril de 2019
+author: mfrei
+translation-type: tm+mt
+source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+
+---
+
+
+# Notas de la versión de Adobe Experience Cloud
+
+Nuevas funciones y correcciones en Adobe Experience Cloud.
+
+>[!NOTE]
+>Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones. Recibirá el aviso entre tres y cinco días laborables antes del lanzamiento de la versión. La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
+
+**Fecha de la versión: Abril de 2019**
+
+* [Administración y servicios principales de Experience Cloud](#experiencecloud)
+* [Analytics  ](#analytics)
+* [Audience Manager](#aam)
+* [Advertising Cloud](#adcloud)
+* [Target](#target)
+* [Experience Manager](#aem)
+* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de solución)
+
+## Administración y servicios principales de Experience Cloud {#experiencecloud}
+
+Notas de la versión de la interfaz de Experience Cloud, incluidos [!UICONTROL los servicios] principales de plataforma y la administración de productos.
+
+* [Servicios principales de Experience Cloud](#core-services)
+* [Servicio de Experience Cloud ID](#ecid)
+* [Mobile Services y Mobile SDK](#mobile)
+* [Launch, de Adobe](https://docs.adobelaunch.com/) (vínculos a la ayuda del producto)
+
+### Servicios principales de Experience Cloud {#core-services}
+
+Notas de la versión de la interfaz y los servicios principales de Experience Cloud.
+
+* Se ha actualizado el conmutador de aplicación para incluir Marketo en el paquete de soluciones de Experience Cloud y se han añadido actualizaciones de marca en Experience Platform. (MCUI-6529)
+* Se ha actualizado Experience Cloud Home para incluir vínculos de navegación a las páginas de Fuentes y Administración. (MCUI-6682)
+* Se ha corregido un problema en la definición [!UICONTROL de activador] para el uso correcto de la cláusula &quot;like&quot;. (MCUI-6611)
+* Se han mejorado los Atributos del cliente para un mejor inicio de sesión en el servicio de Suscripción. (MCUI-6519)
+
+Para obtener documentación del producto, consulte [Experience Cloud y los servicios principales](https://marketing.adobe.com/resources/help/en_US/mcloud/)
+
+### Servicio Experience Cloud ID {#ecid}
+
+* Se ha actualizado a la versión 4.2.0.
+* Ahora se admite el Plug-in de Audience Manager para IAB TCF, disponible a través del objeto de inclusión ECID.
+
+Para obtener documentación del producto, consulte [Servicio Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+
+### Mobile Services y Mobile SDK {#mobile}
+
+Funciones y correcciones en Adobe Mobile Services:
+
+**iOS versión 4.18.2**
+
+* Target: se ha solucionado un problema que impedía que _purchasedProductIds_ se representase correctamente como un conjunto para la visualización de notificaciones.
+
+**Android versión 4.17.4**
+
+* General: se ha mejorado la compatibilidad con las aplicaciones Instant de Android para que las comprobaciones de accesibilidad se puedan configurar en el archivo _ADBMobileConfig.json_ con la propiedad booleana _reachabilityChecksEnabled_ en el objeto raíz JSON.
+
+Para obtener documentación del producto, consulte [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+
+Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android para soluciones de Experience Cloud 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/android/) y [SDK de iOS para soluciones de Experience Cloud 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+
+## Analytics  {#analytics}
+
+* [Nuevas funciones y correcciones en Adobe Analytics](#aa-features)
+* [Avisos importantes para administradores de Analytics](#aa-notices)
+
+Para obtener la documentación del producto, consulte la [Página principal de ayuda de Analytics](https://marketing.adobe.com/resources/help/en_US/reference/).
+
+### Funciones nuevas en Adobe Analytics {#aa-features}
+
+| Función | Descripción |
+| -----------| ---------- |  
+| Segmentación en Recuentos distintos | Ahora puede segmentar un recuento distinto de elementos dentro de una dimensión. Por ejemplo: “Visitantes que vieron más de 5 productos diferentes” o “Visitas donde se vieron más de 5 páginas diferentes”. (Tenga en cuenta que la función Recuento aproximado aún está disponible en Métricas calculadas, si desea crear una métrica que sea un recuento distinto de una dimensión (por ejemplo: N. º de clientes, N. º de productos, etc.)). |
+| Compatibilidad con Análisis específicos para Java 11 | Ad Hoc Analysis ahora es compatible con Java 11. A continuación se ofrecen algunas advertencias para utilizar Java 11. |
+| Actualizaciones de Advertising Analytics | Hemos publicado un par de actualizaciones para Advertising Analytics: <ul><li>El 31 de marzo, Microsoft Bing absorbió Yahoo Gemini. Como resultado, la opción de cuenta publicitaria de Yahoo Gemini ya no está disponible. </li><li>Google ha implementado un nuevo patrón de seguimiento y, en lugar de utilizar la _Plantilla de seguimiento_, ahora utilizamos el _Sufijo de dirección URL final_.</li></ul> |
+| Analysis Workspace | Actualizaciones de Recomendaciones para la optimización. |
+
+**Correcciones**
+
+* (Workspace) Se han corregido problemas que impedían la creación de segmentos desde las vistas de abandonos. (AN-177042, AN-176876)
+* (Workspace) Se ha solucionado un problema que impedía la creación de segmentos desde las vistas de flujo. (AN-176681)
+* (Workspace) Se ha corregido un problema de desalineación en las tablas. (AN-176919)
+* (Workspace) Se ha corregido un problema de interfaz de usuario en japonés que se producía al contraer o expandir el panel de visualización. (AN-170601)
+* Se ha corregido un problema que se producía al intentar cambiar segmentos en los informes del panel. (AN-177056)
+* (Reports &amp; Analytics) Se ha corregido un problema con el cual no se podían seleccionar métricas en el informe Resumen de canal. (AN-176786)
+* (Administrador de segmentos) Se ha solucionado un problema que generaba un mensaje de error al intentar editar un segmento compartido con varias fuentes de datos de Audience Manager. (AN-175353)
+* (Workspace) Se ha solucionado un problema que impedía que los usuarios que no eran administradores vieran componentes de su propiedad (como segmentos) que no estuviesen recopilados en los grupos de informes virtuales. (AN-175616)
+* (Administración) Se ha corregido un problema al intentar editar eVars para varios grupos de informes. (AN-168150)
+* (Administración) Se ha corregido un problema en la IU de administración de usuarios anterior que impedía transferir recursos a otro usuario. (AN-176630, AN-173974)
+* (Workspace) Se ha corregido un problema con los datos de detección de anomalías que se mostraban antes de tiempo. La corrección debe dar como resultado menos falsos positivos. (AN-176724)
+
+### Avisos importantes para los administradores de Analytics {#aa-notices}
+
+| Aviso | Fecha añadida   o actualizada | Descripción |
+| -----------| ---------- | ---------- |
+| Futuros cambios en los cálculos _Total de informes_ | 16 de abril de 2019 | El 13 de junio de 2019, Adobe Analytics unificará los cálculos _Total de informes_ en todas sus dimensiones y métricas. Por tanto, se cambiarán los totales de algunos informes (Prop o informes de atributos del consumidor) Antes de este cambio, algunos totales de informes no incluían el elemento de línea _Sin especificar_ en el total, independientemente de si el valor _Sin especificar_ aparecía en el informe o no. <br/>A partir del 13 de junio de 2019, el valor _Sin especificar_ aparecerá siempre en el total de los informes, aunque no aparezca en él como un elemento de línea. Este cambio afectará a Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder y a la API de informes. |
+| Actualización de las descargas de CSV desde Analysis Workspace | 10 de abril de 2019 | A partir del 11 de abril de 2019, se realizarán varios cambios en las descargas de CSV (y en Copiar al Portapapeles) desde Analysis Workspace para eliminar el formato de los datos exportados.  <ul><li>El separador de miles ya no se incluirá. Se seguirá incluyendo el separador decimal y se respetará el formato definido dentro de **Componentes** &gt; **Configuración de informes** &gt; **Separador de miles**. Nota: Los valores numéricos que utilizan una coma como separador decimal seguirán citados en el CSV exportado.</li><li>No se mostrarán símbolos de moneda.</li><li>No se mostrarán símbolos de porcentajes. Los porcentajes estarán en formato decimal. Por ejemplo, 75 % estará representado como 0,75.</li><li>El tiempo se mostrará en segundos.</li><li>Las tablas de cohorte mostrarán solo valores sin procesar; se eliminarán los porcentajes.</li><li>Si un número no es válido, se mostrará una celda vacía.</li></ul> |
+| Cambio en el comando de Debugger de Analysis Workspace | 4 de abril de 2019 | El comando Console para activar el depurador de Analysis Workspace cambia a adobetools. debug. includeoberonxml el 13 de **junio de 2019**. |
+| Próximos cambios de soporte para las clasificaciones numéricas y con fechas activadas | 28 de febrero de 2019 | Se ha eliminado de la base de código la posibilidad de importar clasificaciones numéricas 2 y fechas activadas. Este cambio entra en vigor con el lanzamiento de mantenimiento de junio de 2019. Si tiene columnas numéricas o con fecha habilitada en el archivo de importación, esas celdas serán omitidas sin aviso y cualquier otra información de ese archivo se importará como de costumbre. <br/>Las clasificaciones existentes se pueden exportar a través del flujo de trabajo de clasificación estándar y seguirán estando disponibles en los informes. |
+| Se ha actualizado de forma notable la documentación relativa al complemento getPercentPageViewed. | 12 de febrero de 2019 | [https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/getPercentPageViewed.html](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html) |
+| Administración &gt; Configuración de cuenta general | 7 de febrero de 2019 | * El ajuste _Reemplazar el último octeto de direcciones IP por 0_ está habilitado por defecto para cualquier grupo de informes creado en el Centro de datos de Londres a partir de enero de 2019, pero solo si la configuración de los grupos de informes se copia de una plantilla incluida en Admin Console. Los grupos de informes cuya configuración se duplique desde otros grupos de informes heredan toda la configuración del grupo de informes seleccionado.<br/> * El ajuste _Confusión de IP_ ya no está habilitado de forma predeterminada para todos los clientes con un grupo de informes configurado en EMEA. |
+| Números de versión de los navegadores web | 7 de febrero de 2019 | A partir del 8 de enero de 2019, cambiamos el nivel de truncamiento para los números de versión de navegadores web de 2 a 1. A partir de esa fecha, las versiones solo mostrarán los dos primeros niveles (por ejemplo, _Firefox 64.0.2_ ahora aparece como _Firefox 64.0_). |
+| Finalización del servicio de Ad Hoc Analysis | Actualizado el 29 de enero de 2019 | El 6 de agosto de 2018 Adobe anunció su intención de finalizar el servicio de Ad Hoc Analysis. La fecha se hará pública una vez que esté disponible.<br/>Para obtener más información, por ejemplo, las versiones de Java que serán compatibles durante este periodo, visite [Discover Workspace](https://adobe.ly/discoverworkspace). |
+| Vínculos breves a informes de Analytics | 14 de enero de 2019 | A partir del 17 de enero de 2019, todos los vínculos breves a informes de Analytics que no hayan recibido ninguna visita en el plazo de un año se limpiarán y eliminarán de forma gradual. |
+| Finalización de la compatibilidad con TLS 1.0 | Actualizado el 10 de enero de 2019 | A partir del 11 de febrero de 2019, los informes de Adobe Analytics no ofrecerán compatibilidad con el cifrado TLS (Transport Layer Security) 1.0. Este cambio forma parte de nuestros continuos esfuerzos por mantener los estándares de seguridad más elevados y fomentar la protección de los datos de nuestros clientes. Si no puede conectarse a los informes de Adobe Analytics después del 11 de febrero de 2019, debe actualizar el navegador a la versión [más reciente](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> A partir del 20 febrero de 2019, la recopilación de datos de Adobe Analytics dejará de ser compatible con TLS 1.0. Este cambio significa que ya no se recopilarán datos de Analytics de usuarios finales que utilicen dispositivos antiguos o navegadores web incompatibles con TLS 1.1 o versiones posteriores. No esperamos que esto tenga un impacto significativo en los datos de los clientes ni en los informes. (Si el sitio web ya no ofrece compatibilidad con TLS 1.0, usted no se verá afectado). <br/>A partir del 11 de abril de 2019, la API de informes de Adobe Analytics ya no será compatible con el cifrado TLS 1.0. Los clientes que acceden a la API deben verificar que no se verán afectados. <ul><li>Los clientes de API que utilicen Java 7 con la configuración predeterminada deberán realizar [modificaciones para que sea compatible con TLS 1.2](https://www.java.com/en/configure_crypto.html). (Consulte _Cambio de la versión de protocolo TLS predeterminada para puntos finales del cliente: de TLS 1.0 a TLS 1.2_). </li><li>Los clientes de API que usen Java 8 no deberían tener problemas, ya que la configuración predeterminada es TLS 1.2.</li><li> Los clientes de API que usen otros módulos deben ponerse en contacto con su proveedor para obtener más información acerca de la compatibilidad con TLS 1.2.</li></ul> |
+| Actualizar el Report Builder de Adobe debido al fin de la compatibilidad con TLS 1.0 | 7 de septiembre de 2018 | Debido al fin de la compatibilidad con TLS 1.0, recomendamos a los usuarios del Report Builder de Adobe (ARB) que descarguen ARB v. 5.6.21 antes del jueves, 07 de febrero de 2019. **A partir de dicha fecha, las versiones anteriores de ARB dejarán de funcionar.** |
+| Actualizar a descargas de CSV desde Analysis Workspace | 9 de enero de 2019 | A partir del 7 de febrero de 2019, las descargas de CSV (y Copiar en el portapapeles) desde Analysis Workspace ya no incluirán el separador de miles. Nota: La interfaz de usuario de Analysis Workspace seguirá mostrando el separador de miles. Además, el separador decimal se seguirá incluyendo y se atenderá al formato definido en **[!UICONTROL Componentes]** &gt; Configuración **[!UICONTROL de informes]** &gt; **[!UICONTROL Separador de miles]**. |
+| Fuentes de datos: cambio de tamaño de la columna post_product_list | 9 de enero de 2019 | El 7 de febrero de 2019, Adobe tiene previsto aumentar el tamaño de la columna post_product_list de 64 KB a 16 MB. El objetivo de este cambio es garantizar que los valores eVar de merchandising añadidos a post_product_list durante el procesamiento no provoquen un truncamiento de los valores de los ingresos y el producto. Si tiene procesos que consumen valores de post_product_list, compruebe que dichos procesos puedan gestionar valores de hasta 16 MB de longitud; de lo contrario, el valor se truncará a los 16 KB para evitar fallos producidos por el consumo de datos. |
+| Cambios de administración que afectan a puntos finales inactivos de Stream en directo de Analytics | 20 de diciembre de 2018 | A partir del 1 de febrero de 2019, puede que se deshabiliten los puntos finales de Stream en directo que no tengan conexiones activas de consumidores durante 90 días. Puede comunicarse con el Servicio de atención al cliente de para consultar sobre sus puntos finales de Stream en directo y, si es necesario, solicitar que los vuelvan a habilitar. Además, asegúrese de que los procesos de consumidores mantengan una conexión persistente, tal como se pretende desde el diseño del servicio, y que se implementen para reconectar cuando se desconecte o interrumpa la conexión. |
+| Migración del servidor Dallas FTP (ftp2.omniture.com) | 19 de octubre de 2018 | Si el 23 de octubre de 2018 se conecta a ftp2.omniture.com mediante el protocolo SFTP, es posible que deba volver a aceptar el identificador de host del sitio SJ1. Este problema solo se dará el 23 de octubre. Consulte [Actualización de servidores FTP de Adobe](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/ftp_upgrade.html). |
+| Actualización en la dimensión Dispositivo móvil | 16 de octubre de 2018 | El 26 de septiembre, Adobe actualizó la búsqueda de dispositivos a la API 2.1 de Device Atlas. Como resultado, en la dimensión Dispositivo móvil de algunos navegadores aparecieron dispositivos más detallados (p. ej., Apple iPhone 7, Apple iPhone 8 Plus, etc.). Este nuevo nivel de detalle debe usarse de forma direccional, ya que actualmente no se extiende a todos los dispositivos y navegadores. |
+| Fin de la compatibilidad con Internet Explorer 11 | 12 de septiembre de 2018 | El 13 de noviembre de 2018, Adobe dejará de admitir Internet Explorer 11 en Adobe Analytics. Cambie a Microsoft Edge o a otro navegador compatible en cuanto pueda. |
+| Finalización del servicio de Ad Hoc Analysis | 9 de agosto de 2018 | El 6 de agosto de 2018 Adobe anunció su intención de finalizar el servicio de Ad Hoc Analysis. La fecha se hará pública una vez que esté disponible. Para obtener más información, consulte [Descubrir Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). No modificaremos [!UICONTROL Análisis específicos] para admitir Java 9 + desde este punto hacia adelante. Si actualiza a Java 9 +, [!UICONTROL los análisis] específicos dejarán de funcionar. Solo se admitirá Java 8. |
+| Actualizar el [!UICONTROL Report Builder] de Adobe debido al fin de la compatibilidad con TLS 1.0 | 7 de septiembre de 2018 | Debido al fin de la compatibilidad con TLS 1.0, recomendamos a los usuarios de [!UICONTROL Report Builder] (ARB) que descarguen ARB v5.6.21 antes de febrero de 2019. Después de esta fecha, las versiones anteriores de ARB dejarán de funcionar. |
+| Nueva ayuda para la migración de usuario de Analytics | 10 de mayo de 2018 | Actualizamos la ayuda para la migración del ID de usuario de Analytics con información sobre la migración de los Enterprise y Federated IDs a Admin Console. Vea [Migrar las cuentas de usuario de Analytics para los Enterprise y Federated IDs](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/migrate-enterprise.html). |
+| Próxima eliminación del informe Actividad de la cuenta | 10 de mayo de 2018 | El informe Actividad de la cuenta se reemplazará con la función Uso de llamadas al servidor en el lanzamiento de verano de Adobe Analytics. El informe Actividad de la cuenta se eliminará de forma permanente el 9 de agosto de 2018. Para ver los datos del resumen sobre el tráfico del grupo de informes después del 9 de agosto de 2018, utilice la función Uso de llamadas al servidor. |
+| Cambios en los modelos de asignación lineal en métricas calculadas | En vigor a partir del 19 de julio de 2018 | El 19 de julio, Adobe Analytics revisará el modo en el que se evalúan los modelos de asignación en las métricas calculadas. Como parte de este cambio, se migrarán las métricas calculadas que usen un modelo de asignación no predeterminado a modelos de asignación nuevos y mejorados. [!UICONTROL Los modelos de asignación de canal de mercadotecnia de último toque] y [!UICONTROL de canal] de marketing se migrarán de forma especativa a nuevos [!UICONTROL modelos de atribución de último toque] y [!UICONTROL de primer toque] . ([!UICONTROL Los canales de marketing no se van a retirar, solo los dos modelos de asignación que aparecen en las métricas calculadas). ] Además, corregiremos el modo en el que se calcula la asignación lineal. Si usa métricas calculadas con modelos de asignación lineal, los informes pueden cambiar ligeramente para reflejar el nuevo modelo de atribución corregido. Este cambio en las métricas calculadas se reflejará en [!UICONTROL Analysis Workspace], [!UICONTROL Informes y análisis], API [!UICONTROL de informes], Creador [!UICONTROL ]de informes y [!UICONTROL Análisis específicos]. Consulte [la documentación de Métricas](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/m_metric_type_alloc.html) calculadas para obtener más información sobre este cambio. |
+| [!UICONTROL ][!UICONTROL Las funcionalidades de detección de anomalías y de análisis de contribución se han eliminado de ]Reports &amp; Analytics.[!UICONTROL ] | 10 de abril de 2018 | La detección de anomalías y el análisis de contribución se han eliminado del conjunto de características Reports &amp; Analytics y ahora solo están disponibles en Analysis Workspace. Los clientes de Adobe Analytics Select and Foundation solo tienen acceso a la detección de anomalías de “granularidad diaria” en Workspace. |
+| Adobe dejará de emitir cookies s_vi de terceros en Safari | 5 de abril de 2018 | El 20 de marzo de 2018, Adobe dejó de emitir cookies s_vi de terceros en el navegador Safari. Este cambio no afecta a los clientes que usan cookies de origen de recopilación de datos. Este cambio también elimina la inflación de visitas y visitantes que experimentaban algunos usuarios como resultado de la ITP de Safari. |
+| Cambios en el back-end que afectan a la creación de informes | 11 de abril de 2018 | Un cambio en el mecanismo de búsqueda (de back-end) afectará a la creación de informes de diversas maneras. Tenga en cuenta que estos cambios entraron en vigor hacia finales de febrero de 2018: Ya no estará permitido cambiar el nombre de las páginas. Ahora, tendrá que usar clasificaciones para cambiar el nombre de las páginas. Hasta la versión del 10 de mayo de 2018, el sistema seguirá procesando las páginas con nombres cambiados tal y como estén configuradas en este momento. Adobe pide a todos los clientes que migren a las clasificaciones antes de esta fecha. Después de la versión de mayo, ya no se aceptarán los cambios de nombre existentes y podrían modificarse, de forma retroactiva, sin previo aviso. <br> <br>La metodología de reemplazo de URL es distinta. Antes, Adobe Analytics almacenaba (en la mayoría de los casos) la primera URL asociada con cada nombre de página todos los meses. Ahora, almacenamos la URL más reciente de cada nombre de página. Actualizado el 11 de abril de 2018 Ya no se facilitan informes de categoría para obtener resúmenes ni datos actuales en Reports &amp; Analytics. La categoría de informes de resumen de la API del servicio web quedará obsoleta a partir del 10 de mayo de 2018, fecha de la versión de mantenimiento de Adobe Analytics. Ya no se ofrece soporte para los datos de páginas o propiedades anteriores a enero de 2007 (en algunos casos, de 2006). Esto solo afecta a las páginas, los accesorios y los eventos de página (por ejemplo, los enlaces personalizados, de salida y de descarga). Nota: Este cambio no afecta a la creación de informes en Analysis Workspace ni Data Warehouse. Si tiene datos anteriores a estas fechas, espere lo siguiente: Los datos no se combinarán correctamente en los límites anteriores/posteriores al lanzamiento de enero de 2007. Las búsquedas de datos anteriores a enero de 2007 no funcionarán. |
+| Próximos cambios de soporte para las clasificaciones numéricas y con fecha habilitada | 7 de mayo de 2018 | En la actualización de mantenimiento del 10 de mayo de 2018, se empezará a limitar la funcionalidad de las clasificaciones numéricas y con fecha habilitada. Estos tipos de clasificaciones se eliminarán de las interfaces del Administrador y del Importador de clasificaciones. A partir de esta fecha, no se podrá añadir ninguna clasificación numérica ni con fecha habilitada. Las clasificaciones existentes se podrán seguir administrando (cargando y eliminando) a través del flujo de trabajo de clasificación estándar y permanecerán disponibles en los informes. |
+| Próximos cambios de soporte para Coste y presupuesto de canal de marketing | 28 de febrero de 2018 | En la versión de mantenimiento de abril, se eliminará Costo y presupuesto de canal de mercadotecnia del menú Administrador &gt; Canal de mercadotecnia. No se podrán añadir nuevos datos de costo y presupuesto. Los datos de costo y presupuesto existentes estarán disponibles en los informes, pero no se podrán actualizar. |
+| Actualice el Report Builder antes de migrar los ID de usuario a Admin Console | 17 de marzo de 2018 | **Importante:** Actualice el Creador de informes a la versión más reciente. A partir del mes de abril de 2018, esta actualización será un requisito previo para poder llevar a cabo la migración de los ID de usuario de Analytics a Admin Console. |
+| Code Manager: Legacy H Code | 8 de febrero de 2018 | La descarga del JavaScript heredado (H code) desde Code Manager ya no es compatible. |
+| Retención de datos: comprobar y establecer una directiva de retención de datos para Adobe Analytics | 1 de febrero de 2018 | **Fondo:** El Reglamento general de protección de datos (RGPD) de la Unión Europea, que se aplica a partir del 25 de mayo de 2018, estipula que Adobe, en su función de procesador de datos, debe tomar las medidas apropiadas para ayudar a sus clientes a cumplir las solicitudes de acceso, eliminación y otras solicitudes de los individuos. La aplicación de directivas de eliminación adecuadas, seguras y regulares es una parte importante para cumplir con esta obligación. Por lo tanto, Adobe quiere trabajar con usted para implementar una directiva de retención de datos antes de que el RGPD entre en vigor el 25 de mayo de 2018.<br> <br>**Qué esperar:** A menos que ya tenga una directiva de retención de datos de Adobe Analytics, Adobe empezará a aplicar la retención de datos según se especifica en los contratos de cliente para Adobe Analytics, a menos que se realicen otras acciones. La mayoría de contratos de Adobe Analytics estipulan que Adobe puede eliminar los datos pasados 25 meses. Una vez establecida la directiva de retención de datos en la organización, deberá cumplirse todos los meses. La retención de datos durante períodos superiores a los 25 meses tiene un coste adicional. Para configurar períodos de retención de datos más cortos, póngase en contacto con el servicio de atención al cliente. Próximamente recibirá un correo electrónico con más información para su organización. <br> <br>La retención de datos influye en todos los métodos para acceder a los datos del historial de Adobe Analytics, que incluyen, entre otros, Reports &amp; Analytics, Analysis Workspace, el Report Builder, las API de informes de servicios web, Data Warehouse y los canales de datos. **Pasos siguientes:** Identifique las partes interesadas de la organización responsables de tomar decisiones sobre la retención de datos. Su organización dispone de más información para saber cuál es el período durante el que conviene retener los datos de Adobe Analytics. Si tiene alguna pregunta relacionada con la retención de datos de Adobe Analytics, póngase en contacto con el responsable de satisfacción del cliente de Adobe. |
+| Vinculación de cuentas de usuario | 26 de octubre de 2017 | Los usuarios de Analytics ya no tienen que vincular manualmente sus cuentas entre Experience Cloud y Analytics. Los usuarios se pueden comunicar con el administrador de la Admin Console para solicitar el acceso a Analytics. La migración de ID de usuarios de Analytics permite a los administradores migrar fácilmente las cuentas de usuario de Administración de usuarios de Analytics a Admin Console de Adobe. Una vez completada la migración, los usuarios podrán acceder a las soluciones y los servicios principales adquiridos disponibles en Experience Cloud. [Obtenga más información sobre la migración de ID de usuarios de Analytics](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
+
+## Audience Manager {#aam}
+
+| Función | Descripción |
+| -----------| ---------- |  
+| [Trait Recommendations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | Trait Recommendations, impulsado por [Adobe Sensei](https://www.adobe.com/sensei.html), lleva la ciencia de los datos a los flujos de trabajo diarios del Audience Manager. <br>Con Trait Recommendations, al crear o editar un segmento en [Generador de segmentos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html), se obtienen recomendaciones sobre las características adicionales que puede incluir que son similares a las características de la regla de segmento. Añada las características recomendadas al segmento para aumentar la audiencia objetivo. |
+| [Fuentes de datos globales](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) | Todos los clientes de Audience Manager pueden acceder a las fuentes de datos globales y contienen identificadores publicitarios de dispositivo generados por fabricantes como Apple, Samsung, Microsoft, Roku y Android. Los fabricantes generan estos ID con fines publicitarios. Puede utilizar fuentes de datos globales para sincronizar los ID de dispositivo e importar o exportar datos desactivados de esas asignaciones. Audience Manager valida los ID publicitarios de dispositivo (DAID) importados por los clientes según su formato para asegurarse de que coinciden con el formato estándar de los fabricantes de dispositivos. |
+| [Límites de asignación de ID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/usage-limits.html#id-mapping-limits) | Hemos mejorado la segmentación, los informes y la exportación de segmentos mediante la limitación del número de asignaciones de ID de dispositivos cruzados asociadas a un ID de dispositivo. Los nuevos límites impuestos nos permiten reducir el impacto que las integraciones incorrectas y los conjuntos de datos inexactos pueden tener en su incorporación y procesamiento. <br/> Los nuevos límites son: <ul><li>100 ID de dispositivo por ID de dispositivo cruzado</li><li>10 ID de dispositivos cruzados por ID de dispositivo</li><li>1000 ID de dispositivo a un ID de dispositivo</li></ul> |
+
+### Mejoras
+
+* Ahora los usuarios ven un mensaje de error cuando intentan crear un [!UICONTROL modelo algorítmico] usando como línea de base un tipo diferente de basado en reglas, segmento o entrada. El mensaje de error es el siguiente: “Solo se pueden utilizar como referencia los rasgos basados en reglas, los rasgos incorporados y los segmentos”. (AAM-45235).
+* La métrica [!UICONTROL Duración] se ha eliminado de las páginas [!UICONTROL Características] y [!UICONTROL Características] de carpeta.
+* Las fechas de inicio y finalización de la asignación de segmentos ahora se incluyen en el [!UICONTROL Informe general de destinos] (AAM-44997).
+
+### Correcciones
+
+* Se ha corregido un problema que hacía que el Informe de historial de archivos [!UICONTROL salientes] no se cargara en algunas situaciones (AAM -45713).
+* Se ha corregido un problema que hacía que se agregara al [!UICONTROL Generador] de segmentos el rasgo seleccionado anteriormente al hacer clic [!UICONTROL en Agregar característica] en un campo vacío (AAM -45599).
+* Se ha corregido un problema que impedía que los usuarios editaran o desactivaran modelos algorítmicos que contuvieran rasgos excluidos (AAM-45552).
+
+## Advertising Cloud {#adcloud}
+
+Actualización el 15 de abril de 2019 para la versión del 13 de abril
+
+| Función | Descripción |
+| -----------| ---------- | 
+| Buscar campañas | En el selector de intervalo de fechas, el calendario se organiza de domingo a sábado. Anteriormente, se organizaba de domingo a sábado. |
+| Informes | El informe Portafolio ahora incluye la columna opcional de gastos __de portfolio de portafolios. |
+
+La ayuda de Advertising Cloud se encuentra disponible en el producto, en el icono **? de la Ayuda.** Todas las aplicaciones.
+
+## Target {#target}
+
+Notas de la versión de las siguientes próximas versiones de Adobe Target:
+
+### Target Standard/Premium 19.4.1 (15 de abril de 2019)
+
+Esta es una versión de mantenimiento e incluye el siguiente cambio:
+
+(Los números entre paréntesis son para uso interno de Adobe).
+
+* Se ha actualizado la interfaz de usuario de Adobe Experience Cloud para reflejar los cambios en las marcas y productos. (TGT-33546, TGT-33272 y TGT-33331)
+
+### Target Standard/Premium 19.4.2 (29 de abril de 2019)
+
+Esta versión incluye las siguientes funcionalidades, cambios y mejoras:
+
+(Los números entre paréntesis son para uso interno de Adobe).
+
+| Función | Descripción |
+| -----------| ---------- |  
+| Compositor de experiencias visuales (VEC) | El Compositor de experiencias visuales (VEC) para aplicaciones móviles nativas le permite crear actividades y personalizar contenido en aplicaciones móviles nativas por su cuenta, sin las continuas dependencias y los ciclos de lanzamiento de aplicaciones de un desarrollo. |
+| Compositor de experiencias visuales (VEC) | El Compositor de experiencias visuales (VEC) incluye las siguientes mejoras para que su trabajo sea más fácil y eficiente: <ul><li>Puede editar el estilo de un elemento en el VEC, incluida la imagen de fondo. (TGT-15001)</li><li>Target es compatible con HTML5 mediante configuraciones en la versión 4.5.1 o posterior. (TGT-33618)</li></ul> |
+
+**Mejoras, correcciones y cambios**
+
+* Hemos mejorado el flujo de trabajo de eliminación de recursos con el VEC. Los recursos eliminados ahora se eliminan de la biblioteca Ofertas y de Scene 7 (si corresponde) Ya no se muestran los recursos eliminados en los resultados de búsqueda. (TGT-31981)
+* Hemos mejorado la representación de ofertas de imagen en el Selector de recursos. Ahora, mostrar y seleccionar ofertas de imagen es más rápido y eficaz. (TGT-32897)
+* Se ha mejorado la gestión de las redirecciones a las URL cuando se cancela la carga de una página dentro del VEC. (TGT-33815)
+* Los iconos de la barra de herramientas se muestran correctamente después de cancelar la carga de una página dentro del VEC. Si no se pueden realizar acciones específicas hasta que la página se haya cargado por completo, los iconos de la barra de herramientas asociados se desactivan. (TGT-33811)
+* Después de seleccionar una colección de Recommendations en el Selector de colecciones, debe hacer clic en el botón Guardar. Este flujo de trabajo es coherente respecto a otros flujos de trabajo dentro de Target. (TGT-33205)
+
+Consulte las [Notas de la versión de Adobe Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) para obtener la información más reciente acerca de los siguientes productos:
+
+* Target Standard y Premium
+* Recommendations Classic
+
+
+
+## Experience Manager {#aem}
+
+Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AEM). Adobe recomienda a los clientes con implementaciones locales implementar los parches más recientes para garantizar una mayor estabilidad, seguridad y rendimiento.
+
+### Versiones de productos
+
+**Cloud Manager 2019.3.0**
+
+La versión de este mes de Cloud Manager (2019.3.0) incorpora informes de SLA a la función de Supervisión del sistema que se incluyó en la última versión. También se ha añadido una actualización visual de algunas pantallas clave.
+
+* [Notas de la versión](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+
+### Mantenimiento del producto
+
+**AEM 6.2 Service Pack 1: paquete 19 de correcciones acumulativas**
+
+AEM 6.2 SP1-CFP19 (6.2.1.19), publicado el 07 de marzo de 2019, es una actualización importante que incluye correcciones clave de cliente realizadas tras la disponibilidad general de AEM 6.2 SP1 en diciembre de 2016.
+
+* [Notas de la versión](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+**AEM 6.3 Service Pack 3: paquete 3 de correcciones acumulativas**
+
+AEM 6.3 SP 3-CFP 3 (6.3.3.3), publicado el 14 de marzo de 2019, es una actualización importante que incluye al cliente clave publicado tras la disponibilidad general de AEM 6.3 en abril de 2017.
+
+* [Notas de la versión](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+* [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+### Recursos adicionales
+
+* [Página de inicio de Información y asistencia de AEM 6.4](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [Página de inicio de Información y asistencia de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [Página de inicio de Información y asistencia de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Notas de la versión de Scene7 Publishing System](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
