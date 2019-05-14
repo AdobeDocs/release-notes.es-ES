@@ -11,7 +11,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriales
 tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 mini-toc-levels: '1'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
 
 ---
