@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Mayo de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3be54c2a7d063c6ebc9c0535efd6712abada071d
+source-git-commit: c5d973e002c607c1b9b7422c9d3abaa9c827a000
 
 ---
 
@@ -20,7 +20,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 **Fecha de la versión: Mayo de 2019**
 
-* [Plataforma de experiencia](#platform)
+* [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -30,21 +30,25 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Magento](#magento)
 * [Primetime](#primetime)
 
-## Plataforma de experiencia {#platform}
+## Adobe Experience Platform {#platform}
 
-Notas de la versión de la plataforma Experience Cloud, incluida Administración, Activación (Launch Platform Launch), Servicio ID, Recursos, Ofertas y Personas.
+### Notas de la versión de Adobe Experience Platform
 
-### Launch Platform Launch
+Versión 1.0, 15 de mayo de 2019
+
+* Consulte [las notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) en Adobe. io para obtener las últimas actualizaciones de la plataforma de experiencia.
+
+### Experience Platform Launch
 
 * Consulte [Launch Platform Launch](https://docs.adobelaunch.com/) para obtener la información más reciente.
 
 ### Servicio Experience Cloud ID
 
-Lanzamiento **del 13 de mayo de 2019**
+Publicado **el 13 de mayo de 2019**
 
-* Compatibilidad con la API de visitante 4.3.0
-* Compatibilidad de ITP 2.1.
-* Se ha corregido un problema con la configuración de securecapokie.
+* Compatibilidad con el Visitante API 4.3.0
+* Compatibilidad con ITP 2.1.
+* Se ha corregido un problema con la configuración de secureCookie.
 
 ## Analytics {#analytics}
 
@@ -65,10 +69,10 @@ Para obtener la documentación del producto, consulte la [Página principal de a
 
 **Correcciones de Analysis Workspace**
 
-* Se corrigió el problema que afectaba al tiempo empleado en la página. Los informes del espacio de trabajo ya no utilizarán el nombre de la página cuando calculen los bloques de tiempo empleado, lo cual permite contar las visitas granulares y en bloque. (AN-140479)
-* Se solucionaron los problemas de rendimiento de visualización de líneas como parte de un esfuerzo mayor para mejorar el rendimiento del espacio de trabajo. (AN-174878)
+* Se corrigió el problema que afectaba al tiempo empleado en la página. Los informes del Workspace ya no utilizarán el nombre de la página cuando calculen los bloques de tiempo empleado, lo cual permite contar las visitas granulares y en bloque. (AN-140479)
+* Se solucionaron los problemas de rendimiento de visualización de líneas como parte de un esfuerzo mayor para mejorar el rendimiento del Workspace. (AN-174878)
 * Se corrigió un problema con la falta de codificación UTF-8 en los archivos CSV descargados. (AN-178393)
-* Se corrigieron problemas debidos al rendimiento lento del proyecto del espacio de trabajo. (AN-177710)
+* Se corrigieron problemas debidos al rendimiento lento del proyecto del Workspace. (AN-177710)
 * Se corrigieron problemas de muestra de visualización de líneas con intervalos pequeños en la granularidad del eje y. (AN-176467)
 
 **Otras correcciones de Analytics**
@@ -189,7 +193,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * Campaign Classic 18.10.4 - compilación 8983
 * Campaign Classic 18.10.5 - compilación 8984
 
-Consulte [las Notas de la versión de Adobe Campaign Classic](http://docs.campaign.adobe.com/doc/AC/en/RN.html) para saber más sobre las correcciones y mejoras.
+Consulte las [Notas de la versión de Adobe Campaign Classic](http://docs.campaign.adobe.com/doc/AC/en/RN.html) para saber más sobre las correcciones y mejoras.
 
 Para obtener información del producto, consulte:
 
