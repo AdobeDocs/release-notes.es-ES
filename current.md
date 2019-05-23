@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Mayo de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: eb567f2f7b740c2fab9b95540cfdf240cf1f6955
+source-git-commit: 016a4a630f4f26be8322a008bb214db9dba9a49a
 
 ---
 
