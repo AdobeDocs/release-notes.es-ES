@@ -2,16 +2,16 @@
 cloud: experience-cloud
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/es/support/experience-cloud.html
-solution-icon: assets/experience-cloud-logo-24.png
-getting-started-title: Experience League
+solution-icon: assets/assets/experience-cloud-logo-24.png
+getting-started-title: Primeros pasos
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriales
 tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
-index: false
-translation-type: ht
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+index: true
+translation-type: tm+mt
+source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
 
 ---
 
@@ -22,7 +22,7 @@ El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a la 
 
 | metadatos | qué hace |
 |--- |--- |
-| solución-título | Se utiliza como vínculo en el encabezado del artículo |
+| solución-título | Se utiliza como vínculo en el encabezado del artículo. Manténgalo corto. |
 | solución-hub-url | Abre la página helpx hub |
 | solución-icono | Muestra el icono de la solución junto al título de la solución. Aún no se ha implementado |
 | Inicio-título | Apenas se utiliza, no es adecuado para los Tutoriales |
