@@ -1,31 +1,35 @@
 ---
 title: Notas de la versión de Adobe Experience Cloud
-description: Plantilla para notas de la versión de Experience Cloud
+description: Notas de la versión de Experience Cloud de junio de 2019
 doc-type: notas de la versión
-last-update: Mayo de 2019
+last-update: Junio de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c8db350233cea9b83993e4723601b01a8e301f87
+source-git-commit: 1f156e4fcbd0d39b27f2c254e2117ad2e4e0b793
 
 ---
 
 
-# Notas de la versión de Adobe Experience Cloud
+# Acceso anticipado: Notas de la versión de Adobe Experience Cloud
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
+
+>[!IMPORTANT]
+>Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeto a cambios antes de su publicación planificada.
 
 >[!NOTE]
 >Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones. Recibirá el aviso entre tres y cinco días laborables antes del lanzamiento de la versión. La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
 
-**Fecha de la versión: Mayo de 2019**
+**Fecha de la versión: Junio de 2019**
 
 * [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
+* [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
-* [Target Standard/Premium 19.5.1](#target)
+* [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
 * [Primetime](#primetime)
 
@@ -33,21 +37,11 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 ### Notas de la versión de Adobe Experience Platform
 
-Versión 1.0, 15 de mayo de 2019
-
 * Consulte [las notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) en Adobe. io para obtener las últimas actualizaciones de la plataforma de experiencia.
 
 ### Experience Platform Launch
 
 * Consulte [Launch Platform Launch](https://docs.adobelaunch.com/) para obtener la información más reciente.
-
-### Servicio Experience Cloud ID
-
-Publicado **el 13 de mayo de 2019**
-
-* Compatibilidad con el Visitante API 4.3.0
-* Compatibilidad con ITP 2.1.
-* Se ha corregido un problema con la configuración de secureCookie.
 
 ## Analytics {#analytics}
 
@@ -62,31 +56,31 @@ Para obtener la documentación del producto, consulte la [Página principal de a
 
 | Función | Descripción |
 | -----------| ---------- |  
-| [!DNL AppMeasurement Version 2.14.0] <ul><li>Se han corregido problemas con la administración del estado de los parámetros de rastreador cuando hay varias visitas pendientes. (AN -176931, AN -176629, DTM -12758)</li><li>Appmeasurement actualizado para incluir Visitor. js 4.3.0 (AN -180049)</li></ul> |
-| [!DNL Analysis Workspace]: Nueva configuración de visualización de flujo para _incluir instancias repetidas_ | La configuración de flujo para _Incluir instancias repetidas_ le proporciona la opción de incluir o excluir instancias repetidas, como las recargas de página. Además, todas las visualizaciones de flujo se basan solamente en instancias. |
-| [!DNL Ad Hoc Analysis]: Compatibilidad con Java 11 | Ad Hoc Analysis ahora es compatible con Java 11. Aprenda a ejecutar [Análisis específicos en Java 11](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html). |
-| **Recopilación de datos:** Nueva cookie s_ ecid | Se ha añadido una nueva cookie de servidor individual, s_ecid, en la cual la recopilación de datos almacena el ECID del visitante. |
+| **Segmentación** | Nuevos modelos de atribución para dimensiones en segmentación:<ul><li>Repetición (predeterminada): Incluye instancias + valores persistentes para la dimensión.</li><li>Instancia: Incluye instancias para la dimensión.</li><li>Instancia no repetida: Incluye instancias únicas (no repetitivas) para la dimensión.</li></ul> |
+| **Segmentación** | Nuevos operadores de segmentos: **[!UICONTROL Es igual a Cualquiera de]** y **[!UICONTROL no es igual a ninguno de]**. |
+| **Depurador** | Ahora, al iniciar sesión con su Adobe ID, tiene la opción de recuperar las visitas posprocesadas en Experience Cloud Debugger. Las visitas posprocesadas son llamadas al servidor después de haber pasado por [!UICONTROL reglas de procesamiento] y reglas de VISTA, lo que permite validar [!UICONTROL reglas de procesamiento] y sus reglas VISTA. **Nota**: Si utiliza A 4 T (complementos), los datos posteriores al procesamiento pueden tardar unos minutos en remontarse. |
+| **Analysis Workspace:** | Se han agregado nuevos filtros predeterminados a la búsqueda de carril izquierdo. Más allá de lo que ve hoy (Dimensiones, Métricas, Aprobado, etc.), nuevos filtros como Métricas calculadas, Atributos del cliente, evars, Props, Vídeo, etc. se agregó para facilitar la búsqueda de los componentes que necesita. |
 
 **Correcciones de Analysis Workspace**
 
-* Se corrigió el problema que afectaba **[!UICONTROL al tiempo empleado en la página]**. [!DNL Analysis Workspace]Los informes del ya no utilizarán el nombre de la página cuando calculen los bloques de tiempo empleado, lo cual permite contar las visitas granulares y en bloque. **[!UICONTROL ]****[!UICONTROL ]** (AN-140479)
-* Los problemas de rendimiento de visualización de líneas fijas como parte de un esfuerzo mayor por mejorar [!DNL Analysis Workspace] el rendimiento. (AN-174878)
-* Se corrigió un problema con la falta de codificación UTF-8 en los archivos CSV descargados. (AN-178393)
-* Se han corregido problemas con el lento [!DNL Analysis Workspace] rendimiento del proyecto. (AN-177710)
-* Se corrigieron problemas de muestra de visualización de líneas con intervalos pequeños en la granularidad del eje y. (AN-176467)
+* Se ha corregido un problema con la información localizada de fecha japonesa en [!DNL Analysis Workspace] las visualizaciones. (AN-180114)
+* Se ha corregido un problema que se producía tras copiar y pegar elementos de dimensión. Las búsquedas subsiguientes en el elemento generaban un error. (AN-177394)
+* Se ha corregido un problema con la opción de edición que faltaba en los paneles de segmentos en tablas improvisadas. (AN-171703)
+* Se ha corregido un problema con **[!UICONTROL Establecer como página]** de aterrizaje que no funcionaba cuando se compartía con un gran conjunto de destinatarios. (AN-163922)
+* Se ha corregido un problema que hacía que las cadenas se recortaran verticalmente en informes en tiempo real. (AN-175980)
 
 **Otras correcciones de Analytics**
 
-* [!DNL Audience Analytics]: Se ha corregido un problema que se producía después de cambiar el nombre de una audiencia [!DNL Audience Manager (AAM)] ; el nombre actualizado no se reflejaba en Audience Analytics. (AN-176237)
-* Se ha corregido un problema que impedía que los usuarios guardaran [! Segmentos DNL Analytics en [!DNL Audience Manager]. Esto se originó en las carpetas AAM existentes con nombres que usaban tanto mayúsculas como minúsculas. Ahora ninguna carpeta hace la distinción entre mayúsculas y minúsculas con el fin de que se sincronicen correctamente. (AN-177934)
-* Se ha corregido un problema que se producía cuando los usuarios iniciaban sesión a [!DNL Analytics] través de la [!DNL Experience Cloud] sesión y después se agotaba el tiempo de espera de la sesión. Al reanudar la sesión, se redirigía al usuario a una URL defectuosa. (AN-176812)
-* Se ha corregido un problema con desplazamientos de zona horaria en [!DNL Data Warehouse] solicitudes. (AN-177585)
+* Se ha corregido un problema por el que los usuarios administradores no podían habilitar **[!UICONTROL eventos de éxito]**. (AN-176689)
+* Se ha corregido un problema que se producía al crear una alerta con la métrica **[!UICONTROL Tasa]** de salida. (AN-177476)
 
 ### Avisos importantes para los administradores de Analytics {#aa-notices}
 
 | Aviso | Fecha de incorporación  o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Próximos cambios de soporte para **[!UICONTROL clasificaciones numéricas]** y **[!UICONTROL con fecha 2 habilitada]** | Actualizado 28 de mayo de 2019 | La capacidad para importar clasificaciones numéricas 2 y habilitadas por fecha se eliminará del código base. Este cambio tendrá efecto con la versión de mantenimiento de julio de 2019. Si tiene columnas numéricas o con fecha habilitada en el archivo de importación, esas celdas serán omitidas sin aviso y cualquier otra información de ese archivo se importará como de costumbre. <br/>Las clasificaciones existentes se pueden exportar a través del flujo de trabajo de clasificación estándar y seguirán estando disponibles en los informes. |
+| Límites del generador de reglas de clasificación | Se agregó el 5 de junio de 2019. | Estos límites no son nuevos, pero se han agregado a la documentación [aquí](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
+| Nuevos límites de operadores de segmentos | Se agregó el 31 de mayo de 2019. | A partir del 18 de julio de 2019, los operadores de segmentos &quot;contiene cualquiera de&quot;, &quot;no contiene ninguno de&quot;, &quot;contiene todo&quot; y &quot;no contiene todos&quot; se limita a 100 palabras por campo de entrada. El límite se aplicará a todos los segmentos nuevos y modificados después de esta fecha. Los segmentos existentes que excedan el límite seguirán siendo compatibles, pero no se podrán modificar ni guardar hasta que se reduzca el campo de entrada. Estos límites se aplican como parte de un esfuerzo continuo por mejorar el rendimiento de la consulta. |
+| Próximos cambios de soporte para **[!UICONTROL clasificaciones numéricas]** y **[!UICONTROL con fecha 2 habilitada]** | Actualizado 28 de mayo de 2019 | Se ha eliminado de la base de código la posibilidad de importar clasificaciones numéricas 2 y fechas activadas. Este cambio tendrá efecto con la versión de mantenimiento de julio de 2019. Si tiene columnas numéricas o con fecha habilitada en el archivo de importación, esas celdas serán omitidas sin aviso y cualquier otra información de ese archivo se importará como de costumbre. <br/>Las clasificaciones existentes se pueden exportar a través del flujo de trabajo de clasificación estándar y seguirán estando disponibles en los informes. |
 | Futuros cambios en los cálculos _Total de informes_ | Actualizado 2 de mayo de 2019 | El **13 de junio de 2019**, Adobe Analytics unificará los cálculos _Total de informes_ en todas sus dimensiones y métricas. Por tanto, se cambiarán los totales de algunos informes (Prop o informes de atributos del consumidor) Antes de este cambio, algunos totales de informes no incluían el elemento de línea _Sin especificar_ en el total, independientemente de si el valor _Sin especificar_ aparecía en el informe o no. <br/>A partir del 13 de junio de 2019, el valor _Sin especificar_ aparecerá siempre en el total de los informes, aunque no aparezca en él como un elemento de línea. Además, los segmentos que utilizan la lógica _existe_ o _no existe_ pueden obtener unos resultados diferentes para algunas dimensiones después de este cambio. Este cambio afectará a Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder y a la API de informes. |
 | Actualizar a descargas CSV desde [!DNL Analysis Workspace] | 10 de abril de 2019 | A partir del 11 de abril de 2019, se realizaron varios cambios en **[!UICONTROL las descargas]** de CSV (y **[!UICONTORL Copiar al portapapeles]**) para [!DNL Analysis Workspace] eliminar el formato de los datos exportados.  <ul><li>El separador de miles ya no se incluye. Se seguirá incluyendo el separador decimal y se respetará el formato definido dentro de **[!UICONTROL Componentes &gt; Configuración de informes &gt; Separador de miles]**. Nota: Los valores numéricos que utilizan una coma como separador decimal seguirán citados en el CSV exportado.</li><li>No se mostrarán símbolos de moneda.</li><li>No se mostrarán símbolos de porcentajes. Los porcentajes estarán en formato decimal. Por ejemplo, 75 % estará representado como 0,75.</li><li>El tiempo se mostrará en segundos.</li><li>Las tablas de cohorte muestran solo valores sin procesar; se eliminan los porcentajes.</li><li>Si un número no es válido, se mostrará una celda vacía.</li></ul> |
 | Próximo cambio al [!DNL Analysis Workspace] depurador, comando | 4 de abril de 2019 | El comando Console to turn on the [!DNL Analysis Workspace] Debugger está cambiando a adobetools. debug. includeoberonxml el 13 de **junio de 2019**. adobe.tools.debug.includeOberonXml dejará de funcionar a partir de esa fecha. |
@@ -100,14 +94,17 @@ Para obtener la documentación del producto, consulte la [Página principal de a
 
 ## Audience Manager {#aam}
 
-| Función | Descripción |
-| -----------| ---------- |  
-| [Complicación de la dirección IP](https://marketing.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) | Es posible que su empresa desee complicar la dirección IP en muchos países debido a las normativas de privacidad globales. Audience Manager le permite complicar las direcciones IP de los visitantes en forma global o por país. |
-| [Personalización de integraciones de socio - Nube de datos de Oracle](https://marketing.adobe.com/resources/help/en_US/aam/custom-partner-integrations.html) | Esta página muestra las integraciones personalizadas entre Audience Manager y los socios de datos. Audience Manager ingesta la cookie y los datos de ID móviles de la nube de datos de Orale para Audience Marketplace a través de archivos de datos entrantes. Las especificaciones de integración personalizadas descritas en esta página solo se refieren a los archivos de datos entrantes que contienen ID de móviles (IDFA y Android Device ID). |
-
 **Correcciones, mejoras y casos de finalización del soporte**
 
-* Hemos añadido dos nuevas columnas a los informes generales de los destinos. Ahora puede ver la Fecha de inicio y la fecha final de una asignación de segmento a un destino. (AAM-44781)
+* Audience Manager solo cuenta los modelos algorítmicos activos con el límite de uso.
+* Se ha resuelto un problema que hacía que el alcance del modelo algorítmico no se mostrara para características que usan el modelo correspondiente.
+* Se ha resuelto un problema que provocaba que el contenido de las carpetas de características no se mostrara, y que los nombres de carpetas contenían paréntesis y/o corchetes.
+* Se ha resuelto un problema que provocaba que fallara la ordenación de rasgos al seleccionar solo un tipo de características.
+* Se ha resuelto un problema que provocaba que el árbol de carpetas de rasgos se contraiga a la vista [!UICONTROL Todas las características] cada vez que creaba o actualizaba una nueva subcarpeta.
+* Se ha resuelto un problema que hacía que se requiriera el permiso VIEW_ DATASOURCES al intentar eliminar un socio.
+* Se ha resuelto un problema que hacía que [!UICONTROL el] cuadro Buscar de [!UICONTROL la] página Segmentos realizara búsquedas en todas las carpetas en lugar de en la seleccionada.
+* Se ha resuelto un problema que impedía que la tabla [!UICONTROL Excluir características] se ordenara por los controles del encabezado al crear un nuevo modelo algorítmico.
+* Se ha resuelto un problema que provocaba que Audience Manager se bloqueara al ejecutar cualquier informe con fechas de intervalo vacío.
 
 ## Experience Manager {#aem}
 
@@ -115,45 +112,95 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
 ### Versiones de productos
 
-**AEM 6.5**
+**Cloud Manager 2019.5.0**
 
-AEM 6.5, disponible desde el 8 de abril de 2019, es una versión de actualización del código de AEM 6.4. Las actualizaciones más recientes de AEM 6.5 le proporcionan un acceso instantáneo a las atractivas mejoras que impulsan su actividad empresarial todavía más rápidamente.
+La versión más reciente de Cloud Manager (2019.5.0) no contiene cambios funcionales significativos aunque ofrece un par de correcciones de errores.
 
-* [Novedades de Adobe Experience Manager 6.5](https://www.adobe.com/marketing/experience-manager/new.html)
-* [Notas de la versión de Adobe Experience Manager 6.5](https://helpx.adobe.com/experience-manager/6-5/release-notes.html)
+* [Notas de la versión para Cloud Manager 2019.5.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-**Cloud Manager 2019.4.0**
+**Documentación XML para AEM**
 
-La versión más reciente de Cloud Manager (2019.4.0 publicada el 18 de abril de 2019) añade una interfaz de usuario localizada en francés, alemán y japonés. Además, se han mejorado los pasos de implementación.
+Ya está disponible la versión 3.3 para la solución Documentación XML. Consulte las siguientes notas de la versión:
 
-* [Notas de la versión para Cloud Manager 2019.4.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+***Funciones de mapa avanzado***
+* Agregue referencias de tema mediante la función de arrastrar y soltar desde la vista del repositorio o utilizando la barra horizontal y el catálogo de elementos.
+* Añada metadatos sobre un tema ref, fragmento, como título de navegación, formato, ámbito, etc.
+* Al hacer clic en el tema ref se debería abrir el tema en el editor (modo de vista previa si no se extrae y se desactiva la edición con el cierre de compra).
+* Agregar encabezado de tema y grupo de temas.
+* Agregue bookmaps con Frontmatter (temas, prefacio, lista de libros, avisos, etc.) y Backmatter (temas, apéndices, glosario, etc.).
+* En el modo Autor, se resaltan los vínculos rotos, se muestran las rutas y se encuentra disponible la Vista de etiquetas completas.
+* Capacidad para establecer atributos del nivel de mapa.
+* Capacidad para establecer Título/booktitle.
+* Compatibilidad con Reltables con la capacidad de agregar encabezados rel, columnas, arrastrar o colocar temas del mapa y del repositorio a la tabla rel, definir vinculación, ámbito y otros parámetros para los vínculos, reordenar los vínculos dentro de la celda.
+* Utilidad de barra de herramientas para insertar antes, insertar después e insertar elemento.
+* Resalte si se aplica una condición en un tema.
+* Capacidad para editar varios mapas a la vez (cada mapa se abre como una ficha en el mismo navegador).
+* En el panel Mapa y la vista del repositorio, al pasar el ratón por encima, muestre el título completo del tema y el nombre de archivo.
 
-### Mantenimiento del producto
+***Vista de etiquetas completas***
 
-**AEM 6.4.4.0**
+* Inserte nuevas etiquetas entre dos elementos.
+* Copiar y pegar etiquetas.
+* Arrastre y suelte las etiquetas en las posiciones permitidas y no permitidas dentro de un archivo.
+* Expandir y contraer etiquetas.
 
-AEM 6.4 Service Pack 4 (6.4.4.0, publicado el 4 de abril de 2019) es una actualización importante que incluye correcciones claves del cliente realizadas tras la publicación general de AEM 6.4 en abril de 2018.
+***Mejoras de búsqueda específica de DITA***
 
-[Notas de la versión para AEM 6.4 Service Pack](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-[Versiones de AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+* Se proporciona una herramienta de serialización para reindexar el contenido seleccionado
+* Los usuarios pueden utilizar `contains` y `exact match` en su búsqueda. También pueden buscar utilizando los parámetros siguientes. :
+   * Metadatos de recursos. Por ejemplo, o `file name``title`cualquier metadato personalizado definido por el cliente.
+   * Nombre de atributo DITA y su valor. Por ejemplo, `platform=winOS`.
+   * Nombre de elemento DITA y su valor. Por ejemplo, `author = Joe Smith`.
+   * Nombre de elemento DITA y su atributo aplicado. Por ejemplo, tabla con el par nombre/valor de atributo spacebase aplicado al mismo.
+   * Tema DITA y metadatos de mapa.
+   * Tipo de información DITA. Para el examen [ple, mapa, tema, concepto, etc.
+   * Ruta de carpeta raíz en la que se encuentra el recurso.
+   * Estado del documento.
+   * Estado extraído.
+   * Intervalo de fechas modificado.
+   * Etiquetas CQ.
+* Es posible crear consultas complejas combinando uno o más de los parámetros de búsqueda anteriores.
 
-**Conector AEM S3**
+***Revise los cambios de funciones***
 
-Es posible que las instancias de AEM con versiones anteriores de conector de Datastore S3 no estén disponibles debido a errores de acceso S3 tras el fin de la compatibilidad con la versión de firma 2 del 24 de junio de 2019. Como cliente de AEM, Adobe recomienda verificar la versión del conector de Datastore de S3 que está utilizando. Si es necesario, actualice a una versión reciente.
+* Sugerencias para un revisor:
+   * Importe todos los comentarios e incorpore los cambios para revisiones continuas antes de actualizar a la compilación 3.3.
+   * Asegúrese de que no hay varias fichas abiertas para el editor.
+   * Asegúrese de que la vista Etiquetas completas no está habilitada.
+   * No cambie entre el modo Autor y el modo Origen mientras la revisión está en curso.
+* Capacidad para especificar la versión de mi contenido que se va a revisar.
+* Capacidad para elegir las versiones de los temas seleccionados en base a una línea base, fecha, etiqueta o la versión activa, o especificar las versiones para cada uno de los temas al crear una revisión.
+* Capacidad para enviar el mismo tema o mapa para revisarlos varias veces y el autor puede acceder a todas las revisiones en el panel de revisión del editor.
+* Como iniciador, puede insertar una versión posterior del contenido para los revisores. Los revisores recibirán una notificación cuando se inserte un nuevo contenido para su revisión.
+* Como autor, el usuario podrá ver los comentarios de revisión de todas las versiones de su contenido en el panel de revisión del editor. Los autores podrán filtrar los comentarios por número de versión.
+* Como usuario del autor, podrá ver e importar comentarios en una versión anterior del contenido en el editor que se estaba revisando.
 
-Consulte [el impacto del desuso de la versión de la firma 2 de AWS para Amazon S3](https://helpx.adobe.com/experience-manager/kb/the-impact-of-aws-signature-version-2-deprecation-for-amazon-s3.html)
+***Varios***
 
-### Autoayuda
+* Cree una nueva carpeta, tema o mapa desde la vista Repositorio.
+* Ver en la interfaz de usuario de recursos: agregue una opción de menú para carpetas y temas: «Ver en la interfaz de usuario de recursos». Esta opción abre la interfaz de usuario de recursos, donde el usuario puede ver el árbol de contenido a la izquierda y todos los archivos de la vista de lista de la derecha con todos los menús de recursos de la parte superior.
+* Ahora, un tablero Revisar está disponible como mosaico en el proyecto DITA que rastrea la revisión en un nivel de revisor y en un nivel de tarea de revisión.
+* Se agregó la capacidad de convertir IDML a DITA.
+* Proporcionar API para aplicar una etiqueta dada en todas las versiones especificadas en una línea base.
+* Habilite un evento después de que se complete la conversión XHTML/DOCX a DITA. Puede utilizar este suceso para agregar atributos especializados al contenido convertido o para cualquier otra lógica personalizada que necesite implementar.
+* Se han realizado mejoras en la ficha Rendimiento de línea de base. El usuario debe ejecutar una secuencia de comandos en todas las líneas base existentes primero.
+* Se han realizado mejoras en la conversión de XHTML a DITA.
+* DITA-OT Offloading for Publishing Optimization.
+* Se corrigió la ordenación en la columna Tipo en la vista de lista.
+* Capacidad para administrar ahora estilos en cascada en Word a conversión DITA.
 
-**Modernización del código de base de AEM Sites**
+### Comunidad
 
-Aprenda a aprovechar la tecnología más reciente de AEM para modernizar su base de AEM Sites. [Modernizing your Existing Experience Manager Sites Codebase de Adobe Experience Manager](https://expleague.azureedge.net/labs/L761/index.html)
+**[Serie de seminarios web de Experience Builder para Experience Builder](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
 
-**AEM Editor Text Editor – Información detallada**
+¿Con qué le interesa aprender cómo los procesos devops pueden simplificar las actividades diarias de administración de Adobe Experience Manager en la nube? Cloud Manager proporciona la primera generación de funcionalidad nativa en la nube para Adobe Experience Manager que permite la agilidad en la nube, ya sea que su organización empiece su transformación de devops o busque estrategias para aumentar los procesos de devops existentes.
 
-Conozca las prácticas recomendadas en las configuraciones y el uso del Rich Text Editor en AEM.
+[En esta serie](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)mensual, puede aprender directamente del equipo de productos de Adobe acerca de cómo empezar y utilizar las funciones de Cloud Manager para simplificar la administración de Adobe Experience Manager en la nube.
 
-Consulte [la información detallada sobre AEM Rich Text Editor (RTE)](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/AEM-Rich-Text-Editor-RTE-Deep-Dive1.html)
+Aprenderá lo siguiente:
+* Cómo empezar a utilizar Cloud Manager y configurar la canalización de CI/CD
+* Funcionamiento de escalado automático y de entrega de servicios transparentes y puede simplificar la administración de entornos de Adobe Experience Manager en la nube
+* Cómo utilizar la API de Cloud Manager e integrar los procesos de devops existentes
 
 ### Recursos adicionales 
 
@@ -170,47 +217,53 @@ Consulte [la información detallada sobre AEM Rich Text Editor (RTE)](https://he
 
 Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes privados a través de canales de marketing en línea y sin conexión. Ahora puede anticipar los deseos de los clientes mediante experiencias basadas en sus hábitos y preferencias.
 
-* Campaign Classic 18.10.4 - compilación 8983
-* Campaign Classic 18.10.5 - compilación 8984
+### Versión de primavera de Campaign Classic 19.1
+
+| Funcionalidad | Descripción |
+| ------------- | ----------- |
+| Panel de control | Para aumentar la eficacia de su trabajo como usuario administrador, administre la configuración de los servidores SFTP mediante el monitoreo de almacenamiento, la lista blanca de direcciones IP e instale las claves SSH para cada instancia. Tenga en cuenta que el Panel de control solo está disponible para clientes alojados en AWS desde hoy. [Inicie sesión a través de Experience Cloud](https://experiencecloud.adobe.com/campaign/controlpanel/). <br> Para obtener más información, consulte la documentación [detallada](https://helpx.adobe.com/campaign/kb/control-panel.html) y el vídeo [de procedimientos](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). |
+| Pista de auditoría | Como administrador, aumente la productividad monitoreando y administrando los cambios realizados en la instancia de Adobe Campaign Classic. La pista de auditoría registrará acciones realizadas en Esquema de origen, Flujo de trabajo y Opción. Rápidamente puede ver si un elemento se ha creado, modificado o eliminado.<br>Para obtener más información, consulte la documentación [detallada](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) y el vídeo [de procedimientos](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html). |
+| Gardrail, Robustez y Escalabilidad | Se ha añadido una serie de mejoras a Campaign Classic. Las mejoras en la escalabilidad, solidez y escalabilidad se enumeran en [las Notas de la versión de Campaign Classic](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
+| Mensajería SMS segura (TLS) | SMS protegido ahora es compatible con el conector SMPP genérico ampliado. Esto permite una conexión cifrada al proveedor. <br> Para obtener más información, consulte la [ documentación detallada](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
+| Actualización de matriz de compatibilidad | Con esta nueva versión, Adobe Campaign ahora admite los sistemas de base de datos siguientes. Consulte la matriz [de compatibilidad](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18 c</li><li>MySQL 5.7 (FDA)</li><li>SQL Server 2017</li><li>Teradata 16 (FDA)</li><li>Postgresql 11</li></ul> |
 
 Consulte las [Notas de la versión de Adobe Campaign Classic](http://docs.campaign.adobe.com/doc/AC/en/RN.html) para saber más sobre las correcciones y mejoras.
+
+### Versión de primavera de Campaign Standard 19.2
+
+| Funcionalidad | Descripción |
+| ------------- | ----------- |
+| Panel de control | Para ayudar a aumentar la eficacia de su trabajo como usuario administrador, puede supervisar fácilmente la capacidad y administrar la configuración de las instancias (empezando por la administración de servidores SFTP). <br> Para obtener más información, consulte la documentación [detallada](https://helpx.adobe.com/campaign/kb/control-panel.html) y el vídeo [de procedimientos](https://helpx.adobe.com/campaign/kt/acs/using/acs-control-panel-video-use.html). |
+| Notificaciones locales | Los mensajes de notificación local permiten informar a los usuarios cuando los nuevos datos están disponibles en sus aplicaciones móviles, incluso sin tener acceso a Internet o a la aplicación móvil que se ejecuta en primer plano. Las notificaciones locales se activan mediante una aplicación móvil en un momento concreto y según un evento.<br>Para obtener más información, consulte la [ documentación detallada](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type). |
+| Mejora del flujo de trabajo: Adición de una carga útil a actividad de señal externa | Inicie un flujo de trabajo con una carga útil cuando las condiciones definidas se cumplan correctamente con otro flujo de trabajo o una llamada de API REST para integrarlos con los sistemas externos. Esto también incluye una nueva actividad de prueba en la que puede ejecutar pruebas en esta funcionalidad. <br>Para obtener más información, consulte la documentación [detallada](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) y el vídeo [de procedimientos](https://helpx.adobe.com/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html). |
+| Mejora de páginas de aterrizaje: Google recaptcha | Aproveche Google recaptcha para evitar el correo deseado en las páginas de aterrizaje sin requerir ninguna acción de sus clientes. <br>Para obtener más información, consulte la [ documentación detallada](https://helpx.adobe.com/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha). |
 
 Para obtener información del producto, consulte:
 
 * Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/support/campaign/standard.html) - [ Notas de la versión](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [ Vídeos de presentación](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
 * Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
+## Mobile Services {#mobile}
+
+* TLS 1.0 se ha desactivado en todos los servidores de Adobe. Para dispositivos Android 4. x que conectarse a servicios de Adobe mediante SSL, el SDK forzará ahora TLS 1.1/TLS 1.2 al establecer un protocolo de enlace.
+
 ## Advertising Cloud {#adcloud}
 
-| Función | Descripción |
-| -----------| ---------- |  
-| Buscar Herramientas | (Anunciantes con cuentas de Google Ads) Advertising Cloud tiene la opción de cargar en Google Ads todos los datos de conversión que registra para las campañas de anuncios de Google Ads que usan el servicio de seguimiento de conversión de Advertising Cloud. Las cargas diarias incluyen el valor de conversión definido mediante el modelo de atribución a nivel de anunciante. Todas las conversiones cargadas tienen el prefijo &quot;Adobe_ACS_&quot; (como &quot;Adobe_ACS_Subscriptions&quot; para la conversión &quot;Suscripciones&quot;). <br/> **Nota:** Las cargas no incluirán datos de conversión subidos a Advertising Cloud desde archivos de fuentes. |
-| Buscar campañas | El menú de **Búsqueda** &gt; **Campañas** &gt; **Campañas** es ahora jerárquico, con Campañas debajo de Cuentas; Grupos de publicidad en Campañas; y Palabras clave (con submenú), Publicidades, Grupos de productos (solo vistas en vivo), Colocaciones (con submenú) y Objetivos automáticos en Grupos de publicidad.<br/>En las vistas en vivo, Audiencias y Extensiones se encuentran en el mismo nivel que las Cuentas, con sus propios submenús. |
+Actualización: 5 de junio de 2019, para la versión del 8 de junio
 
-## Target Standard/Premium 19.5.1 {#target}
+| Producto | Función | Descripción |
+| -----------| ---------- | ----------  |
+| Buscar campañas, Clasificaciones de etiquetas y Restricciones | Métodos abreviados de teclado | Ahora puede utilizar <b>Mayús + clic</b> para seleccionar varias filas consecutivas y <b>Ctrl + clic</b> para seleccionar varias filas no consecutivas. |
+|  | Seleccionar todos vs. Seleccionar todo en la página | En las tablas de datos, al seleccionar la casilla de verificación superior para seleccionar todas las filas, el nuevo valor predeterminado es seleccionar todas las filas de la página (en función de si está viendo 25 filas, 50 filas, 100 filas, 200 filas o Desplazamiento continuo). Aún tiene la opción de seleccionar todas las filas disponibles. |
+| Vistas predeterminadas, vistas personalizadas y ajustes personalizados de personalización de columnas | Reorganización de columnas | Los botones Subir y Bajar permiten reordenar las columnas. Puede seguir arrastrando y soltando columnas para reordenarlas, como podía anteriormente. |
 
-Esta versión incluye las funciones, cambios y mejoras siguientes:
+## Target Standard/Premium 19.6.1 (25 de junio de 2019) {#target}
 
-(Los números entre paréntesis son para uso interno de Adobe).
+Consulte las notas de la versión de Adobe Target para obtener la información más reciente sobre la versión:
 
-### Actualizaciones de funciones
+[Notas de la versión de Target (versión prelanzamiento)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
 
-| Función/Mejora | Descripción |
-| --- | --- |
-| Compositor de experiencias visuales de aplicación de una sola página (SPA VEC) | El SPA VEC incluye las siguientes mejoras para que su trabajo sea más fácil y eficiente:<ul><li>Ahora puede cancelar la carga de un sitio web en el VEC para desbloquear la edición de una actividad. Esta mejora es útil si, por ejemplo, necesita hacer un pequeño cambio en una actividad, revisar su configuración o añadir código personalizado y no quiere esperar a que se cargue el sitio web. (TGT-33872)</li><li>Puede realizar muchas acciones antes de que la página se cargue en VEC o incluso si la página no se carga completamente (por ejemplo, si el código personalizado ya no funciona). Las acciones que no se pueden editar antes de que el sitio web cargue no aparecerán en la IU de Target. (TGT-33851 y TGT-34149)</li></ul> |
-| Actividades de personalización automatizada (AP) y actividades de segmentación automática | Puede seleccionar una experiencia para utilizarla como control mientras crea una actividad de PA o de segmentación automática. Esto permite dirigir todo el tráfico de control a una experiencia específica, según el porcentaje de asignación de tráfico configurado en la actividad. A continuación, puede evaluar el rendimiento de los envíos personalizados con respecto a la experiencia de control. (TGT-26572) |
-| Las actividades de | Puede utilizar la opción Recomendar elementos adquiridos anteriormente al crear la lógica de elementos visualizados recientemente. (TGT-34030) |
-
-### Mejoras, correcciones y cambios
-
-* Los iconos de la barra de herramientas se muestran correctamente después de cancelar la carga de una página dentro del VEC. Si no se pueden realizar acciones específicas hasta que la página se haya cargado por completo, los iconos de la barra de herramientas asociados se desactivan. (TGT-33811)
-* Ahora puede ver y navegar con mayor facilidad mediante carpetas de ofertas en el selector de recursos en lugar de desplazarse por una jerarquía de carpetas plana. (TGT-33725)
-
-Consulte las [Notas de la versión de Adobe Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) para obtener la información más reciente acerca de los siguientes productos:
-
-* Target Standard y Target Premium
-* Recommendations Classic
-
+[Notas de la versión de Target (actual)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ## Magento {#magento}
 
