@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Junio de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1f156e4fcbd0d39b27f2c254e2117ad2e4e0b793
+source-git-commit: 1055e2ece605b5c1147f92cfd06cf103860e3d4c
 
 ---
 
@@ -60,6 +60,7 @@ Para obtener la documentación del producto, consulte la [Página principal de a
 | **Segmentación** | Nuevos operadores de segmentos: **[!UICONTROL Es igual a Cualquiera de]** y **[!UICONTROL no es igual a ninguno de]**. |
 | **Depurador** | Ahora, al iniciar sesión con su Adobe ID, tiene la opción de recuperar las visitas posprocesadas en Experience Cloud Debugger. Las visitas posprocesadas son llamadas al servidor después de haber pasado por [!UICONTROL reglas de procesamiento] y reglas de VISTA, lo que permite validar [!UICONTROL reglas de procesamiento] y sus reglas VISTA. **Nota**: Si utiliza A 4 T (complementos), los datos posteriores al procesamiento pueden tardar unos minutos en remontarse. |
 | **Analysis Workspace:** | Se han agregado nuevos filtros predeterminados a la búsqueda de carril izquierdo. Más allá de lo que ve hoy (Dimensiones, Métricas, Aprobado, etc.), nuevos filtros como Métricas calculadas, Atributos del cliente, evars, Props, Vídeo, etc. se agregó para facilitar la búsqueda de los componentes que necesita. |
+| **Analysis Workspace** | Se ha añadido una advertencia a la visualización de visitas en el orden previsto que se mostrará cuando agregue un segmento como punto de contacto: ciertas combinaciones de contenedores de segmentos no válidos provocarán un diagrama de visitas en el orden previsto no válido, como por ejemplo <ul><li>Uso de un segmento basado en visitantes como punto de contacto dentro de una visualización de visitas en el orden previsto de visitante en contexto</li><li>Uso de un segmento basado en visitantes como punto de contacto dentro de una visualización de visitas en el orden previsto visita-contexto</li><li>Uso de un segmento basado en visitas como punto de contacto dentro de una visualización de visitas en el orden previsto visita-contexto</li></ul> <br> [Más...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
 
 **Correcciones de Analysis Workspace**
 
