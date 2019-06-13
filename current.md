@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Junio de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d216b079f73662c1d43e154b2a4e8195d09a2f18
+source-git-commit: 0c4355bbb17d5b67a8f136a07b7fc2a682441a01
 
 ---
 
@@ -58,6 +58,8 @@ Para obtener la documentación del producto, consulte la [Página principal de a
 | **Depurador** | Ahora, al iniciar sesión con su Adobe ID, tiene la opción de recuperar las visitas posprocesadas en Experience Cloud Debugger. Las visitas posprocesadas son llamadas al servidor después de haber pasado por [!UICONTROL reglas de procesamiento] y reglas de VISTA, lo que permite validar [!UICONTROL reglas de procesamiento] y sus reglas VISTA. **Nota**: Si utiliza A 4 T (complementos), los datos posteriores al procesamiento pueden tardar unos minutos en remontarse. |
 | **Analysis Workspace:** | Se han agregado nuevos filtros predeterminados a la búsqueda de carril izquierdo. Más allá de lo que ve hoy (Dimensiones, Métricas, Aprobado, etc.), nuevos filtros como Métricas calculadas, Atributos del cliente, evars, Props, Vídeo, etc. se agregó para facilitar la búsqueda de los componentes que necesita. |
 | **Analysis Workspace** | Se ha añadido una advertencia a la visualización de visitas en el orden previsto que se mostrará cuando agregue un segmento como punto de contacto: ciertas combinaciones de contenedores de segmentos no válidos provocarán un diagrama de visitas en el orden previsto no válido, como por ejemplo <ul><li>Uso de un segmento basado en visitantes como punto de contacto dentro de una visualización de visitas en el orden previsto de visitante en contexto</li><li>Uso de un segmento basado en visitantes como punto de contacto dentro de una visualización de visitas en el orden previsto visita-contexto</li><li>Uso de un segmento basado en visitas como punto de contacto dentro de una visualización de visitas en el orden previsto visita-contexto</li></ul> <br> [Más...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
+| **Mejoras en la documentación de Analytics** | La documentación de Analytics se ha reorganizado y ahora incluye funciones de colaboración que le permiten mejorar el contenido. Puede registrar problemas con la documentación y sugerir ediciones. El conjunto de documentos se ha trasladado a [un nuevo dominio](https://docs.adobe.com/content/help/en/analytics/landing/home.html). Las redirecciones deberían estar en su sitio. |
+| **Nueva guía del usuario de notas técnicas** | La guía del usuario de Notas [técnicas](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) ya está disponible. Actualmente, está orientado a ayudar a los usuarios con herramientas de análisis de terceros, como Google Analytics, a familiarizarse con Adobe Analytics. La guía del usuario de notas técnicas se ampliará durante los próximos meses para incluir contenido adicional. |
 
 **Correcciones de Analysis Workspace**
 
