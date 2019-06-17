@@ -10,7 +10,7 @@ tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
 
 ---
@@ -22,8 +22,8 @@ El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a la 
 
 | metadatos | qué hace |
 |--- |--- |
-| solución-título | Se utiliza como vínculo en el encabezado del artículo. Manténgalo corto. |
-| solución-hub-url | Abre la página helpx hub |
+| solución-título | Se utiliza como vínculo en el encabezado del artículo. Utilice una URL corta. |
+| solución-hub-url | Abrir la página helpx hub |
 | solución-icono | Muestra el icono de la solución junto al título de la solución. Aún no se ha implementado |
 | Inicio-título | Apenas se utiliza, no es adecuado para los Tutoriales |
 | Inicio-url | Vínculo a la página de inicio de helpx |
