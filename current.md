@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b3fa98427b027218e9600cb4c5e10dd2ba880f89
+source-git-commit: 2229815ac75b0a7bd60571b39bd0f2780f20195e
 
 ---
 
@@ -66,8 +66,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Función | Descripción |
 | -----------| ---------- |  
-| Compatibilidad con la configuración de cookies samesite | La configuración de la cookie samesite será agregada a todos los conjuntos de cookies por Analytics. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie samesite. |
+| Compatibilidad con la configuración de cookies samesite | La [configuración](https://web.dev/samesite-cookies-explained) de la cookie samesite será agregada a todos los conjuntos de cookies por Analytics. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie samesite. Las cookies de Analytics estarán `none`predeterminadas. Si ha utilizado exclusivamente un dominio de origen (p. ej. stats.domain.com), puede hacer que Adobe clientcare lo establezca `lax` en dominios de recopilación de origen. |
 | Espacio de trabajo: Aumento del límite de elementos para el filtro desplegable de 50 a 200 | Aumentamos el límite de elementos que se pueden colocar en un filtro desplegable de 50 a 200. Esta mejora permite una variedad de casos de uso, como agregar todos los países (195) a un filtro, o todos los estados y provincias de EE. UU. (52). |
+| IQ de atribución habilitada para métricas de A 4 T | Hemos habilitado dos métricas de Analytics para Target (A 4 T) para IQ de Atribución: Impresiones de actividad y Conversión de actividades. En Analysis Workspace hasta la fecha, estas métricas se han incrementado en comparación con Informes y análisis. Con este cambio, los usuarios ahora pueden aplicar un modelo de atribución "mismo", que hará que Analysis Workspace esté en línea con Informes y análisis. |
 
 #### Correcciones
 
