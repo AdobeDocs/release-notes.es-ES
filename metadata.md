@@ -37,4 +37,4 @@ En el archivo TOC.md
 | metadatos | qué hace |
 |--- |--- |
 | Guía de usuario-título | Se utiliza como vínculo en el encabezado del artículo |
-| Guía de usuario-url | Abrir la página helpx hub |
+| Guía de usuario-url | Abre la página helpx hub |
