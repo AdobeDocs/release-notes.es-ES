@@ -9,7 +9,7 @@ source-git-commit: afd02edefe88a8d970899adcd414217b65a91d7e
 ---
 
 
-# Experience Cloud  Notas de la versión {#experience-cloud}
+# Experience Cloud Notas de la versión {#experience-cloud}
 
 + [Notas de la versión](current.md)
 + Notas de la versión anterior {#previous}
