@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f63c0117090ec65a989b298bc555e4028fc3e5ad
+source-git-commit: 1e8bca79345949fe99903857eb24771d8a9d9f98
 
 ---
 
@@ -24,7 +24,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
-* [!DNL Ad Cloud](# ad cloud)
+* [!DNL Ad Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de solución)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de solución)
 
