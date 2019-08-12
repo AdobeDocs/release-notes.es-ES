@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4c069f031b48a2e1eccecc09e21e2a202da874b1
+source-git-commit: 8daec90ad3ce5cd0ef2a523c52decd9b269b46b3
 
 ---
 
@@ -21,7 +21,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de lanzamiento: 8 de agosto de 2019**
 
 * [Experience Platform y administración](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (Fecha de actualización: **12 de agosto de 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Nuevas funciones y correcciones en Adobe Analytics:
 
 * [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (**Updated August 12, 2019**)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -93,7 +93,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-Lanzamiento de la versión 2.16.0 de [!UICONTROL AppMeasurement] el 8 de agosto de 2019.
+[!UICONTROL Versiones de appmeasurement] 2.16.0 el 15 de agosto de 2019 (no el 8 de agosto, como se indicó anteriormente).
 
 | Función | Descripción |
 | -----------| ---------- |
