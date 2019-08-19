@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1483a7a90f2f3ab00cc471081631cb737f324a6b
+source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
 
 ---
 
@@ -20,7 +20,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 **Fecha de lanzamiento: 8 de agosto de 2019**
 
-* [Experience Platform y administración](#platform)
+* [Experience Cloud y plataforma de experiencia](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -29,7 +29,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de solución)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de solución)
 
-## [!UICONTROL Experience Platform] y administración {#platform}
+## [!DNL Experience Cloud] y [!DNL Experience Platform] {#platform}
 
 Notas de la versión de [!UICONTROL Experience Platform], de la interfaz de Experience Cloud, de la administración de productos, de Experience Platform Launch, de Identity Service y de los boletines de seguridad.
 
