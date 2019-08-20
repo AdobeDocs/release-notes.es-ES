@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
+source-git-commit: 3bd946a9ef7d6d6d2e17cec4385a2dd53a41df97
 
 ---
 
@@ -21,7 +21,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de lanzamiento: 8 de agosto de 2019**
 
 * [Experience Cloud y plataforma de experiencia](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Fecha de actualización: 20 de agosto de 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -54,7 +54,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 Nuevas funciones y correcciones en Adobe Analytics:
 
-* [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)
+* [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)  (**Fecha de actualización: 20 de agosto de 2019**)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -64,13 +64,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Función | Descripción |
 | -----------| ---------- |  
-| Compatibilidad con la configuración de la cookie SameSite | Analytics agregará la [configuración de cookies de SameSite](https://web.dev/samesite-cookies-explained) a todos los conjuntos de cookies. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie SameSite. Las cookies de Analytics estarán predeterminadas como `none`. Si ha utilizado exclusivamente un dominio de origen (p. ej. stats.domain.com), puede hacer que Adobe ClientCare lo establezca como `lax` en dominios de colección de origen. |
+| Compatibilidad con la configuración de la cookie SameSite | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies set by Analytics. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie SameSite. Las cookies de Analytics estarán predeterminadas como `none`. Si ha utilizado exclusivamente un dominio de origen (p. ej. stats.domain.com), puede hacer que Adobe ClientCare lo establezca como `lax` en dominios de colección de origen. |
 | Workspace: Aumento del límite de elementos para el filtro desplegable de 50 a 200 | Hemos aumentado el límite de elementos que se pueden colocar en un filtro desplegable de 50 a 200. Esta mejora admite una variedad de casos de uso, como agregar todos los países (195) a un filtro, o todos los estados y provincias de EE. UU. (52). |
-| Impresiones de actividad de A4T y conversiones de actividad habilitadas para Attribution IQ | Hemos habilitado dos métricas de Analytics para Target (A4T) para Attribution IQ: Impresiones y conversiones de actividad. En Analysis Workspace, hasta la fecha, estas métricas se han incrementado en comparación con Reports &amp; Analytics. Con este cambio, los usuarios ahora pueden aplicar un modelo de atribución “mismo contacto”, que hará que Analysis Workspace se ponga a la par con Reports &amp; Analytics. |
+| Impresiones de actividad de A4T y conversiones de actividad habilitadas para Attribution IQ | Hemos habilitado dos métricas de Analytics para Target (A4T) para Attribution IQ: Impresiones y conversiones de actividad. Anteriormente, en Analysis Workspace, estas métricas aumentaban en comparación con Informes y análisis. Con este cambio, los usuarios ahora pueden aplicar un modelo de atribución “mismo contacto”, que hará que Analysis Workspace se ponga a la par con Reports &amp; Analytics. |
 
 #### Correcciones
 
 * Se ha corregido un problema con la visualización del texto en los informes en tiempo real en el modo de pantalla completa. (AN-183168)
+* (**Actualización: 20 de agosto de 2019**) ahora, la recopilación de datos rechaza direcciones URL de redireccionamiento que contienen firma «@» para evitar que los atacantes redireccionen a sitios malintencionados a través de dominios de lista blanca.
+* (**Actualización: 20 de agosto de 2019**) La migración de visitantes está ahora deshabilitada para todas las visitas provenientes de navegadores que no admiten el atributo Cookie samesite y, si la visita contiene una cookie de terceros.
+* (**Actualizado el 20 de agosto de 2019**) Se ha corregido un problema por el que las primeras visitas no enviaban la cookie s_ vi para un nuevo visitante.
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
