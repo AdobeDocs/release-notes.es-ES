@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c4e89f21b3cd1231592f962bf5abfca49571f943
+source-git-commit: 71a796a132a752b69a10b9ac9cce3530b7d02b27
 
 ---
 
@@ -21,7 +21,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de lanzamiento: 8 de agosto de 2019**
 
 * [Experience Cloud y Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Actualización: 20 de agosto de 2019**)
+* [!DNL Analytics](#analytics) (**Actualización: 23 de agosto de 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Nuevas funciones y correcciones en Adobe Analytics:
 
 * [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)  (**Actualización: 20 de agosto de 2019**)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (**Actualización: 23 de agosto de 2019**)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -96,7 +96,14 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-Lanzamiento de la versión 2.16.0 de [!UICONTROL AppMeasurement] el 8 de agosto de 2019.
+[!UICONTROL Appmeasurement] 2.17.0 se publicó el 23 de agosto de 2019.
+
+| Función/Corrección | Descripción |
+| -----------| ---------- |
+| Se agregó compatibilidad con Baidu | Se agregó compatibilidad con la reordenación de las cadenas de consulta Baidu. |
+| Se ha corregido un problema que hacía que se mostrara | Se ha corregido un problema que provocaba valores de visitantes antiguos en las visitas que se ponen en cola mientras se esperaba la inclusión. |
+
+[!UICONTROL Appmeasurement] 2.16.0, publicada el 8 de agosto de 2019.
 
 | Función | Descripción |
 | -----------| ---------- |
