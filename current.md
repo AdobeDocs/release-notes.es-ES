@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 71a796a132a752b69a10b9ac9cce3530b7d02b27
+source-git-commit: bf128d5ab0d16a15935f73fd8b80c7eab12b4e1f
 
 ---
 
@@ -64,7 +64,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Función | Descripción |
 | -----------| ---------- |  
-| Compatibilidad con la configuración de la cookie SameSite | Analytics agregará la [configuración de cookies de SameSite](https://web.dev/samesite-cookies-explained) a todos los conjuntos de cookies. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie SameSite. Las cookies de Analytics estarán predeterminadas como `none`. Si ha utilizado exclusivamente un dominio de origen (p. ej. stats.domain.com), puede hacer que Adobe ClientCare lo establezca como `lax` en dominios de colección de origen. |
+| Compatibilidad con la configuración de la cookie SameSite | Analytics agregará la [configuración de cookies de SameSite](https://web.dev/samesite-cookies-explained) a todos los conjuntos de cookies. Este cambio le permite cumplir con los cambios de Chrome que requieren el campo de cookie SameSite. Las cookies de Analytics estarán predeterminadas como `none`. If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe Customer Care set it to `lax` for 1st-party collection domains. |
 | Workspace: Aumento del límite de elementos para el filtro desplegable de 50 a 200 | Hemos aumentado el límite de elementos que se pueden colocar en un filtro desplegable de 50 a 200. Esta mejora admite una variedad de casos de uso, como agregar todos los países (195) a un filtro, o todos los estados y provincias de EE. UU. (52). |
 | Impresiones de actividad de A4T y conversiones de actividad habilitadas para Attribution IQ | Hemos habilitado dos métricas de Analytics para Target (A4T) para Attribution IQ: Impresiones y conversiones de actividad. Antes, en Analysis Workspace, estas métricas aumentaban en comparación con Reports &amp; Analytics. Con este cambio, los usuarios ahora pueden aplicar un modelo de atribución “mismo contacto”, que hará que Analysis Workspace se ponga a la par con Reports &amp; Analytics. |
 
