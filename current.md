@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Agosto de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a547f72e673f0e0dc0b5f803f187a6f24162015c
+source-git-commit: c4e89f21b3cd1231592f962bf5abfca49571f943
 
 ---
 
@@ -21,7 +21,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de lanzamiento: 8 de agosto de 2019**
 
 * [Experience Cloud y Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Actualización: 23 de agosto de 2019**)
+* [!DNL Analytics](#analytics) (**Actualización: 20 de agosto de 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Nuevas funciones y correcciones en Adobe Analytics:
 
 * [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)  (**Actualización: 20 de agosto de 2019**)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
-* [AppMeasurement](#appm) (**Actualización: 23 de agosto de 2019**)
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -77,7 +77,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación o actualizada | Descripción |
+| Aviso | Fecha de incorporación  o actualizada | Descripción |
 | -----------| ---------- | ---------- |
 | Compatibilidad con desplazamientos históricos de zona horaria | 8 de agosto de 2019 | Analytics ahora gestiona automáticamente los desplazamientos de zona horaria para las visitas con marca de hora. Después de este cambio el 8 de agosto, los sistemas que cargan los datos para el procesamiento histórico ya no necesitarán ajustar los desplazamientos de zona horaria antes de enviar los datos. |
 | Límites del Generador de reglas de clasificación | Añadidos el 5 de junio de 2019 | Estos límites no son nuevos, pero se han agregado a la documentación [aquí](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
@@ -96,14 +96,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL Appmeasurement] 2.17.0 se publicó el 23 de agosto de 2019.
-
-| Función/Corrección | Descripción |
-| -----------| ---------- |
-| Se agregó compatibilidad con Baidu | Se agregó compatibilidad con la reordenación de las cadenas de consulta Baidu. |
-| Se ha corregido un problema que hacía que se mostrara | Se ha corregido un problema que provocaba valores de visitantes antiguos en las visitas que se ponen en cola mientras se esperaba la inclusión. |
-
-[!UICONTROL Appmeasurement] 2.16.0, publicada el 8 de agosto de 2019.
+Lanzamiento de la versión 2.16.0 de [!UICONTROL AppMeasurement] el 8 de agosto de 2019.
 
 | Función | Descripción |
 | -----------| ---------- |
