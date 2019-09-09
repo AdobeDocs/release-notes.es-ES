@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Septiembre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2cf514449e70523a47b16dceb35d93ec7eff0824
+source-git-commit: 3b26af48364509946706cd183c1261ea8c15eab2
 
 ---
 
@@ -87,7 +87,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Función | Descripción |
 | -----------| ---------- |  
-| **IQ de viaje: Análisis entre dispositivos** | En septiembre de 2019, Adobe Analytics está presentando el acceso anticipado para los clientes de Analytics Ultimate a una nueva función potente llamada Viaje IQ: Análisis cruzado de dispositivos. Analytics de varios dispositivos (CDA) transforma Adobe Analytics desde un dispositivo centralizado a una herramienta de análisis centrada en persona. Con CDA puede responder preguntas como: <ul><li>¿Cuántas personas interactúan con mi marca? ¿Cuántos y qué tipos de dispositivos utilizan? ¿Cómo se superponen?</li><li>¿Con qué frecuencia comienzan las personas una tarea en un dispositivo móvil y luego pasan a un equipo de escritorio para completar la tarea? ¿Las pulsaciones de campaña que aterrizan en un dispositivo llevan a la conversión en algún otro lugar?</li><li>¿Cómo se cambia mi eficacia de la campaña si se tienen en cuenta las trayectorias entre dispositivos? ¿Cómo cambia el análisis de canal?</li><li>¿Cuáles son las rutas más comunes que los usuarios toman de un dispositivo a otro? ¿Dónde abandonan? ¿Dónde se producen?</li><li>¿Cómo difiere el comportamiento de los usuarios con varios dispositivos de los usuarios con un solo dispositivo?</li></ul><br/>Para obtener más información, visite `adobe.ly/aacda`. |
+| **IQ de viaje: Análisis entre dispositivos** | En septiembre de 2019, Adobe Analytics está presentando el acceso anticipado para los clientes de Analytics Ultimate a una nueva función potente llamada Viaje IQ: Análisis cruzado de dispositivos. Analytics de varios dispositivos (CDA) transforma Adobe Analytics desde un dispositivo centralizado a una herramienta de análisis centrada en persona. Con CDA puede responder preguntas como: <ul><li>¿Cuántas personas interactúan con mi marca? ¿Cuántos y qué tipos de dispositivos utilizan? ¿Cómo se superponen?</li><li>¿Con qué frecuencia comienzan las personas una tarea en un dispositivo móvil y luego pasan a un equipo de escritorio para completar la tarea? ¿Las pulsaciones de campaña que aterrizan en un dispositivo llevan a la conversión en algún otro lugar?</li><li>¿Cómo se cambia mi eficacia de la campaña si se tienen en cuenta las trayectorias entre dispositivos? ¿Cómo cambia el análisis de canal?</li><li>¿Cuáles son las rutas más comunes que los usuarios toman de un dispositivo a otro? ¿Dónde abandonan? ¿Dónde se producen?</li><li>¿Cómo difiere el comportamiento de los usuarios con varios dispositivos de los usuarios con un solo dispositivo?</li></ul><br/>Para obtener más información, visite [adobe.ly/aacda](https://spark.adobe.com/page/8ZpjsX6Lp5XTM/). |
 | **Arquitectura de clasificaciones actualizada** | A partir de septiembre, se migrará a los clientes una actualización a la arquitectura de Clasificaciones durante un período de varios meses. La versión de septiembre incluye la migración de un pequeño número de primeros pasos iniciales.<br/>La actualización reduce significativamente el tiempo que tardan las cargas (incluida la lógica de regla) en importar/ingestar y poner a disposición para los informes. |
 
 #### Correcciones
