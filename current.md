@@ -5,18 +5,14 @@ doc-type: notas de la versión
 last-update: Septiembre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 12ab1a02439228bb50a294fe8d5aeba415122d43
+source-git-commit: adb17defaa34adc0866985a5eb5a621e9fb36c7d
 
 ---
 
 
-# Acceso anticipado: Notas de la versión de septiembre de 2019 de Adobe Experience Cloud
+# Notas de la versión de Experience Cloud: septiembre de 2019
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
-
->[!IMPORTANT]
->
->Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeta a cambios antes de su publicación planificada para el 12 de septiembre de 2019.
 
 >[!NOTE]
 >
