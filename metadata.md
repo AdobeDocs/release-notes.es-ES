@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Experience Cloud
+solution-title: Aprendizaje y asistencia
 solution-hub-url: https://helpx.adobe.com/es/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: Primeros pasos
@@ -10,8 +10,8 @@ tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: ht
-source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
+translation-type: tm+mt
+source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 ---
 
@@ -22,19 +22,19 @@ El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a la 
 
 | metadatos | qué hace |
 |--- |--- |
-| solución-título | Se utiliza como vínculo en el encabezado del artículo. Utilice una URL corta. |
-| solución-hub-url | Abrir la página helpx hub |
-| solución-icono | Muestra el icono de la solución junto al título de la solución. Aún no se ha implementado |
-| Inicio-título | Apenas se utiliza, no es adecuado para los Tutoriales |
-| Inicio-url | Vínculo a la página de inicio de helpx |
-| tutoriales-título | Apenas se utiliza, no es adecuado para los Tutoriales |
-| tutoriales-url | Vínculo a tutoriales de vídeo: tutoriales de helpx o tutoriales KT |
-| niveles-mini-toc | Determina el número de niveles de encabezados que aparecen en el carril derecho. el valor predeterminado es 2 |
-| repositorio-git | Especifica la ubicación del repositorio de colaboración. Use el github.com de Adobe para documentos públicos |
+| solution-title | Se utiliza como vínculo en el encabezado del artículo. Utilice una URL corta. |
+| solution-hub-url | Abrir la página helpx hub |
+| solution-icon | Muestra el icono de la solución junto al título de la solución. Aún no se ha implementado |
+| getting-started-title | Apenas se utiliza, no es adecuado para los Tutoriales |
+| getting-started-url | Vínculo a la página de inicio de helpx |
+| tutorials-title | Apenas se utiliza, no es adecuado para los Tutoriales |
+| tutorials-url | Vínculo a tutoriales de vídeo: tutoriales de helpx o tutoriales KT |
+| mini-toc-levels | Determina el número de niveles de encabezados que aparecen en el carril derecho. el valor predeterminado es 2 |
+| git-repo | Especifica la ubicación del repositorio de colaboración. Use el github.com de Adobe para documentos públicos |
 
 En el archivo TOC.md
 
 | metadatos | qué hace |
 |--- |--- |
-| Guía de usuario-título | Se utiliza como vínculo en el encabezado del artículo |
-| Guía de usuario-url | Abre la página helpx hub |
+| user-guide-title | Se utiliza como vínculo en el encabezado del artículo |
+| user-guide-url | Abre la página helpx hub |
