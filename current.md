@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Septiembre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: eb150b48019a2fc54c3de3fa58475a9eb475505f
+source-git-commit: b8639c07c29e929b786b515b0d8e1e3cb89fa45a
 
 ---
 
@@ -26,7 +26,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
 
 ## Interfaz de Experience Cloud {#ecloud}
@@ -36,7 +36,7 @@ Notas de la versión de la interfaz de Experience Cloud y la administración de 
 * Se ha corregido una vulnerabilidad de seguridad para incluir encabezados HTTP recomendados. (MCUI-9942)
 * Se ha corregido un problema al cambiar entre las empresas de inicio de sesión de Analytics. (MCUI-10049)
 
-Para obtener documentación del producto, consulte [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+For product documentation, see Experience Cloud.[](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ## Experience Platform {#platform}
 
@@ -44,7 +44,7 @@ Notas de la versión de Experience Platform, Experience Platform Launch, servici
 
 * [Experience Platform Launch](#launch)
 * [Mobile Services y Mobile SDK](#mobile)
-* [Boletines y avisos](https://helpx.adobe.com/security.html) de seguridad (Todos los productos de Adobe)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Platform Launch {#launch}
 
@@ -52,24 +52,22 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ### Mobile Services y Mobile SDK {#mobile}
 
-Fecha de versión: **26 de septiembre**
-
 **iOS: Versión 4.18.8**
 
 Fecha de lanzamiento: 20 de septiembre de 2019
 
 * Mensajería en la aplicación:
-   * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework .
-   * Fullscreen messages now use WKWebViews from WebKit.framework, which must be linked in your Xcode project.
+   * En dispositivos con iOS 10 o posterior, el marco UserNotifications ahora se utiliza para programar notificaciones locales para aplicaciones vinculadas al archivo UserNotifications.framework.
+   * Los mensajes a pantalla completa ahora utilizan WKWebViews de WebKit.framework, que debe estar vinculado en su proyecto Xcode.
    * Se corrigió un error en el cual la carga útil de pulsaciones no se podía usar como características para la mensajería en la aplicación.
-   * Fixed a crash issue.
+   * Se ha corregido un problema de bloqueo.
 * General: se ha corregido un error por el que los datos del SDK se sincronizaban con la aplicación WatchOS en pares en cada llamada de Analytics.
 
 **Android: Versión 4.17.10**
 
 Fecha de lanzamiento: 20 de septiembre de 2019
 
-* General: Fixed locale string generation for some regions on Android API level 21 or newer.
+* General: Se corrigió la generación de cadenas de configuración regional en algunas regiones del nivel 21 o posterior de la API de Android.
 
 **Unity**
 
@@ -98,7 +96,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 * Se ha corregido un problema por el que los servicios principales [!UICONTROL Personas] y [!UICONTROL Ofertas] no eran accesibles desde el menú principal de Experience Cloud. (AN-184294)
 * Se ha corregido un problema por el que el carril izquierdo de [!UICONTROL Analysis Workspace] oscilaba entre tener una barra de desplazamiento y no tenerla, lo que provocaba un efecto de fluctuación. (AN-183904)
-* Se han corregido problemas con los informes de errores. Verá mensajes de error más específicos en lugar de solo el indicador de error rojo. Más específicamente, le ayudará a comprender cuándo el problema se debe a una carga pesada, a un error o a que la creación de solicitud es demasiado compleja. (AN-184135) [More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* Se han corregido problemas con los informes de errores. Verá mensajes de error más específicos en lugar de solo el indicador de error rojo. Más específicamente, le ayudará a comprender cuándo el problema se debe a una carga pesada, a un error o a que la creación de solicitud es demasiado compleja. (AN-184135) [Más...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
 * Se ha corregido un problema que impedía la descarga de informes de visitas interrumpidas en formatos `.pdf/.xls/.rtf`. (AN-183165)
 * Se han corregido problemas al iniciar sesión con Experience Cloud y cambiar a distintas soluciones de Experience Cloud o cambiar a otra empresa de inicio de sesión. (AN-183376)
 * Se ha corregido un problema por el que la transferencia de recursos de proyectos programados no funcionaba correctamente. Los grupos se administran ahora en [!UICONTROL Admin Console], por lo que no se copian entre usuarios al transferir recursos. (AN-183751)
@@ -108,7 +106,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Actualización de los totales de la tabla de forma libre de Analysis Workspace | 12 de septiembre de 2019 | In October 2019, freeform table total rows will begin accounting for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) Hasta la fecha, los totales solo se han contabilizado para la segmentación. Con este cambio, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de [!UICONTROL Número de resumen] vinculadas), así como los datos CSV y PDF exportados. |
+| Actualización de los totales de la tabla de forma libre de Analysis Workspace | 12 de septiembre de 2019 | En octubre de 2019, las filas totales de la tabla improvisada empezarán a contabilizar los filtros [de](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) informe aplicados. Hasta la fecha, los totales solo se han contabilizado para la segmentación. Con este cambio, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de [!UICONTROL Número de resumen] vinculadas), así como los datos CSV y PDF exportados. |
 | Próximos cambios en el campo `createDate` para los usuarios de Analytics | 30 de agosto de 2019 | En octubre o noviembre de 2019, el campo `createDate` de los usuarios de Analytics se actualizará de la hora del Pacífico de EE. UU. a un valor de fecha y hora con formato correcto respecto a la información de zona horaria. (AN-183468) |
 | Compatibilidad con desplazamientos históricos de zona horaria | 8 de agosto de 2019 | Analytics ahora gestiona automáticamente los desplazamientos de zona horaria para las visitas con marca de hora. Después de este cambio el 8 de agosto, los sistemas que cargan los datos para el procesamiento histórico ya no necesitarán ajustar los desplazamientos de zona horaria antes de enviar los datos. |
 | Límites del Generador de reglas de clasificación | Añadidos el 5 de junio de 2019 | These limits are not new, but have been added to the documentation here.[](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) |
@@ -139,7 +137,7 @@ Nuevas funciones y correcciones en Audience Manager.
 | -----------| ---------- |  
 | **[[!DNL People-Based Destinations]](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)** | Los [!DNL People-Based Destinations] son un complemento de pago de Audience Manager que ayuda a activar segmentos de audiencia propios en entornos basados en personas, como Facebook, usando identificadores hash, como direcciones de correo electrónico. |
 | **[Configuring Twitter Tailored Audiences as a Self-Service Device-Based Destination](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/device-based/twitter-tailored-audiences.html)** | Estamos migrando destinos de Twitter a un modelo de configuración de autoservicio. Este artículo explica lo que necesita hacer para que las integraciones de Twitter existentes sigan funcionando después de la migración. |
-| **[Audience Marketplace Billing Examples](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)** | Hemos añadido un ejemplo nuevo, Case 3, donde detallamos cómo funciona la facturación para segmentos con casos de uso de modelado y activación. |
+| **[Ejemplos de facturación de Audience Marketplace](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)** | Hemos añadido un ejemplo nuevo, Case 3, donde detallamos cómo funciona la facturación para segmentos con casos de uso de modelado y activación. |
 
 **Correcciones y mejoras**
 
@@ -163,23 +161,23 @@ La versión de Cloud Manager 2019.8.0 soluciona una serie de errores menores, me
 
 **Distribución de software**
 
-[Distribución](https://downloads.experiencecloud.adobe.com/) de software es la nueva interfaz de usuario diseñada para simplificar la búsqueda y descarga de paquetes AEM. Actualmente está en estado beta y solo pueden acceder a ella los clientes de Adobe Managed Services.
+[Software Distribution](https://downloads.experiencecloud.adobe.com/) is the new user interface designed to simplify the search and download of AEM Packages. Actualmente está en estado beta y solo pueden acceder a ella los clientes de Adobe Managed Services.
 
-* [Package Share](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) will remain accessible until all customers have access to Software Distribution.
+* [Package Share will remain accessible until all customers have access to Software Distribution.](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare)
 * Todos los paquetes están disponibles tanto en Uso compartido de paquetes como en Distribución de software.
 
 ### Mantenimiento del producto
 
 **Plan de lanzamiento de la versión de mantenimiento de AEM**
 
-Consulte la hoja de ruta de la versión de mantenimiento de AEM publicada [aquí](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html).
+See the AEM maintenance release roadmap as published here.[](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html)
 
 ### Autoayuda
 
 **Versión preliminar de Asset Link 1.1**
 
-* [About Adobe Asset Link Prerelease](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
-* [Configuring AEM for Adobe Asset Link for prerelease](https://helpx.adobe.com/enterprise/using/configure-aem-for-aal-prerelease.html)
+* [Acerca de la versión de evaluación de Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
+* [Configuración de AEM para Adobe Asset Link para la versión de evaluación](https://helpx.adobe.com/enterprise/using/configure-aem-for-aal-prerelease.html)
 
 **AEM Desktop App 2.0**
 
@@ -203,7 +201,7 @@ Ya está disponible la documentación para el servicio automatizado de conversi�
 
 **Seminarios web de AEM Skills Builder**
 
-* [Sitios de Adobe Experience Manager](https://forums.adobe.com/thread/2647742)
+* [Adobe Experience Manager Sites](https://forums.adobe.com/thread/2647742)
 
    | Seminario web | Fecha |
    | -----------| ---------- |  
@@ -223,7 +221,7 @@ Ya está disponible la documentación para el servicio automatizado de conversi�
    | _Medios dinámicos_ | 19 de septiembre de 2019 |
    | _Asset Link_ | 26 de septiembre de 2019 |
 
-* [Adobe Experience Manager Forms](https://forums.adobe.com/thread/2647744)
+* [Formularios de Adobe Experience Manager](https://forums.adobe.com/thread/2647744)
 
    | Seminario web | Fecha |
    | -----------| ---------- |  
@@ -246,14 +244,14 @@ Ya está disponible la documentación para el servicio automatizado de conversi�
 * [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Older Versions of AEM Documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ### Expiración del producto
 
-[!DNL Digital Publishing Suite Classic] (DPSC) expiró el 31 de agosto de 2019. Para obtener más información, consulte las [[!DNL Digital Publishing Suite Classic] preguntas más frecuentes](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)sobre el fin de vida útil.
+[!DNL Digital Publishing Suite Classic] (DPSC) expiró el 31 de agosto de 2019. For more information, see the [!DNL Digital Publishing Suite Classic] End-of-Life FAQ.[](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)
 
 ### Recursos adicionales
 
@@ -272,8 +270,8 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ### Adobe Campaign Classic
 
-* [Actualización](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) de Campaign Classic 19.1.4: compilación 9032
-* [Actualización](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033) de Campaign Classic 19.1.5: compilación 9033
+* [Campaign Classic 19.1.4 update – build 9032](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032)
+* [Campaign Classic 19.1.5 update – build 9033](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033)
 
 ### [!UICONTROL Panel de control] de Adobe Campaign
 
