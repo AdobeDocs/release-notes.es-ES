@@ -70,16 +70,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | API de Privacy Service: CCPA | La Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés) mejora los derechos de privacidad y la protección del consumidor para los residentes de California, Estados Unidos. Esta ley entrará en vigor el 1 de enero de 2020.<br/>La CCPA otorga nuevos derechos de privacidad de datos a los residentes de California, como el derecho a acceder y eliminar sus datos personales, a saber si sus datos personales se venden o revelan (y a quién) y a rechazar la venta de sus datos personales.<br/>En previsión de la CCPA, el Servicio de Privacidad apoyará las solicitudes de exclusión de la venta de datos personales.<br/>El servicio de privacidad se llamaba anteriormente Servicio de RGPD y conserva todas las funciones anteriores, ahora ampliadas para admitir CCPA.<br/>CCPA en Analytics: Información general `[Link to new CCPA page in Analytics]()`<br/>[de Privacy Service](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | Informes de privacidad: Consola de administración de Analytics | Al habilitar Informes de privacidad para Analytics, se agrega un conjunto de variables reservadas a un grupo de informes.  Las variables están diseñadas para ayudar en la recopilación de datos de consentimiento del consumidor a nivel de visita individual.<br/>Nuevas dimensiones:<br/><ul><li>Desactivación de la administración de consentimiento</li><li>Inclusión en la administración de consentimiento</li><li>Variables de administración de consentimiento: `[Link to new Consent Variables page in Analytics]()`</li></ul> |
 | Análisis de audio y vídeo: Compatibilidad con privacidad | Se han agregado dos nuevas variables a la API de Media Collection:<br/><ul><li> analytics.optOutServerSideForwarding</li><li> analytics.optOutShare</li></ul>Son variables opcionales que se pueden utilizar para capturar el estado del consentimiento del consumidor en el momento de la visita.<br/>[Documentación de la API de Media CollectionLas nuevas variables de datos de contexto de la Administración de](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>consentimiento de Analytics se han agregado al formulario de Federated Analytics. Estas variables ya están disponibles para su uso al marcar las visitas de exclusión de compartir o venta para federación.<br/>[Descargar formulario federado](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Espacio de trabajo de análisis: Actualizar a totales de tabla improvisada | Las tablas improvisadas ahora incluyen dos totales, un total **[!UICONTROL de]** tabla y un total **** general. La fila total de la tabla cuenta los filtros [de](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) informe aplicados. Anteriormente, solo la segmentación afectaba a los totales. [Learn moreIn addition, Show Totals and Show Grand Total options have been added to Column Settings.](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>************<br/>Con este cambio a totales improvisados, se actualizarán las visualizaciones dependientes (por ejemplo, visualizaciones de números **[!UICONTROL de]** resumen vinculadas), así como los datos CSV y PDF exportados. |
+| Analysis Workspace: Update to Freeform table totals | Freeform tables now include two totals, a Table total and a Grand total. ******** The Table total row accounts for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) Previously, only segmentation impacted totals. [Learn moreIn addition, Show Totals and Show Grand Total options have been added to Column Settings.](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>************<br/>Con este cambio a totales improvisados, se actualizarán las visualizaciones dependientes (por ejemplo, visualizaciones de números **[!UICONTROL de]** resumen vinculadas), así como los datos CSV y PDF exportados. |
 | Analysis Workspace: Option to remove Unspecified/None | The ability to easily remove ‘Unspecified (None)’ has been added as an option to report filters. |
 | Analysis Workspace: Deprecation of purple granularity components | Purple granularity time components (Minute, Hour, Day, Week, Month, Quarter, Year) have been deprecated. The purple time components have always behaved exactly like their orange dimension counterparts, so this change will simplify the experience. **No action** needs to taken if you previously used one of the purple time components.<br/>With this change, the purple Time section has also been renamed to Date Ranges.******** |
 
 #### Correcciones
 
-* Analysis Workspace: Fixed an issue that resulted in incorrect search results when searching for dimension items in the left rail. (AN-185065)
-* Se han solucionado problemas que impedía eliminar o cancelar la publicación de segmentos compartidos en Adobe Audience Manager (AAM). The fix is to not delete the segment if AAM is unresponsive. (AN-185882, AN-185883 y AN-184607)
-* Fixed a timeout issue with being unable to load segments in Ad Hoc Analysis. (AN-184654)
-* Fixed an issue that occurred when the report suite you last used was subsequently hidden or you no longer had permissions to access this report suite. In this case, you could no longer log in through Experience Cloud. (AN-181777)
+* Espacio de trabajo de análisis: Se ha corregido un problema que provocaba resultados de búsqueda incorrectos al buscar elementos de dimensión en el carril izquierdo. (AN-185065)
+* Se han solucionado problemas que impedía eliminar o cancelar la publicación de segmentos compartidos en Adobe Audience Manager (AAM). La corrección consiste en no eliminar el segmento si AAM no responde. (AN-185882, AN-185883 y AN-184607)
+* Se ha corregido un problema de tiempo de espera que impedía cargar segmentos en Análisis específicos. (AN-184654)
+* Fixed an issue that occurred when the report suite you last used was subsequently hidden or you no longer had permissions to access this report suite. En este caso, ya no se puede iniciar sesión con Experience Cloud. (AN-181777)
 * Fixed a timeout issue in segments that made it difficult to create a VRS based on a segment. (AN-179684)
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
@@ -136,12 +136,11 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
 * **AEM 6.4.6.0**
 
-   AEM 6.4, Service Pack 6.0 (6.4.6.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
+   AEM 6.4, Service Pack 6.0 (6.4.6.0 publicado el 19 de septiembre de 2019) es una actualización importante que incluye correcciones clave de cliente realizadas tras la disponibilidad general de AEM 6.4 en abril de 2018.
    * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
    * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-* **AEM 6.5.2.0**
-AEM 6.5, Service Pack 2.0 (6.5.2.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.5, April 2019.
+* **AEM 6.5.2.0** AEM 6.5, Service Pack 2.0 (6.5.2.0 publicado el 19 de septiembre de 2019) es una actualización importante que incluye correcciones clave de cliente realizadas tras la disponibilidad general de AEM 6.5 en abril de 2019.
    * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
    * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
@@ -157,20 +156,20 @@ Consulte [Reprocesamiento de recursos en una carpeta después de editar su perfi
    La extensión de visores de medios dinámicos para Adobe Launch, junto con la versión de visores de medios dinámicos 5.13, permite a los clientes de Dynamic Media, Adobe Analytics y Adobe Launch usar eventos y datos específicos para los visores de medios dinámicos en su configuración de Adobe Launch.
 Consulte [Integración de visores de medios dinámicos con Adobe Analytics y Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
 
-* **AEM desktop app**
+* **Aplicación de escritorio AEM**
 
    La aplicación de escritorio AEM 2.0 ya está disponible para usuarios creativos, especialistas en marketing y de línea de negocios para trabajar con Recursos AEM.
 Consulte las notas de la versión de la aplicación de escritorio de [AEM.](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
 * **Componentes principales**
    * Obtenga información sobre las funciones de localización de los componentes principales y cómo funcionan con las plantillas de AEM.
-      [Consulte el ejemplo](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html).
-   * Componentes principales 2.6.0 presenta un componente de fragmento de experiencia. El componente ya está disponible junto con la documentación [de](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) creación y los detalles del [desarrollador, así como la descarga del proyecto en GitHub](https://github.com/adobe/aem-core-wcm-components).
+      [See the example.](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html)
+   * Core Components 2.6.0 introduces an Experience Fragment Component. El componente ya está disponible junto con la documentación [de](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) creación y los detalles del [desarrollador, así como la descarga del proyecto en GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **AEM Assets**
    * Nueva documentación para la funcionalidad de búsqueda visual/de similitudes.
-Consulte [Buscar imágenes](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)similares.
-   * La funcionalidad Recursos conectados ahora utiliza documentos disponibles en la implementación remota de DAM, además de formatos de archivo de imágenes.
+See [Find similar images](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch).
+   * Connected Assets functionality now uses documents that are available on remote DAM deployment, in addition to images file formats.
 See Use Connected Assets to share DAM assets in AEM Sites.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)
    * Fresh content on asset searching and discovery. The Search assets in AEM topic is your one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips.
 __
@@ -183,7 +182,7 @@ See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/asset
 * [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Older Versions of AEM Documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
