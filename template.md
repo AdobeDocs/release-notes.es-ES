@@ -2,10 +2,10 @@
 title: Notas de la versión de Adobe Experience Cloud
 description: Plantilla para notas de la versión de Experience Cloud
 doc-type: notas de la versión
-last-update: Marzo de 2019
+last-update: de octubre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 04228df4d9a7279fe2c8627aeb0bb7492d34327e
+source-git-commit: 94ac88d981c552deb801877398489b1819d1fc54
 
 ---
 
@@ -31,7 +31,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
 
 ## Experience Cloud y Experience Platform{#platform}
 
@@ -77,7 +77,7 @@ Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android
 
 Funciones y correcciones.
 
-For product documentation, see Manage user and products.[](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)
+Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ### Experience Platform Launch {#launch}
 
