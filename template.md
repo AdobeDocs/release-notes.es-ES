@@ -30,8 +30,8 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud y Experience Platform{#platform}
 
@@ -42,7 +42,7 @@ Notas de la versión de Experience Platform, de la interfaz de Experience Cloud,
 * [Mobile Services y Mobile SDK](#mobile)
 * [Administración y desarrollador](#admin)
 * [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Servicios principales {#core-services}
 
@@ -77,7 +77,7 @@ Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android
 
 Funciones y correcciones.
 
-Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+For product documentation, see Manage user and products.[](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)
 
 ### Experience Platform Launch {#launch}
 
