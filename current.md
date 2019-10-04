@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: de octubre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 931b5708436da144f94e47c66fb74a16817452ce
+source-git-commit: 59bbe7ddd5cbbcb653d6c44223b644257dd94cb4
 
 ---
 
@@ -68,15 +68,15 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Función | Descripción |
 | -----------| ---------- |  
 | API de Privacy Service: CCPA | La Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés) mejora los derechos de privacidad y la protección del consumidor para los residentes de California, Estados Unidos. Esta ley entrará en vigor el 1 de enero de 2020.<br><br/>La CCPA otorga nuevos derechos de privacidad de datos a los residentes de California, como el derecho a acceder y eliminar sus datos personales, a saber si sus datos personales se venden o revelan (y a quién) y a rechazar la venta de sus datos personales.<br><br/>En previsión de la CCPA, el Servicio de Privacidad apoyará las solicitudes de exclusión de la venta de datos personales.<br><br/>El servicio de privacidad se llamaba anteriormente Servicio de RGPD y conserva todas las funciones anteriores, ahora ampliadas para admitir CCPA.<br/>CCPA en Analytics: (contenido disponible próximamente) Información general sobre <br><br/>[Privacy Service](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| Informes de privacidad: Consola de administración de Analytics | Al habilitar Informes de privacidad para Analytics, se agrega un conjunto de variables reservadas a un grupo de informes.  Las variables están diseñadas para ayudar en la recopilación de datos de consentimiento del consumidor a nivel de visita individual.<br/>Nuevas dimensiones:<br/><ul><li>Desactivación de la administración de consentimiento</li><li>Inclusión en la administración de consentimiento</li><li>Variables de administración de consentimiento: <!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
-| Análisis de audio y vídeo: Compatibilidad con privacidad | Se han agregado dos nuevas variables a la API de Media Collection:<br/><ul><li>analytics.optOutServerSideForwarding</li><li> analytics.optOutShare</li></ul>These are optional variables that can be used to capture the status of a consumer’s consent at the time of the hit. [Media Collection API DocumentationThe new Analytics Consent Management context data variables have been added to the Federated Analytics form. ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/> These variables are now available for use in flagging Opt Out of Sharing or Selling hits for federation. [Download Federated Form](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace: Update to Freeform table totals | Freeform tables now include two totals, a Table total and a Grand total. ******** The Table total row accounts for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) Previously, only segmentation impacted totals. [Learn moreIn addition, Show Totals and Show Grand Total options have been added to Column Settings.](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>************<br/>Con este cambio a totales improvisados, se actualizarán las visualizaciones dependientes (por ejemplo, visualizaciones de números **[!UICONTROL de]** resumen vinculadas), así como los datos CSV y PDF exportados. |
-| Analysis Workspace: Option to remove Unspecified/None | Se ha agregado la capacidad de eliminar fácilmente "No especificado (Ninguno)" como opción para informar los filtros. |
-| Analysis Workspace: Deprecation of purple granularity components | Purple granularity time components (Minute, Hour, Day, Week, Month, Quarter, Year) have been deprecated. Los componentes de tiempo púrpura siempre se han comportado exactamente como sus equivalentes de dimensión naranja, por lo que este cambio simplificará la experiencia. **No es necesario realizar ninguna acción** si ya ha utilizado uno de los componentes de tiempo púrpura.<br/>With this change, the purple Time section has also been renamed to Date Ranges.******** |
+| Informes de privacidad: Consola de administración de Analytics | Enabling Privacy Reporting for Analytics adds a set of reserved variables to a report suite.  The variables are designed to assist in the collection of consumer consent data at a hit level.<br/>New Dimensions:<br/><ul><li>Consent Management Opt-Out</li><li>Consent Management Opt-In</li><li>Consent Management Variables: <!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
+| Audio and Video Analytics: Privacy Support | Two new variables have been added to the Media Collection API:<br/><ul><li> analytics.optOutServerSideForwarding</li><li> analytics.optOutShare</li></ul>These are optional variables that can be used to capture the status of a consumer’s consent at the time of the hit. [Media Collection API DocumentationThe new Analytics Consent Management context data variables have been added to the Federated Analytics form. ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/> These variables are now available for use in flagging Opt Out of Sharing or Selling hits for federation. [Descargar formulario federado](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Espacio de trabajo de análisis: Actualizar a totales de tabla improvisada | Freeform tables now include two totals, a Table total and a Grand total. ******** The Table total row accounts for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) Anteriormente, solo la segmentación afectaba a los totales. [Obtenga](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>más información Además, se han agregado las opciones **[!UICONTROL Mostrar totales]** y **[!UICONTROL Mostrar total]** general a Configuración **[!UICONTROL de]** columna.<br/>Con este cambio a totales improvisados, se actualizarán las visualizaciones dependientes (por ejemplo, visualizaciones de números **[!UICONTROL de]** resumen vinculadas), así como los datos CSV y PDF exportados. |
+| Espacio de trabajo de análisis: Opción para eliminar no especificado/ninguno | Se ha agregado la capacidad de eliminar fácilmente "No especificado (Ninguno)" como opción para informar los filtros. |
+| Espacio de trabajo de análisis: Desaprobación de los componentes de granularidad púrpura | Los componentes de tiempo de granularidad púrpura (Minuto, Hora, Día, Semana, Mes, Trimestre, Año) han quedado obsoletos. Los componentes de tiempo púrpura siempre se han comportado exactamente como sus equivalentes de dimensión naranja, por lo que este cambio simplificará la experiencia. **No es necesario realizar ninguna acción** si ya ha utilizado uno de los componentes de tiempo púrpura.<br/>Con este cambio, también se ha cambiado el nombre de la sección púrpura **[!UICONTROL Hora]** a Intervalos **[!UICONTROL de fechas]**. |
 
 #### Correcciones
 
-* Analysis Workspace: Fixed an issue that resulted in incorrect search results when searching for dimension items in the left rail. (AN-185065)
+* Espacio de trabajo de análisis: Se ha corregido un problema que provocaba resultados de búsqueda incorrectos al buscar elementos de dimensión en el carril izquierdo. (AN-185065)
 * Se han solucionado problemas que impedía eliminar o cancelar la publicación de segmentos compartidos en Adobe Audience Manager (AAM). La corrección consiste en no eliminar el segmento si AAM no responde. (AN-185882, AN-185883 y AN-184607)
 * Se ha corregido un problema de tiempo de espera que impedía cargar segmentos en Análisis específicos. (AN-184654)
 * Se corrigió un problema que se producía cuando el grupo de informes que utilizó por última vez se ocultaba posteriormente o ya no tenía permisos para acceder a este grupo de informes. En este caso, ya no se puede iniciar sesión con Experience Cloud. (AN-181777)
@@ -87,7 +87,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | Para el 31 de marzo de 2020, Adobe Analytics eliminará la compatibilidad con TLS 1.1. Este cambio forma parte de nuestros esfuerzos constantes por mantener los más altos estándares de seguridad y promover la seguridad de los datos de los clientes. |
-| Agente FTP de San José termina en Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no estaremos apoyando la intermediación de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/>Para Londres, utilice [ftp3.omniture.](ftp://ftp3.omniture.com/)<br/>com Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/) |
+| Agente FTP de San José termina en Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no estaremos apoyando la intermediación de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>Para Londres, utilice [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
 | Actualización de los totales de la tabla de forma libre de Analysis Workspace | 12 de septiembre de 2019 | En octubre de 2019, las filas totales de la tabla improvisada empezarán a contabilizar los filtros [de](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) informe aplicados. Hasta la fecha, los totales solo se han contabilizado para la segmentación. Con este cambio, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de [!UICONTROL Número de resumen] vinculadas), así como los datos CSV y PDF exportados. |
 | Próximos cambios en el campo `createDate` para los usuarios de Analytics | 30 de agosto de 2019 | En octubre o noviembre de 2019, el campo `createDate` de los usuarios de Analytics se actualizará de la hora del Pacífico de EE. UU. a un valor de fecha y hora con formato correcto respecto a la información de zona horaria. (AN-183468) |
 | Compatibilidad con desplazamientos históricos de zona horaria | 8 de agosto de 2019 | Analytics ahora gestiona automáticamente los desplazamientos de zona horaria para las visitas con marca de hora. Después de este cambio el 8 de agosto, los sistemas que cargan los datos para el procesamiento histórico ya no necesitarán ajustar los desplazamientos de zona horaria antes de enviar los datos. |
@@ -116,10 +116,10 @@ Nuevas funciones y correcciones en Audience Manager.
 
 * A todas las cuentas de cliente creadas después del 1 de julio de 2019 se les asignará automáticamente una [!DNL Tableau] licencia que les permitirá acceder a sus informes. Si su cuenta se creó antes del 1 de julio de 2019 y aún no tiene acceso a sus [!DNL Tableau] informes, póngase en contacto con el Servicio de atención al cliente.
 * Se han eliminado las pertenencias a características de actividad generadas incorrectamente para perfiles de visitantes que no tenían una sincronización de ID con la fuente de datos de características (AAM-45371).
-* Se han eliminado los ID de dispositivo globales no válidos de las fuentes de datos globales. Consulte Fuentes [de datos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) globales para conocer el aspecto que deben tener los ID de dispositivo válidos para ser aceptados por Audience Manager (AAM-41259).
-* Se ha corregido un error que hacía que la página Segmentos dejara de responder al intentar eliminar un segmento protegido (AAM-49881).
-* Al editar destinos para Audiencias personalizadas de Twitter, el selector de [!UICONTROL cuentas] ahora solo está activo si el destino no tiene una [!DNL Twitter Ads] cuenta asignada (AAM-49975).
-* Se ha corregido un error que impedía a los usuarios desactivar las fuentes de datos de [!UICONTROL Audience Marketplace] cuando las suscripciones estaban desactivadas (AAM-49640).
+* We've removed invalid global device IDs from global data sources. Consulte Fuentes [de datos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) globales para conocer el aspecto que deben tener los ID de dispositivo válidos para ser aceptados por Audience Manager (AAM-41259).
+* Fixed a bug causing the Segments page to stop responding when you attempt to delete a protected segment (AAM-49881).
+* When editing destinations for Twitter Tailored Audiences, the Account selector is now active only if the destination does not have a  account assigned (AAM-49975).[!DNL Twitter Ads]
+* Fixed a bug preventing users from disabling Audience Marketplace data feeds when subscriptions are disabled (AAM-49640).
 * Se han aplicado varias mejoras relacionadas con la accesibilidad de la interfaz de usuario de Audience Manager.
 
 ## Experience Manager {#aem}
@@ -146,19 +146,19 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
 ### Autoayuda
 
-* **Scene7: Flujo de trabajo de reprocesamiento de recursos**
+* **Scene7: Reprocess Assets workflow**
 
-   Ahora puede volver a procesar los recursos en una carpeta que ya tenga un perfil de procesamiento existente que haya cambiado posteriormente.
-Consulte [Reprocesamiento de recursos en una carpeta después de editar su perfil](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)de procesamiento.
+   You can now reprocess assets in a folder that already has an existing processing profile that you later changed.
+See [Reprocessing assets in a folder after you have edited its processing profile](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
 
-* **Integración de visores de medios dinámicos con Adobe Analytics y Adobe Launch**
+* **Integration of Dynamic Media Viewers with Adobe Analytics and Adobe Launch**
 
-   La extensión de visores de medios dinámicos para Adobe Launch, junto con la versión de visores de medios dinámicos 5.13, permite a los clientes de Dynamic Media, Adobe Analytics y Adobe Launch usar eventos y datos específicos para los visores de medios dinámicos en su configuración de Adobe Launch.
-Consulte [Integración de visores de medios dinámicos con Adobe Analytics y Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
+   The Dynamic Media Viewers extension for Adobe Launch, along with the release of Dynamic Media Viewers 5.13, lets customers of Dynamic Media, Adobe Analytics, and Adobe Launch use events and data specific for the Dynamic Media Viewers in their Adobe Launch configuration.
+See Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)
 
 * **Aplicación de escritorio AEM**
 
-   AEM desktop app 2.0 is now available for creatives, marketers, and line-of-business users, to work with AEM Assets.
+   La aplicación de escritorio AEM 2.0 ya está disponible para usuarios creativos, especialistas en marketing y de línea de negocios para trabajar con Recursos AEM.
 See the AEM desktop app Release notes.[](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
 * **Componentes principales**
@@ -167,13 +167,12 @@ See the AEM desktop app Release notes.[](https://docs.adobe.com/content/help/en/
    * Core Components 2.6.0 introduces an Experience Fragment Component. The component is now available along with authoring documentation and developer details and project download available on GitHub.[](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html)[](https://github.com/adobe/aem-core-wcm-components)
 
 * **AEM Assets**
-   * New documentation for visual/similarity search capability.
+   * Nueva documentación para la funcionalidad de búsqueda visual/de similitudes.
 Consulte [Buscar imágenes](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)similares.
-   * Connected Assets functionality now uses documents that are available on remote DAM deployment, in addition to images file formats.
-See Use Connected Assets to share DAM assets in AEM Sites.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)
-   * Fresh content on asset searching and discovery. The Search assets in AEM topic is your one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips.
-__
-See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)
+   * La funcionalidad Recursos conectados ahora utiliza documentos disponibles en la implementación remota de DAM, además de formatos de archivo de imágenes.
+Consulte [Uso de recursos conectados para compartir recursos DAM en sitios](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)AEM.
+   * Nuevo contenido sobre búsqueda y descubrimiento de recursos. El tema _Buscar recursos en AEM_ es una solución única para obtener información sobre cómo usar, configurar, solucionar problemas, limitaciones y sugerencias.
+Consulte [Buscar recursos en AEM](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html).
 
 ### Recursos adicionales
 
@@ -182,8 +181,8 @@ See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/asset
 * [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [Older Versions of AEM Documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
@@ -193,8 +192,8 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ### Adobe Campaign Classic
 
-* [Campaign Classic 19.1.4 update – build 9032](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032)
-* [Campaign Classic 19.1.6 update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) – build 9035
+* [Actualización](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) de Campaign Classic 19.1.4: compilación 9032
+* [Actualización](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) de Campaign Classic 19.1.6: compilación 9035
 
 ### Recursos adicionales
 
