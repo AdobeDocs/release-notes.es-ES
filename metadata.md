@@ -10,7 +10,7 @@ tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 ---
@@ -37,4 +37,4 @@ En el archivo TOC.md
 | metadatos | qué hace |
 |--- |--- |
 | user-guide-title | Se utiliza como vínculo en el encabezado del artículo |
-| user-guide-url | Abre la página helpx hub |
+| user-guide-url | Abrir la página helpx hub |
