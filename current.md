@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: de octubre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6660591c30a677b429967c0b7dbee6a306ed7f54
+source-git-commit: b4a973b8292ecfd8b203b7fac0b391e42924a7ca
 
 ---
 
@@ -117,7 +117,7 @@ Nuevas funciones y correcciones en Audience Manager.
 **Correcciones y mejoras**
 
 * A todas las cuentas de cliente creadas después del 1 de julio de 2019 se les asignará automáticamente una licencia de [!DNL Tableau] que les permitirá acceder a sus informes. Si su cuenta se creó antes del 1 de julio de 2019 y aún no tiene acceso a sus informes de [!DNL Tableau], póngase en contacto con el Servicio de atención al cliente.
-* Se han eliminado las suscripciones a características de actividad generadas incorrectamente para perfiles de visitantes que no tenían una sincronización de ID con la fuente de datos de características (AAM-45371).
+* Hemos corregido un error que provocaba una generación incorrecta de características de actividad y un aumento artificial de las tasas de coincidencia y los tamaños de audiencia. Tras esta corrección, puede observar disminuciones en el tamaño de los segmentos creados con características de actividad generadas automáticamente. Es un comportamiento normal y esperado (AAM-45371).
 * Se han eliminado los ID de dispositivo globales no válidos de las fuentes de datos globales. Consulte Fuentes [de datos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) globales para conocer el aspecto que deben tener los ID de dispositivo válidos para ser aceptados por Audience Manager (AAM-41259).
 * Se ha corregido un error que hacía que la página Segmentos dejara de responder al intentar eliminar un segmento protegido (AAM-49881).
 * Al editar destinos para Audiencias personalizadas de Twitter, el selector de [!UICONTROL Cuentas] ahora solo está activo si el destino no tiene una cuenta [!DNL Twitter Ads] asignada (AAM-49975).
