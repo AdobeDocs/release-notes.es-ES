@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: de octubre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ef4569f130fe606dc9119a11e288f57205b7c0e
+source-git-commit: 6660591c30a677b429967c0b7dbee6a306ed7f54
 
 ---
 
@@ -81,6 +81,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * Se ha corregido un error de tiempo de espera agotado que impedía cargar segmentos en un Ad Hoc Analysis. (AN-184654)
 * Se ha corregido un error que ocurría cuando el conjunto de informes que utilizó por última vez se ocultaba a continuación o no tenía permiso para acceder al grupo de informes. En este caso, ya no podrá iniciar sesión en Experience Cloud. (AN-181777)
 * Se ha corregido un problema de tiempo de espera agotado en los segmentos que dificultaba la creación de un VRS basado en un segmento. (AN-179684)
+* Se corrigió un problema en el cual los datos se truncaban si había una codificación incorrecta en casos excepcionales. (AN-186707)
+* Los motores de búsqueda Yandex ahora están correctamente desglosados por país. (AN-181728)
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
