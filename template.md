@@ -4,7 +4,7 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: notas de la versión
 last-update: de octubre de 2019
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f29249827ee258caa8f4cc7e78d45ae4e6f84e08
 
 ---
@@ -30,10 +30,10 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
+* [!DNL Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.translate.html) (vínculos a la ayuda de la solución)
+* [!DNL Primetime](https://helpx.adobe.com/es/support/primetime.html) (vínculos a la ayuda de la solución)
 
-## Experience Cloud y Experience Platform{#platform}
+## Experience Cloud y Experience Platform {#platform}
 
 Notas de la versión de Experience Platform, de la interfaz de Experience Cloud, de la administración de productos, de Experience Platform Launch, de Identity Service y de los boletines de seguridad.
 
@@ -42,19 +42,19 @@ Notas de la versión de Experience Platform, de la interfaz de Experience Cloud,
 * [Mobile Services y Mobile SDK](#mobile)
 * [Administración y desarrollador](#admin)
 * [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html) (Todos los productos de Adobe)
 
 ### Servicios principales {#core-services}
 
 Funciones y correcciones.
 
-For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+Para obtener la documentación, consulte [Experience Cloud y Servicios principales](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html)
 
 ### Servicio Experience Cloud ID {#ecid}
 
 Funciones y correcciones.
 
-Para obtener documentación del producto, consulte [Servicio Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+Para obtener documentación del producto, consulte [Servicio Experience Cloud ID](https://marketing.adobe.com/resources/help/es_ES/mcvid/).
 
 ### Mobile Services y Mobile SDK {#mobile}
 
@@ -69,19 +69,19 @@ Descripción de las nuevas funciones. Utilice encabezados o una tabla.
 * Se ha corregido un problema que hacía que se mostrara
 * Se ha corregido un problema que hacía que se mostrara
 
-Para obtener documentación del producto, consulte [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
+Para obtener documentación del producto, consulte [Mobile Services](https://docs.adobe.com/content/help/es-ES/mobile-services/using/home.html).
 
-Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android para soluciones de Experience Cloud 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/android/) y [SDK de iOS para soluciones de Experience Cloud 4.x](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
+Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android para soluciones de Experience Cloud 4.x](https://marketing.adobe.com/resources/help/es_ES/mobile/android/) y [SDK de iOS para soluciones de Experience Cloud 4.x](https://docs.adobe.com/content/help/es-ES/mobile-services/ios/overview.html).
 
 ### Administración y desarrollador {#admin}
 
 Funciones y correcciones.
 
-Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ### Experience Platform Launch {#launch}
 
-Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
+Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.translate.html) para ver notas de la versión y documentación del producto.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -91,7 +91,7 @@ Nuevas funciones y correcciones en Adobe Analytics:
 * [SDK de Media Analytics para iOS y Android (anteriormente SDK de VHL)](#aa-va)
 * [Avisos importantes para los administradores de Analytics](analytics-important-notices.md)
 
-Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+Para obtener documentación del producto, consulte [Inicio de Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.translate.html).
 
 ### Funciones nuevas en Adobe Analytics {#aa-features}
 
@@ -128,7 +128,7 @@ Vea las [Notas de la versión del Data Workbench](https://marketing.adobe.com/re
 * Se ha corregido un problema que hacía que se mostrara
 * Se ha corregido un problema que hacía que se mostrara
 
-Consulte el [Historial de versiones de AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) para ver el historial de versiones de AppMeasurement en las plataformas siguientes:
+Consulte el [Historial de versiones de AppMeasurement](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.translate.html) para ver el historial de versiones de AppMeasurement en las plataformas siguientes:
 
 * JavaScript
 * iOS
@@ -189,13 +189,13 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 
 ### Recursos adicionales
 
-* [Inicio de Información y asistencia de AEM 6.4](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [Inicio de Información y asistencia de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [Inicio de Información y asistencia de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Inicio de Información y asistencia de AEM 6.4](https://helpx.adobe.com/es/support/experience-manager/6-4.html)
+* [Inicio de Información y asistencia de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
+* [Inicio de Información y asistencia de AEM 6.2](https://helpx.adobe.com/es/support/experience-manager/6-2.html)
+* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/es/experience-manager/cloud-manager/user-guide.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/es/experience-manager/aem-previous-versions.html)
 * [Notas de la versión de Scene7 Publishing System](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [Notas de la versión de Livefyre](https://docs.adobe.com/content/help/es-ES/livefyre/using/release-notes/c-rn.translate.html)
 
 ### Livefyre {#livefyre}
 
@@ -246,8 +246,8 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 **Recursos adicionales**
 
-* Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/es/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
