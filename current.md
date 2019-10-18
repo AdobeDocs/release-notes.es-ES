@@ -4,13 +4,13 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: notas de la versión
 last-update: de octubre de 2019
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0371f31dcb1feb368bd8a2937a9f2d9583e208dc
 
 ---
 
 
-# Notas de la versión de Adobe Experience Cloud - Octubre de 2019
+# Notas de la versión de Adobe Experience Cloud: Octubre de 2019
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
 
@@ -26,8 +26,8 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
+* [!DNL Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.translate.html) (vínculos a la ayuda de la solución)
+* [!DNL Primetime](https://helpx.adobe.com/es/support/primetime.html) (vínculos a la ayuda de la solución)
 * [!DNL Advertising Cloud](#adcloud)
 
 <!-- ## Experience Cloud interface {#ecloud}
@@ -44,11 +44,11 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Notas de la versión de Experience Platform, Experience Platform Launch, servicios de identidad y boletines de seguridad.
 
 * [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html) (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
-Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
+Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.translate.html) para ver notas de la versión y documentación del producto.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -58,16 +58,16 @@ Nuevas funciones y correcciones en Adobe Analytics:
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [AppMeasurement](#appm)
 
-Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.translate.html).
 
 ### Nuevas funciones, mejoras y correcciones en Adobe Analytics {#aa-features}
 
 | Función | Descripción |
 | -----------| ---------- |  
-| API de Servicio de privacidad: CCPA | La Ley de Privacidad del Consumidor de California (CCPA) mejora los derechos de privacidad y la protección del consumidor para los residentes de California, Estados Unidos. Esta ley entrará en vigor el 1 de enero de 2020.<br/><br/>La CCPA otorga nuevos derechos de privacidad de datos a los residentes de California, como el derecho a acceder y eliminar sus datos personales, a saber si sus datos personales se venden o revelan (y a quién) y a rechazar la venta de sus datos personales.<br/><br/>En previsión de la CCPA, el Servicio de Privacidad apoyará las solicitudes de exclusión de la venta de datos personales.<br/><br/>El Servicio de privacidad, anteriormente Servicio de RGPD, conserva todas las funciones anteriores, ahora ampliadas para ser compatibles con la CCPA.<br/><br/>[CCPA en](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br/><br/>[AnalyticsInformación general de Privacy Service](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| API de Servicio de privacidad: CCPA | La Ley de Privacidad del Consumidor de California (CCPA) mejora los derechos de privacidad y la protección del consumidor para los residentes de California, Estados Unidos. Esta ley entrará en vigor el 1 de enero de 2020.<br/><br/>La CCPA otorga nuevos derechos de privacidad de datos a los residentes de California, como el derecho a acceder y eliminar sus datos personales, a saber si sus datos personales se venden o revelan (y a quién) y a rechazar la venta de sus datos personales.<br/><br/>En previsión de la CCPA, el Servicio de privacidad aceptará las solicitudes de exclusión de la venta de datos personales.<br/><br/>El Servicio de privacidad, anteriormente Servicio de RGPD, conserva todas las funciones anteriores, ahora ampliadas para ser compatibles con la CCPA.<br/><br/>[CCPA en Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br/><br/>[Información general sobre el Servicio de privacidad](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | Informes de privacidad: Admin Console de Analytics | Al habilitar Informes de privacidad para Analytics, se agrega un conjunto de variables reservadas a un grupo de informes.  Las variables están diseñadas para ayudar en la recopilación de datos de consentimiento del consumidor en el nivel de visita individual.<br/><br/>Nuevas dimensiones:<br/><ul><li>Exclusión en la administración de consentimiento</li><li>Inclusión en la administración de consentimiento</li><li>[Variables de administración de consentimiento](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
-| Análisis de audio y vídeo: Compatibilidad con privacidad | Se han agregado dos nuevas variables a la API de recopilación de medios:<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>Son variables opcionales que se pueden utilizar para recoger el estado del consentimiento del consumidor en el momento de la visita.<br/><br/>[Documentación de la API de recopilación de medios](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>Las nuevas variables de datos de contexto de la Administración de consentimiento de Analytics se han agregado al formulario de Federated Analytics. Estas variables ya están disponibles para su uso al marcar las visitas de exclusión de uso compartido o de venta de visitas para la federación.<br/><br/>[Descargar formulario federado](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace: Actualizar a totales de tabla de forma libre | Las tablas de forma libre ahora incluyen dos totales, un **[!UICONTROL Total de tabla]** y un **[!UICONTROL Total general]**. La fila Total de la tabla cuenta los [filtros de informe](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) aplicados. Anteriormente, solo la segmentación afectaba a los totales. [Obtenga más información](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>Además, se han agregado las opciones **[!UICONTROL Mostrar totales]** y **[!UICONTROL Mostrar total general]** a la **[!UICONTROL Configuración de columna]**.<br/>Con este cambio a los totales de forma libre, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de **[!UICONTROL Número de resumen]** vinculadas), así como los datos CSV y PDF exportados. |
+| Análisis de audio y vídeo: Compatibilidad con privacidad | Se han agregado dos nuevas variables a la API de recopilación de medios:<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>Son variables opcionales que se pueden utilizar para recoger el estado del consentimiento del consumidor en el momento de la visita.<br/><br/>[Documentación de la API de recopilación de medios](https://docs.adobe.com/content/help/es-ES/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>Las nuevas variables de datos de contexto de la Administración de consentimiento de Analytics se han agregado al formulario de Federated Analytics. Estas variables ya están disponibles para su uso al marcar las visitas de exclusión de uso compartido o de venta de visitas para la federación.<br/><br/>[Descargar formulario federado](https://docs.adobe.com/content/help/es-ES/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Analysis Workspace: Actualizar a totales de tabla de forma libre | Las tablas de forma libre ahora incluyen dos totales, un **[!UICONTROL Total de tabla]** y un **[!UICONTROL Total general]**. La fila Total de la tabla cuenta los [filtros de informe](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.translate.html) aplicados. Anteriormente, solo la segmentación afectaba a los totales. [Obtenga más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.translate.html)<br/>Además, se han agregado las opciones **[!UICONTROL Mostrar totales]** y **[!UICONTROL Mostrar total general]** a la **[!UICONTROL Configuración de columna]**.<br/>Con este cambio a los totales de forma libre, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de **[!UICONTROL Número de resumen]** vinculadas), así como los datos CSV y PDF exportados. |
 | Analysis Workspace: Opción para eliminar No especificado/Ninguno | Se ha añadido la funcionalidad de eliminar “No especificado (Ninguno)” con facilidad a los filtros de informe. |
 | Analysis Workspace: Obsolescencia de componentes de granularidad morados | Los componentes de hora de granularidad morados (Minuto, Hora, Día, Semana, Mes, Trimestre, Año) han quedado obsoletos. Los componentes de hora morados siempre se han comportado exactamente como sus equivalentes de dimensión naranjas, por lo que este cambio simplificará la experiencia. No es necesario realizar **ninguna acción** si ha utilizado uno de los componentes de tiempo morados en el pasado.<br/>Con este cambio, se ha cambiado el nombre de la sección morada **[!UICONTROL Hora]** a **[!UICONTROL Intervalos de fecha]**. |
 
@@ -87,10 +87,10 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 | -----------| ---------- | ---------- |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | A partir del 31 de marzo de 2020, Adobe Analytics dejará de ofrecer soporte para TLS 1.1. Este cambio es parte de nuestro trabajo para mantener los estándares de seguridad más altos e impulsar la seguridad de los datos del cliente. |
 | Fin de la administración de datos en el centro de datos de San José para Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no se ofrecerá la administración de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>Para Londres, utilice [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
-| Actualización de los totales de la tabla de forma libre de Analysis Workspace | 12 de septiembre de 2019 | En octubre de 2019, las filas totales de la tabla de forma libre empezarán a contabilizar los [filtros de informe](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) aplicados. Hasta la fecha, los totales solo se han contabilizado para la segmentación. Con este cambio, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de [!UICONTROL Número de resumen] vinculadas), así como los datos CSV y PDF exportados. |
+| Actualización de los totales de la tabla de forma libre de Analysis Workspace | 12 de septiembre de 2019 | En octubre de 2019, las filas totales de la tabla de forma libre empezarán a contabilizar los [filtros de informe](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.translate.html) aplicados. Hasta la fecha, los totales solo se han contabilizado para la segmentación. Con este cambio, se actualizarán las visualizaciones dependientes (por ejemplo, las visualizaciones de [!UICONTROL Número de resumen] vinculadas), así como los datos CSV y PDF exportados. |
 | Próximos cambios en el campo `createDate` para los usuarios de Analytics | 30 de agosto de 2019 | En octubre o noviembre de 2019, el campo `createDate` de los usuarios de Analytics se actualizará de la hora del Pacífico de EE. UU. a un valor de fecha y hora con formato correcto respecto a la información de zona horaria. (AN-183468) |
 | Compatibilidad con desplazamientos históricos de zona horaria | 8 de agosto de 2019 | Analytics ahora gestiona automáticamente los desplazamientos de zona horaria para las visitas con marca de hora. Después de este cambio el 8 de agosto, los sistemas que cargan los datos para el procesamiento histórico ya no necesitarán ajustar los desplazamientos de zona horaria antes de enviar los datos. |
-| Límites del Generador de reglas de clasificación | Añadidos el 5 de junio de 2019 | Estos límites no son nuevos, pero se han agregado a la documentación [aquí](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
+| Límites del Generador de reglas de clasificación | Añadidos el 5 de junio de 2019 | Estos límites no son nuevos, pero se han agregado a la documentación [aquí](https://docs.adobe.com/content/help/es-ES/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.translate.html). |
 | Nuevos límites de operadores de segmentos | Añadidos el 31 de mayo de 2019 | A partir del 18 de julio de 2019, los operadores de segmentos _contiene cualquiera de_, _no contiene ninguno de_, _contiene todo_ y _no contiene todos_ se limitan a 100 palabras por campo de entrada. El límite se aplicará a todos los segmentos nuevos y modificados después de esta fecha. Los segmentos existentes que excedan el límite seguirán siendo compatibles, pero no se podrán modificar ni guardar hasta que se reduzca el número de palabras del campo de entrada. Estos límites se aplican como parte de un intento continuo por mejorar el rendimiento de la consultas. |
 | Próximos cambios de soporte para las **[!UICONTROL clasificaciones numéricas 2]** y con **[!UICONTROL fecha habilitada]** | Actualizado el 28 de mayo de 2019 | Se ha eliminado de la base de código la posibilidad de importar clasificaciones numéricas 2 y fechas activadas. Este cambio entra en vigor con el lanzamiento de mantenimiento de julio de 2019. Si tiene columnas numéricas o con fecha habilitada en el archivo de importación, esas celdas serán omitidas sin aviso y cualquier otra información de ese archivo se importará como de costumbre. <br/>Las clasificaciones existentes se pueden exportar a través del flujo de trabajo de clasificación estándar y seguirán estando disponibles en los informes. |
 | Cambio a los cálculos _Total de informes_ | actualizado el 9 de julio de 2019 | El **18 de junio de 2019**, Adobe Analytics unificará los cálculos _Total de informes_ en todas sus dimensiones y métricas. Por tanto, se cambiarán los totales de algunos informes (Prop o informes de atributos del consumidor). Antes de este cambio, algunos totales de informes no incluían el elemento de línea _Sin especificar_ en el total, independientemente de si el valor _Sin especificar_ aparecía en el informe o no. <br/>A partir del 18 de junio de 2019, el valor _Sin especificar_ aparecerá siempre en el total de los informes, aunque no aparezca en él como un elemento de línea. Además, los segmentos que utilizan la lógica _existe_ o _no existe_ pueden obtener resultados diferentes para algunas dimensiones después de este cambio, específicamente las dimensiones en las que _No especificado_ tiene un nombre especial como el elemento de línea "Escritos o marcadores" para la dimensión Tipo de referente o el elemento de línea "Otro" para la dimensión Tipo de dispositivo. Este cambio afectará a Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder y a la API de informes. |
@@ -105,7 +105,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### [!DNL AppMeasurement] {#appm}
 
-Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
+Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.translate.html).
 
 ## Audience Manager {#aam}
 
@@ -115,7 +115,7 @@ Nuevas funciones y correcciones en Audience Manager.
 
 * A todas las cuentas de cliente creadas después del 1 de julio de 2019 se les asignará automáticamente una licencia de [!DNL Tableau] que les permitirá acceder a sus informes. Si su cuenta se creó antes del 1 de julio de 2019 y aún no tiene acceso a sus informes de [!DNL Tableau], póngase en contacto con el Servicio de atención al cliente.
 * Hemos corregido un error que provocaba una generación incorrecta de características de actividad y un aumento artificial de las tasas de coincidencia y de los tamaños de audiencia. Tras esta corrección, puede observar disminuciones en el tamaño de los segmentos creados con características de actividad generadas automáticamente. Es un comportamiento normal y esperado (AAM-45371).
-* Se han eliminado los ID de dispositivo globales no válidos de las fuentes de datos globales. Consulte [Fuentes de datos globales](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) para conocer el aspecto que deben tener los ID de dispositivo válidos para ser aceptados por Audience Manager (AAM-41259).
+* Se han eliminado los ID de dispositivo globales no válidos de las fuentes de datos globales. Consulte [Fuentes de datos globales](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/data-sources/global-data-sources.html) para conocer el aspecto que deben tener los ID de dispositivo válidos para ser aceptados por Audience Manager (AAM-41259).
 * Se ha corregido un error que hacía que la página Segmentos dejara de responder al intentar eliminar un segmento protegido (AAM-49881).
 * Al editar destinos para Audiencias personalizadas de Twitter, el selector de [!UICONTROL Cuentas] ahora solo está activo si el destino no tiene una cuenta [!DNL Twitter Ads] asignada (AAM-49975).
 * Se ha corregido un error que impedía a los usuarios desactivar las fuentes de datos de [!UICONTROL Audience Marketplace] cuando las suscripciones estaban desactivadas (AAM-49640).
@@ -130,38 +130,38 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 * **Cloud Manager 2019.9.0**
 
    * Cloud Manager 2019.9.0, publicado el 12 de septiembre de 2019, actualiza los criterios de prueba de seguridad, agrega gráficos de supervisión descargables y corrige algunos problemas de uso informados por los clientes.
-   * [Notas de la versión](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+   * [Notas de la versión](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 ### Mantenimiento del producto
 
 * **AEM 6.3.3.6**
 
    AEM 6.3 Service Pack 3, Cumulative Fix Pack 6 (6.3.3.6 publicada el 25 de septiembre de 2019) es una actualización importante que incluye correcciones claves de cliente publicadas tras el lanzamiento general de AEM 6.3 en abril de 2017.
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
-   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.6.0**
 
    AEM 6.4 Service Pack 6,0 (6.4.6.0, publicado el jueves, 19 de septiembre de 2019) es una actualización importante que incluye correcciones claves del cliente realizadas tras la publicación general de AEM 6.4 en abril de 2018.
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/6-4/release-notes/sp-release-notes.html)
+   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.5.2.0**
 AEM 6.5, Service Pack 2.0 (6.5.2.0 publicado el 19 de septiembre de 2019) es una actualización importante que incluye correcciones claves del cliente realizadas tras el lanzamiento general de AEM 6.5 en abril de 2019.
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/6-5/release-notes/sp-release-notes.html)
+   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 ### Autoayuda
 
 * **Scene7: Flujo de trabajo de reprocesamiento de recursos**
 
    Ahora puede volver a procesar los recursos en una carpeta que ya tenga un perfil de procesamiento existente cambiado a posteriori.
-Consulte [Reprocesamiento de recursos en una carpeta después de editar su perfil de procesamiento](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
+Consulte [Reprocesamiento de recursos en una carpeta después de editar su perfil de procesamiento](https://helpx.adobe.com/es/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
 
 * **Integración de visores de Dynamic Media con Adobe Analytics y Adobe Launch**
 
    La extensión de visores de Dynamic Media para Experience Platform Launch, junto con la versión de visores de Dynamic Media 5.13, permite a los clientes de Dynamic Media, Adobe Analytics y Experience Platform Launch usar eventos y datos específicos para los visores de Dynamic Media en su configuración de Launch.
-Consulte [Integración de visualizadores de Dynamic Media con Adobe Analytics y Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
+Consulte [Integración de visualizadores de Dynamic Media con Adobe Analytics y Adobe Launch](https://helpx.adobe.com/es/experience-manager/6-5/assets/using/launch.html).
 
 * **Aplicación de escritorio AEM**
 
@@ -171,27 +171,27 @@ Consulte las [notas de la versión de la aplicación de escritorio de AEM.](http
 * **Componentes principales**
    * Obtenga información sobre las funciones de localización de los componentes principales y cómo funcionan con las plantillas de AEM.
       [Consulte el ejemplo](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html).
-   * Core Components 2.6.0 presenta un componente de fragmento de experiencia. El componente ya está disponible junto con la [documentación de redacción](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) y los [detalles del desarrollador y la descarga del proyecto disponibles en GitHub](https://github.com/adobe/aem-core-wcm-components).
+   * Core Components 2.6.0 presenta un componente de fragmento de experiencia. El componente ya está disponible junto con la [documentación de redacción](https://docs.adobe.com/content/help/es-ES/experience-manager-core-components/using/introduction.html) y los [detalles del desarrollador y la descarga del proyecto disponibles en GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **AEM Assets**
    * Nueva documentación para la funcionalidad de búsqueda visual/de similitudes.
-Consulte [Buscar imágenes similares](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch).
+Consulte [Buscar imágenes similares](https://helpx.adobe.com/es/experience-manager/6-5/assets/using/search-assets.html#visualsearch).
    * La funcionalidad Recursos conectados ahora utiliza documentos disponibles en la implementación remota de DAM, además de formatos de archivo de imágenes.
-Consulte [Uso de recursos conectados para compartir recursos DAM en AEM Sites](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html).
+Consulte [Uso de recursos conectados para compartir recursos DAM en AEM Sites](https://helpx.adobe.com/es/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html).
    * Nuevo contenido sobre búsqueda y descubrimiento de recursos. El tema _Buscar recursos en AEM_ es una solución única para obtener información sobre los usos, las configuraciones, la solución de problemas, las limitaciones y las sugerencias.
-Consulte [Buscar recursos en AEM](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html).
+Consulte [Buscar recursos en AEM](https://helpx.adobe.com/es/experience-manager/6-5/assets/using/search-assets.html).
 
 ### Recursos adicionales
 
-* [Página de inicio de Learn &amp; Support de AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.5](https://helpx.adobe.com/es/support/experience-manager/6-5.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/es/support/experience-manager/6-4.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/es/support/experience-manager/6-2.html)
+* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/es/experience-manager/cloud-manager/user-guide.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/es/experience-manager/aem-previous-versions.html)
+* [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/es-ES/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [Notas de la versión de Livefyre](https://docs.adobe.com/content/help/es-ES/livefyre/using/release-notes/c-rn.translate.html)
 
 ## [!DNL Campaign] {#ac}
 
@@ -199,13 +199,13 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ### Adobe Campaign Classic
 
-* [Actualización](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) de Campaign Classic 19.1.4: nueva compilación 9032
+* [Actualización de Campaign Classic 19.1.4](https://docs.campaign.adobe.com/doc/AC/es/RN.html#9032): Nueva compilación 9032
 * [Actualización de Campaign Classic 19.1.6](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035): compilación 9035
 
 ### Recursos adicionales
 
-* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - Planificación [de versiones](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de versiones](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/es/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
@@ -213,10 +213,10 @@ Actualización de la versión del 12 de octubre de 2019
 
 | Ver | Función |
 |------|---------|
-| Buscar campañas | Advertising Cloud ahora puede sincronizar y proporcionar un seguimiento de nivel de publicidad para las cuentas de Yahoo! Japón Display Network. Si proporciona detalles de inicio de sesión para una cuenta, todas las campañas, grupos de publicidad y publicidades existentes en la cuenta estarán disponibles como de solo lectura en las vistas de administración de campañas. Los datos de clics, costos, conversiones y otros datos de rendimiento están disponibles en las vistas de administración de campañas y en los informes básicos y avanzados. |
-|  | (Anunciantes con Google Analytics) La búsqueda en la nube de publicidad puede sincronizar métricas de conversión para una cuenta, propiedad y combinación de vistas de Google Analytics específica para la optimización y los informes. Las vistas de página, las sesiones, la tasa de devoluciones (calculada como devoluciones/sesiones) y la duración de la sesión se incluyen automáticamente. Puede incluir hasta 16 métricas adicionales por fuente de datos. |
-|  | (Cuentas de Google Ads existentes para anunciantes con una integración de Advertising Cloud y Adobe Analytics) Hay un nuevo formato disponible para el código de seguimiento s_kwcid, que permite a Advertising Cloud compartir datos sobre la cuenta con la capacidad de informes y análisis de Adobe Analytics. El formato más reciente incluye parámetros para el ID de campaña y el ID de grupo de publicidad, que son necesarios para informar con precisión en los niveles de campaña y grupo de publicidad para las campañas de Google Drafts and Experiments en Analytics. Si las cuentas de Google existentes incluyen campañas de Google Drafts y Experimentos, edite la configuración de Seguimiento de cuentas para cada cuenta individual para migrar al nuevo s_kwcid. Si no tiene campañas de Google Drafts and Experiments, la migración al nuevo formato es opcional. Nota: Todas las cuentas nuevas de Google utilizan automáticamente el nuevo formato. |
-| Buscar en Advanced Campaign Management (ACM) | (Campañas de Google Ads) Ahora puede configurar los sufijos de URL final de nivel de campaña para las plantillas de publicidad de texto y de compra de Google. |
+| Buscar campañas | Advertising Cloud ahora puede sincronizar y proporcionar un seguimiento de nivel de publicidad para las cuentas de Yahoo! Japón Display Network. Si proporciona detalles de inicio de sesión para una cuenta, todas las campañas, grupos de publicidad y anuncios existentes en la cuenta estarán disponibles solo para lectura en las vistas de administración de campañas. Los datos de clics, costos, conversiones y otros datos de rendimiento están disponibles en las vistas de administración de campañas y en los informes básicos y avanzados. |
+|  | (Anunciantes con Google Analytics) Advertising Cloud Search puede sincronizar métricas de conversión para una cuenta, propiedad y combinación de vistas de Google Analytics específica para la optimización y la creación de informes. Las vistas de página, las sesiones, la tasa de salida hacia otro sitio (calculada como salidas hacia otro sitio/sesiones) y la duración de la sesión se incluyen automáticamente. Puede incluir hasta 16 métricas adicionales por fuente de datos. |
+|  | (Cuentas de Google Ads existentes para anunciantes con una integración de Advertising Cloud y Adobe Analytics) Hay un nuevo formato disponible para el código de seguimiento s_kwcid, que permite que Advertising Cloud comparta datos sobre la cuenta con la capacidad de creación de informes y análisis de Adobe Analytics. El formato más reciente incluye parámetros para el ID de campaña y el ID de grupo de publicidad, que son necesarios para informar con precisión en los niveles de campaña y grupo de publicidad para las campañas de Google Drafts and Experiments en Analytics. Si las cuentas de Google existentes incluyen campañas de Google Drafts and Experiments, edite la configuración de Seguimiento de cuentas para cada cuenta individual para migrar al nuevo s_kwcid. Si no tiene campañas de Google Drafts and Experiments, la migración al nuevo formato es opcional. Nota: todas las cuentas nuevas de Google utilizan automáticamente el nuevo formato. |
+| Buscar en Advanced Campaign Management (ACM) | (Campañas de Google Ads) Ahora puede configurar los sufijos de URL a nivel de campaña para las plantillas de publicidad de texto de Google y de compra. |
 |  | (Campañas de Google Ads) Los campos opcionales "Titular 3" y "Descripción 2" están disponibles para las publicidades de texto expandido de Google. |
-| Informes | Las siguientes métricas de uso compartido de impresiones de Bing Ads, que se suspendieron con la última API de Bing Ads, no se recopilan después del 11 de octubre:  Buscar IS% perdido en clasificación, Buscar IS% perdido en oferta (Bing), Buscar IS% perdido en relevancia de página (Bing) y Buscar IS% perdido en relevancia de palabra clave (Bing). Las métricas recopiladas anteriormente siguen estando disponibles para los informes. |
-| Integración de Adobe Analytics | (Solo anunciantes con Adobe Analytics) En Analysis Workspace, la dimensión "Dispositivo (AMO ID)", que nunca ha recopilado datos, ya no está disponible. Para informar sobre los datos de Analytics en línea, utilice la dimensión "Tipo de dispositivo móvil". Para informar sobre las métricas de tráfico de los motores de búsqueda (como clics, costos e impresiones) por tipo de dispositivo, siga utilizando los informes en la búsqueda de Advertising Cloud. |
+| Informes | Las siguientes métricas de cuota de impresiones de Bing Ads, que se suspendieron con la última API de Bing Ads, no se recopilan después del 11 de octubre:  Buscar IS% perdido en clasificación, Buscar IS% perdido en oferta (Bing), Buscar IS% perdido en relevancia de página (Bing) y Buscar IS% perdido en relevancia de palabra clave (Bing). Las métricas recopiladas anteriormente siguen estando disponibles para la creación de informes. |
+| Integración de Adobe Analytics | (Solo anunciantes con Adobe Analytics) En Analysis Workspace, la dimensión "Dispositivo (AMO ID)", que nunca ha recopilado datos, ya no está disponible. Para informar sobre los datos de Analytics en línea, utilice la dimensión "Tipo de dispositivo móvil". Para informar sobre las métricas de tráfico de los motores de búsqueda (como clics, costos e impresiones) por tipo de dispositivo, siga utilizando la creación de informes en Advertising Cloud Search. |
