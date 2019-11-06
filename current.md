@@ -5,12 +5,12 @@ doc-type: notas de la versión
 last-update: Noviembre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 69b1516bd6bea67429843ba6a47082bf7e211a4c
+source-git-commit: 0fba1b7a9cef1262a4fa03188ba81b1d1a15a2e4
 
 ---
 
 
-# Notas de la versión de Adobe Experience Cloud - Noviembre de 2019
+# Notas de la versión de Adobe Experience Cloud, noviembre de 2019
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
 
@@ -28,7 +28,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
 * [!DNL Advertising Cloud](#adcloud) (Actualización: 11/1)
 
-¿Busca ayuda en casa? See [Experience Cloud Learn &amp; Support](https://helpx.adobe.com/support/experience-cloud.html).
+¿Busca ayuda en casa? Consulte [Formación y asistencia para Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html).
 
 ## Interfaz de Experience Cloud {#ecloud}
 
@@ -68,7 +68,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 | Función | Descripción |
 | -----------| ---------- | 
-| Análisis de Recorrido del cliente | El 21 de noviembre de 2019, Adobe hará que [Análisis de Recorrido del cliente](https://www.adobe.com/analytics/customer-journey-analytics.html) esté disponible como complemento de Adobe Analytics.<br><br/>El Ánalisis del Recorrido del cliente permite obtener todos los datos de clientes desde cualquier canal: tanto en línea como sin conexión e importarlos en Adobe Experience Platform y, a continuación, analizarlos del mismo modo que lo haría con los datos digitales actuales con Analysis Workspace. El Análisis del Recorrido del cliente permite controlar cómo conectar los datos en línea y sin conexión en Analysis Workspace en cualquier ID de cliente común, lo que permite realizar procesos de atribución, segmentación, flujo, abandonos, etc. en todo el conjunto de datos de clientes de Adobe Analytics.<br><br/>Los clientes de Analytics Select, Prime y Ultimate pueden adquirir este producto adicional. Póngase en contacto con el equipo de su cuenta de Adobe para obtener más información. |
+| Análisis de Recorrido del cliente | On November 21, 2019, [Customer Journey Analytics](https://www.adobe.com/analytics/customer-journey-analytics.html) becomes available as an add-on to Adobe Analytics.<br><br/>El análisis de viajes de clientes le permite traer los datos de clientes desde cualquier canal que elija: tanto en línea como fuera de línea — en la plataforma de Adobe Experience y, a continuación, analice estos datos del mismo modo que lo haría con los datos digitales actuales mediante Analysis Workspace. El Análisis del Recorrido del cliente permite controlar cómo conectar los datos en línea y sin conexión en Analysis Workspace en cualquier ID de cliente común, lo que permite realizar procesos de atribución, segmentación, flujo, abandonos, etc. en todo el conjunto de datos de clientes de Adobe Analytics.<br><br/>Los clientes de Analytics Select, Prime y Ultimate pueden adquirir este producto adicional. Póngase en contacto con el equipo de su cuenta de Adobe para obtener más información. |
 | API de Servicio de privacidad: CCPA | La Ley de Privacidad del Consumidor de California (CCPA) mejora los derechos de privacidad y la protección del consumidor para los residentes de California, Estados Unidos. Esta ley entrará en vigor el 1 de enero de 2020.<br><br/>La CCPA otorga nuevos derechos de privacidad de datos a los residentes de California, como el derecho a acceder y eliminar sus datos personales, a saber si sus datos personales se venden o revelan (y a quién) y a rechazar la venta de sus datos personales.<br><br/>En previsión de la CCPA, el Servicio de privacidad aceptará las solicitudes de exclusión de la venta de datos personales.<br><br/>El Servicio de privacidad, anteriormente Servicio de RGPD, conserva todas las funciones anteriores, ahora ampliadas para ser compatibles con la CCPA.<br/><br/>[CCPA en Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[Información general sobre el Servicio de privacidad](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | Informes de privacidad: Admin Console de Analytics | Al habilitar Informes de privacidad para Analytics, se agrega un conjunto de variables reservadas a un grupo de informes.  Las variables están diseñadas para ayudar en la recopilación de datos de consentimiento del consumidor en el nivel de visita individual.<br><br/>Nuevas dimensiones:<br/><ul><li>Exclusión en la administración de consentimiento</li><li>Inclusión en la administración de consentimiento</li><li>[Variables de administración de consentimiento](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
 | Análisis de audio y vídeo: Compatibilidad con privacidad | Se han agregado dos nuevas variables a la API de recopilación de medios:<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>Son variables opcionales que se pueden utilizar para recoger el estado del consentimiento del consumidor en el momento de la visita.<br/><br/>[Documentación de la API de recopilación de medios](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>Las nuevas variables de datos de contexto de la Administración de consentimiento de Analytics se han agregado al formulario de Federated Analytics. Estas variables ya están disponibles para su uso al marcar las visitas de exclusión de uso compartido o de venta de visitas para la federación.<br/><br/>[Descargar formulario federado](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
