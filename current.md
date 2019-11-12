@@ -5,7 +5,7 @@ doc-type: notas de la versión
 last-update: Noviembre de 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9a17edded46ddd9f95ea3c849e23bc1962075174
+source-git-commit: 72028146219c6244c501e55e30c03de925c54b3c
 
 ---
 
@@ -26,7 +26,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
-* [!DNL Advertising Cloud](#adcloud) (actualizado el 1/11)
+* [!DNL Advertising Cloud](#adcloud) (actualizado el 8/11)
 
 ¿Busca ayuda en casa? Consulte [Formación y asistencia para Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html).
 
