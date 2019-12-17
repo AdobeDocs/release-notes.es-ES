@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b12f367551ffabf44c8f1f983acbd10afee78c3f
+source-git-commit: c8dca487e2a2f4992b7850632a8219ccca269713
 
 ---
 
@@ -29,6 +29,17 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [!DNL Advertising Cloud](#adcloud) (actualizado el 8/11)
 
 ¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+<!-- ## Status.adobe.com
+
+Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Self-subscription to pro-active notifications | <ul><li>Select products from Experience Cloud, Creative Cloud, Document Cloud</li><li>Item</li><li>Item</li></ul> |
+|Notifications preferences management | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized and faster email delivery | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized in-product notifications | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+ -->
 
 ## Interfaz de Experience Cloud {#ecloud}
 
@@ -49,7 +60,7 @@ Notas de la versión de Experience Platform, Experience Platform Launch, servici
 
 * [Notas de la versión de la plataforma de experiencias](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)  (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
@@ -80,7 +91,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación  o actualizada | Descripción |
+| Aviso | Fecha de incorporación   o actualizada | Descripción |
 | -----------| ---------- | ---------- |
 | Fecha de fin de uso de la opción **[!UICONTROL Ver archivo]** | 30 de octubre de 2019 | Anuncio de la fecha de finalización en enero de 2020 de la opción **[!UICONTROL Ver archivo]** en el Administrador de paneles (**[!UICONTROL Componentes &gt; Paneles]**). |
 | Fecha de fin de uso de la opción **[!UICONTROL Aplicar restricciones de inicio de sesión con IP]** | 30 de octubre de 2019 | Anuncio de la fecha de finalización en enero de 2020 de la creación de listas de IP de inicio de sesión admitidas (**[!UICONTROL Aplicar restricciones de inicio de sesión con IP]**) en el menú **[!UICONTROL Administración &gt; Configuración de la compañía &gt; Seguridad]**. |
