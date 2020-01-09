@@ -3,20 +3,20 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
 user-guide-url: https://www.adobe.com
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8673b8dc95023d169ebde1c96eb05cdb12b47c3a
 
 ---
 
 
-# Notas de la versión de Experience Cloud {#experience-cloud}
+# Notas de la versión de Experience Cloud  {#experience-cloud}
 
 + [Notas de la versión](current.md)
 + Notas de la versión anterior {#previous}
    + 2019 {#2019}
       + [Noviembre de 2019](c-legacy-releases/2019/10312019.md)
-      + [de octubre de 2019](c-legacy-releases/2019/10102019.md)
-      + [de septiembre de 2019](c-legacy-releases/2019/09122019.md)
+      + [Octubre de 2019](c-legacy-releases/2019/10102019.md)
+      + [Septiembre de 2019](c-legacy-releases/2019/09122019.md)
       + [Agosto de 2019](c-legacy-releases/2019/08082019.md)
       + [Julio de 2019](c-legacy-releases/2019/07182019.md)
       + [Junio de 2019](c-legacy-releases/2019/06132019.md)
@@ -28,7 +28,7 @@ source-git-commit: 8673b8dc95023d169ebde1c96eb05cdb12b47c3a
    + 2018 {#2018}
       + [Noviembre de 2018](c-legacy-releases/2018/11012018.md)
       + [Octubre de 2018](c-legacy-releases/2018/10112018.md)
-      + [2018 de septiembre](c-legacy-releases/2018/09132018.md)
+      + [Septiembre de 2019](c-legacy-releases/2018/09132018.md)
       + [Agosto de 2018](c-legacy-releases/2018/08092018.md)
       + [Julio de 2018](c-legacy-releases/2018/07192018.md)
       + [Junio de 2018](c-legacy-releases/2018/06142018.md)
@@ -55,7 +55,7 @@ source-git-commit: 8673b8dc95023d169ebde1c96eb05cdb12b47c3a
       + [Septiembre de 2016](c-legacy-releases/2016/09152016.md)
       + [Agosto de 2016](c-legacy-releases/2016/08182016.md)
       + [Julio de 2016](c-legacy-releases/2016/07212016.md)
-      + [junio de 2016](c-legacy-releases/2016/06162016.md)
+      + [Junio de 2016](c-legacy-releases/2016/06162016.md)
       + [Mayo de 2016](c-legacy-releases/2016/05192016.md)
       + [Abril de 2016](c-legacy-releases/2016/04212016.md)
       + [Marzo de 2016](c-legacy-releases/2016/03172016.md)
