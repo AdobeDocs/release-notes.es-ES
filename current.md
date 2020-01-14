@@ -195,6 +195,14 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
 ### Versiones de productos
 
+* **NUEVO:AEM como servicio de nube**
+
+   [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html) (AEM) ya está disponible como servicio de nube.
+
+   * [Introducción](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
+   * [Información de versión](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
+   * [Documentación](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+
 * **Servicio automatizado de conversión de formularios**
 
    El Servicio de conversión automatizada de formularios, el servicio para convertir automáticamente formularios PDF a hermosos formularios HTML preparados para dispositivos móviles, se puso a disposición para el consumo general el 12 de diciembre de 2019.
@@ -220,6 +228,7 @@ Consulte [Vista previa de recursos](https://docs.adobe.com/content/help/en/exper
 
 ### Recursos adicionales
 
+* [AEM como servicio de nube](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
