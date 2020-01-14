@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b0f2fe07102a20e343f69b1c156f48ca4f284966
+source-git-commit: 7ec12529edf495c36cc153028458257939782e41
 
 ---
 
@@ -63,7 +63,8 @@ Adobe está actualizando el encabezado de interfaz y dominio para unificar y mej
 
 Las actualizaciones incluyen:
 
-* Nuevas direcciones URL de la solución: `experience.adobe.com/<application name>.` Todos los productos finalmente adoptarán este patrón de URL. Busque nuevas direcciones URL que entren en vigor durante todo el mes.
+* Nuevas direcciones URL de la solución: `experience.adobe.com/<application name>.` Todos los productos finalmente adoptarán este patrón de URL. Busque nuevas direcciones URL que entren en vigor durante todo el mes. Notas:
+   * El cambio de dominio puede causar problemas de cookies en Safari. Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de Safari.
 * Es más fácil cambiar entre las organizaciones o a otra aplicación.
 * Ayuda del producto mejorada: [!UICONTROL Experience League] está integrada en el producto, por lo que una búsqueda de ayuda también incluye resultados de foros de la comunidad y contenido de vídeo. Este cambio simplifica el acceso a más contenido y le ayuda a sacar el máximo provecho de Experience Cloud. Además, haga clic en **[!UICONTROL Ayuda]**>**[!UICONTROL  Comentarios]** para informar sobre problemas o compartir sus ideas con Adobe.
 * Notificaciones mejoradas: El menú desplegable [!UICONTROL Notificaciones] ahora tiene dos fichas, una para sus propias notificaciones de productos y otra para los anuncios de productos globales.
@@ -88,7 +89,7 @@ Notas de la versión de Experience Platform, Experience Platform Launch, servici
 
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
@@ -131,7 +132,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación   o actualizada | Descripción |
+| Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
 | Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio - `https://experience.adobe.com/analytics.`<br>**Nota **: Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>El cambio de dominio puede provocar problemas de cookies al cargar Analytics en Safari. Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de Safari.</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)específicos.</li></ul> |
 | Fin de vida útil: API heredadas de Analytics | 9 de enero de 2020 | En noviembre de 2020, los siguientes servicios de API heredadas de Analytics llegarán a su fin de vida útil y se cerrarán. Las integraciones actuales creadas con estos servicios dejarán de funcionar. <ul><li>1.3 API de Analytics</li><li>1.4 API de análisis SOAP</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos proporcionado las preguntas más frecuentes [de EOL de la API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) heredada para ayudarle a responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las API [1.4 de Analytics REST o a las API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) de Analytics [](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email)2.0. Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de [Adobe IO](https://console.adobe.io/home?mv=email) Analytics, que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
@@ -158,7 +159,7 @@ Correcciones y funciones agregadas a Audience Manager.
 ### Correcciones y mejoras {#aam-fixes-and-improvements}
 
 * Se corrigió un problema en el flujo de trabajo [!UICONTROL Crear destino] en el cual, al seleccionar Plataformas ****integradas como[!UICONTROL categoría], desaparecía la sección Informaciónbásica y el flujo de trabajo era imposible de completar. (AAM-52397, AAM-52414)
-* Se ha corregido un error por el que la página [!UICONTROL Crear/editar] destinos no se cargaba en los navegadores Apple Safari y Mozilla Firefox. (AAM-51784)
+* We fixed a bug where the [!UICONTROL Create/edit] destinations page would not load in the Apple Safari and Mozilla Firefox browsers. (AAM-51784)
 
 ## Experience Manager {#aem}
 
