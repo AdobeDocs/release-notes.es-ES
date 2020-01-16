@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d92cffebc2db7e6a6d7d7b531390b6e307b2943e
+source-git-commit: e49bdb89cd3cf434a4932d1669d6f3a2df973769
 
 ---
 
@@ -65,7 +65,7 @@ Las actualizaciones incluyen:
 
 * Nuevas direcciones URL de la solución: `experience.adobe.com/<application name>`:
    * Todos los productos finalmente adoptarán este patrón de URL. Busque nuevas direcciones URL que entren en vigor durante todo el mes.
-   * Los exploradores admitidos son [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]y [!DNL Opera] (versiones más recientes).
+   * Compatibilidad con navegadores:Los exploradores admitidos son [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]y [!DNL Opera] (versiones más recientes). **** Nota: Aunque la interfaz de Experience Cloud admite estos exploradores, es posible que las soluciones individuales no admitan todos los exploradores. (Por ejemplo, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) no es compatible [!DNL Opera]y [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) no lo es [!DNL Safari]).
    * ([!DNL Safari] solo) El cambio de dominio puede causar problemas de cookies en [!DNL Safari]. Unchecking _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * Es más fácil cambiar entre las organizaciones o a otra aplicación.
 * Ayuda del producto mejorada: [!UICONTROL Experience League] está integrada en el producto, por lo que una búsqueda de ayuda también incluye resultados de foros de la comunidad y contenido de vídeo. Este cambio simplifica el acceso a más contenido y le ayuda a sacar el máximo provecho de Experience Cloud. Además, haga clic en **[!UICONTROL Ayuda]**>**[!UICONTROL  Comentarios]** para informar sobre problemas o compartir sus ideas con Adobe.
