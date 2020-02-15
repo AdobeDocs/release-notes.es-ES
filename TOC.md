@@ -3,8 +3,8 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
 user-guide-url: https://www.adobe.com
-translation-type: ht
-source-git-commit: 8673b8dc95023d169ebde1c96eb05cdb12b47c3a
+translation-type: tm+mt
+source-git-commit: bb9cc4856218b48644a6198260e411d7742de61f
 
 ---
 
@@ -13,6 +13,8 @@ source-git-commit: 8673b8dc95023d169ebde1c96eb05cdb12b47c3a
 
 + [Notas de la versión](current.md)
 + Notas de la versión anterior {#previous}
+   + 2020 {#2020}
+      + [Enero de 2020](c-legacy-releases/2020/01162020.md)
    + 2019 {#2019}
       + [Noviembre de 2019](c-legacy-releases/2019/10312019.md)
       + [Octubre de 2019](c-legacy-releases/2019/10102019.md)
