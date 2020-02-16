@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d61884a3de7bd7c8d32fb9dc88727e82083ca5c1
+source-git-commit: 0a9f95d1d9a2bba69cecada0d0c39f70e507c995
 
 ---
 
@@ -30,7 +30,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Servicios principales e interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services y Mobile SDK](#mobile)
-* [!DNL Analytics](#analytics) **(Actualizado el 21 de enero 2020)**
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
