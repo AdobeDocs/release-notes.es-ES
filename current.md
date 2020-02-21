@@ -5,17 +5,14 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 71ba31c62c66771c16273131db3b72bbaa614d52
+source-git-commit: c62d85f09ce596482a019aa5d0f1d517bf2df9fe
 
 ---
 
 
-# Acceso anticipado - Notas de la versión de Adobe Experience Cloud - Febrero de 2020
+# Notas de la versión de Adobe Experience Cloud - Febrero de 2020
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
-
->[!IMPORTANT]
->Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeta a cambios antes de su publicación planificada.
 
 >[!NOTE]
 >Para recibir notificaciones por correo electrónico sobre próximas versiones, suscríbase a [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html). La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
@@ -209,16 +206,13 @@ Consulte Plataformas [admitidas para AEM Forms en JEE](https://docs.adobe.com/co
 
 Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes privados a través de canales de marketing en línea y sin conexión. Ahora puede anticipar los deseos de los clientes mediante experiencias basadas en sus hábitos y preferencias.
 
-### Campaign Classic
+### Campaign Classic 19.2.3
 
-* [Campaign Classic 20.1](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
-* [Actualización de Campaign Classic 19.2.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
+Consulte las [Notas de la versión de Adobe Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) para saber más sobre las correcciones y mejoras.
 
-### Campaign Standard
+### Campaign Standard 20.1
 
-* [Actualización de Campaign Standard 20.1.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
-* [Actualización de Campaign Standard 20.1.2](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
-* [Campaign Standard 20.1](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
+Consulte las [Notas de la versión de Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) para saber más sobre las correcciones y mejoras.
 
 ### Recursos adicionales
 
