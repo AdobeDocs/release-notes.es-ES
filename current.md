@@ -102,7 +102,7 @@ Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/lau
 
 ## Mobile Services y Mobile SDK {#mobile}
 
-**4 de febrero de 2020: Versión 4.19.0**
+4 de febrero de 2020: Versión 4.19.0
 
 En esta versión se realizó la siguiente actualización:
 
@@ -266,14 +266,14 @@ See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/di
 
 Las siguientes funciones se lanzarán durante todo el trimestre:
 
-| Ver | Función |
+| Función | Descripción |
 |------|---------|
 | [!DNL Bizible] | <ul><li>Nueva segmentación basada en cuentas</li><li>Guardar filtros específicos del tablero</li><li>Exportación de tableros bisibles como archivos PDF</li></ul> |
 | Conexión de ventas | Actualizaciones y mejoras de la ventana de composición y del centro de comandos |
 
 ### Anuncios
 
-**・ Centro** de éxito de participación del comerciante: Lanzamiento en febrero de 2020. El Centro de éxito es un centro de ayuda dentro del producto que le permite buscar documentos de producto y la comunidad, iniciar guías de procedimientos, acceder al contenido de adopción y mucho más. Nota: Esta función se lanzará como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
+**** Centro de éxito de participación en marketing: Lanzamiento en febrero de 2020. El Centro de éxito es un centro de ayuda dentro del producto que le permite buscar documentos de producto y la comunidad, iniciar guías de procedimientos, acceder al contenido de adopción y mucho más. Nota: Esta función se lanzará como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
 
 ### Desventajas
 
