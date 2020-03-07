@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ecee1c664485d710a62c9455e64eea3a16966780
+source-git-commit: e9fdb1166b47f17256afeaa7bced60f884de8d16
 
 ---
 
@@ -128,6 +128,12 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 * Se ha corregido un problema en [!UICONTROL Informes y análisis] que impedía descargar `.xls` informes.(AN-206541, AN-204008)
 * La implementación de un nuevo shell solucionó varios problemas con los clientes relacionados con el cambio de organizaciones de Experience Cloud.(AN-200844, AN-186920)
+* Se corrigió un problema en el cual al realizar un desglose en el elemento de línea _No especificado_ (o en algunos otros elementos de línea de informes) sin incluir _No especificado (Ninguno)_ en los filtros de búsqueda del desglose, no se obtendrían resultados en el desglose.
+* Se corrigió un problema que se producía al usar una dimensión clasificada, el total de la métrica de entrada o salida no coincidía con el total del elemento de línea de un desglose.
+* Se corrigió un problema en el cual los modelos de primer toque y último toque en IQ de atribución no calculaban correctamente el crédito para algunos elementos de línea en algunas dimensiones predeterminadas.
+* Se corrigió un problema en el cual el desglose de una dimensión de fecha por otra dimensión de fecha devolvía resultados incorrectos.
+* Se corrigió un problema en el cual a veces las métricas de entrada o salida se contaban incorrectamente al aplicarse a &quot;No especificado&quot; en un informe de dimensión clasificado.
+
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
