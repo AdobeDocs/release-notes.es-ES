@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e9fdb1166b47f17256afeaa7bced60f884de8d16
+source-git-commit: 101b94ed00ae148e946f17c134037ae880badc5d
 
 ---
 
@@ -133,7 +133,6 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 * Se corrigió un problema en el cual los modelos de primer toque y último toque en IQ de atribución no calculaban correctamente el crédito para algunos elementos de línea en algunas dimensiones predeterminadas.
 * Se corrigió un problema en el cual el desglose de una dimensión de fecha por otra dimensión de fecha devolvía resultados incorrectos.
 * Se corrigió un problema en el cual a veces las métricas de entrada o salida se contaban incorrectamente al aplicarse a &quot;No especificado&quot; en un informe de dimensión clasificado.
-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
