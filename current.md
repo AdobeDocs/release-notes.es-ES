@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 897f8d8138403d42ee0387d3582464b41fd1a54c
+source-git-commit: 8cfd93b9e4e5800eb9222a78571ec89e546e6a6f
 
 ---
 
@@ -137,7 +137,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 #### Correcciones
 
-* Se ha corregido un problema en [!UICONTROL Informes y análisis] que impedía descargar `.xls` informes.(AN-206541, AN-204008)
+* Se ha corregido un problema en [!UICONTROL Informes y análisis] que impedía descargar `.xls` informes. Este problema afectaba a los clientes que usaban monedas distintas del dólar estadounidense y el euro. (AN-206541, AN-204008)
 * La implementación de un nuevo shell solucionó varios problemas con los clientes relacionados con el cambio de organizaciones de Experience Cloud.(AN-200844, AN-186920)
 * Se corrigió un problema en el cual al realizar un desglose en el elemento de línea _No especificado_ (o en algunos otros elementos de línea de informes) sin incluir _No especificado (Ninguno)_ en los filtros de búsqueda del desglose, no se obtendrían resultados en el desglose.
 * Se corrigió un problema que se producía al usar una dimensión clasificada, el total de la métrica de entrada o salida no coincidía con el total del elemento de línea de un desglose.
