@@ -5,12 +5,14 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
+source-git-commit: 6fa8ddb48734849f15490dce814b1fd8763051d3
 
 ---
 
 
 # Acceso anticipado - Notas de la versión de Adobe Experience Cloud - Marzo de 2020
+
+![Banner](/assets/experience-cloud-banner-3.png)
 
 Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 
@@ -22,13 +24,11 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 
 **Fecha de la versión: Marzo de 2020**
 
-(Las fechas específicas de lanzamiento del producto pueden variar)
+Última actualización: 11 de marzo de 2020
 
 * [Estado del sistema de Adobe](#status)
 * [Servicios principales e interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [Orquestación de viajes](#journey)
-* [Mobile Services y Mobile SDK](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -42,7 +42,9 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 
 ¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
-## Estado del sistema de Adobe {#status}
+(Las fechas específicas de lanzamiento del producto pueden variar.)
+
+## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
 [!UICONTROL El estado del sistema de Adobe] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos en la nube de Adobe y las interrupciones y sesiones de mantenimiento de los servicios de Adobe. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
 
@@ -58,7 +60,7 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 | Experiencia personalizada basada en las preferencias del usuario | <ul><li>En las notificaciones por correo electrónico se utiliza la preferencia de zona horaria basada en la configuración del explorador.</li><li>Confirmación de correo electrónico enviada al suscribirse/cancelar la suscripción con todas las preferencias seleccionadas.</li></ul> |
 | Mejor entrega de mensajes de eventos | <ul><li>El historial de eventos se ordena según las actualizaciones de eventos cronológicos.</li><li>Marca de hora de la resolución de eventos agregada a los problemas cerrados Mayor/Menor.</li></ul> |
 
-## Servicios principales e interfaz de Experience Cloud {#ecloud}
+## ![Icono](/assets/experience-cloud.png) Interfaz de Experience Cloud y servicios principales {#ecloud}
 
 Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.).
 
@@ -84,29 +86,31 @@ Las actualizaciones incluyen:
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
 
-## Experience Platform {#platform}
+## ![Icono](/assets/platform.png) de la plataforma de experiencias {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] and security bulletins.
 
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
+* [Orquestación de viajes](#journey)
+* [Mobile Services y Mobile SDK](#mobile)
 * [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
 Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
 
-## Orquestación de viajes {#journey}
+### Orquestación de viajes {#journey}
 
 Con Adobe Experience Platform, organice viajes individuales de clientes a escala en distintos canales de experiencia anticipando de forma inteligente las necesidades de cada individuo en tiempo real, dondequiera que su viaje lo lleve.
 
 Se ha publicado la versión del primer trimestre. [Más información](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-### Recursos adicionales
+**Recursos adicionales**
 
 [Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) : [Notas](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) de la versión: vídeos [de procedimientos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-## Mobile Services y Mobile SDK {#mobile}
+### Mobile Services y Mobile SDK {#mobile}
 
 **iOS v4.19.1**
 
@@ -117,7 +121,7 @@ Se ha publicado la versión del primer trimestre. [Más información](https://do
 
 * [!DNL Target] - [!DNL Target] El ID de sesión ahora se agregará como parámetro de datos de contexto &quot;a.target.sessionId&quot; en la visita interna de [!UICONTROL Analytics para Target] enviada a Adobe Analytics.
 
-## [!DNL Analytics] {#analytics}
+## ![Icono](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 Fecha de la versión: **12 de marzo de 2020**
 
@@ -160,7 +164,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). La versión 2.20.0 se publicó el 5 de marzo de 2020.
 
-## Audience Manager {#aam}
+## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
 Nuevas funciones y actualizaciones de Audience Manager:
 
@@ -172,7 +176,7 @@ Nuevas funciones y actualizaciones de Audience Manager:
 * Se ha corregido un error en la API [!UICONTROL de] segmentos por el que, debido a algunos segmentos sin descripción, la interfaz se bloqueaba cuando los usuarios intentaban acceder a esos segmentos y los usuarios tenían que desplazarse fuera de esa página. (AAM-53071)
 * Varias mejoras de accesibilidad en toda la interfaz. (AAM-48952, AAM-48969, AAM-48979, AAM-48993, AAM-49048, AAM-49057, AAM-49058,AAM-493 92)
 
-## Experience Manager {#aem}
+## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
 Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AEM). Adobe recomienda a los clientes con implementaciones locales implementar los parches más recientes para garantizar una mayor estabilidad, seguridad y rendimiento.
 
@@ -242,7 +246,7 @@ Consulte [Al trabajar con recorte](https://docs.adobe.com/content/help/en/experi
 * [Notas de la versión de Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## [!DNL Campaign] {#ac}
+## ![Icono](/assets/campaign.png) [!DNL Campaign] {#ac}
 
 Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes privados a través de canales de marketing en línea y sin conexión. Ahora puede anticipar los deseos de los clientes mediante experiencias basadas en sus hábitos y preferencias.
 
@@ -256,7 +260,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## ![Icono](/assets/advertising-cloud.png) de Advertising Cloud {#adcloud}
 
 Actualizado el 10 de febrero de 2020, para la versión del 8 de febrero:
 
@@ -266,14 +270,14 @@ Actualizado el 10 de febrero de 2020, para la versión del 8 de febrero:
 | [!UICONTROL Buscar] > [!UICONTROL Hojas de edición masiva] | Ahora puede crear, editar y eliminar anuncios de búsqueda interactivos (RSA) de Google mediante hojas de edición en bloque. Antes, la compatibilidad solo estaba disponible a través de la interfaz de administración de campañas estándar en **[!UICONTROL Buscar]** > **[!UICONTROL Campañas]** |
 | [!UICONTROL Búsqueda] > [!UICONTROL Campañas, Informes] | Las métricas de prominencia de Google Ads `Impr. (Abs. Top) %` y `Impr. (Top) %` ahora están disponibles en todos los informes básicos y en las vistas de administración de campañas a nivel de entidad, excepto en los informes de grupos de productos de compras, en los informes de uso compartido de [!UICONTROL impresiones diarias de campaña] y de [!UICONTROL uso compartido de impresiones diarias de palabras clave], y en las vistas de etiquetas y restricciones. |
 
-## [!DNL Magento] {#magento}
+## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
 Para las notas de la versión de Magento, consulte:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## ![Icono](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
 [!DNL Marketo Engage] es una solución completa para la gestión de clientes potenciales y para los especialistas en marketing B2B que buscan transformar las experiencias de los clientes al interactuar en todas las etapas de los viajes de compra complejos.
 
@@ -310,7 +314,7 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
 
-## Nueva documentación y tutoriales {#selfhelp}
+## ![Icono](/assets/experience-cloud.png) Nueva documentación y tutoriales {#selfhelp}
 
 Artículos y vídeos de autoayuda nuevos y recientes. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
@@ -332,7 +336,7 @@ Artículos y vídeos de autoayuda nuevos y recientes. <!--`https://jira.corp.ado
 | [!DNL Adobe Campaign]- Destinos de audiencia | Vídeo: [Cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Descubra cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal en Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Gran administración de datos en Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Aproveche el conector Snowflake de Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Destinos de audiencia | Artículo - Destinos [de audiencia (BETA) - Información general](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Descubra cómo aprovechar los datos de perfil centralizados y consolidados de la plataforma Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard. |
-| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente [!DNL Target] solicitudes como la recuperación previa de contenido, el bloqueo de solicitudes y mucho más. |
+| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente [!DNL Target] solicitudes como la recuperación previa de contenido, el bloqueo de solicitudes y más. |
 | Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Vea clips seleccionados de la &quot;súper sesión&quot; de alta tecnología en Summit 2019. |
 | Adobe Analytics | Vídeo: [Introducción a las métricas calculadas en el análisis de viajes del cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Conozca los aspectos básicos de la creación de métricas  calculadas en el análisis de viajes del [!UICONTROL cliente]. |
 | Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Vea clips seleccionados de la sesión de viajes y hospitalidad en la Cumbre 2019. |
