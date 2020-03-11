@@ -5,17 +5,17 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2282dd7a9b0575021f2262e43f644af4b1dc3f0b
+source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
 
 ---
 
 
 # Acceso anticipado - Notas de la versión de Adobe Experience Cloud - Marzo de 2020
 
-Nuevas funciones y correcciones en Adobe Experience Cloud.
+Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 
 >[!IMPORTANT]
->Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeta a cambios antes de su publicación planificada.
+>Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeto a cambios antes de su publicación planificada.
 
 >[!NOTE]
 >Para recibir notificaciones por correo electrónico sobre próximas versiones, suscríbase a [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html). La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
@@ -332,7 +332,7 @@ Artículos y vídeos de autoayuda nuevos y recientes. <!--`https://jira.corp.ado
 | [!DNL Adobe Campaign]- Destinos de audiencia | Vídeo: [Cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Descubra cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal en Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Gran administración de datos en Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Aproveche el conector Snowflake de Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Destinos de audiencia | Artículo - Destinos [de audiencia (BETA) - Información general](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Descubra cómo aprovechar los datos de perfil centralizados y consolidados de la plataforma Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard. |
-| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente [!DNL Target] solicitudes como la recuperación previa de contenido, el bloqueo de solicitudes y más. |
+| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente [!DNL Target] solicitudes como la recuperación previa de contenido, el bloqueo de solicitudes y mucho más. |
 | Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Vea clips seleccionados de la &quot;súper sesión&quot; de alta tecnología en Summit 2019. |
 | Adobe Analytics | Vídeo: [Introducción a las métricas calculadas en el análisis de viajes del cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Conozca los aspectos básicos de la creación de métricas  calculadas en el análisis de viajes del [!UICONTROL cliente]. |
 | Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Vea clips seleccionados de la sesión de viajes y hospitalidad en la Cumbre 2019. |
