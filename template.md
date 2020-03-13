@@ -5,12 +5,14 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2fca65aeb62ff60e4776492857af064ec3ef707f
+source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 
 ---
 
 
-# Notas de la versión de Adobe Experience Cloud
+# PLANTILLA - Notas de la versión de Adobe Experience Cloud - Mes de 2020
+
+![Banner](/assets/experience-cloud-banner-3.png)
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
 
@@ -25,18 +27,17 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de la versión: 2020**
 
 * [Estado del sistema de Adobe](#status)
-* [Experience Cloud y Experience Platform](#platform)
-* [Orquestación de viajes](#journey)
+* [Experience Cloud y servicios principales](#ecloud)
+* [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
 * [Nueva documentación y tutoriales](#selfhelp)
 
 ¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -47,28 +48,53 @@ Funciones y correcciones.
 
 Consulte [Estado del sistema de Adobe](https://status.adobe.com/).
 
-## Experience Cloud y Experience Platform {#platform}
+## Experience Cloud and core services{#ecloud}
 
-Notas de la versión de Experience Platform, de la interfaz de Experience Cloud, de la administración de productos, de Experience Platform Launch, de Identity Service y de los boletines de seguridad.
+Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.).
 
-* [Interfaz de Experience Cloud](#core-services)
-* [Servicio Experience Cloud ID](#ecid)
-* [Mobile Services y Mobile SDK](#mobile)
+* [Servicios principales de Experience Cloud](#core-services)
 * [Administración y desarrollador](#admin)
-* [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
 
-### Servicios principales {#core-services}
+### Experience Cloud Core services {#core-services}
 
 Funciones y correcciones.
 
 Para obtener la documentación, consulte [Experience Cloud y Servicios principales](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+
+### Administración y desarrollador {#admin}
+
+Funciones y correcciones.
+
+Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+
+## Experience Platform {#platform}
+
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+
+* [Servicio Experience Cloud ID](#ecid)
+* [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform Launch](#launch)
+* [Organización de recorridos](#journey)
+* [Mobile Services y Mobile SDK](#mobile)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
 
 ### Servicio Experience Cloud ID {#ecid}
 
 Funciones y correcciones.
 
 Para obtener documentación del producto, consulte [Servicio Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+
+### Experience Platform Launch {#launch}
+
+Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
+
+### Organización de recorridos {#journey}
+
+Con Adobe Experience Platform, puede organizar los recorridos individuales de los clientes a escala en distintos canales de experiencia y adaptarse de forma inteligente a las necesidades y recorrido de cada usuario en tiempo real.
+
+#### Recursos adicionales para orquestación de viajes
+
+[Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services y Mobile SDK {#mobile}
 
@@ -86,32 +112,6 @@ Descripción de las nuevas funciones. Utilice encabezados o una tabla.
 Para obtener documentación del producto, consulte [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
 Para obtener más información sobre los SDK de Mobile, consulte [SDK de Android para soluciones de Experience Cloud 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/android/) y [SDK de iOS para soluciones de Experience Cloud 4.x](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
-
-### Administración y desarrollador {#admin}
-
-Funciones y correcciones.
-
-Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
-
-## Experience Platform {#platform}
-
-Notas de la versión de Experience Platform, Experience Platform Launch, servicios de identidad y boletines de seguridad.
-
-* [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
-* [Experience Platform Launch](#launch)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
-
-### Experience Platform Launch {#launch}
-
-Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
-
-## Orquestación de viajes {#journey}
-
-Con Adobe Experience Platform, organice viajes individuales de clientes a escala en distintos canales de experiencia anticipando de forma inteligente las necesidades de cada individuo en tiempo real, dondequiera que su viaje lo lleve.
-
-### Recursos adicionales
-
-[Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) : [Notas](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) de la versión: vídeos [de procedimientos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## [!DNL Analytics] {#analytics}
 
@@ -328,39 +328,39 @@ Para ver las notas de la versión acumulativas e históricas, consulte [Notas de
 
 ## Nueva documentación y tutoriales {#selfhelp}
 
-Artículos y vídeos de autoayuda nuevos y recientes. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
+Artículos y vídeos informativos nuevos y recientes. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
 | Solución | Contenido | Descripción |
 |----------| -----------| ---------- |  
-| [!UICONTROL AEM Commerce] | Vídeo: [Creación de varias categorías y páginas de producto](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/04-style-cif-component.md) | Obtenga información sobre cómo crear un proyecto CIF de Adobe Experience Manager (AEM) mínimo como punto de partida para proyectos de clientes que utilizan componentes principales de CIF. Aplique un tema y estilo CSS a los componentes e inspeccione un nuevo proyecto de AEM CIF, generado por el arquetipo. Además, descubra cómo se organizan CSS y JavaScript utilizados por los componentes principales de CIF. |
-| [!UICONTROL Formularios de AEM] | Artículo: [Autenticar con AEM Author mediante OKTA](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/single-sign-on-with-okta.html) | Obtenga información sobre cómo configurar la aplicación en el portal OKTA y sobre la configuración que suele utilizar para registrar una nueva aplicación. |
-| [!UICONTROL AEM Commerce] | Tutorial: [Personalización de los componentes principales de CIF](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/05-customize-cif-components.md) | Revise varios puntos de extensión diferentes proporcionados por los componentes principales de CIF y AEM en general. Los componentes principales de CIF proporcionan un conjunto estándar de componentes de comercio que se pueden utilizar para acelerar un proyecto que integra las soluciones Adobe Experience Manager (AEM) y Magento. |
-| [!DNL Adobe Campaign] - Destinos de audiencia | Video - [Create an audience...](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.html) | Cree una audiencia en Campaign Standard mediante el Generador [!UICONTROL de segmentos de la plataforma de]experiencias de Adobe. Puede acceder a esta función directamente desde Adobe Campaign Standard mediante los módulos [!UICONTROL Audiencias] . |
-| [!DNL Adobe Campaign] - Destinos de audiencia | Vídeo: [Activación de audiencias de la plataforma Adobe Experience en un flujo de trabajo de marketing](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/activating-aep-audiences.html) | Obtenga información sobre cómo activar la Audiencia [!UICONTROL de consulta de servicios de] datos en un flujo de trabajo mediante la actividad [!UICONTROL Leer audiencia] . |
-| [!DNL Adobe Campaign] | Tutorial: Notificación [push con Android](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/push/getting-started-push-notifications/getting-started-with-push-notifications-android.html) | Envíe notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android. |
+| [!UICONTROL AEM Commerce] | Vídeo: [Creación de varias categorías y páginas de producto](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/04-style-cif-component.md) | Descubra cómo crear un proyecto CIF de Adobe Experience Manager (AEM) básico como punto de partida para proyectos de clientes que utilizan componentes principales de CIF. Aplique un tema y estilo CSS a los componentes e inspeccione un nuevo proyecto de AEM CIF, generado por el arquetipo. Además, descubra cómo se organizan CSS y JavaScript utilizados por los componentes principales de CIF. |
+| [!UICONTROL AEM Forms] | Artículo: [Autenticar con AEM Author mediante OKTA](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/single-sign-on-with-okta.html) | Obtenga información sobre cómo configurar la aplicación en el portal OKTA y sobre la configuración que suele utilizar para registrar una nueva aplicación. |
+| [!UICONTROL AEM Commerce] | Tutorial: [Personalización de los componentes principales de CIF](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/05-customize-cif-components.md) | Consulte varios puntos de extensión diferentes proporcionados por los componentes principales de CIF y AEM en general. Los componentes principales de CIF proporcionan un conjunto estándar de componentes comerciales que se pueden utilizar para acelerar un proyecto que integra las soluciones de Adobe Experience Manager (AEM) y Magento. |
+| [!DNL Adobe Campaign]: Destinos de audiencia | Vídeo: [Crear una audiencia...](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.html) | Cree una audiencia en Campaign Standard mediante el [!UICONTROL Generador de segmentos de Adobe Experience Platform]. Puede acceder a esta funcionalidad directamente desde Adobe Campaign Standard mediante los módulos [!UICONTROL Audiencias]. |
+| [!DNL Adobe Campaign]: Destinos de audiencia | Vídeo: [Activación de audiencias de Adobe Experience Platform en un flujo de trabajo de marketing](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/activating-aep-audiences.html) | Obtenga información sobre cómo activar la [!UICONTROL Audiencia de consulta de servicios de datos] en un flujo de trabajo mediante la actividad [!UICONTROL Leer audiencia]. |
+| [!DNL Adobe Campaign] | Tutorial: [Notificaciones push con Android](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/push/getting-started-push-notifications/getting-started-with-push-notifications-android.html) | Envíe notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android. |
 | [!DNL Adobe Campaign] | Vídeo: [Crear una notificación push](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/push/creating-a-push-notification.html) | Cree una notificación push en Adobe Campaign Standard. Puede enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Comprobar el estado de un trabajo de inserción de datos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.html) | Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han ingerido de Adobe Campaign Standard a Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Modificación de la asignación de datos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.html) | Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Mapa de eventos de experiencia](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-experience-events.html) | Obtenga información sobre cómo asignar eventos de experiencia en Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Asignar recursos personalizados](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.html) | Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Comprender el conector de datos de la plataforma Adobe Experience](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.html) | Obtenga información sobre cómo hacer que los datos estén disponibles en Adobe Experience Platform asignando datos XTK (datos ingestados en Campaign) a datos del modelo de datos de experiencia (XDM) en la plataforma Adobe Experience. |
-| [!DNL Adobe Campaign] - Conector de datos AEP | Vídeo: [Asignar datos de tabla de inicio](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Obtenga información sobre cómo asignar los datos iniciales y los perfiles de prueba con Adobe Experience Platform. |
-| [!DNL Adobe Campaign]- Destinos de audiencia | Vídeo: [Cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Descubra cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal en Adobe Campaign Standard. |
-| [!DNL Adobe Campaign] | Video - [Gran administración de datos en Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Aproveche el conector Snowflake de Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Destinos de audiencia | Artículo - Destinos [de audiencia (BETA) - Información general](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Descubra cómo aprovechar los datos de perfil centralizados y consolidados de la plataforma Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard. |
-| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente [!DNL Target] solicitudes como la recuperación previa de contenido, el bloqueo de solicitudes y más. |
-| Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Vea clips seleccionados de la &quot;súper sesión&quot; de alta tecnología en Summit 2019. |
-| Adobe Analytics | Vídeo: [Introducción a las métricas calculadas en el análisis de viajes del cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Conozca los aspectos básicos de la creación de métricas  calculadas en el análisis de viajes del [!UICONTROL cliente]. |
-| Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Vea clips seleccionados de la sesión de viajes y hospitalidad en la Cumbre 2019. |
-| Adobe Analytics | Vídeo: Supersesión de [Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html) | Consulte los clips seleccionados de la sesión de venta al por menor en la Cumbre 2019. |
-| Adobe Analytics | Vídeo: Caso de uso [del cliente: El grupo de énfasis invierte en la experiencia del cliente para impulsar las ventas](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.html) | Vea cómo el grupo Accent utiliza Adobe Experience Cloud para crear experiencias digitales sin problemas. |
-| Adobe Analytics | Vídeo: Caso de uso [del cliente: ServiceNow obtiene las perspectivas correctas para conectarse con posibles clientes](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.html) | Descubra cómo [!DNL ServiceNow] obtiene datos procesables de sus canales de mercadotecnia y aumenta el retorno de la inversión en la publicidad de búsqueda paga con Adobe Advertising Cloud y Adobe Analytics. |
-| Adobe Analytics | Vídeo: [Adobe Analytics: es más que datos que inteligencia del cliente](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.html) | Obtenga información sobre la mercadotecnia basada en datos y cómo llevar la madurez de los análisis desde los datos hasta las perspectivas y la acción. |
-| Adobe Analytics | Vídeo: [Adobe Sensei y Adobe Analytics: versión ampliada](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Vea las funciones clave de Adobe Analytics con tecnología de Adobe [!DNL Sensei,] como, por ejemplo, Detección de [!UICONTROL anomalías,] Análisis de [!UICONTROL contribución,] Alertas [!UICONTROL inteligentes,] [!UICONTROL Clúster,] IQ de  [!UICONTROL clúster,Modelado de propensión.] |
-| Adobe Analytics | Vídeo: [Cómo puede Adobe Analysis Workspace cambiar su negocio](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Descubra cómo puede realizar análisis específicos, análisis flexibles, análisis de cohorte y análisis de visitas en el orden previsto mediante [!UICONTROL Analysis Workspace]. También puede compartir el entorno de trabajo de análisis con todos los miembros de su empresa, y su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener perspectivas rápidamente. |
-| Adobe Analytics | Vídeo: Caso de uso [del cliente: El Home Depot innova través de la administración de la experiencia del cliente](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | Descubra cómo [!DNL Home Depot] utiliza las soluciones de Adobe para crear la lealtad de la marca y la satisfacción del cliente con una experiencia de compra personalizada y personalizada. |
-| Adobe Analytics | Presentación: [Explicación del análisis de viajes del cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Descubra cómo [!UICONTROL Customer Journey Analytics]de Adobe, un servicio de aplicaciones integrado en [!DNL Adobe Experience Platform], incorpora [!UICONTROL Analysis Workspace] en la plataforma de experiencias. Esta función permite el análisis multicanal en cualquiera de los conjuntos [!DNL Adobe Experience Platform] de datos. |
-| Adobe Analytics | Vídeo: Atribución [entre canales en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Descubra cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales en [!UICONTROL Customer Journey Analytics]. |
-| Adobe Analytics | Artículo: Sugerencias [al cliente para continuar su viaje de aprendizaje de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Conozca a tres clientes de Adobe que tienen consejos y trucos para obtener el máximo valor de Adobe Analytics. |
-| Adobe Analytics | Vídeo: [Creación de visualizaciones multicanal en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Descubra cómo [!UICONTROL Customer Journey Analytics] le permite crear visualizaciones que incluyen datos de varios conjuntos de datos en varios canales, incluida la combinación de datos por visitante. |
-| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a los análisis de viajes del cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las métricas [!UICONTROLC] calculadas de Analytics en Análisis de viajes [!UICONTROL del cliente]. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Comprobar el estado de un trabajo de inserción de datos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.html) | Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos de Adobe Campaign Standard se han incorporado correctamente en Adobe Experience Platform. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Modificación de la asignación de datos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.html) | Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Asignación de eventos de experiencia](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-experience-events.html) | Obtenga información sobre cómo asignar eventos de experiencia en Adobe Experience Platform. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Asignar recursos personalizados](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.html) | Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Comprender el conector de datos de Adobe Experience Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.html) | Obtenga información sobre cómo hacer que los datos estén disponibles en Adobe Experience Platform asignando datos XTK (datos incorporados en Campaign) a datos del modelo de datos de experiencia (XDM) en Adobe Experience Platform. |
+| [!DNL Adobe Campaign]: Conector de datos AEP | Vídeo: [Asignar datos de tabla de inicio](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Obtenga información sobre cómo asignar los datos iniciales y los perfiles de prueba con Adobe Experience Platform. |
+| [!DNL Adobe Campaign]: Destinos de audiencia | Vídeo: [Cambiar la dimensión de segmentación de una entrega para una audiencia de otra plataforma](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Descubra cómo cambiar la dimensión de segmentación de una entrega para una audiencia de otra plataforma fuera de la tabla de perfil principal en Adobe Campaign Standard. |
+| [!DNL Adobe Campaign] | Vídeo: [Administración de datos en gran cantidad en Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Saque el máximo partido al conector Snowflake de Adobe Campaign Classic. |
+| [!DNL Adobe Campaign]: Destinos de audiencia | Artículo: [Destinos de audiencia (BETA), información general](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Descubra cómo aprovechar los datos de perfil centralizados y consolidados de Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard. |
+| [!DNL Adobe Target] - SDK móvil | Tutorial: [Personalización de las experiencias de la aplicación con Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implemente Adobe Target en su propia aplicación de Android. Valide la configuración del SDK de Mobile Services e implemente solicitudes de [!DNL Target] como la recuperación previa de contenido, el bloqueo de solicitudes y mucho más. |
+| Adobe Analytics | Vídeo: [Supersesión de Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Disfrute de los clips de la supersesión de Summit 2019. |
+| Adobe Analytics | Vídeo: [Introducción a las métricas calculadas en Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Conozca los aspectos básicos de la creación de [!UICONTROL métricas calculadas] en [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Vídeo: [Supersesión de Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Vea clips seleccionados de la sesión de viajes y hospitalidad de Summit 2019. |
+| Adobe Analytics | Vídeo: [Supersesión de Adobe Summit 2019](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html) | Consulte los clips seleccionados de la sesión de venta al por menor de Summit 2019. |
+| Adobe Analytics | Vídeo: [Caso real de cliente: Accent Group invierte en la experiencia de sus clientes para mejorar las ventas](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.html) | Descubra cómo Accent Group utiliza Adobe Experience Cloud para crear experiencias digitales sin problemas. |
+| Adobe Analytics | Vídeo: [Caso real de cliente: ServiceNow obtiene la información correcta y necesaria para conectarse con posibles clientes](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.html) | Descubra cómo [!DNL ServiceNow] obtiene datos procesables de sus canales de marketing y aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics. |
+| Adobe Analytics | Vídeo: [Adobe Analytics: Más que simples datos, conocimiento del cliente](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.html) | Obtenga información sobre el marketing basada en datos y cómo aplicar la madurez de los análisis desde los datos hasta los conocimientos y la acción. |
+| Adobe Analytics | Vídeo: [Adobe Sensei y Adobe Analytics: Versión ampliada](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Vea las funciones principales de Adobe Analytics con tecnología de Adobe [!DNL Sensei,] como, por ejemplo, [!UICONTROL Detección de anomalías], [!UICONTROL Análisis de contribución], [!UICONTROL Alertas inteligentes], [!UICONTROL Clúster], [!UICONTROL IQ de segmento] y [!UICONTROL Modelado de propensión]. |
+| Adobe Analytics | Vídeo: [Adobe Analysis Workspace y la revolución de su negocio](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Descubra cómo puede realizar análisis ad hoc, análisis flexibles, análisis de cohorte y análisis de abandonos mediante [!UICONTROL Analysis Workspace]. También puede compartir el entorno de trabajo de análisis con todos los miembros de su empresa. Además, su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener información rápidamente. |
+| Adobe Analytics | Vídeo: [Caso real de cliente: The Home Depot innova través de la administración de experiencias del cliente](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | Descubra cómo [!DNL Home Depot] utiliza las soluciones de Adobe para mejorar la lealtad de marca y la satisfacción del cliente gracias a una experiencia de compra personalizada. |
+| Adobe Analytics | Presentación: [Explicación de Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Descubra cómo Adobe [!UICONTROL Customer Journey Analytics], un servicio de aplicaciones integrado en [!DNL Adobe Experience Platform], incorpora [!UICONTROL Analysis Workspace] en Experience Platform. Esta funcionalidad permite el análisis multicanal en cualquiera de los conjuntos de datos de [!DNL Adobe Experience Platform]. |
+| Adobe Analytics | Vídeo: [Atribución en canales múltiples en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Descubra cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales en [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Artículo: [Sugerencias al cliente para continuar con su aprendizaje de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Conozca a tres clientes de Adobe que tienen consejos y trucos para obtener el máximo valor de Adobe Analytics. |
+| Adobe Analytics | Vídeo: [Creación de visualizaciones multicanal en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Descubra cómo [!UICONTROL Customer Journey Analytics] permite crear visualizaciones que incluyen datos de varios conjuntos de datos en diferentes canales, incluida la combinación de datos por visitante. |
+| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las [!UICONTROLCmétricas  calculadas] de Analytics en [!UICONTROL Customer Journey Analytics]. |
