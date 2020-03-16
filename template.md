@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: 53e2135044074e22470887540fb641262c607bd3
 
 ---
 
@@ -26,12 +26,12 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 **Fecha de la versión: 2020**
 
-* [Estado del sistema de Adobe](#status)
-* [Experience Cloud y servicios principales](#ecloud)
+* [Estado del sistema de [!DNL Adobe]](#status)
+* [[!DNL Experience Cloud] y servicios [!UICONTROL principales]](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
 * [!DNL Advertising Cloud](#adcloud)
@@ -48,14 +48,14 @@ Funciones y correcciones.
 
 Consulte [Estado del sistema de Adobe](https://status.adobe.com/).
 
-## Experience Cloud and core services{#ecloud}
+## [!DNL Experience Cloud] y servicios [!UICONTROL principales]{#ecloud}
 
 Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.).
 
-* [Servicios principales de Experience Cloud](#core-services)
+* [[!UICONTROL Servicios principales]](#core-services)
 * [Administración y desarrollador](#admin)
 
-### Experience Cloud Core services {#core-services}
+### [!UICONTROL Servicios principales] {#core-services}
 
 Funciones y correcciones.
 
@@ -67,36 +67,36 @@ Funciones y correcciones.
 
 Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
-## Experience Platform {#platform}
+## [!UICONTROL Experience Platform] {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] and security bulletins.
 
 * [Servicio Experience Cloud ID](#ecid)
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Organización de recorridos](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)  (Todos los productos de Adobe)
 
-### Servicio Experience Cloud ID {#ecid}
+### [!UICONTROL Servicio Experience Cloud ID] {#ecid}
 
 Funciones y correcciones.
 
 Para obtener documentación del producto, consulte [Servicio Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### Experience Platform Launch {#launch}
+### [!UICONTROL Experience Platform Launch] {#launch}
 
 Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
 
-### Organización de recorridos {#journey}
+### [!UICONTROL Organización de recorridos] {#journey}
 
-Con Adobe Experience Platform, puede organizar los recorridos individuales de los clientes a escala en distintos canales de experiencia y adaptarse de forma inteligente a las necesidades y recorrido de cada usuario en tiempo real.
+Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Recursos adicionales para orquestación de viajes
+#### Recursos adicionales para la orquestación de [!UICONTROL viajes]
 
 [Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-### Mobile Services y Mobile SDK {#mobile}
+### [!UICONTROL Mobile Services y Mobile SDK] {#mobile}
 
 **Funciones**
 
@@ -131,7 +131,7 @@ Para obtener documentación del producto, consulte [Inicio de Ayuda de Adobe Ana
 | Función B | Texto |
 | Función C | Texto |
 
-### [!DNL Media Analytics] SDK de para iOS y Android (anteriormente SDK de VHL) {#aa-va}
+### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] (anteriormente VHL SDK) {#aa-va}
 
 | Función | Descripción |
 | -----------| ---------- |  
@@ -160,18 +160,18 @@ Vea las [Notas de la versión del Data Workbench](https://marketing.adobe.com/re
 
 Consulte el [Historial de versiones de AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) para ver el historial de versiones de AppMeasurement en las plataformas siguientes:
 
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight y .NET
+* [!DNL JavaScript]
+* [!DNL iOS]
+* [!DNL Android]
+* [!DNL Flash-Flex]
+* [!DNL OSX]
+* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] y [!DNL .NET]
 * [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
 
-## Audience Manager {#aam}
+## [!DNL Audience Manager] {#aam}
 
 | Función | Descripción |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ Consulte el [Historial de versiones de AppMeasurement](https://docs.adobe.com/co
 * Se ha corregido un problema que hacía que se mostrara
 * Se ha corregido un problema que hacía que se mostrara
 
-## Experience Manager {#aem}
+## [!DNL Experience Manager] {#aem}
 
 Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AEM). Adobe recomienda a los clientes con implementaciones locales implementar los parches más recientes para garantizar una mayor estabilidad, seguridad y rendimiento.
 
@@ -227,7 +227,7 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 * [Notas de la versión de Scene7 Publishing System](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### Livefyre {#livefyre}
+### [!DNL Livefyre] {#livefyre}
 
 | Función | Descripción |
 | -----------| ---------- |  
@@ -267,7 +267,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## [!DNL Advertising Cloud] {#adcloud}
 
 | Función | Descripción |
 | -----------| ---------- |  
@@ -284,7 +284,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ## [!DNL Magento] {#magento}
 
-Para las notas de la versión de Magento, consulte:
+For [!DNL Magento] release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
@@ -293,7 +293,7 @@ Para las notas de la versión de Magento, consulte:
 
 [!DNL Marketo Engage] es una solución completa para la gestión de clientes potenciales y para los especialistas en marketing B2B que buscan transformar las experiencias de los clientes al interactuar en todas las etapas de los viajes de compra complejos.
 
-### Actualizaciones centrales de Marketo Engage
+### Actualizaciones principales [!DNL Marketo Engage]
 
 Fecha de publicación: 21 de febrero de 2020
 
@@ -363,4 +363,4 @@ Artículos y vídeos informativos nuevos y recientes. <!--`https://jira.corp.ado
 | Adobe Analytics | Vídeo: [Atribución en canales múltiples en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Descubra cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales en [!UICONTROL Customer Journey Analytics]. |
 | Adobe Analytics | Artículo: [Sugerencias al cliente para continuar con su aprendizaje de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Conozca a tres clientes de Adobe que tienen consejos y trucos para obtener el máximo valor de Adobe Analytics. |
 | Adobe Analytics | Vídeo: [Creación de visualizaciones multicanal en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Descubra cómo [!UICONTROL Customer Journey Analytics] permite crear visualizaciones que incluyen datos de varios conjuntos de datos en diferentes canales, incluida la combinación de datos por visitante. |
-| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las [!UICONTROLCmétricas  calculadas] de Analytics en [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las [!UICONTROLCmétricas calculadas] de Analytics en [!UICONTROL Customer Journey Analytics]. |
