@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
 
 ---
 
 
-# Notas de la versión de Adobe Experience Cloud - Marzo de 2020
+# Notas de la versión de Adobe Experience Cloud: marzo de 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -24,7 +24,7 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 
 **Fecha de la versión: Marzo de 2020**
 
-Última actualización: 11 de marzo de 2020
+Actualización más reciente: 11 de marzo de 2020
 
 * [Estado del sistema de Adobe](#status)
 * [Servicios principales e interfaz de Experience Cloud](#ecloud)
@@ -60,7 +60,7 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 | Experiencia personalizada basada en las preferencias del usuario | <ul><li>En las notificaciones por correo electrónico se utiliza la preferencia de zona horaria basada en la configuración del explorador.</li><li>Confirmación de correo electrónico enviada al suscribirse/cancelar la suscripción con todas las preferencias seleccionadas.</li></ul> |
 | Mejor entrega de mensajes de eventos | <ul><li>El historial de eventos se ordena según las actualizaciones de eventos cronológicos.</li><li>Marca de hora de la resolución de eventos agregada a los problemas cerrados de mayor y menor gravedad.</li></ul> |
 
-## ![Icono](/assets/experience-cloud.png) Interfaz de Experience Cloud y servicios principales {#ecloud}
+## ![Icono](/assets/experience-cloud.png) Servicios principales e interfaz de Experience Cloud {#ecloud}
 
 Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.).
 
@@ -86,7 +86,7 @@ Las actualizaciones incluyen:
 
 Para obtener documentación del producto, consulte la página de ayuda de [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
-## ![Icono](/assets/platform.png) de la plataforma de experiencias {#platform}
+## ![Icono](/assets/platform.png) Experience Platform {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
 
@@ -94,7 +94,7 @@ Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience P
 * [Experience Platform Launch](#launch)
 * [Organización de recorridos](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html) (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)  (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
@@ -135,14 +135,14 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### Nuevas funciones, mejoras y correcciones en Adobe Analytics {#aa-features}
 
-* **Varios grupos de informes en[!UICONTROL Analysis Workspace ]**: Ahora puede incluir datos de varios grupos de informes en un único proyecto de[!UICONTROL Analysis Workspace]para verlo en paneles paralelos.[Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* **Optimización de audiencias de Experience Cloud**: Esta funcionalidad permite publicar segmentos en Experience Cloud en un plazo de 8 horas (en lugar del tiempo de procesamiento de 48 horas anterior). [Más información...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
+* **Varios grupos de informes en[!UICONTROL Analysis Workspace ]**: Ahora puede incluir datos de varios grupos de informes en un único proyecto de[!UICONTROL Analysis Workspace]para verlo en dos paneles en paralelo. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* **Audience Optimization de Experience Cloud**: Esta funcionalidad permite publicar segmentos en Experience Cloud en un plazo de 8 horas (en lugar del tiempo de procesamiento de 48 horas anterior). [Más información...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
 * **Analysis Workspace: Plantilla de tutorial de formación**: Esta nueva plantilla estándar le guía por la terminología común y por los pasos para crear su primer análisis en Workspace. Está disponible como plantilla estándar en el modo [!UICONTROL Nuevo proyecto] y reemplaza el proyecto de muestra actual para los usuarios nuevos que no tienen otros proyectos en su lista.
 
 #### Correcciones
 
 * Se ha corregido un problema en [!UICONTROL Reports &amp; Analytics] que impedía descargar informes en formato `.xls`. Este problema afectaba a los clientes que usaban monedas distintas del dólar estadounidense y el euro. (AN-206541, AN-204008)
-* El despliegue de un nuevo shell solucionó varios problemas con los clientes relacionados con el cambio de organizaciones de Experience Cloud.(AN-200844, AN-186920)
+* El despliegue de un nuevo shell solucionó varios problemas con los clientes relacionados con el cambio de organizaciones de Experience Cloud. (AN-200844, AN-186920)
 * Se corrigió un problema en el cual, al realizar un desglose en el elemento de línea _No especificado_ (o en algunos otros elementos de línea de informes) sin incluir _No especificado (Ninguno)_ en los filtros de búsqueda del desglose, no se obtenían resultados en el desglose.
 * Se corrigió un problema que se producía al usar una dimensión clasificada, en el que el total de la métrica de entrada o salida no coincidía con el total del elemento de línea de un desglose.
 * Se corrigió un problema en el cual los modelos de primer y último contacto en Attribution IQ no calculaban correctamente el crédito para algunos elementos de línea en algunas dimensiones predeterminadas.
@@ -151,9 +151,9 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación o actualizada | Descripción |
+| Aviso | Fecha de incorporación  o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de  administración]>[!UICONTROL Grupos de informes]>[!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
+| Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración] > [!UICONTROL Grupos de informes] > [!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
 | Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 3 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir del 12 de marzo de 2020. |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | A partir del 31 de marzo de 2020, Adobe Analytics dejará de ofrecer soporte para TLS 1.1. Este cambio es parte de nuestro trabajo para mantener los estándares de seguridad más altos e impulsar la seguridad de los datos del cliente. |
 | Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio: `https://experience.adobe.com/analytics.`<br>**Nota:** Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>Este cambio de dominio puede provocar problemas con las cookies al cargar Analytics en Safari. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Analytics funcionará en este nuevo dominio de Adobe Experience Cloud. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de [!DNL Safari].</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos específicos](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
@@ -167,6 +167,10 @@ Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.a
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
 Nuevas funcionalidades y actualizaciones de Audience Manager:
+
+| Función | Descripción |
+| -----------| ---------- |
+| [Hoja de cálculo de las herramientas de administración masiva](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Hay una nueva versión de la hoja de cálculo disponible para usted, que corrige un problema con el que se enfrentaban algunos clientes al crear modelos algorítmicos en el sistema operativo Windows de 64 bits. Descargue la versión más reciente [aquí](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
 
 ### Correcciones y mejoras {#aam-fixes-and-improvements}
 
@@ -232,7 +236,7 @@ Consulte [Trabajar con el Recorte inteligente](https://docs.adobe.com/content/he
 * **Seminarios web de AEM Skills Builder**
 
    * AEM Sites: a partir del 17 de marzo de 2020, descubrirá los componentes básicos de la creación de contenido y los conceptos y operaciones fundamentales de AEM Sites. [Regístrese ahora](https://aemskillbuilder-sites.experienceleague.adobeevents.com/register).
-   * AEM Assets: A partir del 19 de marzo de 2020, perfeccione su experiencia en la administración de activos digitales, además de conocer los conceptos básicos de Brand Portal, [!UICONTROL Dynamic Media,] [!UICONTROL Asset Link,] y mucho más. [Regístrese ahora](https://aemskillbuilder-assets.experienceleague.adobeevents.com/register).
+   * AEM Assets: A partir del 19 de marzo de 2020, perfeccione su experiencia en la administración de activos digitales, además de conocer los conceptos básicos de Brand Portal, [!UICONTROL Dynamic Media], [!UICONTROL Asset Link], y mucho más. [Regístrese ahora](https://aemskillbuilder-assets.experienceleague.adobeevents.com/register).
 
 ### Recursos adicionales
 
@@ -261,7 +265,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## ![Icono](/assets/advertising-cloud.png) de Advertising Cloud {#adcloud}
+## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Actualizado el 10 de febrero de 2020, para la versión del 8 de febrero:
 
@@ -352,4 +356,4 @@ Artículos y vídeos informativos nuevos y recientes. <!--`https://jira.corp.ado
 | Adobe Analytics | Vídeo: [Atribución en canales múltiples en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Descubra cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales en [!UICONTROL Customer Journey Analytics]. |
 | Adobe Analytics | Artículo: [Sugerencias al cliente para continuar con su aprendizaje de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Conozca a tres clientes de Adobe que tienen consejos y trucos para obtener el máximo valor de Adobe Analytics. |
 | Adobe Analytics | Vídeo: [Creación de visualizaciones multicanal en CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Descubra cómo [!UICONTROL Customer Journey Analytics] permite crear visualizaciones que incluyen datos de varios conjuntos de datos en diferentes canales, incluida la combinación de datos por visitante. |
-| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las [!UICONTROLCmétricas  calculadas] de Analytics en [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Vídeo: [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Encontrará sugerencias para volver a crear las [!UICONTROLCmétricas calculadas] de Analytics en [!UICONTROL Customer Journey Analytics]. |
