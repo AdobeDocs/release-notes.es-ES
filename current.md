@@ -4,7 +4,7 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
 
 ---
@@ -33,14 +33,14 @@ Actualización más reciente: 11 de marzo de 2020
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
+* [!DNL Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html) (vínculos a la ayuda de la solución)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (vínculos a la ayuda de la solución)
+* [!DNL Primetime](https://helpx.adobe.com/es/support/primetime.html) (vínculos a la ayuda de la solución)
 * [Nueva documentación y tutoriales](#selfhelp)
 
-¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html).
 
 (Las fechas específicas de lanzamiento del producto pueden variar.)
 
@@ -76,7 +76,7 @@ Las actualizaciones incluyen:
 
 * Nuevas URL de la solución: `experience.adobe.com/<application name>`:
    * Todos los productos adoptarán en algún momento este patrón de URL. Busque nuevas direcciones URL que entren en vigor durante el mes.
-   * Compatibilidad con navegadores: Los exploradores admitidos son [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] y [!DNL Opera] (en sus versiones más recientes). **Nota:** Aunque la interfaz de Experience Cloud admite estos exploradores, es posible que las soluciones individuales no los admitan a todos. (Por ejemplo, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) no es compatible con [!DNL Opera] y [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) no es compatible con [!DNL Safari]).
+   * Compatibilidad con navegadores: Los exploradores admitidos son [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] y [!DNL Opera] (en sus versiones más recientes). **Nota:** Aunque la interfaz de Experience Cloud admite estos exploradores, es posible que las soluciones individuales no los admitan a todos. (Por ejemplo, [Analytics](https://docs.adobe.com/content/help/es-ES/analytics/admin/sys-reqs.html) no es compatible con [!DNL Opera] y [Target](https://docs.adobe.com/help/es-ES/target/using/implement-target/before-implement/supported-browsers.html) no es compatible con [!DNL Safari]).
    * ([!DNL Safari] solo) El cambio de dominio puede causar problemas de cookies en [!DNL Safari]. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Experience Cloud funcionará en este nuevo dominio.
 * Es más fácil cambiar entre las organizaciones o a otra aplicación.
 * Ayuda del producto mejorada: [!UICONTROL Experience League] está integrada en el producto, por lo que una búsqueda de ayuda también incluye resultados de foros de la comunidad y contenido de vídeo. Este cambio simplifica el acceso a más contenido y le ayuda a sacar el máximo rendimiento de Experience Cloud. Además, puede hacer clic en **[!UICONTROL Ayuda]** > **[!UICONTROL Comentarios]** para informar sobre problemas o compartir sus ideas con Adobe.
@@ -84,31 +84,31 @@ Las actualizaciones incluyen:
 
 **Nota:** La página [!UICONTROL Fuente] dejó de usarse en enero de 2020. Busque un aviso de obsolescencia del producto.
 
-Para obtener documentación del producto, consulte la página de ayuda de [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+Para obtener documentación del producto, consulte la página de ayuda de [Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html).
 
 ## ![Icono](/assets/platform.png) Experience Platform {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+Notas de la versión de [!UICONTROL Experience Platform], [!UICONTROL Experience Platform Launch], [!UICONTROL Identity Service], Journey Orchestration, Mobile Services y boletines de seguridad.
 
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Organización de recorridos](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)  (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html)  (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
-Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
+Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.translate.html) para ver notas de la versión y documentación del producto.
 
 ### Organización de recorridos {#journey}
 
 Con Adobe Experience Platform, puede organizar los recorridos individuales de los clientes a escala en distintos canales de experiencia y adaptarse de forma inteligente a las necesidades y recorrido de cada usuario en tiempo real.
 
-Se ha publicado la versión del primer trimestre. [Más información](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
+Se ha publicado la versión del primer trimestre. [Más información](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-#### Recursos adicionales para orquestación de viajes
+#### Recursos adicionales  para Journey Orchestration
 
-[Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services y Mobile SDK {#mobile}
 
@@ -131,12 +131,12 @@ Nuevas funciones y correcciones en Adobe Analytics:
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [AppMeasurement](#appm)
 
-Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.html).
 
 ### Nuevas funciones, mejoras y correcciones en Adobe Analytics {#aa-features}
 
-* **Varios grupos de informes en[!UICONTROL Analysis Workspace ]**: Ahora puede incluir datos de varios grupos de informes en un único proyecto de[!UICONTROL Analysis Workspace]para verlo en dos paneles en paralelo. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* **Audience Optimization de Experience Cloud**: Esta funcionalidad permite publicar segmentos en Experience Cloud en un plazo de 8 horas (en lugar del tiempo de procesamiento de 48 horas anterior). [Más información...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
+* **Varios grupos de informes en [!UICONTROL Analysis Workspace ]**: Ahora puede incluir datos de varios grupos de informes en un único proyecto de [!UICONTROL Analysis Workspace] para verlo en dos paneles en paralelo. [Más información...](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* **Audience Optimization de Experience Cloud**: Esta funcionalidad permite publicar segmentos en Experience Cloud en un plazo de 8 horas (en lugar del tiempo de procesamiento de 48 horas anterior). [Más información...](https://docs.adobe.com/content/help/es-ES/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
 * **Analysis Workspace: Plantilla de tutorial de formación**: Esta nueva plantilla estándar le guía por la terminología común y por los pasos para crear su primer análisis en Workspace. Está disponible como plantilla estándar en el modo [!UICONTROL Nuevo proyecto] y reemplaza el proyecto de muestra actual para los usuarios nuevos que no tienen otros proyectos en su lista.
 
 #### Correcciones
@@ -153,16 +153,16 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 | Aviso | Fecha de incorporación  o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración] > [!UICONTROL Grupos de informes] > [!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
+| Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/es-ES/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración] > [!UICONTROL Grupos de informes] > [!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
 | Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 3 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir del 12 de marzo de 2020. |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | A partir del 31 de marzo de 2020, Adobe Analytics dejará de ofrecer soporte para TLS 1.1. Este cambio es parte de nuestro trabajo para mantener los estándares de seguridad más altos e impulsar la seguridad de los datos del cliente. |
-| Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio: `https://experience.adobe.com/analytics.`<br>**Nota:** Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>Este cambio de dominio puede provocar problemas con las cookies al cargar Analytics en Safari. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Analytics funcionará en este nuevo dominio de Adobe Experience Cloud. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de [!DNL Safari].</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos específicos](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
+| Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio: `https://experience.adobe.com/analytics.`<br>**Nota:** Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>Este cambio de dominio puede provocar problemas con las cookies al cargar Analytics en Safari. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Analytics funcionará en este nuevo dominio de Adobe Experience Cloud. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de [!DNL Safari].</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos específicos](https://docs.adobe.com/content/help/es-ES/analytics/analyze/activity-map/activity-map.html).</li></ul> |
 | Fin de vida útil: API heredadas de Analytics | 9 de enero de 2020 | En noviembre de 2020, los siguientes servicios de API heredadas de Analytics llegarán a su fin de vida útil y se cerrarán. Las integraciones actuales creadas con estos servicios dejarán de funcionar. <ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado las [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para ayudarle a responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la administración de datos en el centro de datos de San José para Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no se ofrecerá la administración de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>Para Londres, utilice [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
 
 ### [!DNL AppMeasurement] {#appm}
 
-Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). La versión 2.20.0 se publicó el jueves, 5 de marzo de 2020.
+Consulte [Notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.translate.html). La versión 2.20.0 se publicó el jueves, 5 de marzo de 2020.
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
@@ -170,12 +170,12 @@ Nuevas funcionalidades y actualizaciones de Audience Manager:
 
 | Función | Descripción |
 | -----------| ---------- |
-| [Hoja de cálculo de las herramientas de administración masiva](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Hay una nueva versión de la hoja de cálculo disponible para usted, que corrige un problema con el que se enfrentaban algunos clientes al crear modelos algorítmicos en el sistema operativo Windows de 64 bits. Descargue la versión más reciente [aquí](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
+| [Hoja de cálculo de herramientas de administración masiva](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Hay una nueva versión de la hoja de cálculo disponible que corrige un problema que sufrían algunos clientes al crear modelos algorítmicos en el sistema operativo Windows de 64 bits. Descargue la versión más reciente [aquí](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
 
 ### Correcciones y mejoras {#aam-fixes-and-improvements}
 
-* Se corrigió un error en el cual los clientes no podían actualizar el nombre del segmento debido a que faltaba un permiso RBAC [!UICONTROL VIEW_ALL_DESTINATIONS]. No se debe necesitar el permiso [!UICONTROL VIEW_ALL_DESTINATIONS] para actualizar un segmento. Para obtener más información sobre los permisos de RBAC, consulte [Administración (controles RBAC)](https://docs.adobe.com/help/en/audience-manager/user-guide/features/administration/administration-overview.html#wild-card-permissions). (AAM-52760)
-* Se ha corregido un error en el [Explorador de datos](https://docs.adobe.com/help/en/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html) por el que algunos clientes no podían ver el contenido en la sección de información básica ni en los operadores del creador de expresiones al diseñar características basadas en señales del [!UICONTROL Explorador de datos]. (AAM-53130)
+* Se corrigió un error en el cual los clientes no podían actualizar el nombre del segmento debido a que faltaba un permiso RBAC [!UICONTROL VIEW_ALL_DESTINATIONS]. No se debe necesitar el permiso [!UICONTROL VIEW_ALL_DESTINATIONS] para actualizar un segmento. Para obtener más información sobre los permisos de RBAC, consulte [Administración (controles RBAC)](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/features/administration/administration-overview.html#wild-card-permissions). (AAM-52760)
+* Se ha corregido un error en el [Explorador de datos](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html) por el que algunos clientes no podían ver el contenido en la sección de información básica ni en los operadores del creador de expresiones al diseñar características basadas en señales del [!UICONTROL Explorador de datos]. (AAM-53130)
 * Se corrigió un error en el cual algunos clientes no podían cargar la interfaz de [!UICONTROL Audience Marketplace]. (AAM-52070)
 * Se ha corregido un error en la [!UICONTROL API de segmentos] por el que, debido a algunos segmentos sin descripción, la interfaz se bloqueaba cuando los usuarios intentaban acceder a esos segmentos y los usuarios tenían que desplazarse fuera de esa página. (AAM-53071)
 * Varias mejoras de accesibilidad en toda la interfaz de usuario. (AAM-48952, AAM-48969, AAM-48979, AAM-48993, AAM-49048, AAM-49057, AAM-49058, AAM-49392)
@@ -189,25 +189,25 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 * **AEM 6.5.4.0**
 AEM 6.5, Service Pack 4.0 (6.5.4.0, publicado el 5 de marzo de 2020) es una actualización importante que incluye nuevas funciones, mejoras clave para el cliente, así como mejoras de rendimiento, estabilidad y seguridad, publicada desde el lanzamiento general de AEM 6.5 en abril de 2019.
    * [Novedades de Adobe Experience Manager 6.5, Service Pack 4](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html)
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [Características de la versión de AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/6-5/release-notes/sp-release-notes.html)
+   * [Características de la versión de AEM Forms](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.8.0**
 
    AEM 6.4 Service Pack 8.0 (6.4.8.0, publicado el jueves, 5 de marzo de 2020) es una actualización importante que incluye correcciones claves del cliente realizadas tras la publicación general de AEM 6.4 en abril de 2018.
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/6-4/release-notes/sp-release-notes.html)
+   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.3.3.8**
 
    AEM 6.3 Service Pack 3, Cumulative Fix Pack 8 (6.3.3.8 publicada el martes, 5 de marzo de 2019) es una actualización importante que incluye correcciones claves de cliente publicadas tras el lanzamiento general de AEM 6.3 en abril de 2017.
-   * [Notas de la versión](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
-   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+   * [Notas de la versión](https://helpx.adobe.com/es/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+   * [Versiones de AEM Forms CFP](https://helpx.adobe.com/es/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM Assets Brand Portal**
 
    AEM Assets Brand Portal 6.4, Service Pack 6 (6.4.6, publicado el 5 de marzo de 2020) cambia la forma en que AEM Assets se configura con [!UICONTROL Brand Portal.] Además, la versión incluye otras mejoras y correcciones de errores.
-   * [Notas de la versión](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
+   * [Notas de la versión](https://docs.adobe.com/content/help/es-ES/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
 
 ### Autoayuda
 
@@ -217,7 +217,7 @@ AEM 6.5, Service Pack 4.0 (6.5.4.0, publicado el 5 de marzo de 2020) es una actu
 
 * **AEM as a Cloud Service: Dispatcher**
 
-   Las secciones de [Dispatcher y CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) e [invalidación de caché explícita de Dispatcher](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) se actualizaron para aclarar las opciones disponibles y cómo funcionan.
+   Las secciones de [Dispatcher y CDN](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) e [invalidación de caché explícita de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) se actualizaron para aclarar las opciones disponibles y cómo funcionan.
 
 * **Configuración de AEM Assets con Brand Portal**
 
@@ -229,7 +229,7 @@ Consulte [Configuración de AEM Assets con Brand Portal](https://docs.adobe.com/
    Hay una nueva opción disponible en AEM as a Cloud Service cuando se trabaja con Recorte inteligente en Dynamic Media:
 
    **Activar coincidencia de relación de aspecto**: Seleccione esta opción para permitir que Dynamic Media elija un tipo de recorte inteligente que se adapte a la relación de aspecto de la imagen original.
-Consulte [Trabajar con el Recorte inteligente](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/adding-dynamic-media-assets-to-pages.html#when-working-with-smart-crop).
+Consulte [Trabajar con el Recorte inteligente](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/assets/dynamicmedia/adding-dynamic-media-assets-to-pages.html#when-working-with-smart-crop).
 
 ### Comunidad
 
@@ -240,16 +240,16 @@ Consulte [Trabajar con el Recorte inteligente](https://docs.adobe.com/content/he
 
 ### Recursos adicionales
 
-* [AEM como un servicio en la nube](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [AEM como un servicio en la nube](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/landing/home.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.5](https://helpx.adobe.com/es/support/experience-manager/6-5.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/es/support/experience-manager/6-4.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
+* [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/es/support/experience-manager/6-2.html)
+* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/es/experience-manager/cloud-manager/user-guide.html)
+* [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/es/experience-manager/aem-previous-versions.html)
+* [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/es-ES/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Notas de la versión de Livefyre](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [Notas de la versión de Livefyre](https://docs.adobe.com/content/help/es-ES/livefyre/using/release-notes/c-rn.html)
 
 ## ![Icono](/assets/campaign.png) [!DNL Campaign] {#ac}
 
@@ -257,13 +257,13 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ### Campaign Classic
 
-* [Actualización de Campaign Classic 19.1.4](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
+* [Actualización de Campaign Classic 19.1.4](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
 ### Recursos adicionales
 
-* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
+* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.translate.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
