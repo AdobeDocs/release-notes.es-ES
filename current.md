@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
+source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
 
 ---
 
@@ -159,7 +159,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 | Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio: `https://experience.adobe.com/analytics.`<br>**Nota:** Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>Este cambio de dominio puede provocar problemas con las cookies al cargar Analytics en Safari. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Analytics funcionará en este nuevo dominio de Adobe Experience Cloud. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de [!DNL Safari].</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos específicos](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
 | Fin de vida útil: API heredadas de Analytics | 9 de enero de 2020 | En noviembre de 2020, los siguientes servicios de API heredadas de Analytics llegarán a su fin de vida útil y se cerrarán. Las integraciones actuales creadas con estos servicios dejarán de funcionar. <ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado las [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para ayudarle a responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la administración de datos en el centro de datos de San José para Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no se ofrecerá la administración de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>Para Londres, utilice [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
-| EOL de análisis específicos | 6 de agosto de 2018 | Adobe anunció la intención de realizar análisis específicos al final de su vida útil. La fecha se hará pública una vez que esté disponible. Para obtener más información, consulte [Descubrir Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+| EOL de Análisis ad hoc | 6 de agosto de 2018 | Adobe anunció la intención de finalizar la Análisis ad hoc. La fecha se hará pública una vez que esté disponible. Para obtener más información, consulte [Descubrir Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### [!DNL AppMeasurement] {#appm}
 
@@ -183,7 +183,7 @@ Nuevas funcionalidades y actualizaciones de Audience Manager:
 
 ## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
-Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AEM). Adobe recomienda a los clientes con implementaciones locales implementar los parches más recientes para garantizar una mayor estabilidad, seguridad y rendimiento.
+Nuevas funciones, correcciones y actualizaciones en Adobe Experience Manager (AEM). Adobe recomienda a los clientes con implementaciones locales implementar los parches más recientes para garantizar una mayor estabilidad, seguridad y rendimiento.
 
 ### Actualizaciones de productos
 
@@ -272,9 +272,11 @@ Actualizado el 20 de marzo de 2020 para la versión del 21 de marzo:
 
 | Ver | Función |
 |------|---------|
-| [!UICONTROL Portafolios] | Ahora, puede añadir campañas de [!DNL Yahoo!] Japan Display Network (YDN) en portafolios para optimizar los presupuestos de campaña y las ofertas de nivel de grupo de anuncios. La misma oferta se aplica a todos los anuncios de un grupo de anuncios. Los datos de las campañas YDN se incluyen en las simulaciones del portafolio. |
-| [!UICONTROL Buscar] > [!UICONTROL Hojas de edición en bloque] | Ahora puede crear, editar y eliminar anuncios de búsqueda interactivos (RSA) de Google mediante hojas de edición en bloque. Antes, la compatibilidad solo estaba disponible a través de la interfaz de administración de campañas estándar en **[!UICONTROL Buscar]** > **[!UICONTROL Campañas]** |
-| [!UICONTROL Búsqueda] > [!UICONTROL Campañas, Informes] | Las métricas de prominencia de Google Ads `Impr. (Abs. Top) %` y `Impr. (Top) %` ahora están disponibles en todos los informes básicos y en las vistas de administración de campañas a nivel de entidad, excepto en los informes de grupos de productos de compras, en los informes de uso compartido de [!UICONTROL impresiones diarias de campaña] y de [!UICONTROL uso compartido de impresiones diarias de palabras clave], y en las vistas de etiquetas y restricciones. |
+| [!UICONTROL Portafolios] | Para obtener instrucciones sobre cómo administrar sus portafolios a fin de tener en cuenta los cambios de tráfico resultantes de COVID-19, póngase en contacto con su administrador de cuentas. |
+|  | (campañas de anuncios de Google y anuncios de Microsoft) En portafolios optimizados con la opción &quot;Optimizar automáticamente los valores de ajuste de oferta&quot;, Advertising Cloud ya no optimiza automáticamente la configuración de ajuste de oferta para campañas mediante la estrategia de oferta de costo por clic (eCPC) mejorada. El motor de búsqueda optimiza todos los ajustes de oferta en el momento de la subasta. Advertising Cloud sigue optimizando las ofertas de base y — cuando la opción &quot;Ajustar automáticamente los límites presupuestarios de la campaña&quot; está activada — el presupuesto de la campaña. |
+| [!UICONTROL Alertas beta] | (Función beta) Ahora puede crear plantillas de alerta para identificar cuándo cualquier portafolio cumple condiciones específicas — como métricas de rendimiento: durante un período especificado y luego generar una alerta. Puede crear alertas de nivel de portafolio desde **[!UICONTROL perspectivas e informes]** > **[!UICONTROL Alertas (Beta)]** , pero no desde **[!UICONTROL Optimización]** > **[!UICONTROL Carteras)]**. **Nota:** Ya no están disponibles las alertas creadas a partir de la versión anterior de Alertas beta, que se reemplazó en enero. |
+|  |
+| [!UICONTROL Administración] > Propiedades [!UICONTROL de la transacción] | La nueva columna &quot;ID de propiedad&quot; muestra el ID de propiedad exclusivo de cada propiedad de transacción. Puede buscar cualquier cadena contenida en los valores de columna. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
