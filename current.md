@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 84d38312b8486b99fe12ada6d358682e3ae43847
+source-git-commit: 01a3dab2c109edf6664ed79814022d61d2b82675
 
 ---
 
@@ -275,7 +275,6 @@ Actualizado el 20 de marzo de 2020 para la versión del 21 de marzo:
 | [!UICONTROL Portafolios] | Para obtener instrucciones sobre cómo administrar sus portafolios a fin de tener en cuenta los cambios de tráfico resultantes de COVID-19, póngase en contacto con su administrador de cuentas. |
 | Publicidades de Google y campañas de anuncios de Microsoft | En portafolios optimizados con la opción &quot;Optimizar automáticamente los valores de ajuste de oferta&quot;, Advertising Cloud ya no optimiza automáticamente la configuración de ajuste de oferta para campañas mediante la estrategia de oferta de costo por clic (eCPC) mejorada. El motor de búsqueda optimiza todos los ajustes de oferta en el momento de la subasta. Advertising Cloud sigue optimizando las ofertas de base y — cuando la opción &quot;Ajustar automáticamente los límites presupuestarios de la campaña&quot; está activada — el presupuesto de la campaña. |
 | [!UICONTROL Alertas beta] | (Función beta) Ahora puede crear plantillas de alerta para identificar cuándo cualquier portafolio cumple condiciones específicas — como métricas de rendimiento: durante un período especificado y luego generar una alerta. Puede crear alertas de nivel de portafolio desde **[!UICONTROL perspectivas e informes]** > **[!UICONTROL Alertas (Beta)]** , pero no desde **[!UICONTROL Optimización]** > **[!UICONTROL Carteras)]**. **Nota:** Ya no están disponibles las alertas creadas a partir de la versión anterior de Alertas beta, que se reemplazó en enero. |
-|  |
 | [!UICONTROL Administración] > Propiedades [!UICONTROL de la transacción] | La nueva columna &quot;ID de propiedad&quot; muestra el ID de propiedad exclusivo de cada propiedad de transacción. Puede buscar cualquier cadena contenida en los valores de columna. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
