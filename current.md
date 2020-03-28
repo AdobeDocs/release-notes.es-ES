@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01a3dab2c109edf6664ed79814022d61d2b82675
+source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
 
 ---
 
@@ -29,7 +29,7 @@ Actualización más reciente: 11 de marzo de 2020
 * [Estado del sistema de Adobe](#status)
 * [Servicios principales e interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Fecha de la versión: **12 de marzo de 2020**
+* [!DNL Analytics](#analytics) - Fecha de la versión: **12 de marzo de 2020** (Actualización: 27 de marzo de 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -94,7 +94,7 @@ Notas de la versión de [!UICONTROL Experience Platform], [!UICONTROL Experience
 * [Experience Platform Launch](#launch)
 * [Organización de recorridos](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)  (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/security.html)   (Todos los productos de Adobe)
 
 ### Experience Platform Launch {#launch}
 
@@ -106,7 +106,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 
 Se ha publicado la versión del primer trimestre. [Más información](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-#### Recursos adicionales  para Journey Orchestration
+#### Recursos adicionales   para Journey Orchestration
 
 [Documentación](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
@@ -128,7 +128,7 @@ Fecha de la versión: **12 de marzo de 2020**
 Nuevas funciones y correcciones en Adobe Analytics:
 
 * [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)
-* [Avisos importantes para los administradores de Analytics](#aa-notices)
+* [Avisos importantes para los administradores de Analytics](#aa-notices) (Actualización: 27 de marzo de 2020)
 * [AppMeasurement](#appm)
 
 Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -151,15 +151,15 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación  o actualizada | Descripción |
+| Aviso | Fecha de incorporación   o actualizada | Descripción |
 | -----------| ---------- | ---------- |
 | Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración] > [!UICONTROL Grupos de informes] > [!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
-| Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 3 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir del 12 de marzo de 2020. |
+| Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 27 de marzo de 2020 | The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports &amp; Analytics] will no longer be available as of October, 2020. |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | A partir del 31 de marzo de 2020, Adobe Analytics dejará de ofrecer soporte para TLS 1.1. Este cambio es parte de nuestro trabajo para mantener los estándares de seguridad más altos e impulsar la seguridad de los datos del cliente. |
 | Nuevo dominio de Adobe Analytics | 18 de diciembre de 2019 | El 16 de enero de 2020, Adobe Analytics empezará a pasar a un nuevo dominio: `https://experience.adobe.com/analytics.`<br>**Nota:** Este cambio se aplica a todos los usuarios que acceden a Analytics con su Adobe ID o Enterprise ID.<ul><li>Este cambio de dominio puede provocar problemas con las cookies al cargar Analytics en Safari. Al anular la selección _Impedir el seguimiento entre sitios_ en las preferencias de privacidad de [!DNL Safari], se habilitarán las cookies entre dominios (y todas las experiencias entre sitios) y Analytics funcionará en este nuevo dominio de Adobe Experience Cloud. Puede utilizar otros navegadores sin problemas porque esto solo afecta a los usuarios de [!DNL Safari].</li><li>El cambio de dominio puede hacer que [!UICONTROL Activity Map] deje de funcionar para algunos clientes [en casos específicos](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
 | Fin de vida útil: API heredadas de Analytics | 9 de enero de 2020 | En noviembre de 2020, los siguientes servicios de API heredadas de Analytics llegarán a su fin de vida útil y se cerrarán. Las integraciones actuales creadas con estos servicios dejarán de funcionar. <ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado las [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para ayudarle a responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la administración de datos en el centro de datos de San José para Londres y Singapur | Julio de 2020 | Para los clientes de Londres y Singapur, ya no se ofrecerá la administración de datos entre Londres o Singapur y el centro de datos de San José [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>Para Londres, utilice [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Para Singapur, utilice [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
-| EOL de Análisis ad hoc | 6 de agosto de 2018 | Adobe anunció la intención de finalizar la Análisis ad hoc. La fecha se hará pública una vez que esté disponible. Para obtener más información, consulte [Descubrir Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+| EOL de Ad Hoc Analysis | 6 de agosto de 2018 | Adobe anunció su intención de finalizar el servicio de Ad Hoc Analysis. La fecha se hará pública una vez que esté disponible. Para obtener más información, consulte [Descubrir Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### [!DNL AppMeasurement] {#appm}
 
