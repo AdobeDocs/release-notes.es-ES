@@ -4,8 +4,8 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
+translation-type: tm+mt
+source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 
 ---
 
@@ -60,7 +60,7 @@ Actualización más reciente: 11 de marzo de 2020
 | Experiencia personalizada basada en las preferencias del usuario | <ul><li>En las notificaciones por correo electrónico se utiliza la preferencia de zona horaria basada en la configuración del explorador.</li><li>Confirmación de correo electrónico enviada al suscribirse/cancelar la suscripción con todas las preferencias seleccionadas.</li></ul> |
 | Mejor entrega de mensajes de eventos | <ul><li>El historial de eventos se ordena según las actualizaciones de eventos cronológicos.</li><li>Marca de hora de la resolución de eventos agregada a los problemas cerrados de mayor y menor gravedad.</li></ul> |
 
-## ![Icono](/assets/experience-cloud.png) Servicios principales e interfaz de Experience Cloud {#ecloud}
+## ![Icono](/assets/ec_appicon_24.png) Servicios principales e interfaz de Experience Cloud {#ecloud}
 
 Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.).
 
@@ -86,7 +86,7 @@ Las actualizaciones incluyen:
 
 Para obtener documentación del producto, consulte la página de ayuda de [Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html).
 
-## ![Icono](/assets/platform.png) Experience Platform {#platform}
+## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Notas de la versión de [!UICONTROL Experience Platform], [!UICONTROL Experience Platform Launch], [!UICONTROL Identity Service], Journey Orchestration, Mobile Services y boletines de seguridad.
 
@@ -321,7 +321,7 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
 
-## ![Icono](/assets/experience-cloud.png) Nueva documentación y tutoriales {#selfhelp}
+## ![Icono](/assets/ec_appicon_24.png) Nueva documentación y tutoriales {#selfhelp}
 
 Artículos y vídeos informativos nuevos y recientes. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
