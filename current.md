@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
+source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
 
 ---
 
@@ -29,7 +29,7 @@ Actualización más reciente: 11 de marzo de 2020
 * [Estado del sistema de Adobe](#status)
 * [Servicios principales e interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Fecha de la versión: **12 de marzo de 2020**  (Contenido actualizado el 27 de marzo de 2020)
+* [!DNL Analytics](#analytics) - Fecha de la versión: **12 de marzo de 2020**  (Actualizado el 7 de abril de 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Fecha de la versión: **12 de marzo de 2020**
 Nuevas funciones y correcciones en Adobe Analytics:
 
 * [Nuevas funciones, mejoras y correcciones en Adobe Analytics](#aa-features)
-* [Avisos importantes para los administradores de Analytics](#aa-notices)  (Contenido actualizado el 27 de marzo de 2020)
+* [Avisos importantes para los administradores de Analytics](#aa-notices)  (Actualizado el 7 de abril de 2020)
 * [AppMeasurement](#appm)
 
 Para obtener documentación del producto, consulte la sección [Ayuda de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.html).
@@ -153,6 +153,7 @@ Para obtener documentación del producto, consulte la sección [Ayuda de Adobe A
 
 | Aviso | Fecha de incorporación     o actualizada | Descripción |
 | -----------| ---------- | ---------- |
+| Cambio en la forma en que se calculan las entradas y salidas en Workspace | 7 de abril de 2020 | En Espacio de trabajo de Análisis, a partir de marzo de 2020, hemos cambiado la forma en que el valor &quot;Ninguno&quot; interactúa con las entradas y salidas. Dado que ahora puede activar y desactivar &quot;Nones&quot; en el espacio de trabajo de Análisis, se aplica &quot;Ninguno&quot; después de la entrada o salida, mientras que (para las eVars) solía aplicarse antes. Por ejemplo, supongamos que la primera visita individual de una visita no tiene valor para eVarx, pero la segunda visita sí. En Informes y análisis se mostrará como &quot;No especificado&quot; para la entrada, pero en Espacio de trabajo de Análisis se mostrará como el valor de la segunda visita. |
 | Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/es-ES/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración] > [!UICONTROL Grupos de informes] > [!UICONTROL Configuración general de cuenta]** se eliminará de la interfaz de usuario el 12 de marzo de 2020. |
 | Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 27 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir de octubre de 2020. |
 | Finalización de la compatibilidad con TLS 1.1 | 3 de octubre de 2019 | A partir del 31 de marzo de 2020, Adobe Analytics dejará de ofrecer soporte para TLS 1.1. Este cambio es parte de nuestro trabajo para mantener los estándares de seguridad más altos e impulsar la seguridad de los datos del cliente. |
