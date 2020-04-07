@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
+source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 ---
 
@@ -273,10 +273,10 @@ Actualizado el 20 de marzo de 2020 para la versión del 21 de marzo:
 
 | Ver | Función |
 |------|---------|
-| [!UICONTROL Portafolios] | Para obtener instrucciones sobre cómo administrar sus portafolios para tener en cuenta los cambios de tráfico resultantes de la COVID-19, póngase en contacto con su administrador de cuentas. |
-| Campañas publicitarias de Google y Microsoft | En portafolios optimizados con la opción “Optimizar automáticamente los valores de ajuste de oferta”, Advertising Cloud ya no optimiza automáticamente la configuración de ajuste de oferta para campañas mediante la estrategia de oferta de coste por clic (eCPC) mejorada. El motor de búsqueda optimiza todos los ajustes de oferta en el momento de la subasta. Advertising Cloud sigue optimizando las ofertas de base y, cuando la opción “Ajustar automáticamente los límites presupuestarios de la campaña” está activada, el presupuesto de la campaña. |
+| [!UICONTROL Portafolios] | For guidelines on how to manage your portfolios to account for traffic changes resulting from [!DNL COVID-19], contact your account manager. |
+| Campañas publicitarias de Google y Microsoft | In optimized portfolios with the [!UICONTROL Auto-optimize Bid Adjustment Values] option, Advertising Cloud no longer automatically optimizes the bid adjustment settings for campaigns using the enhanced cost per click (eCPC) bid strategy. El motor de búsqueda optimiza todos los ajustes de oferta en el momento de la subasta. Advertising Cloud still optimizes the base bids and — when the [!UICONTROL Auto adjust campaign budget limits] option is enabled — the campaign budget. |
 | [!UICONTROL Alertas beta] | (Función beta) Ahora puede crear plantillas de alerta para identificar cuándo cualquier portafolio cumple condiciones específicas, como métricas de rendimiento, durante un período especificado y luego generar una alerta. Puede crear alertas a nivel de portafolio desde **[!UICONTROL Información e informes]** > **[!UICONTROL Alertas (Beta)]**, pero no desde **[!UICONTROL Optimización]** > **[!UICONTROL (Portafolio)]**. **Nota:** Ya no están disponibles las alertas creadas a partir de la versión anterior de Alertas beta, que se reemplazó en enero. |
-| [!UICONTROL Administración] > [!UICONTROL Propiedades de la transacción] | La nueva columna “ID de propiedad” muestra el ID de propiedad exclusivo de cada propiedad de transacción. Puede buscar cualquier cadena contenida en los valores de columna. |
+| [!UICONTROL Administración] > [!UICONTROL Propiedades de la transacción] | A new [!UICONTROL Property ID] column shows the unique property ID for each transaction property. Puede buscar cualquier cadena contenida en los valores de columna. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
