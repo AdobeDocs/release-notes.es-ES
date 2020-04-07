@@ -63,7 +63,7 @@ Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la
 
 | Función | Fecha de la versión | Descripción |
 | ----|----|---- |
-| Herramienta de administración: ver detalles del usuario | 26 de febrero de 2020 | Los administradores pueden ver una lista de los usuarios de Experience Cloud que pueden ordenar y filtrar, y sus detalles en la nueva herramienta de administración. Los detalles del usuario incluyen el acceso al producto, las funciones y la información a la que accedió por última vez. Consulte la ayuda de la [herramienta de administración de Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obtener más información. |
+| Herramienta de administración: ver detalles del usuario | 26 de febrero de 2020 | Los administradores pueden ver una lista de los usuarios de Experience Cloud que pueden ordenar y filtrar, y sus detalles en la nueva herramienta de administración. Los detalles del usuario incluyen el acceso al producto, las funciones y la información a la que accedió por última vez. Consulte la ayuda de la [herramienta de administración de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obtener más información. |
 
 ### Dominio de producto unificado
 
