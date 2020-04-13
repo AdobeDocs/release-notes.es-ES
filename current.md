@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
+source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
 
 ---
 
@@ -165,6 +165,10 @@ Consulte la página de inicio [de la Ayuda de](https://docs.adobe.com/content/he
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
 Nuevas funciones y correcciones en Adobe Audience Manager:
+
+| Función | Descripción |
+| -----------| ---------- |  
+| [Principales problemas de asistencia al cliente](../support-issues/support-issues-overview.md) | Hemos agregado una nueva sección a nuestro portal de documentación, que incluye respuestas a las preguntas más frecuentes recibidas por nuestro equipo de asistencia al cliente. |
 
 * Se ha corregido un problema que provocaba que no funcionaran los botones Prueba [!UICONTROL de] Duplicado y Plantilla [!UICONTROL de asignación de] Duplicados en el Laboratorio [!UICONTROL de] Audiencias. (AAM-53388)
 * Se ha corregido un problema que provocaba que las Audiencias [!UICONTROL de tasa de] coincidencia [!UICONTROL y de direcciones de] segmentos se mostraran como 0 cuando se configuraba un destino para exportar UUID. Las Audiencias [!UICONTROL Tasa de] coincidencia y Direccionamiento  de segmento ahora se muestran como 100%. (AAM-51615)
