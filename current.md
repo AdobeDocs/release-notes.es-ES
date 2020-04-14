@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
+source-git-commit: 26ff9349ed0c5dc19167e4d21c03f5261f802e73
 
 ---
 
@@ -181,8 +181,9 @@ Nuevas funciones y correcciones en Adobe Audience Manager:
 
 | Función | Descripción |
 | -----------| ---------- |  
-| Principales problemas de asistencia al cliente | Hemos agregado una nueva sección a nuestro portal de documentación, que incluye respuestas a las preguntas más frecuentes recibidas por nuestro equipo de asistencia al cliente. |
+| [Principales problemas de asistencia al cliente](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | Hemos agregado una nueva sección a nuestro portal de documentación, que incluye respuestas a las preguntas más frecuentes recibidas por nuestro equipo de asistencia al cliente. |
 
+* Se ha corregido un problema que provocaba un sistema de informes impreciso de Audiencias [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) direccionables para segmentos que contenían ID de dispositivos móviles. Después de esta actualización, puede ver un aumento en sus Audiencias [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html)objetivo.
 * Se ha corregido un problema que provocaba que no funcionaran los botones Prueba [!UICONTROL de] Duplicado y Plantilla [!UICONTROL de asignación de] Duplicados en el Laboratorio [!UICONTROL de] Audiencias. (AAM-53388)
 * Se ha corregido un problema que provocaba que las Audiencias [!UICONTROL de tasa de] coincidencia [!UICONTROL y de direcciones de] segmentos se mostraran como 0 cuando se configuraba un destino para exportar UUID. Las Audiencias [!UICONTROL Tasa de] coincidencia y Direccionamiento  de segmento ahora se muestran como 100%. (AAM-51615)
 * Se ha corregido un problema que hacía que los nombres de características que contienen caracteres especiales se codificaran dos veces en HTML. (AAM-54001)
