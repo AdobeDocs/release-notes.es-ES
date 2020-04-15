@@ -116,7 +116,7 @@ Unidad 4.19.0 (10 de marzo de 2020):
 
 >[!IMPORTANT]
 >
->La versión de mantenimiento de abril de Adobe Analytics se ha trasladado al 21 de mayo de 2020. Para obtener la información más reciente sobre la versión de Analytics, consulte las notas de la versión de [marzo](c-legacy-releases\2020\03122020.md)
+>La versión de mantenimiento de abril de Adobe Analytics se ha trasladado al 21 de mayo de 2020. Para obtener la información más reciente sobre la versión de Analytics, consulte las notas de la versión de [marzo](c-legacy-releases/2020/03122020.md)
 
 <!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
