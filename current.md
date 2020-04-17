@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
+source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ---
 
@@ -29,7 +29,7 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 (Las fechas de lanzamiento específicas de la solución pueden variar).
 
 * [Estado del sistema de Adobe](#status)
-* [Servicios principales e interfaz de Experience Cloud](#ecloud)
+* [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Cambio de fecha de lanzamiento: consulte la actualización del 15 de abril)**
 * [Audience Manager](#aam)
@@ -57,9 +57,9 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 | suscripciones personalizadas basadas en derechos | <ul><li>Recomendaciones de suscripción preseleccionadas basadas en las autorizaciones DX del usuario.</li><li>Las suscripciones recomendadas se resaltan en la parte superior de la lista del producto para una visualización rápida.</li><li>Las notificaciones por correo electrónico recibidas son relevantes para las autorizaciones de productos del usuario.</li></ul> |
 | Administración más sencilla de Suscripciones | <ul><li>**[!UICONTROL Administrar Suscripciones]** tiene una nueva experiencia de usuario para administrar suscripciones de productos y eventos.</li><li>Nueva opción para vista y edición de suscripciones de productos y eventos por separado.</li><li>La opción **[!UICONTROL Eliminar]** le permite cancelar la suscripción de una suscripción de producto o evento.</li><li>La opción **[!UICONTROL Cancelar suscripción todo]** con un solo clic está disponible para las suscripciones de productos.</li><li>La compatibilidad con UX está disponible para las superficies web, móviles y tabletas y la localización en 19 idiomas.</li></ul> |
 
-## ![Icono](/assets/ec_appicon_24.png) Servicios principales e interfaz de Experience Cloud {#ecloud}
+## ![Icono](/assets/ec_appicon_24.png) de la interfaz de Experience Cloud {#ecloud}
 
-Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y los servicios principales (atributos del cliente, audiencias, desencadenadores, cookies, etc.):
+Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la administración y servicios como atributos del cliente, audiencias, activadores, etc.):
 
 * La página [!UICONTROL Fuente] de Experience Cloud estaba en desuso. (EXC-8505)
 * La página de inicio de sesión de Experience Cloud se ha actualizado para reflejar nuevos elementos de marca. (EXC-10747)
