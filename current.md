@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f2687895a6795bb636ddb5c10f60fe9d6231e8c5
+source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 
 ---
 
 
-# Acceso anticipado - Notas de la versión de Adobe Experience Cloud - Abril de 2020
+# Notas de la versión de Adobe Experience Cloud - Abril de 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
