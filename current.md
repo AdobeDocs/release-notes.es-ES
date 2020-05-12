@@ -4,7 +4,7 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
 
 ---
@@ -20,7 +20,7 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 >
 >Para recibir notificaciones por correo electrónico sobre próximas versiones, suscríbase a [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html). La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
 
-**Fecha de publicación: 2020 de abril de**
+**Fecha de publicación: abril de 2020**
 
 Última actualización: **30 de abril de 2020**
 
@@ -29,15 +29,15 @@ Nuevas funciones y correcciones en [!DNL Adobe Experience Cloud].
 * [Estado del sistema de Adobe](#status)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Actualizado el 29 de abril)**
-* [Administrador](#aam) de Audiencias **(actualizado el 30 de abril)**
+* [Audience Manager](#aam) **(Actualizado el 30 de abril)**
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html) (lleva a la página de ayuda de Target)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (lleva a la página de ayuda de Primetime)
+* [!DNL Primetime](https://helpx.adobe.com/es/primetime/user-guide.html) (lleva a la página de ayuda de Primetime)
 
-¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html).
+¿Busca ayuda en casa? Consulte la [documentación de Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html).
 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
@@ -107,7 +107,7 @@ Unidad 4.19.0 (10 de marzo de 2020):
 
 * [Notas de la versión de Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.html)
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
-* [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html)  (Todos los productos de Adobe)
+* [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html) (Todos los productos de Adobe)
 
 ## ![Icono](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -117,7 +117,7 @@ Unidad 4.19.0 (10 de marzo de 2020):
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
-* [Avisos importantes para los administradores de Analytics](#aa-notices)  (Actualizado el 16 de abril de 2020)
+* [Avisos importantes para los administradores de Analytics](#aa-notices) (Actualizado el 16 de abril de 2020)
 * [AppMeasurement](#appm)
 * [Nuevos tutoriales de Analytics](#tutorials-analytics)
 
@@ -125,7 +125,7 @@ Unidad 4.19.0 (10 de marzo de 2020):
 
 | Función | Descripción |
 | -----------| ---------- |
-| Data Workbench 6.74 (**Update 4/29/2020**) | Actualización del análisis del certificado TLS del servicio de administración de identidades (IMS) en la implementación del servidor. Esta actualización amplía el análisis de la coincidencia de cadenas a la expresión normal, incluida la capacidad de gestionar certificados de nombre alternativo del sujeto (SAN). See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for more information. |
+| Data Workbench 6.74 (**Actualización del 29 de abril de 2020**) | Actualización del análisis de certificado TLS del servicio Identity Management (IMS) en la implementación del servidor. Esta actualización amplía el análisis de la coincidencia de cadenas a expresión regular, incluida la capacidad de gestionar certificados de nombres alternativos del sujeto (SAN). Consulte las [Notas de la versión de Data Workbench](https://docs.adobe.com/content/help/es-ES/data-workbench/using/release-notes/release-notes.html) para obtener más información. |
 | [!UICONTROL Customer Journey Analytics]: Relleno de conjuntos de datos automático | Esta nueva opción le permite importar todos los datos históricos de una conexión en [!UICONTROL Customer Journey Analytics]. [Más información](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-connections/create-connection.translate.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
@@ -156,9 +156,9 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación  o actualizada | Descripción |
+| Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Se ha eliminado la casilla &quot;Segmento aplicado en el Data Warehouse&quot; | jueves, 16 de abril de 2020 | A partir del 16 de abril de 2020, ya no comprobamos si se aplica un segmento en una solicitud del Data Warehouse desde el creador de segmentos. Antes, esta verificación buscaba segmentos únicos aplicados en solicitudes del Data Warehouse (excluía varios segmentos aplicados) y devolvía una notificación de advertencia si el valor era verdadero. Este cambio no afecta la verificación de la compatibilidad del producto del Data Warehouse para los segmentos. |
+| Se ha eliminado la casilla &quot;Segmento aplicado en el Data Warehouse&quot; | 16 de abril de 2020 | A partir del 16 de abril de 2020, ya no comprobamos si se aplica un segmento en una solicitud del Data Warehouse desde el creador de segmentos. Antes, esta verificación buscaba segmentos únicos aplicados en solicitudes del Data Warehouse (excluía varios segmentos aplicados) y devolvía una notificación de advertencia si el valor era verdadero. Este cambio no afecta la verificación de la compatibilidad del producto del Data Warehouse para los segmentos. |
 | Cambio en la forma en que se calculan las [!UICONTROL entradas y las salidas] en [!UICONTROL Workspace] | 7 de abril de 2020 | En [!UICONTROL Analysis Workspace], a partir de marzo de 2020, hemos cambiado la forma en que el valor _Ninguno_ interactúa con las [!UICONTROL entradas y salidas]. Dado que ahora puede activar y desactivar el valor _Ninguno_ en [!UICONTROL Analysis Workspace], se aplica el valor _Ninguno_ después de la entrada o salida, cuando se solía aplicar antes (para eVars). Por ejemplo, supongamos que una primera visita no tiene valor para eVar pero la segunda visita sí lo tiene. En [!UICONTROL Reports &amp; Analytics], se mostrará como _Sin especificar_ para la entrada, pero en [!UICONTROL Analysis Workspace], se mostrará como el valor de la segunda visita. |
 | Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/es-ES/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración]** > **[!UICONTROL Grupos de informes]** > **[!UICONTROL Configuración general de cuenta]** se eliminó de la interfaz de usuario el 12 de marzo de 2020. |
 | Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 27 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir de octubre de 2020. |
@@ -190,8 +190,8 @@ Nuevas funciones y correcciones en Adobe Audience Manager:
 
 | Función | Descripción |
 | -----------| ---------- |  
-| [Audiencias predictivas](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | [!UICONTROL Las Audiencias] predictivas ayudan a clasificar una audiencia desconocida en personalidades distintas, en tiempo real, mediante técnicas avanzadas de ciencia de datos. <br><br> En un contexto de marketing, una persona es un segmento de audiencia definido por visitantes, usuarios o compradores potenciales, que comparten un conjunto específico de características, como demografía, hábitos de navegación, historial de compras, etc.<br><br>[!UICONTROL Los modelos de Audiencias] predictivas llevan este concepto un paso más allá, ya que le permiten utilizar las capacidades de aprendizaje automático del Administrador de Audiencias para clasificar audiencias desconocidas en personalidades distintas. <br><br>El Administrador de Audiencias le ayuda a conseguirlo calculando la propensión de la audiencia de origen desconocida para un conjunto de audiencias de origen conocidas. |
-| Additional [!UICONTROL Profile Merge Rules] Enhancements | [!UICONTROL Las reglas] de combinación de Perfiles proporcionan a los clientes del Administrador de Audiencias la capacidad de definir, administrar y activar segmentos de audiencia basados en la identidad en lugar de en dispositivos. <br><br> A partir del 29 de abril, los clientes del Administrador de Audiencias podrán comprender mejor el desglose de las poblaciones de ID de dispositivos y entre dispositivos para características y segmentos tanto dentro de la segmentación individual como del sistema de informes masivo en la interfaz de usuario del Administrador de Audiencias. <br><br> Esto permitirá una mejor perspectiva de la identidad dentro del Administrador de Audiencias, lo que proporciona a los clientes una vista holística de la población total de segmentos por dispositivo, persona y hogar. Las exportaciones masivas de rasgos de los ID de dispositivos y entre dispositivos también se actualizarán para reflejar estas mejoras.<br><br>  Las actualizaciones específicas incluyen la capacidad de: <ul><li>Informe con ID [entre dispositivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) en los informes [General](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html) y [Tendencia](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html) ;</li><li>Mejore el selector [!UICONTROL de] características en el Generador [de](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/segments/segment-builder.translate.html) segmentos para incluir las poblaciones de rasgos que no están incluidas en los ID de [CRM](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html);</li><li>Crear exportaciones de características precisas con ID de [varios dispositivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html)desactivados;</li><li>Crear exportaciones de características precisas con ID de [dispositivo](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) clave (debe excluir las características autenticadas);</li><li>Devolver los recuentos correctos de las características asociadas a los ID de [CRM](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) cuando se solicita mediante la herramienta [BAAAM](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) .</li></ul> |
+| [Audiencias predictivas](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.translate.html) | Las [!UICONTROL Audiencias predictivas] ayudan a clasificar una audiencia desconocida en distintas personas, en tiempo real, mediante técnicas avanzadas de ciencia de datos. <br><br> En un contexto de marketing, una persona es un segmento de audiencia definido por visitantes, usuarios o compradores potenciales, que comparten un conjunto específico de características, como su demografía, hábitos de navegación, historial de compras, etc.Los modelos de <br><br>[!UICONTROL Audiencias predictivas] llevan este concepto un paso más allá, ya que permiten utilizar las funcionalidades de aprendizaje automático de Audience Manager para clasificar audiencias desconocidas en personas distintas. <br><br>Audience Manager puede conseguirlo calculando la propensión de la audiencia de origen desconocida para un conjunto de audiencias de origen conocidas. |
+| Mejoras adicionales en las [!UICONTROL reglas de combinación de perfiles] | Las [!UICONTROL reglas de combinación de perfiles] permiten a los clientes de Audience Manager definir, administrar y activar segmentos de audiencia basados en identidad en lugar de en dispositivos. <br><br> A partir del 29 de abril, los clientes de Audience Manager entenderán mejor el desglose de las poblaciones de ID de dispositivos y entre dispositivos para características y segmentos tanto dentro de la segmentación individual como del sistema de informes masivo en la interfaz de usuario de Audience Manager. <br><br> Esto permite conseguir una mejor perspectiva de la identidad dentro de Audience Manager, lo que proporcionará a los clientes una vista integral de la población total de segmentos por dispositivo, persona y hogar. Las exportaciones masivas de rasgos de los ID de dispositivos y entre dispositivos también se actualizarán para reflejar estas mejoras.<br><br>  Las actualizaciones específicas incluyen estas funciones: <ul><li>Informe con [ID de varios dispositivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) en los informes [General](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/general-reports.translate.html) y [Tendencia](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/trend-reports.translate.html).</li><li>Mejoras del [!UICONTROL Selector de características] en el [Generador de segmentos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/segments/segment-builder.translate.html) para incluir las poblaciones de características que no están incluidas en los [ID de CRM](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html).</li><li>Crear exportaciones de características precisas con claves de [ID de varios dispositivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html).</li><li>Crear exportaciones de características precisas con claves de [ID de dispositivo](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) (debe excluir las características autenticadas).</li><li>Devolver los recuentos correctos de las características asociadas a los [ID de CRM](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html) cuando se solicitan mediante la herramienta [BAAAM](https://docs.adobe.com/help/es-ES/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html).</li></ul> |
 | [Principales problemas de asistencia al cliente](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | Hemos agregado una nueva sección a nuestro portal de documentación, que incluye respuestas a las preguntas más frecuentes recibidas por nuestro equipo de asistencia al cliente. |
 
 * Se ha corregido un problema que provocaba un sistema de informes impreciso de [Audiencias disponibles](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/addressable-audiences.html) para segmentos que contenían ID de dispositivos móviles. Después de esta actualización, puede ver un aumento en sus [Audiencias disponibles](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/addressable-audiences.html).
@@ -236,7 +236,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
    Ahora puede publicar recursos de AEM Assets as a Cloud Service en AEM Assets Brand Portal.
 
-   Consulte [Configuración de AEM Assets con Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) y [Publicación de recursos en Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
+   Consulte [Configuración de AEM Assets con Brand Portal](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) y [Publicación de recursos en Brand Portal](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
 
 * **Adobe Asset Link 2.0 publicado**
 
@@ -272,7 +272,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 * [Página de inicio de Learn &amp; Support de AEM 6.4](https://helpx.adobe.com/es/support/experience-manager/6-4.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
 * [Página de inicio de Learn &amp; Support de AEM 6.2](https://helpx.adobe.com/es/support/experience-manager/6-2.html)
-* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Guía del usuario de Cloud Manager](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/es/experience-manager/aem-previous-versions.html)
 * [Inicio de la Ayuda de Dynamic Media Classic](https://docs.adobe.com/content/help/es-ES/dynamic-media-classic/using/home.html)
 * [Notas de la versión de Dynamic Media](https://docs.adobe.com/content/help/es-ES/dynamic-media-developer-resources/release-notes/s7rn2017.html)
