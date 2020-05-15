@@ -4,11 +4,11 @@ description: Plantilla para notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -88,7 +88,7 @@ Notas de la versión de [!DNL Experience Platform,] incluyendo [!DNL Experience 
 Con Adobe Experience Platform, puede organizar los recorridos individuales de los clientes a escala en distintos canales de experiencia y adaptarse de forma inteligente a las necesidades y recorrido de cada usuario en tiempo real.
 
 * [Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html)
-* [Notas de la versión](http://www.adobe.com/go/platform-release-notes-en)
+* [Notas de la versión](https://docs.adobe.com/content/help/es-ES/experience-platform/release-notes/latest.translate.html)
 * [Vídeotutoriales](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services y Mobile SDK {#mobile}
@@ -256,7 +256,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 | [Configuración del tiempo de ejecución de AEM local](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) se puede ejecutar localmente mediante el [!UICONTROL Jar de inicio rápido] del SDK de AEM as a Cloud Service. Esto permite a los desarrolladores implementar y probar el código, la configuración y el contenido personalizados antes de comprometerlo con el control de código fuente e implementarlo en el entorno de AEM as a Cloud Service. |
 | [Navegación](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/authoring/navigation.html) | Explore los conceptos básicos para la navegación con AEM Assets. |
 | [Versiones](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/collaboration/versions.html) | Explore cómo AEM crea y mantiene versiones de recursos. |
-| [AEM: [!DNL Magento] integración con el marco de integración de [!UICONTROL comercio]](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | Este vídeo lo acompaña durante la configuración de la integración entre AEM y [!DNL Magento]. |
+| [AEM:  [!DNL Magento] Integración con el [!UICONTROL marco de integración comercial]](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | Este vídeo lo acompaña durante la configuración de la integración entre AEM y [!DNL Magento]. |
 | [Introducción a la pila de arquitectura de AEM](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-architecture.html) | El arquetipo de proyecto de CIF crea un proyecto de Adobe Experience Manager (AEM) básico como punto de partida para proyectos de clientes que utilizan componentes principales de CIF. |
 | [Introducción a OSGi](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-osgi.html) | Introducción a OSGi, una arquitectura modular dinámica para aplicaciones Java que constituye la base de Adobe Experience Manager. |
 | [Introducción al repositorio de contenido Java (JCR)](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-jcr.html) | Introducción al repositorio de contenido Java (JCR) utilizado por Adobe Experience Manager. |
@@ -298,7 +298,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 ### Recursos de ayuda adicionales de Campaign
 
 * Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/es-ES/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.translate.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)
 
 <!-- ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
