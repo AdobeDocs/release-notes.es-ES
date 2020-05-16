@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ea42901b975981a10d42b9681d494604c385018c
+source-git-commit: 8ed0b98440cd68357d792abaec2a99dccbfa47dc
 workflow-type: tm+mt
 source-wordcount: '4766'
 ht-degree: 38%
@@ -29,7 +29,7 @@ Esta página proporciona nuevas funciones, correcciones y avisos importantes en 
 
 **Fecha de lanzamiento: mayo de 2020**
 
-Última actualización: **15 de mayo de 2020**
+Última actualización: **16 de mayo de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
@@ -398,7 +398,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
