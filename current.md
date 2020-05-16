@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b41cdd18c7e3251218bf41aee62979e5f79a4c2a
+source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
 workflow-type: tm+mt
-source-wordcount: '4722'
-ht-degree: 39%
+source-wordcount: '4764'
+ht-degree: 38%
 
 ---
 
@@ -345,39 +345,41 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ### Campaign Standard
 
-Versión del Panel de control:
-
-| Función | Descripción |
-| -----------| ---------- |  
-| Gestión de claves GPG | Instale y/o genere claves GPG en una instancia de marketing, para cifrar los datos enviados desde la Campaña y descifrar los datos entrantes. |
-| Administración de certificados para subdominios CNAME | El Panel de control ahora le permite renovar los certificados SSL de sus subdominios delegados con el método CNAME. |
-
-* [Adobe Campaign Standard 20.3](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html)
+* [Versión de Adobe Campaign Standard 20.3](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
 
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Nuevos tutoriales de Campaign Standard {#tutorials-acs}
+### Panel de control de Campaña
+
+| Función | Descripción |
+| -----------| ---------- |  
+| Gestión de claves GPG | Instale y/o genere claves GPG en una instancia de marketing, para cifrar los datos enviados desde la Campaña y descifrar los datos entrantes. |
+| Administración de certificados para subdominios CNAME | El Panel de control ahora le permite renovar los certificados SSL de sus subdominios delegados con el método CNAME. |
+
+### Nuevos tutoriales de campaña
+
+* Nuevos tutoriales de Campaign Standard
 
 | Contenido | Descripción |
 | -----------| ---------- |  
 | [Panel de control - Administración de registros TXT de Google](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Obtenga información sobre cómo agregar registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con el Panel de control de Campaña. |
 | [Configurar y ejecutar un flujo de trabajo con la actividad de API externa](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Obtenga información sobre cómo llamar a un extremo de API REST externo mediante la actividad de API externa. |
-| (ACS) Tutorial sobre [introducción a las notificaciones push para Android](https://jira.corp.adobe.com/browse/KT-3846) | Este tutorial explica los pasos necesarios para configurar las notificaciones push con ACS y la aplicación Android. |
+| (ACS) Tutorial sobre [introducción a las notificaciones push para Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | En este tutorial se explican los pasos necesarios para configurar las notificaciones push con las aplicaciones de Campaign Standard y Android. |
 
-### New Campaign Classic tutorials {#tutorials-acc}
+* Nuevos tutoriales de Campaign Classic
 
 | Contenido | Descripción |
 | -----------| ---------- |  
 | [Gran gestión de datos sobre el copo de nieve](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Conozca cómo aprovechar el conector Snowflake en Adobe Campaign Classic. |
 | [Panel de control - Administración de registros TXT de Google](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Obtenga información sobre cómo agregar registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con el Panel de control de Campaña. |
 
-### Recursos de ayuda adicionales de Campaign
+### Recursos de ayuda de Campaña
 
-* Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.translate.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign estándar: [Centro](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html) de ayuda - Notas [de la](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) versión - [Vídeos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) de procedimientos - Planificación [de](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll) versiones - [Últimas actualizaciones] de la documentación (https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Centro](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html) de ayuda - Notas [de la](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.translate.html) versión - [Vídeos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)de procedimientos - [Últimas actualizaciones] de la documentación (https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
@@ -394,7 +396,7 @@ Versión del Panel de control:
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
