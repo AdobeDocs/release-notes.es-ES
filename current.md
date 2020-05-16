@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
+source-git-commit: ea42901b975981a10d42b9681d494604c385018c
 workflow-type: tm+mt
-source-wordcount: '4764'
+source-wordcount: '4766'
 ht-degree: 38%
 
 ---
@@ -49,6 +49,8 @@ Esta página proporciona nuevas funciones, correcciones y avisos importantes en 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
 [!UICONTROL El estado del sistema de Adobe] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos en la nube de Adobe y las interrupciones y sesiones de mantenimiento de los servicios de Adobe. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
+
+Fecha de versión: **21 de mayo de 2020**
 
 **Novedades**
 
@@ -396,7 +398,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
