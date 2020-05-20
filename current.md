@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
+source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
 workflow-type: tm+mt
-source-wordcount: '4798'
+source-wordcount: '4811'
 ht-degree: 38%
 
 ---
@@ -97,6 +97,10 @@ Las siguientes aplicaciones utilizan el nuevo dominio experience.adobe.com:
 | Servicio de lugares | `experience.adobe.com/places` |
 | Distribución de software | `experience.adobe.com/downloads` |
 | Herramienta de administración (beta) | `experience.adobe.com/admin` |
+
+>[!NOTE]
+>
+>**[!UICONTROL Board &amp; Collections]**, un filtro heredado en el selector de recursos [!UICONTROL de] Marketing Cloud, se está retirando del mercado.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
