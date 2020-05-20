@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
+source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
 workflow-type: tm+mt
-source-wordcount: '4811'
+source-wordcount: '4835'
 ht-degree: 38%
 
 ---
@@ -165,6 +165,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL paneles de Adobe Analytics] | [!UICONTROL paneles] de Adobe Analytics es una aplicación móvil que permite a los usuarios acceder a las perspectivas desde Adobe Analytics en cualquier momento y lugar. Esta aplicación está dirigida a los ejecutivos que buscan acceso directo a métricas clave. Permite acceder a cuadros de mandos interactivos y depurados y estará disponible para los sistemas operativos iOS y Android. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL : Crear automáticamente tablas improvisadas a partir de un estado en blanco] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Además, se han realizado mejoras en la forma en que se gestionan los tipos de componentes mixtos (como dimensiones y métricas) cuando se colocan juntos en una tabla improvisada en blanco. |
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
+| Mejoras de accesibilidad | El equipo de Adobe Analytics ha realizado varias mejoras de accesibilidad en el espacio de trabajo de Análisis, incluida la navegación mejorada con el teclado, el contraste de color y la compatibilidad con lectores de pantalla. |
 
 #### Correcciones de Adobe Analytics
 
