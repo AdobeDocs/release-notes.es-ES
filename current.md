@@ -7,7 +7,7 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4893'
+source-wordcount: '4895'
 ht-degree: 37%
 
 ---
@@ -161,7 +161,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Función | Descripción |
 | -----------| ---------- |
-| Compatibilidad de Analytics con la plataforma de [!UICONTROL Adobe Experience Platform Edge Network] | Le permite utilizar una sola etiqueta para enviar datos a varias soluciones de Adobe, como Adobe Analytics, Adobe Destinatario, Adobe Audiencia Manager, Adobe Experience Platform Data Lake, Unified Perfil y el servicio Experience Cloud ID. [Más información...](https://docs.adobe.com/content/help/es-ES/experience-platform/edge/home.html) |
+| Compatibilidad de Analytics con la plataforma de [!UICONTROL Adobe Experience Platform Edge Network] | Le permite utilizar una sola etiqueta para enviar datos a varias soluciones de Adobe, como Adobe Analytics, Adobe Destinatario, Adobe Audiencia Manager, Adobe Experience Platform Data Lake, Unified Perfil y el servicio Experience Cloud ID. [Más información...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL paneles de Adobe Analytics] | [!UICONTROL paneles] de Adobe Analytics es una aplicación móvil que permite a los usuarios acceder a las perspectivas desde Adobe Analytics en cualquier momento y lugar. Esta aplicación está dirigida a los ejecutivos que buscan acceso directo a métricas clave. Permite acceder a cuadros de mandos interactivos y depurados y estará disponible para los sistemas operativos iOS y Android. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL : Crear automáticamente tablas improvisadas a partir de un estado en blanco] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Además, se han realizado mejoras en la forma en que se gestionan los tipos de componentes mixtos (como dimensiones y métricas) cuando se colocan juntos en una tabla improvisada en blanco. |
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
@@ -405,7 +405,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
