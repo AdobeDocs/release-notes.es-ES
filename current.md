@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
+source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4835'
-ht-degree: 38%
+source-wordcount: '4893'
+ht-degree: 37%
 
 ---
 
@@ -29,12 +29,12 @@ Esta página proporciona nuevas funciones, correcciones y avisos importantes en 
 
 **Fecha de lanzamiento: mayo de 2020**
 
-Última actualización: **19 de mayo de 2020**
+Última actualización: **21 de mayo de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Actualización: 21 de mayo de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -143,7 +143,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 
 * [Nuevas funciones en el análisis de viajes del cliente](#cust-journey)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
-* [Avisos importantes para los administradores de Analytics](#aa-notices)
+* [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 21 de mayo de 2020**)
 * [AppMeasurement](#appm)
 * [Nuevos tutoriales de Analytics](#tutorials-analytics)
 
@@ -210,6 +210,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
+| Redundancia mejorada para la disponibilidad de Análisis Workspace | 21 de mayo de 2020 | Para garantizar la disponibilidad del espacio de trabajo de Análisis, agregamos un CDN secundario (Red de Envío de contenido) para mejorar la redundancia. Las siguientes direcciones URL deben agregarse a las listas blancas de cortafuegos de red necesarias:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Cambio en la forma en que se calculan las [!UICONTROL entradas y las salidas] en [!UICONTROL Workspace] | 7 de abril de 2020 | En [!UICONTROL Analysis Workspace], a partir de marzo de 2020, hemos cambiado la forma en que el valor _Ninguno_ interactúa con las [!UICONTROL entradas y salidas]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Por ejemplo, supongamos que la primera visita individual de una visita no tiene valor para las eVars, pero la segunda sí. In [!UICONTROL Reports &amp; Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | Fin de la vida útil de la configuración **[!UICONTROL Nivel de conversión]** | 3 de marzo de 2020 | La configuración [Nivel de conversión](https://docs.adobe.com/content/help/es-ES/analytics/admin/admin-tools/general-acct-settings-admin.html) de **[!UICONTROL Herramientas de administración]** > **[!UICONTROL Grupos de informes]** > **[!UICONTROL Configuración general de cuenta]** se eliminó de la interfaz de usuario el 12 de marzo de 2020. |
 | Fin de la vida útil de la configuración **[!UICONTROL Archivo de tablero]** | 27 de marzo de 2020 | La configuración **[!UICONTROL Ver archivo]** en **[!UICONTROL Administrar tableros]** de [!UICONTROL Reports &amp; Analytics] dejará de estar disponible a partir de octubre de 2020. |
@@ -404,7 +405,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
