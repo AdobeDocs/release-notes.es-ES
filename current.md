@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
+source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
 workflow-type: tm+mt
-source-wordcount: '4895'
-ht-degree: 37%
+source-wordcount: '5024'
+ht-degree: 36%
 
 ---
 
@@ -144,6 +144,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 * [Nuevas funciones en el análisis de viajes del cliente](#cust-journey)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
 * [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 21 de mayo de 2020**)
+* [Correcciones](#aa-fixes) de Adobe Analytics (**actualizado el 21 de mayo de 2020**)
 * [AppMeasurement](#appm)
 * [Nuevos tutoriales de Analytics](#tutorials-analytics)
 
@@ -167,8 +168,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
 | Mejoras de accesibilidad | El equipo de Adobe Analytics ha realizado varias mejoras de accesibilidad en el espacio de trabajo de Análisis, incluida la navegación mejorada con el teclado, el contraste de color y la compatibilidad con lectores de pantalla. |
 
-#### Correcciones de Adobe Analytics
+#### Correcciones de Adobe Analytics (#aa-fixes)
 
+* Adobe cambió la métrica [!UICONTROL Tiempo empleado] para no incluir nunca &quot;ninguno&quot;. Esto significa que, independientemente de si la interfaz de usuario indica que no se ha incluido ninguno o no, se hace una excepción especial para excluir siempre &quot;ninguno&quot; en el cálculo del [!UICONTROL tiempo empleado] . Por lo tanto, incluso si configuró un informe que incluía la métrica [!UICONTROL Tiempo empleado] para &quot;incluir ninguno&quot;, siempre devolverá 0 tiempo empleado para el elemento de línea &quot;ninguno&quot;. Tenga en cuenta que esto podría cambiar el sistema de informes histórico en Informes y análisis, así como en la API de Sistema de informes v1.4. (AN-197958)
+* Se corrigió un problema en el cual la instancia/visita/Visitante no se contaba en el denominador de las métricas de [!UICONTROL tiempo empleado] .  Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, [!UICONTROL Pagename]) se producía en el mismo segundo. (AN-211074)
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
 * Se ha corregido un problema con el procesamiento de [!UICONTROL fuentes de datos] que mostraba fechas incorrectas. (AN-213604)
 * Se ha corregido un problema con los archivos de clasificación que no se cargaban correctamente en el FTP. (AN-214102)
