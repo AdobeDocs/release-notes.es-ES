@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 36c098558e178fdaea0bab49528e54a93980ac0b
+source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
 workflow-type: tm+mt
 source-wordcount: '4998'
 ht-degree: 36%
@@ -166,8 +166,8 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Correcciones de Adobe Analytics (#aa-fixes)
 
-* Adobe cambió la métrica [!UICONTROL Tiempo empleado] para no incluir nunca &quot;ninguno&quot;. Esto significa que, independientemente de si la interfaz de usuario indica que no se ha incluido ninguno o no, se hace una excepción especial para excluir siempre &quot;ninguno&quot; en el cálculo del [!UICONTROL tiempo empleado] . Por lo tanto, incluso si configuró un informe que incluía la métrica [!UICONTROL Tiempo empleado] para &quot;incluir ninguno&quot;, siempre devolverá 0 tiempo empleado para el elemento de línea &quot;ninguno&quot;. Tenga en cuenta que esto podría cambiar el sistema de informes histórico en Informes y análisis, así como en la API de Sistema de informes v1.4. (AN-197958)
-* Se corrigió un problema en el cual la instancia/visita/Visitante no se contaba en el denominador de las métricas de [!UICONTROL tiempo empleado] .  Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, [!UICONTROL Pagename]) se producía en el mismo segundo. (AN-211074)
+* Adobe cambió la métrica [!UICONTROL Tiempo empleado] para no incluir nunca &quot;No especificado&quot; en el cálculo. Esto significa que, independientemente de si la interfaz de usuario indica incluir &quot;No especificado&quot;, se hace una excepción especial para excluir siempre &quot;No especificado&quot; en el cálculo del [!UICONTROL tiempo empleado] . Por lo tanto, aunque haya configurado un informe que contenga la métrica [!UICONTROL Tiempo empleado] para incluir &quot;No especificado&quot;, siempre devolverá 0 tiempo empleado para el elemento de línea &quot;No especificado&quot;. Tenga en cuenta que esto puede cambiar el sistema de informes histórico en Informes y análisis, así como en la API de Sistema de informes v1.4. (AN-197958)
+* Se corrigió un problema en el cual la instancia/visita/Visitante no se contaba en el denominador de las métricas de [!UICONTROL tiempo empleado] .  Esto sucedería cuando una visita sin valor para la dimensión (por ejemplo, [!UICONTROL Pagename]) se seguiría en el mismo segundo. (AN-211074)
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
 * Se ha corregido un problema con el procesamiento de [!UICONTROL fuentes de datos] que mostraba fechas incorrectas. (AN-213604)
 * Se ha corregido un problema con los archivos de clasificación que no se cargaban correctamente en el FTP. (AN-214102)
