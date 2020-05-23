@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
+source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
 workflow-type: tm+mt
-source-wordcount: '4998'
+source-wordcount: '4997'
 ht-degree: 36%
 
 ---
@@ -164,7 +164,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
 | Mejoras de accesibilidad | El equipo de Adobe Analytics ha realizado varias mejoras de accesibilidad en el espacio de trabajo de Análisis, incluida la navegación mejorada con el teclado, el contraste de color y la compatibilidad con lectores de pantalla. |
 
-#### Correcciones de Adobe Analytics (#aa-fixes)
+#### Correcciones de Adobe Analytics {#aa-fixes}
 
 * Adobe cambió la métrica [!UICONTROL Tiempo empleado] para no incluir nunca &quot;No especificado&quot; en el cálculo. Esto significa que, independientemente de si la interfaz de usuario indica incluir &quot;No especificado&quot;, se hace una excepción especial para excluir siempre &quot;No especificado&quot; en el cálculo del [!UICONTROL tiempo empleado] . Por lo tanto, aunque haya configurado un informe que contenga la métrica [!UICONTROL Tiempo empleado] para incluir &quot;No especificado&quot;, siempre devolverá 0 tiempo empleado para el elemento de línea &quot;No especificado&quot;. Tenga en cuenta que esto puede cambiar el sistema de informes histórico en Informes y análisis, así como en la API de Sistema de informes v1.4. (AN-197958)
 * Se corrigió un problema en el cual la instancia/visita/Visitante no se contaba en el denominador de las métricas de [!UICONTROL tiempo empleado] .  Esto sucedería cuando una visita sin valor para la dimensión (por ejemplo, [!UICONTROL Pagename]) se seguiría en el mismo segundo. (AN-211074)
@@ -404,7 +404,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 |  | En todas las páginas, ahora puede descargar informes de Excel basados en los filtros y vistas actuales. |
 |  | (En la versión del 22 de mayo) Las nuevas métricas incluyen métricas de todo el tiempo, Envío de intervalo actual, OTS de fecha específica. |
 | [!UICONTROL Listas negras] | El sistema de pronóstico ahora utiliza automáticamente la lista negra a nivel de anunciante o cuenta. Los usuarios ya no necesitan pegar la lista negra en la configuración de colocación. |
-| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de acuerdo. |
+| [!UICONTROL Ofertas de inventario] | (Beta cerrada) Un nuevo formulario simplificado le permite configurar, editar y solucionar rápidamente las ofertas de la plataforma de suministro (SSP) que no están disponibles en la bandeja de entrada del ID de oferta. |
 |  | Al aceptar un paquete de ofertas garantizadas mediante programación en la Bandeja de entrada de ID de acuerdo, ahora se le advierte de que debe crear una colocación predeterminada para cada ID de acuerdo. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
