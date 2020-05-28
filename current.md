@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
+source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
 workflow-type: tm+mt
-source-wordcount: '5040'
-ht-degree: 36%
+source-wordcount: '5159'
+ht-degree: 35%
 
 ---
 
@@ -25,12 +25,12 @@ Esta página proporciona nuevas funciones, correcciones y avisos importantes en 
 
 **Fecha de lanzamiento: mayo de 2020**
 
-Última actualización: **26 de mayo de 2020**
+Última actualización: **27 de mayo de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Actualización: 26 de mayo de 2020**)
+* [!DNL Analytics](#analytics) (**Actualización: 27 de mayo de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,8 +137,11 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 
 ## ![Icono](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+Updated **May 27, 2020**
+
 * [Nuevas funciones en el análisis de viajes del cliente](#cust-journey)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
+* [Nuevas funciones de Media Analytics](#media-aa) (**actualizado el 27 de mayo de 2020**)
 * [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 26 de mayo de 2020**)
 * [Correcciones](#aa-fixes) de Adobe Analytics (**actualizado el 21 de mayo de 2020**)
 * [AppMeasurement](#appm)
@@ -163,6 +166,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace][!UICONTROL : Crear automáticamente tablas improvisadas a partir de un estado en blanco] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Además, se han realizado mejoras en la forma en que se gestionan los tipos de componentes mixtos (como dimensiones y métricas) cuando se colocan juntos en una tabla improvisada en blanco. |
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
 | Mejoras de accesibilidad | El equipo de Adobe Analytics ha realizado varias mejoras de accesibilidad en el espacio de trabajo de Análisis, incluida la navegación mejorada con el teclado, el contraste de color y la compatibilidad con lectores de pantalla. |
+
+#### New features in [!UICONTROL Media Analytics] {#media-aa}
+
+Date added: **May 27, 2020**
+
+**Seguimiento del estado del reproductor:** [!UICONTROL Los clientes de Media Analytics] pueden capturar la interacción del visor durante la reproducción mediante un conjunto estándar de variables de solución para la pantalla completa, los subtítulos opcionales, el silencio, la imagen en imagen y el enfoque. También tiene la flexibilidad de crear estados de reproductor personalizados. Las variables de seguimiento de estado del reproductor ahora están disponibles para sistema de informes en [!UICONTROL Análisis Workspace]. Esta función requiere una de las siguientes acciones:
+
+* Media [!DNL JavaScript] SDK 3.0 o superior
+* Para su uso con el SDK [!DNL Adobe Experience Platform] (AEP):
+   * [!UICONTROL Media Analytics Extension] (para Web): [!UICONTROL Adobe Media Analytics] (SDK 3.x) para audio y vídeo v1.0 o superior
+   * [!UICONTROL Media Analytics Extension] (para móviles): [!UICONTROL Adobe Media Analytics para audio] y vídeo v2.0 o superior
+* [!UICONTROL API de Media Collection]
 
 #### Correcciones de Adobe Analytics {#aa-fixes}
 
