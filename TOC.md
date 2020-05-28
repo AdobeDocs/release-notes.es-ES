@@ -3,9 +3,9 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Notas de la versión de Adobe Experience Cloud
 user-guide-url: https://www.adobe.com
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b41cdd18c7e3251218bf41aee62979e5f79a4c2a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 + [Notas de la versión](current.md)
 + Notas de la versión anterior {#previous}
    + 2020 {#2020}
-      + [de abril de 2020](c-legacy-releases/2020/04162020.md)
+      + [Abril de 2020](c-legacy-releases/2020/04162020.md)
       + [Marzo de 2020](c-legacy-releases/2020/03122020.md)
       + [Febrero de 2020](c-legacy-releases/2020/02202020.md)
       + [Enero de 2020](c-legacy-releases/2020/01162020.md)
@@ -36,7 +36,7 @@ ht-degree: 100%
    + 2018 {#2018}
       + [Noviembre de 2018](c-legacy-releases/2018/11012018.md)
       + [Octubre de 2018](c-legacy-releases/2018/10112018.md)
-      + [Septiembre de 2019](c-legacy-releases/2018/09132018.md)
+      + [Septiembre de 2018](c-legacy-releases/2018/09132018.md)
       + [Agosto de 2018](c-legacy-releases/2018/08092018.md)
       + [Julio de 2018](c-legacy-releases/2018/07192018.md)
       + [Junio de 2018](c-legacy-releases/2018/06142018.md)
