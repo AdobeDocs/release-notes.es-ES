@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0256f7a16a4a3b0909d83256d82e5f44cafa43da
+source-git-commit: 8296d1788e4768e12b7dcbb6b520c534419d6360
 workflow-type: tm+mt
-source-wordcount: '5042'
-ht-degree: 36%
+source-wordcount: '5161'
+ht-degree: 35%
 
 ---
 
@@ -141,7 +141,7 @@ Updated **May 27, 2020**
 
 * [Nuevas funciones en el análisis de viajes del cliente](#cust-journey)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
-<!-- * [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**) -->
+* [Nuevas funciones de Media Analytics](#media-aa) (**actualizado el 27 de mayo de 2020**)
 * [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 26 de mayo de 2020**)
 * [Correcciones](#aa-fixes) de Adobe Analytics (**actualizado el 21 de mayo de 2020**)
 * [AppMeasurement](#appm)
@@ -167,17 +167,19 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Paquete] de Adobe Analytics añadido a la página Nivel [!UICONTROL de acceso a] funciones | Ahora puede realizar la vista a qué paquete [!UICONTROL de] Adobe Analytics (SKU) tiene derecho su compañía en **[!UICONTROL Administración]** > Configuración **[!UICONTROL de]** Compañía > Nivel **[!UICONTROL de acceso a]** funciones. |
 | Mejoras de accesibilidad | El equipo de Adobe Analytics ha realizado varias mejoras de accesibilidad en el espacio de trabajo de Análisis, incluida la navegación mejorada con el teclado, el contraste de color y la compatibilidad con lectores de pantalla. |
 
-<!-- #### New features in [!UICONTROL Media Analytics] {#media-aa}
+#### New features in [!UICONTROL Media Analytics] {#media-aa}
 
 Date added: **May 27, 2020**
 
-**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
+**Seguimiento del estado del reproductor:** [!UICONTROL Los clientes de Media Analytics] pueden capturar la interacción del visor durante la reproducción mediante un conjunto estándar de variables de solución para la pantalla completa, los subtítulos opcionales, el silencio, la imagen en imagen y el enfoque. También tiene la flexibilidad de crear estados de reproductor personalizados. Las variables de seguimiento de estado del reproductor ahora están disponibles para sistema de informes en [!UICONTROL Análisis Workspace]. Esta función requiere una de las siguientes acciones:
 
-* Media [!DNL JavaScript] SDK 3.0 or higher
-* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
-  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
-  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
-* [!UICONTROL Media Collection] API -->
+* Media [!DNL JavaScript] SDK 3.0 o superior
+* Para su uso con el SDK [!DNL Adobe Experience Platform] (AEP):
+   * [!UICONTROL Media Analytics Extension] (para Web): [!UICONTROL Adobe Media Analytics] (SDK 3.x) para audio y vídeo v1.0 o superior
+   * [!UICONTROL Media Analytics Extension] (para móviles): [!UICONTROL Adobe Media Analytics para audio] y vídeo v2.0 o superior
+* [!UICONTROL Colección de medios]
+
+Vínculo de contenido disponible próximamente.
 
 #### Correcciones de Adobe Analytics {#aa-fixes}
 
