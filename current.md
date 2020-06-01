@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
+source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
 workflow-type: tm+mt
-source-wordcount: '5212'
-ht-degree: 89%
+source-wordcount: '5322'
+ht-degree: 87%
 
 ---
 
@@ -25,12 +25,12 @@ Esta página proporciona nuevas funciones, correcciones y avisos importantes en 
 
 **Fecha de lanzamiento: mayo de 2020**
 
-Última actualización: **29 de mayo de 2020**
+Última actualización: **1 de junio de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Actualización: 29 de mayo de 2020**)
+* [!DNL Analytics](#analytics) (**Actualización: 1 de junio de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -142,7 +142,7 @@ Updated **May 29, 2020**
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
 * [Nuevas funciones de Media Analytics](#media-aa) (**actualizado el 29 de mayo de 2020**)
-* [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 26 de mayo de 2020**)
+* [Avisos importantes para administradores](#aa-notices) de Analytics (**actualizado el 1 de junio de 2020**)
 * [Correcciones](#aa-fixes) de Adobe Analytics (**actualizado el 21 de mayo de 2020**)
 * [AppMeasurement](#appm)
 * [Nuevos tutoriales de Analytics](#tutorials-analytics)
@@ -226,6 +226,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
+| Migración al dominio de producto unificado | Fecha en vigor: 28 de mayo de 2020 | La migración a un dominio de producto unificado para Adobe Analytics, que comenzó en enero de 2020, finalizó el 28 de mayo de 2020. Aunque Adobe Analytics trabaja para eliminar todas las referencias de `omniture.com` dominio de su arquitectura, es importante incluir `omniture.com` como una cookie de terceros. Cuando la migración completa de la arquitectura se complete (pronto), le notificaremos mediante las notas de la versión y este paso de la lista blanca ya no será necesario. [A continuación](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) se muestra una lista completa de los dominios y las direcciones IP recomendadas que debe incluir en la lista de direcciones permitidas.<br>Si su organización bloquea las cookies de terceros, póngase en contacto con el Servicio de atención al cliente para recuperar el acceso a Adobe Analytics. |
 | Nueva página de aterrizaje predeterminada de Adobe Analytics | Fecha efectiva: 18 de junio de 2020 | El 18 de junio de 2020, la página de aterrizaje predeterminada de Adobe Analytics cambiará de [!UICONTROL Informes] a [!UICONTROL Espacio de trabajo]. Este cambio se producirá para todos los usuarios que no hayan establecido previamente una página de aterrizaje personalizada. |
 | Lista blanca de tecnología de terceros | (Fecha de entrada en vigor: 12 de marzo de 2020 | Adobe Analytics ha comenzado a aprovechar las tecnologías de terceros para la administración de la implementación de funciones y la compatibilidad con el producto. Las siguientes direcciones URL deben agregarse a las listas blancas de servidores de seguridad de red necesarias para garantizar el acceso completo a las funciones:<ul><li>Perspectiva: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Redundancia mejorada para la disponibilidad de Análisis Workspace | 21 de mayo de 2020 | Para garantizar la disponibilidad del espacio de trabajo de Análisis, agregamos un CDN secundario (Red de Envío de contenido) para mejorar la redundancia. Las siguientes direcciones URL deben agregarse a las listas blancas de cortafuegos de red necesarias:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
@@ -379,7 +380,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Panel de control de Campaña
+### Panel de control de Campaign
 
 | Función | Descripción |
 | -----------| ---------- |  
