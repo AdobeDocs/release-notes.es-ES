@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e239cc0afb9ebde272f37fa0181b1454412ac2ae
+source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
 workflow-type: tm+mt
-source-wordcount: '6520'
+source-wordcount: '6522'
 ht-degree: 35%
 
 ---
@@ -406,7 +406,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 | [Componentes de la consola web de AEM](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | Tutorial de vídeo | Obtenga información sobre la depuración de AEM como inicio rápido local del SDK de un servicio de nube mediante la consola web Componentes. |
 | [Depuración del inicio rápido local del SDK de AEM mediante registros](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Tutorial de vídeo | Obtenga información sobre la depuración de AEM como inicio rápido local del SDK de un servicio de nube mediante la consola web Bundles. |
 | [Depuración remota de AEM como inicio rápido local del SDK de un servicio de nube](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | Tutorial de vídeo | Obtenga información sobre la depuración remota de Java desde su IDE, lo que le permite avanzar en la ejecución de código en directo en AEM para comprender el flujo exacto de ejecución. |
-| [Configuración de etiquetas inteligentes](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Instrucciones paso a paso para integrar Adobe Experience Manager (AEM) con Smart Content Service mediante Adobe I/O. |
+| [Configuración de etiquetas inteligentes](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Tutorial de vídeo | Instrucciones paso a paso para integrar Adobe Experience Manager (AEM) con Smart Content Service mediante Adobe I/O. |
 | [Generación por lotes de documentos](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html) | Artículo | Obtenga información sobre el uso de la API por lotes para producir varias comunicaciones interactivas a partir de una plantilla. |
 | [Creación de un documento de impresión en AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html) | Artículo | Conozca los pasos necesarios para crear una comunicación interactiva para el canal de impresión. |
 | [Acceso a Adobe Asset Link](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | Tutorial de vídeo | Obtenga información sobre cómo acceder al contenido almacenado en Recursos Adobe Experience Manager (AEM Assets) sin salir de las aplicaciones de escritorio de Creative Cloud con las que más está familiarizado. |
