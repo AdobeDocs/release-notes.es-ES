@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f127b38a8c27f5e7a439d7130dd2577d987bf0d
+source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
 workflow-type: tm+mt
-source-wordcount: '6484'
+source-wordcount: '6487'
 ht-degree: 37%
 
 ---
@@ -140,7 +140,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 
 ### Última versión
 
-Se ha publicado la versión del segundo trimestre. [Más información](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html)
+Para obtener las últimas actualizaciones de la versión, consulte las notas de la versión de [Journey Orchestration](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html)
 
 ### Nuevos cursos y tutoriales para Journey Orchestration {#jo-tutorials}
 
@@ -210,7 +210,7 @@ Consulte [Acerca del seguimiento del estado del reproductor](https://docs.adobe.
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
@@ -346,10 +346,12 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
+
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
+
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
