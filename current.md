@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
+source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
 workflow-type: tm+mt
 source-wordcount: '6487'
 ht-degree: 37%
@@ -210,7 +210,7 @@ Consulte [Acerca del seguimiento del estado del reproductor](https://docs.adobe.
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
@@ -346,12 +346,10 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
-
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
-
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
@@ -360,13 +358,13 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
    https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html
 
-* **Core**
+* **Componentes principales**
 
    La versión 2.9.0 de Componentes principales presenta la integración con la capa [de datos del cliente de](https://github.com/adobe/adobe-client-data-layer) Adobe y un nuevo componente de barra de progreso, y ahora está disponible junto con la documentación [de](https://docs.adobe.com/content/help/es-ES/experience-manager-core-components/using/introduction.html) creación, los detalles del [desarrollador y la descarga de proyectos disponibles en GitHub](https://github.com/adobe/aem-core-wcm-components).
 
-* **Pasar a AEM como Cloud Service**
+* **El paso de AEM as a Cloud Service**
 
-   [Al pasar a AEM como Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/home.html) , se describe el viaje de transición recomendado para un cliente de AEM existente que se desplaza a Cloud Service. El objetivo de esta documentación es proporcionar a los clientes información, orientación y prácticas recomendadas para ayudarles a prepararse para esta transición y hacer que este viaje sea estructurado y predecible.
+   [Al pasar a AEM como Cloud Service](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/moving/home.html) , se describe el viaje de transición recomendado para un cliente de AEM existente que se desplaza a Cloud Service. El objetivo de esta documentación es proporcionar a los clientes información, orientación y prácticas recomendadas para ayudarles a prepararse para esta transición y hacer que este viaje sea estructurado y predecible.
 
    Se ha lanzado una de las herramientas de Transición en la nube - Herramienta de transferencia de contenido. [Adobe ha desarrollado la herramienta](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/overview-content-transfer-tool.html) de transferencia de contenido que se puede utilizar para mover el contenido existente de una instancia de AEM de origen (in situ o AMS) a la instancia de destinatario AEM Cloud Service.
 
@@ -401,7 +399,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 | [Introducción a Adobe Asset Link para usuarios empresariales](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | Curso | En este curso, aprenderá a utilizar las funciones y capacidades de Adobe Asset Link para impulsar su diseño creativo con contenido almacenado en Adobe Experience Manager Assets. El curso abarca todo tipo de temas, desde cómo iniciar un vínculo de recursos de adobe, operaciones básicas de recursos, opciones de búsqueda y exploración, y cómo colaborar eficazmente con otros usuarios. |
 | [Introducción a los AEM Assets para usuarios empresariales](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | Curso | Obtenga información sobre cómo empezar a trabajar con AEM Assets para usuarios empresariales. Explore los conceptos básicos de los AEM Assets, las funciones de colaboración, la búsqueda, organización y descarga de recursos y sus representaciones. |
 | [Introducción a los AEM Sites para usuarios empresariales](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | Curso | Aprenda a utilizar las funciones y capacidades principales de los AEM Sites para administrar las páginas web de su organización. El curso abarca desde una introducción hasta AEM Sites, conceptos básicos de creación, funciones avanzadas de creación y funciones de administración de páginas. |
-| [Estructura del proyecto de AEM](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html) | Artículo | Describe los cambios necesarios en los proyectos de Adobe Experience Manager Maven para que sean compatibles con AEM Cloud Service. |
+| [Estructura del proyecto de AEM](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html) | Artículo | Describe los cambios necesarios en los proyectos de Adobe Experience Manager Maven para que sean compatibles con AEM Cloud Service. |
 | [Modelos Sling](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#sling-models) | Tutorial de vídeo | Obtenga información sobre la depuración de AEM como inicio rápido local del SDK de un Cloud Service mediante la consola web de modelos Sling. |
 | [Componentes de la consola web de AEM](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | Tutorial de vídeo | Obtenga información sobre la depuración de AEM como inicio rápido local del SDK de Cloud Service mediante la consola web Componentes. |
 | [Depuración del inicio rápido local del SDK de AEM mediante registros](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Tutorial de vídeo | Obtenga información sobre la depuración de AEM como inicio rápido local del SDK de Cloud Service mediante la consola web Bundles. |
