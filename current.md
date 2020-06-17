@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
+source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
 workflow-type: tm+mt
-source-wordcount: '6487'
+source-wordcount: '6486'
 ht-degree: 37%
 
 ---
@@ -288,7 +288,7 @@ Estas actualizaciones solo están disponibles para los usuarios que inicien sesi
 
 * Se han actualizado los Términos y condiciones [!UICONTROL del] Audience Marketplace para que reflejen los requisitos legales de determinadas regiones geográficas. (AAM-54518)
 * Se corrigió un problema en el cual el acceso a la página [!UICONTROL Características] desde marcadores resultaba en un error 404. (AAM-54768)
-* Se corrigió un problema en el cual la API de actualización de destino agotaba el tiempo de espera al recuperar los modelos [!UICONTROL algorítmicos]. (AAM-54342)
+* Se corrigió un problema en el cual se agotaba el tiempo de espera de la API de actualización de destino al recuperar los modelos [!UICONTROL algorítmicos]. (AAM-54342)
 * Ahora los usuarios pueden ver un indicador de precisión de clasificación de modelo para personas [!UICONTROL inteligentes]. (AAM-54847)
 * Se corrigió un problema en el cual al pulsar Intro después de agregar una expresión de rasgo se eliminaba la expresión en lugar de guardarla. (AAM-54210)
 * Se corrigió un problema en el cual las llamadas al método GET de la API de [!UICONTROL características] fallaban para los usuarios que no tenían el permiso VISTA_MODELS. (AAM-53104)
@@ -346,10 +346,12 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
+
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
+
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
@@ -360,7 +362,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
 
 * **Componentes principales**
 
-   La versión 2.9.0 de Componentes principales presenta la integración con la capa [de datos del cliente de](https://github.com/adobe/adobe-client-data-layer) Adobe y un nuevo componente de barra de progreso, y ahora está disponible junto con la documentación [de](https://docs.adobe.com/content/help/es-ES/experience-manager-core-components/using/introduction.html) creación, los detalles del [desarrollador y la descarga de proyectos disponibles en GitHub](https://github.com/adobe/aem-core-wcm-components).
+   Core Components 2.9.0 presenta la integración con la capa [de datos del cliente de](https://github.com/adobe/adobe-client-data-layer) Adobe y un nuevo componente de barra de progreso, y ahora está disponible junto con la documentación [de](https://docs.adobe.com/content/help/es-ES/experience-manager-core-components/using/introduction.html) creación, los detalles del [desarrollador y la descarga de proyectos disponibles en GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **El paso de AEM as a Cloud Service**
 
