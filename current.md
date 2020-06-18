@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: af0ded4b9a09349d811a998a002b0f1c0f72403f
+source-git-commit: 1f0caf618aad2dd27a0642852a7a45c20b76bf07
 workflow-type: tm+mt
-source-wordcount: '6486'
+source-wordcount: '6484'
 ht-degree: 37%
 
 ---
@@ -210,7 +210,7 @@ Consulte [Acerca del seguimiento del estado del reproductor](https://docs.adobe.
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
@@ -230,7 +230,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | -----------| ---------- | ---------- |
-| Migración al dominio de producto unificado | Fecha de entrada en vigor: 28 de mayo de 2020 | La migración a un dominio de producto unificado para Adobe Analytics, que comenzó en enero de 2020, finalizó el 28 de mayo de 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist (formerly, allowlist) `omniture.com` as a third-party cookie. Cuando la migración completa de la arquitectura se complete (pronto), le notificaremos mediante las notas de la versión y este paso de lista de permitidos ya no será necesario. [A continuación](https://helpx.adobe.com/es/analytics/kb/adobe-ip-addresses.html) se muestra una lista completa de las direcciones IP y los dominios recomendados que debe permitir.<br>Si su organización bloquea las cookies de terceros, póngase en contacto con el Servicio de atención al cliente para recuperar el acceso a Adobe Analytics. |
+| Migración al dominio de producto unificado | Fecha de entrada en vigor: 28 de mayo de 2020 | La migración a un dominio de producto unificado para Adobe Analytics, que comenzó en enero de 2020, finalizó el 28 de mayo de 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. Cuando la migración completa de la arquitectura se complete (pronto), le notificaremos mediante las notas de la versión y este paso de lista de permitidos ya no será necesario. [A continuación](https://helpx.adobe.com/es/analytics/kb/adobe-ip-addresses.html) se muestra una lista completa de las direcciones IP y los dominios recomendados que debe permitir.<br>Si su organización bloquea las cookies de terceros, póngase en contacto con el Servicio de atención al cliente para recuperar el acceso a Adobe Analytics. |
 | Nueva página de aterrizaje predeterminada de Adobe Analytics | Fecha de entrada en vigor: 18 de junio de 2020 | El 18 de junio de 2020, la página de aterrizaje predeterminada de Adobe Analytics cambiará de [!UICONTROL Informes] a [!UICONTROL Espacio de trabajo]. Este cambio se producirá para todos los usuarios que no hayan establecido previamente una página de aterrizaje personalizada. |
 | Lista de permitidos de tecnología de terceros | 12 de marzo de 2020 (fecha de entrada en vigor) | Adobe Analytics ha comenzado a aprovechar las tecnologías de terceros para administrar el despliegue de funciones y la compatibilidad con el producto. Las siguientes direcciones URL deben agregarse a las listas de permisos necesarias para el cortafuegos de red a fin de garantizar el acceso completo a las funciones:<ul><li>Perspectiva: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Improved redundancy for [!UICONTROL Analysis Workspace] availability | 21 de mayo de 2020 | In order to ensure availability of [!UICONTROL Analysis Workspace], we are adding a secondary CDN (Content Delivery Network) for improved redundancy. Las siguientes direcciones URL deben agregarse a cualquier lista de permisiones de firewall de red necesaria:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
@@ -346,10 +346,12 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
+
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
+
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
