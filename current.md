@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
+source-git-commit: af0ded4b9a09349d811a998a002b0f1c0f72403f
 workflow-type: tm+mt
 source-wordcount: '6486'
 ht-degree: 37%
@@ -346,12 +346,10 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
-
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
-
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
