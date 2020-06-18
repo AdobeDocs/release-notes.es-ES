@@ -1,11 +1,14 @@
 ---
 title: Notas de la versión de Adobe Experience Cloud
-description: Plantilla para notas de la versión de Experience Cloud
+description: Notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: b99aa5d06316964f374b99547215643ad8208bbf
+workflow-type: tm+mt
+source-wordcount: '2537'
+ht-degree: 96%
 
 ---
 
@@ -40,7 +43,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 * [Primetime](https://helpx.adobe.com/es/primetime/user-guide.html): (Vínculos a las páginas de ayuda de la solución)
 * [Nueva documentación y tutoriales](#selfhelp)
 
-¿Busca ayuda en casa? Consulte la documentación de [Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html).
+¿Busca ayuda en casa? Consulte la [documentación de Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html).
 
 ## Estado del sistema de Adobe {#status}
 
@@ -71,7 +74,7 @@ Para obtener documentación del producto, consulte [Administrar usuarios y produ
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Notas de la versión para los [!DNL Experience Platform,] boletines de [!DNL Experience Platform Launch,] Orquestación [!UICONTROL de]Viaje, [!UICONTROL Ofertas], [!UICONTROL Personas], [!UICONTROL Lugares], Mobile Servicesy seguridad.
+Notas de la versión de [!DNL Experience Platform,] incluyendo [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL ofertas], [!UICONTROL usuarios], [!UICONTROL Places], [!UICONTROL Mobile Services], y boletines de seguridad.
 
 * [Servicio Experience Cloud ID](#ecid)
 * [Notas de la versión de Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
@@ -90,11 +93,11 @@ Para obtener documentación del producto, consulte [Servicio Experience Cloud ID
 
 Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
 
-### [!UICONTROL Organización de recorridos] {#journey}
+### [!UICONTROL Journey Orchestration] {#journey}
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Recursos adicionales para la orquestación de [!UICONTROL viajes]
+#### Recursos adicionales para el [!UICONTROL Journey Orchestration]
 
 [Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
@@ -224,9 +227,9 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 * [Inicio de Información y asistencia de AEM 6.4](https://helpx.adobe.com/es/support/experience-manager/6-4.html)
 * [Inicio de Información y asistencia de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
 * [Inicio de Información y asistencia de AEM 6.2](https://helpx.adobe.com/es/support/experience-manager/6-2.html)
-* [Guía del usuario de Cloud Manager](https://helpx.adobe.com/es/experience-manager/cloud-manager/user-guide.html)
+* [Guía del usuario de Cloud Manager](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Versiones anteriores de la documentación de AEM](https://helpx.adobe.com/es/experience-manager/aem-previous-versions.html)
-* [Notas de la versión de Scene7 Publishing System](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Notas de la versión de Scene7 Publishing System](https://docs.adobe.com/content/help/es-ES/dynamic-media-developer-resources/release-notes/s7rn2017.html)
 * [Notas de la versión de Livefyre](https://docs.adobe.com/content/help/es-ES/livefyre/using/release-notes/c-rn.html)
 
 ### [!DNL Livefyre] {#livefyre}
@@ -266,7 +269,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 ### Recursos adicionales
 
 * Adobe Campaign Standard: [Documentación](https://helpx.adobe.com/es/support/campaign/standard.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Planificación de lanzamiento](https://helpx.adobe.com/es/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.campaign.adobe.com/doc/AC/es-ES/RN.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
