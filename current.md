@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1f0caf618aad2dd27a0642852a7a45c20b76bf07
+source-git-commit: fc51a317cdceb0cdf2ebf685c0a4480995dd4ef9
 workflow-type: tm+mt
-source-wordcount: '6484'
+source-wordcount: '6510'
 ht-degree: 37%
 
 ---
@@ -183,6 +183,7 @@ Updated **June 10, 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | -----------| ---------- |-----|
+| Compatibilidad con matrices de objetos | 18 de junio de 2020 | Los clientes de CJA ahora pueden informar sobre dimensiones y métricas que aparecen dentro de matrices de objetos dentro de sus esquemas de conjuntos de datos de AEP. Más información... |
 | IQ de atribución: [!UICONTROL Atribución algorítmica] | 18 de junio de 2020 | El modelo [!UICONTROL Atribución] algorítmica de [!UICONTROL Analysis Workspace] utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | IQ de atribución: Ventanas retroactivas personalizadas | 18 de junio de 2020 | Ahora puede configurar cualquier modelo de atribución en IQ [!UICONTROL de] atribución para incluir puntos de contacto desde 90 días antes del período de tiempo de sistema de informes. Esto generalmente aumenta la precisión de atribución de eventos que se producen al principio del período de sistema de informes teniendo en cuenta las interacciones que se produjeron en el mes o meses anteriores. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | Compatibilidad con la detección de [!UICONTROL anomalías] | 18 de junio de 2020 | [!UICONTROL La detección] de anomalías proporciona un método estadístico para determinar cómo ha cambiado una métrica determinada en relación con los datos anteriores. [Más información...](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
@@ -210,7 +211,7 @@ Consulte [Acerca del seguimiento del estado del reproductor](https://docs.adobe.
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
@@ -288,7 +289,7 @@ Estas actualizaciones solo están disponibles para los usuarios que inicien sesi
 
 * Se han actualizado los Términos y condiciones [!UICONTROL del] Audience Marketplace para que reflejen los requisitos legales de determinadas regiones geográficas. (AAM-54518)
 * Se corrigió un problema en el cual el acceso a la página [!UICONTROL Características] desde marcadores resultaba en un error 404. (AAM-54768)
-* Se corrigió un problema en el cual se agotaba el tiempo de espera de la API de actualización de destino al recuperar los modelos [!UICONTROL algorítmicos]. (AAM-54342)
+* Se corrigió un problema en el cual la API de actualización de destino agotaba el tiempo de espera al recuperar los modelos [!UICONTROL algorítmicos]. (AAM-54342)
 * Ahora los usuarios pueden ver un indicador de precisión de clasificación de modelo para personas [!UICONTROL inteligentes]. (AAM-54847)
 * Se corrigió un problema en el cual al pulsar Intro después de agregar una expresión de rasgo se eliminaba la expresión en lugar de guardarla. (AAM-54210)
 * Se corrigió un problema en el cual las llamadas al método GET de la API de [!UICONTROL características] fallaban para los usuarios que no tenían el permiso VISTA_MODELS. (AAM-53104)
