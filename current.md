@@ -1,13 +1,13 @@
 ---
 title: Notas de la versión de Adobe Experience Cloud
-description: Plantilla para notas de la versión de Experience Cloud
+description: Notas de la versión de Adobe Experience Cloud
 doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fc51a317cdceb0cdf2ebf685c0a4480995dd4ef9
+source-git-commit: 05310c3c03c09918aee45015bd6c9bc341dce724
 workflow-type: tm+mt
-source-wordcount: '6510'
+source-wordcount: '6509'
 ht-degree: 37%
 
 ---
@@ -211,7 +211,7 @@ Consulte [Acerca del seguimiento del estado del reproductor](https://docs.adobe.
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
