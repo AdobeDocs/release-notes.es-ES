@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b909c99b4389be6ad67536e49224d33b3fb10af8
+source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
 workflow-type: tm+mt
 source-wordcount: '6688'
 ht-degree: 36%
