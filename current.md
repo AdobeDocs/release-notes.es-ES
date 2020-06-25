@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
+source-git-commit: 504a9a00daef04e57c5662d0a4e3e92920b40ccd
 workflow-type: tm+mt
-source-wordcount: '7082'
+source-wordcount: '7037'
 ht-degree: 34%
 
 ---
@@ -204,7 +204,7 @@ Fecha de actualización: **18 de junio de 2020**
 * Se ha corregido un problema que provocaba que los segmentos con búsquedas multibyte para determinados grupos de informes no coincidieran con nada. Ahora coincidirán con las cadenas correctas. (AN-220043)
 * Se ha corregido un problema con el filtro [!UICONTROL de] elementos en [!UICONTROL Informes y Analytics] , que no funcionaba. (AN-206132)
 * Se corrigió el tiempo de respuesta lento en la interfaz [!UICONTROL Proyectos] programados. (AN-214837)
-* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que provocaba un error de intervalo de fechas. (AN-215087)
+* Se ha corregido un problema con la API de Analytics Sistema de informes 2.0 que producía un error de intervalo de fechas. (AN-215087)
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
@@ -340,10 +340,12 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con el simulador para pruebas de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un simulador para pruebas y recibir créditos.
       * El entorno de la zona de pruebas de hibernación automática &quot;hiberna&quot; automáticamente los entornos limitados después de un período de inactividad. Los clientes pueden activar activamente la &quot;deshibernación&quot;.
    * Herramientas de Transición para admitir la aceleración en la nube
+
    Con el objetivo de reducir el tiempo y el costo de la transición desde el local al Cloud Service, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general. .
 
    1. [El uso de Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (in situ/AMS) que están realizando la transición a AEM como Cloud Service.
    1. [Herramienta AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de Dispatcher Cloud Service.
+
    [Notas de la versión de AEM como Cloud Service 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de Transición:
@@ -464,14 +466,14 @@ Updated **June 23, 2020**
 | -----------| ---------- |
 | Migración de dominios | (Versión del 22 de junio) Advertising Cloud DSP ha migrado de https://www.tubemogul.com a [https://advertising.adobe.com](https://advertising.adobe.com). |
 | Integración de Adobe Analytics | (Versión del 18 de junio) DSP ahora puede suprimir opcionalmente la métrica Costo de AMO de los datos que envía a Analytics. Para suprimir la métrica, póngase en contacto con su administrador de cuentas de Adobe. |
-| Gráfico de dispositivos basados en personas | (Versión del 22 de junio) Los clientes de autoservicio de DSP ahora pueden utilizar un gráfico de dispositivos (Adobe Experience Cloud Device Co-op o LiveRamp) para la determinación de objetivos y la administración de frecuencias basadas en personas en cualquier campaña nueva. Esto garantizará que llegue a sus audiencias en todos sus dispositivos propios y puede limitar su exposición a la publicidad. |
-| Opción de exclusión de CCPA | (Versión del 22 de junio) Ahora puede comunicar a Advertising Cloud las solicitudes de exclusión de CCPA mediante un nuevo segmento de exclusión de la venta de CCPA, que puede crear desde [!UICONTROL Audiencias > Segmentos]. También puede recuperar informes mensuales de los ID que los clientes han enviado para solicitudes de exclusión de venta de la cuenta a) desde [!UICONTROL Audiencias > Segmentos] o b) mediante la API de tráfico de Advertising Cloud. Para obtener más información, consulte [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| Gráfico de dispositivos basados en personas | (Versión del 22 de junio) Los clientes de autoservicio de DSP ahora pueden aprovechar un gráfico de dispositivos (ya sea Adobe Experience Cloud Device Co-op |
+| o LiveRamp) para la determinación de objetivos basada en personas y la administración de frecuencias en cualquier campaña nueva. Esto garantizará que llegue a sus audiencias en todos sus dispositivos propios y puede limitar su exposición a la publicidad. |
+| Opción de exclusión de CCPA | (Versión del 22 de junio) Ahora puede comunicar a Advertising Cloud las solicitudes de exclusión de CCPA mediante un nuevo segmento de exclusión de la venta de CCPA, que puede crear desde [!UICONTROL Audiencias > Segmentos]. También puede recuperar informes mensuales de los ID que los clientes han enviado para solicitudes de exclusión de venta de la cuenta a) desde [!UICONTROL Audiencias > Segmentos] o b) mediante la API de tráfico de Advertising Cloud. Para obtener más información, consulte https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
 | Comprobación doble de la seguridad auténtica de la marca | (Versión del 22 de junio) Los anunciantes ahora pueden destinatario con una sola oferta previa de ID de segmento DoubleVerify, con filtros exhaustivos de seguridad de marca para imitar sus reglas de bloqueo posteriores a la oferta con DoubleVerify. Ahora puede hacerlo en la sección de segmentación Calidad de los medios de la configuración del anunciante en [!UICONTROL Configuración > Anunciante]. Para obtener más información sobre el servicio, póngase en contacto con programmaticsales@doubleverify.com. Se aplican tarifas adicionales para esta función. |
 | Optimización de CPA/ROAS | (Versión del 20 de mayo) Los administradores de Campañas ya no necesitan limitar las nuevas colocaciones dentro de los paquetes para evitar una sobreasignación del presupuesto. Las colocaciones ahora reciben una asignación de presupuesto dinámica en función de su rendimiento de CPM o CPA/ROAS. |
 | [!UICONTROL Página principal de Campaña] | (Versión del 3 de junio) Hay disponibles nuevas métricas de ritmo a nivel de campaña basadas en el presupuesto de campaña proporcionado y el tiempo transcurrido. |
 | [!UICONTROL Ubicaciones] | (Versión del 22 de junio) Se eliminaron los filtros Diversidad del sitio y Tamaño del reproductor para simplificar la configuración de la ubicación. |
 | Previsión de ubicación | (Versión del 3 de junio) Para las colocaciones de vídeo y CTV con optimización de nivel de colocación, la configuración de colocación ahora incluye previsiones para varias longitudes de publicidad (15 segundos y 30 segundos). También incluyen previsiones para el inventario VAST y VPAID. |
-| Optimización de CPA/ROAS | (Versión del 20 de mayo) Los administradores de Campañas ya no necesitan limitar las nuevas colocaciones dentro de los paquetes para evitar una sobreasignación del presupuesto. Las colocaciones ahora reciben una asignación de presupuesto dinámica en función de su rendimiento de CPM o CPA/ROAS. |
 | [!UICONTROL Inventario] | (Versión beta del 22 de junio) Un nuevo formulario de ID de oferta le permite configurar rápidamente una operación privada que ya ha negociado. |
 |  | (Versión beta del 22 de junio) Ya está disponible la versión previa interactiva para el inventario VAST. Puede configurar una sola publicidad y colocación interactiva previa, reduciendo el número de publicidades y colocaciones. |
 | Objetivo de Audiencia ACTV | (Versión del 18 de junio) Las lentes de Audiencia permiten a los usuarios crear y aplicar lecturas de audiencia secundarias a sus flujos de trabajo de planificación, pedidos y sistema de informes. Esto les permite (1) obtener perspectivas rápidas en audiencias secundarias, (2) tener flexibilidad para realizar transacciones en audiencias preferidas y (3) medir la ejecución de una campaña a través del &quot;objetivo&quot; de múltiples audiencias. |
