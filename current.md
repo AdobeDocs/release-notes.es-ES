@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 504a9a00daef04e57c5662d0a4e3e92920b40ccd
+source-git-commit: bcf089494e56dd5ece46bd7575bf661e352dc9f0
 workflow-type: tm+mt
-source-wordcount: '7037'
+source-wordcount: '7035'
 ht-degree: 34%
 
 ---
@@ -208,7 +208,7 @@ Fecha de actualización: **18 de junio de 2020**
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. Esto sucedería cuando una visita individual sin valor para la dimensión (por ejemplo, Pagename) continuaba en el mismo segundo. (AN-211074)
 * Se ha corregido un problema que impedía a los usuarios acceder a los proyectos de [!UICONTROL Workspace] que se compartían con ellos. (AN-217561)
 * Se ha solucionado el problema por el que el Generador [!UICONTROL de reglas de]clasificación no clasificaba las claves. (AN-221538)
-* Se ha corregido un problema con el uso [!UICONTROL de llamadas del] servidor, que no sistema de informes ningún dato de uso. (AN-210452)
+* Se ha corregido un problema con el uso [!UICONTROL de llamadas del] servidor, que no hacía sistema de informes de ningún dato de uso. (AN-210452)
 * Se han corregido problemas con los segmentos publicados de Adobe Analytics que faltaban datos en el Audience Manager. (AN-220208, AN-220659)
 * Se ha corregido un problema con los informes que mostraban datos, pero los registros [!UICONTROL de Fuentes] de datos indicaban &quot;Sin datos de Data warehouse&quot;. (AN-220784, AN-220858)
 * Se han corregido problemas que evitaban el inicio de la [!UICONTROL Ad hoc analysis] desde el `experiencecloud.com` dominio. (AN-219680, AN-221629)
@@ -453,8 +453,6 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Updated **June 3, 2020**
-
 * [Nuevas funciones de Advertising Cloud DSP](#adcloud-dsp)
 * [Nuevas funciones en Advertising Cloud Search](#adcloud-search)
 
@@ -466,8 +464,7 @@ Updated **June 23, 2020**
 | -----------| ---------- |
 | Migración de dominios | (Versión del 22 de junio) Advertising Cloud DSP ha migrado de https://www.tubemogul.com a [https://advertising.adobe.com](https://advertising.adobe.com). |
 | Integración de Adobe Analytics | (Versión del 18 de junio) DSP ahora puede suprimir opcionalmente la métrica Costo de AMO de los datos que envía a Analytics. Para suprimir la métrica, póngase en contacto con su administrador de cuentas de Adobe. |
-| Gráfico de dispositivos basados en personas | (Versión del 22 de junio) Los clientes de autoservicio de DSP ahora pueden aprovechar un gráfico de dispositivos (ya sea Adobe Experience Cloud Device Co-op |
-| o LiveRamp) para la determinación de objetivos basada en personas y la administración de frecuencias en cualquier campaña nueva. Esto garantizará que llegue a sus audiencias en todos sus dispositivos propios y puede limitar su exposición a la publicidad. |
+| Gráfico de dispositivos basados en personas | (Versión del 22 de junio) Los clientes de autoservicio de DSP ahora pueden utilizar un gráfico de dispositivos (Adobe Experience Cloud Device Co-op o LiveRamp) para la determinación de objetivos y la administración de frecuencias basadas en personas en cualquier campaña nueva. Esto garantizará que llegue a sus audiencias en todos sus dispositivos propios y puede limitar su exposición a la publicidad. |
 | Opción de exclusión de CCPA | (Versión del 22 de junio) Ahora puede comunicar a Advertising Cloud las solicitudes de exclusión de CCPA mediante un nuevo segmento de exclusión de la venta de CCPA, que puede crear desde [!UICONTROL Audiencias > Segmentos]. También puede recuperar informes mensuales de los ID que los clientes han enviado para solicitudes de exclusión de venta de la cuenta a) desde [!UICONTROL Audiencias > Segmentos] o b) mediante la API de tráfico de Advertising Cloud. Para obtener más información, consulte https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
 | Comprobación doble de la seguridad auténtica de la marca | (Versión del 22 de junio) Los anunciantes ahora pueden destinatario con una sola oferta previa de ID de segmento DoubleVerify, con filtros exhaustivos de seguridad de marca para imitar sus reglas de bloqueo posteriores a la oferta con DoubleVerify. Ahora puede hacerlo en la sección de segmentación Calidad de los medios de la configuración del anunciante en [!UICONTROL Configuración > Anunciante]. Para obtener más información sobre el servicio, póngase en contacto con programmaticsales@doubleverify.com. Se aplican tarifas adicionales para esta función. |
 | Optimización de CPA/ROAS | (Versión del 20 de mayo) Los administradores de Campañas ya no necesitan limitar las nuevas colocaciones dentro de los paquetes para evitar una sobreasignación del presupuesto. Las colocaciones ahora reciben una asignación de presupuesto dinámica en función de su rendimiento de CPM o CPA/ROAS. |
