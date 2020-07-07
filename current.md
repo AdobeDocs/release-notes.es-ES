@@ -345,12 +345,10 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * La compatibilidad mejorada con los espacios aislados de autoservicio en Cloud Manager permite a los usuarios autorizados eliminar todos los entornos de un espacio aislado y recibir créditos.
       * Los entornos del espacio aislado de hibernación automático “hibernan” automáticamente los espacios aislados después de un período de inactividad. Los clientes pueden desencadenar activamente la “deshibernación”.
    * Herramientas de transición para apoyar la aceleración en la nube.
-
    Con el objetivo de reducir el tiempo y el coste de la transición desde local a un servicio en la nube, este mes se lanzaron dos herramientas de transición. Estas herramientas están diseñadas para automatizar algunas de las tareas clave durante el proceso de transición y, por lo tanto, reducir el esfuerzo general.
 
    1. El [uso de la herramienta de transferencia de contenido](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (disponible en SD) optimiza la actividad de transferencia de contenido y la hace escalable. Con una interfaz de usuario fácil de usar, la herramienta es de autoservicio para clientes y socios existentes (local/AMS) que están realizando la transición a AEM como un servicio en la nube.
    1. Herramienta [conversor AMS Dispatcher](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) para automatizar la conversión de las configuraciones de AMS Dispatcher a configuraciones de servicios en la nube Dispatcher.
-
    [Notas de la versión de AEM como un servicio en la nube 2020.6.0](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Herramientas de transición:
