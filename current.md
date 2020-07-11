@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c6a73c783440eeeedcb612a1ea898271766684b0
+source-git-commit: 65fea3351137d311bbda846058bea34284b0054e
 workflow-type: tm+mt
-source-wordcount: '4154'
+source-wordcount: '4205'
 ht-degree: 60%
 
 ---
@@ -35,6 +35,7 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
+* [Experience Platform](#platform)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
@@ -110,6 +111,14 @@ Las siguientes aplicaciones utilizan el nuevo dominio experience.adobe.com:
 >[!NOTE]
 >
 >**[!UICONTROL Board &amp; Collections]**, un filtro heredado en el selector de [!UICONTROL recursos de Experience Cloud] se está retirando del mercado.
+
+## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+
+Notas de la versión [!DNL Experience Platform] y servicios de aplicaciones, incluidos [!DNL Experience Platform Launch,] [!UICONTROL Ofertas], [!UICONTROL Personas], [!UICONTROL Places], [!UICONTROL Mobile Services] y boletines de seguridad.
+
+No actualizadoÚltima fecha de versión: **10 de junio de 2020**
+
+Consulte las notas [de la versión del](https://docs.adobe.com/content/help/es-ES/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) Experience Platform para obtener la información más reciente sobre Experience Platform.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
