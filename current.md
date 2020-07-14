@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 079138eeaeb4a61ab892abaff66b15d51b751bf4
+source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
 workflow-type: tm+mt
-source-wordcount: '4321'
-ht-degree: 58%
+source-wordcount: '4373'
+ht-degree: 57%
 
 ---
 
@@ -31,13 +31,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia las actualizaciones.
 
-Última actualización: **13 de julio de 2020**
+Última actualización: **14 de julio de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Organización de recorridos](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (actualización: 13 de julio de 2020)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (actualización: 14 de julio de 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -145,7 +145,7 @@ Fecha de la versión: **16 de julio de 2020**
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | -----------| ---------- |-------|
 | Espacio de trabajo: Nuevos ajustes preestablecidos de intervalo de fechas | Se Añadieron 4 nuevos intervalos de fechas (_Esta semana/mes/trimestre/año_ (excluido hoy)) para que los usuarios puedan elegir entre intervalos de fechas que no incluyan datos de día parcial a partir de hoy. |
-| API de reparación de datos - beta pública | La API de reparación de datos proporciona una opción de autoservicio para que los clientes eliminen columnas de datos de Adobe Analytics. Una vez lanzada la versión beta pública, la API admitirá la eliminación de datos de Activity Map. Las funciones adicionales se implementarán más adelante. Póngase en contacto con el Servicio de atención al cliente para obtener acceso a esta API. |
+| API de reparación de datos - beta pública (actualización **de julio, 14 de 2020**) | La API de reparación de datos le proporciona un mecanismo para eliminar o editar determinados datos existentes de Adobe Analytics. Las solicitudes de reparación de datos se realizan enviando una definición de trabajo a la API de reparación de datos, que incluye el grupo de informes, el intervalo de fechas, las variables y las acciones que se aplicarán a los datos. Una vez iniciada la versión beta pública, la API de reparación de datos admitirá la eliminación de datos del Activity Map. Las funciones adicionales se implementarán más adelante. Póngase en contacto con el Servicio de atención al cliente para unirse a la versión beta pública de la API de reparación de datos. [Más información...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
