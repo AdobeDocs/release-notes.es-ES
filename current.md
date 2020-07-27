@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
+source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
 workflow-type: tm+mt
-source-wordcount: '4563'
+source-wordcount: '4561'
 ht-degree: 96%
 
 ---
@@ -73,7 +73,7 @@ Nuevo contenido publicado en laboratorios de Adobe Summit en 2020.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| 27 de julio de 2020 | [Liberar experiencias digitales con Adobe Documento Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artículo | En este laboratorio, lleve su productividad y creatividad al siguiente nivel, aprendiendo a usar archivos digitales y hacer más con archivos PDF, y a transformar las experiencias de los clientes y los empleados. |
+| 27 de julio de 2020 | [Liberar experiencias digitales con Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artículo | En este laboratorio, lleve su productividad y creatividad al siguiente nivel, aprendiendo a usar archivos digitales y hacer más con archivos PDF, y a transformar las experiencias de los clientes y los empleados. |
 
 **Menú de interfaz actualizado**
 
@@ -380,8 +380,6 @@ Para las notas de la versión de Magento, consulte:
 
 ### Actualizaciones centrales de Marketo Engage
 
-La documentación de [!UICONTROL Marketo Sky] ahora está disponible para [Aquí](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
-
 Consulte las [notas de la versión](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) de [!DNL Marketo] para obtener la información más reciente sobre la versión.
 
 ### Próximas funciones
@@ -401,5 +399,9 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 * **Parámetro de API de Asset &quot;_method&quot;:** `_method` a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI.
 * **Degradación de compatibilidad con Internet Explorer:** a partir de la versión del 31 de julio de 2020, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
+
+>[!NOTE]
+>
+>La documentación de la interfaz de [!UICONTROL Marketing para Sky] está disponible [aquí](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
