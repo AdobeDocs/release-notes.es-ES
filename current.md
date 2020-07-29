@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
+source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
 workflow-type: tm+mt
-source-wordcount: '4561'
-ht-degree: 96%
+source-wordcount: '4618'
+ht-degree: 95%
 
 ---
 
@@ -27,13 +27,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia las actualizaciones.
 
-Última actualización: **21 de julio de 2020**
+Última actualización: **29 de julio de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud) (Actualizado el 27 de julio de 2020)
 * [Experience Platform](#platform)
 * [Organización de recorridos](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualizado el 21 de julio de 2020)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualizado el 29 de julio de 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Actualización: 27 De Julio De 2020)
 * [Campaign](#ac)
@@ -69,7 +69,7 @@ Actualizaciones generales en la interfaz de Experience Cloud.
 
 ### Nueva documentación del laboratorio de Adobe Summit
 
-Nuevo contenido publicado en laboratorios de Adobe Summit en 2020.
+Nuevo contenido publicado desde los laboratorios de la Cumbre de Adobe en 2020.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
@@ -137,7 +137,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 Fecha de la versión: **16 de julio de 2020**
 
 * [Nuevas funciones de Adobe Analytics](#aa-features) (actualizado el 21 de julio de 2020)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
+* [Nuevas funciones de Customer Journey Analytics](#cust-journey) (actualizado el 29 de julio de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -148,7 +148,7 @@ Fecha de la versión: **16 de julio de 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | -----------| ---------- |-------|
-| CDA: Vinculación basada en el campo | 27 de julio de 2020 | Un nuevo método para Analytics entre dispositivos que permite utilizar una variable personalizada para identificar visitantes. &lt;!-->[Más información...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
+| CDA: Vinculación basada en el campo | 27 de julio de 2020 | Un nuevo método para Analytics entre dispositivos que permite utilizar una variable personalizada para identificar visitantes. [Más información...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
 | Workspace: nuevos ajustes preestablecidos de intervalo de fechas | 16 de julio de 2020 | Se añadieron 4 nuevos intervalos de fechas (_Esta semana/mes/trimestre/año_ [excepto hoy]) para que los usuarios puedan elegir entre intervalos de fechas que no incluyan datos de día parcial a partir de hoy. |
 | API de reparación de datos: beta pública | 14 de julio de 2020 | La [!UICONTROL API de reparación de datos] le proporciona un mecanismo para eliminar o editar determinados datos de Adobe Analytics. Las solicitudes de [!UICONTROL reparación de datos] se realizan enviando una definición de trabajo a la [!UICONTROL API de reparación de datos], que incluye el grupo de informes, el intervalo de fechas, las variables y las acciones que se aplicarán a los datos. Una vez iniciada la versión beta pública, la [!UICONTROL API de reparación de datos] admitirá la eliminación de datos de [!UICONTROL Activity Map]. Las funciones adicionales se implementarán más adelante. Póngase en contacto con el Servicio de atención al cliente para unirse a la versión beta pública de la API de reparación de datos. [Más información...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -156,7 +156,7 @@ Fecha de la versión: **16 de julio de 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | -----------| ---------- |-----|
-| No hay nuevas funciones este mes |  |  |
+| Asignación de identidad para ID de persona | 26 de junio de 2020 | Mapa de identidad es una estructura de datos de mapa que le permite cargar pares de clave -> valor como parte de la creación de una conexión en Customer Journey Analytics. Las claves son Áreas de nombres de identidad y el valor es una estructura que contiene el valor de identidad. [Más información...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
@@ -402,6 +402,6 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 >[!NOTE]
 >
->La documentación de la interfaz de [!UICONTROL Marketing para Sky] está disponible [aquí](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
+>La documentación de la interfaz del [!UICONTROL Marketo Sky] está disponible [aquí](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
