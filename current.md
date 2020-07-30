@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
+source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
-source-wordcount: '4618'
+source-wordcount: '4597'
 ht-degree: 95%
 
 ---
@@ -275,7 +275,6 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| 27 de julio de 2020 | [Detección de patrones](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referencia | Disponible únicamente desde el `upgrade.log` durante una actualización de Experience Manager. |
 | 27 de julio de 2020 | [Distribución de software](https://docs.adobe.com/content/help/es-ES/experience-cloud/software-distribution/home.html) | Artículo | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. Con una interfaz de usuario intuitiva, una búsqueda simplificada y una velocidad de descarga notablemente mejorada, la descarga de paquetes de software para productos de Experience Cloud ofrece una buena experiencia de usuario. |
 | 25 de junio de 2020 | [Introducción a los formularios adaptables](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Vídeo | Estos tutoriales le guían a través de los pasos necesarios para crear formularios adaptables con varias pestañas. Aprenda a utilizar tablas, diseño de acordeón y editor de reglas para crear reglas comerciales. |
 | 25 de junio de 2020 | [Creación de un flujo de trabajo de revisión en AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=spa) | Vídeo | Aprenda a crear un flujo de trabajo para revisar los datos enviados desde un envío de formulario activo. |
