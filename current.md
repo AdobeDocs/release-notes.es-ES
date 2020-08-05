@@ -4,9 +4,9 @@ description: Notas de la versión de Adobe Experience Cloud
 doc-type: release notes
 last-update: July 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7bd407c120932f7c51ccc77d5e72f72a2d38014
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4591'
 ht-degree: 100%
 
