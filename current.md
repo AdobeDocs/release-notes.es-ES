@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c3d6d35f2a56d003514549150db7b060440389f9
+source-git-commit: 1a9860da58454f3e23650b8cf98e20f2819ac3be
 workflow-type: tm+mt
-source-wordcount: '6287'
-ht-degree: 42%
+source-wordcount: '6333'
+ht-degree: 41%
 
 ---
 
@@ -99,6 +99,7 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 | Mejoras en la recopilación de datos de China | 13 de agosto de 2020 | Las mejoras incluyen: Compatibilidad con el servicio de ID de Experience Cloud; compatibilidad con SSL de origen; y compatibilidad con el reenvío de servidor. Para obtener más información, póngase en contacto con el representante de ventas de Adobe. |
 | [!UICONTROL Análisis]entre dispositivos: Disponibilidad en EMEA y APAC | 31 de agosto de 2020 | [Los clientes de EMEA y de APAC dispondrán de gráficos](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) privados y de análisis entre dispositivos. |
 | Mejora de la costura basada en el campo en [!UICONTROL Análisis] entre dispositivos (disponible en América y EMEA) | 17 de agosto de 2020 | Esta implementación simplificada para los nuevos clientes de Analytics [!UICONTROL para] varios dispositivos le ofrece la opción de realizar una costura basada en un ID de usuario almacenado en un campo de Analytics (prop o eVar) en lugar de utilizar el gráfico de dispositivos (cooperación o privado). La mejora elimina el requisito de implementar ECID y elimina el requisito de implementar la sincronización de ID a efectos de CDA. (La sincronización de ECID y ID sigue siendo necesaria para otras funciones). |
+| Espacio de trabajo: Descargar 50.000 elementos para una sola dimensión | 17 de septiembre de 2020 | [Anuncio] anticipado Podrá descargar 50.000 artículos para una sola dimensión en una tabla improvisada, con segmentos y filtros aplicados. Esto le permite acceder a más de 400 filas de datos fuera de Analysis Workspace. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
