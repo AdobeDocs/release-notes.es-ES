@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bc30808217e8734e639246602be45efd02d2dc60
+source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
 workflow-type: tm+mt
-source-wordcount: '6402'
+source-wordcount: '6371'
 ht-degree: 41%
 
 ---
@@ -31,13 +31,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia las actualizaciones.
 
-Última actualización: **11 de agosto de 2020**
+Última actualización: **13 de agosto de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Organización de recorridos](#journey-orch)
-* [Analytics](#analytics) (actualizado el 11 de agosto de 2020) y [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (actualizado el 13 de agosto de 2020) y [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -94,13 +94,12 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 ### Funciones nuevas en Adobe Analytics {#aa-features}
 
-(Actualización: 11 de agosto de 2020)
+(Actualización: 13 de agosto de 2020)
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | -----------| ---------- |-------|
-| Mejoras en la recopilación de datos de China | 13 de agosto de 2020 | Las mejoras incluyen: Compatibilidad con el servicio de ID de Experience Cloud; compatibilidad con SSL de origen; y compatibilidad con el reenvío de servidor. Para obtener más información, póngase en contacto con el representante de ventas de Adobe. |
 | [!UICONTROL Análisis]entre dispositivos: Disponibilidad en EMEA y APAC | 31 de agosto de 2020 | [Los clientes de EMEA y de APAC dispondrán de gráficos](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) privados y de análisis entre dispositivos. |
-| Mejora de la costura basada en el campo en [!UICONTROL Análisis] entre dispositivos (disponible en América y EMEA) | 17 de agosto de 2020 | Esta implementación simplificada para los nuevos clientes de Analytics [!UICONTROL para] varios dispositivos le ofrece la opción de realizar una costura basada en un ID de usuario almacenado en un campo de Analytics (prop o eVar) en lugar de utilizar el gráfico de dispositivos (cooperación o privado). La mejora elimina el requisito de implementar ECID y elimina el requisito de implementar la sincronización de ID a efectos de CDA. (La sincronización de ECID y ID sigue siendo necesaria para otras funciones). |
+| Mejora de la costura basada en el campo en [!UICONTROL Análisis] entre dispositivos (disponible en América y EMEA) | 31 de agosto de 2020 | Esta implementación simplificada para los nuevos clientes de Analytics [!UICONTROL para] varios dispositivos le ofrece la opción de realizar una costura basada en un ID de usuario almacenado en un campo de Analytics (prop o eVar) en lugar de utilizar el gráfico de dispositivos (cooperación o privado). La mejora elimina el requisito de implementar ECID y elimina el requisito de implementar la sincronización de ID a efectos de CDA. (La sincronización de ECID y ID sigue siendo necesaria para otras funciones). |
 | (Anuncio previo) Espacio de trabajo: Descargar 50.000 elementos para una sola dimensión | 17 de septiembre de 2020 | Podrá descargar 50.000 elementos para una sola dimensión en una tabla improvisada, con segmentos y filtros aplicados. Esto le permite acceder a más de 400 filas de datos fuera de Analysis Workspace. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
