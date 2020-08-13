@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
+source-git-commit: 287bdc8c8460e9700474bb0bf1e79631182945bb
 workflow-type: tm+mt
-source-wordcount: '6337'
+source-wordcount: '6402'
 ht-degree: 41%
 
 ---
@@ -190,6 +190,7 @@ Fecha de lanzamiento: **13 de agosto de 2020**
 
 ### Nuevas funciones y correcciones en Adobe Audience Manager
 
+* Ahora puede usar Destinos [basados en](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) personas para destinatario a los usuarios mediante [!DNL Google Customer Match]. Antes de poder usar Destinos [!UICONTROL basados en] personas para enviar los segmentos de audiencia de origen a un [!DNL Google Customer Match] destino, es obligatorio [!DNL Google] añadirle a su lista de permitidos. Consulte la documentación Destinos [basados en](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) personas para obtener más información. (PLAT-53962)
 * [Las Audiencias](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.translate.html) predictivas ahora admiten la selección de una regla [!UICONTROL de combinación de] Perfiles por modelo, durante la creación del modelo. (AAM-55178)
 * Las fechas de inicio y finalización de la asignación de destino ahora están visibles en la página de cada segmento. (AAM-40056)
 * Se corrigió un problema en el cual el tipo [!UICONTROL de] dispositivo de una característica se establecía automáticamente en [!UICONTROL entre dispositivos] al crear una nueva característica. (AAM-55368)
@@ -350,8 +351,8 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | ----------- | ----------- | ---------- | ---------- |  
-| 10 de julio de 2020 | [Panel de control de Campaign - Administración de claves GPG - Descifrado de datos](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Obtenga información sobre cómo crear una clave pública, así como cómo importarla e instalarla en una instancia de Campaign para descifrar datos entrantes. |
-| 10 de julio de 2020 | [Panel de control de Campaign - Administración de claves GPG - Uso de una clave GPG para cifrar datos](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Obtenga información sobre cómo exportar datos mediante una clave GPG instalada en el Panel de control de Campaign. |
+| 10 de julio de 2020 | [Panel de control de Campaign - Administración de claves GPG - Descifrado de datos](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Obtenga información sobre cómo crear una clave pública, así como cómo importarla e instalarla en una instancia de Campaign para descifrar datos entrantes. |
+| 10 de julio de 2020 | [Panel de control de Campaign - Administración de claves GPG - Uso de una clave GPG para cifrar datos](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Obtenga información sobre cómo exportar datos mediante una clave GPG instalada en el Panel de control de Campaign. |
 | 10 de julio de 2020 | [Panel de control de Campaign: generación e instalación de claves GPG para el cifrado de datos](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html) | Campaign Classic | Obtenga información sobre cómo generar un par de claves GPG público/privado e instalar la clave pública en Panel de control de Campaign para poder cifrar datos antes de enviarlos desde su instancia. |
 | 21 de julio de 2020 | [Administración de Campañas de mercadotecnia](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/managing-marketing-campaigns.html) | Campaign Classic | Comprenda los conceptos clave de Adobe Campaign que ayudan a planificar, ejecutar y medir de manera eficaz las campañas de mercadotecnia entre canales. |
 | 22 de julio de 2020 | [Creación de planes de marketing, programas y campañas](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-marketing-plan-programs-and-campaigns.html) | Campaign Classic | Obtenga información sobre cómo crear un plan de marketing, un programa y una campaña, definir propiedades para una campaña y comprender cómo usar la programación. El vídeo le guía a través de un ejercicio que puede seguir. |
@@ -381,7 +382,7 @@ Notas de la versión de Adobe Advertising Cloud.
 | Función | Descripción |
 | -----------| ---------- |
 | [!UICONTROL Portafolios] | Los límites de posición de nivel de Portfolio ya no están disponibles en la configuración de portafolio. Se eliminaron todos los límites de posición creados anteriormente. |
-| [!UICONTROL Restricciones] | Ya no se admiten restricciones basadas en posiciones y condiciones de restricción:<br/><ul><li>Las restricciones de Posición mínima y Posición máxima ya no están disponibles y se eliminaron de todas las restricciones de oferta y posición creadas anteriormente y de Uso compartido de impresión.</li><li>Las restricciones de oferta y posición existentes que incluían restricciones de posición pero no restricciones de oferta se pausaron. Todavía están disponibles en la interfaz de usuario y en los informes.</li><li>Las restricciones de oferta y posición cambiaron el nombre de restricciones de oferta.</li><li>Se han eliminado todas las condiciones basadas en posiciones (mediante las métricas Posición promedio, Posición promedio ponderada o Última posición conocida) en cualquier tipo de restricción.</li></ul><br/>**Nota:**Los datos de posición se seguirán llenando siempre que estén disponibles en los motores de búsqueda. Los anuncios de Microsoft se retirarán en septiembre de 2020. |  |
+| [!UICONTROL Restricciones] | Ya no se admiten restricciones basadas en posiciones y condiciones de restricción:<br/><ul><li>Las restricciones de Posición mínima y Posición máxima ya no están disponibles y se eliminaron de todas las restricciones de oferta y posición creadas anteriormente y de Uso compartido de impresión.</li><li>Las restricciones de oferta y posición existentes que incluían restricciones de posición pero no restricciones de oferta se pausaron. Todavía están disponibles en la interfaz de usuario y en los informes.</li><li>Las restricciones de oferta y posición cambiaron el nombre de restricciones de oferta.</li><li>Se han eliminado todas las condiciones basadas en posiciones (mediante las métricas Posición promedio, Posición promedio ponderada o Última posición conocida) en cualquier tipo de restricción.</li></ul><br/>**Nota:** Los datos de posición se seguirán llenando siempre que estén disponibles en los motores de búsqueda. Los anuncios de Microsoft se retirarán en septiembre de 2020. |  |
 | [!UICONTROL Campañas] | (campañas de Google Ads) Advertising Cloud Search ahora admite clientes de publicidad en anuncios de búsqueda interactivos (RSA). Anteriormente, eran compatibles con todos los tipos de publicidad excepto RSA. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
