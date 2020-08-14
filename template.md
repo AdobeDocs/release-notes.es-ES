@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bd027ba7bbbfd6c8e510b48e4e0fff9168403da8
+source-git-commit: 949872e465b54e68051c62f61530591117f54a6a
 workflow-type: tm+mt
-source-wordcount: '2537'
+source-wordcount: '2526'
 ht-degree: 96%
 
 ---
@@ -93,13 +93,13 @@ Para obtener documentación del producto, consulte [Servicio Experience Cloud ID
 
 Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/intro/release-notes/current.html) para ver notas de la versión y documentación del producto.
 
-### [!UICONTROL Journey Orchestration] {#journey}
+### [!UICONTROL Organización de recorridos] {#journey}
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
 #### Additional resources for [!UICONTROL Journey Orchestration]
 
-[Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ### [!UICONTROL Mobile Services y Mobile SDK] {#mobile}
 
@@ -131,7 +131,7 @@ Para obtener documentación del producto, consulte [Inicio de Ayuda de Adobe Ana
 ### Funciones nuevas en Adobe Analytics {#aa-features}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -139,7 +139,7 @@ Para obtener documentación del producto, consulte [Inicio de Ayuda de Adobe Ana
 ### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] (anteriormente VHL SDK) {#aa-va}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -151,7 +151,7 @@ Vea las [Notas de la versión del Data Workbench](https://marketing.adobe.com/re
 ### AppMeasurement {#appm}
 
 | Función | Descripción |
-| -----------| ---------- |
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -179,7 +179,7 @@ Consulte el [Historial de versiones de AppMeasurement](https://docs.adobe.com/co
 ## Audience Manager {#aam}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -235,7 +235,7 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 ### [!DNL Livefyre] {#livefyre}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -250,7 +250,7 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 ## Social {#soc}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -275,7 +275,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 ## Advertising Cloud {#adcloud}
 
 | Función | Descripción |
-| -----------| ---------- |  
+| ------- | ------- |
 | Función A | Texto |
 | Función B | Texto |
 | Función C | Texto |
@@ -296,7 +296,7 @@ Para las notas de la versión de Magento, consulte:
 
 ## Marketo {#marketo}
 
-Marketing Engage es una solución completa para la administración de posibles clientes y los especialistas en mercadotecnia B2B que buscan transformar las experiencias de los clientes al involucrarse en todas las etapas de los viajes de compras complejos.
+Marketo Engage es una solución completa para la administración de posibles clientes y los especialistas en mercadotecnia B2B que buscan transformar las experiencias de los clientes al involucrarse en todas las etapas de los viajes de compra complejos.
 
 ### Actualizaciones centrales de Marketo Engage
 
@@ -316,9 +316,10 @@ See Marketo release notes for [February 2020](https://docs.marketo.com/display/p
 Las siguientes funciones se lanzarán durante todo el trimestre:
 
 | Función | Descripción |
-|------|---------|
-| [!DNL Bizible] | <ul><li>Nueva segmentación basada en cuentas</li><li>Almacenamiento de filtros específicos del tablero</li><li>Exportación de tableros Bizible en PDF</li></ul> |
-| Conexión de ventas | Actualizaciones y mejoras de la ventana de composición y del centro de comandos |
+| ------- | ------- |
+| Función A | Texto |
+| Función B | Texto |
+| Función C | Texto |
 
 ### Anuncios
 
@@ -336,7 +337,7 @@ Para ver las notas de la versión acumulativas e históricas, consulte [Notas de
 Artículos y vídeos informativos nuevos y recientes. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
 | Solución | Contenido | Descripción |
-|----------| -----------| ---------- |  
+| ---------- | ----------- | ---------- |
 | [!UICONTROL AEM Commerce] | Vídeo: [Creación de varias categorías y páginas de producto](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/04-style-cif-component.md) | Descubra cómo crear un proyecto CIF de Adobe Experience Manager (AEM) básico como punto de partida para proyectos de clientes que utilizan componentes principales de CIF. Aplique un tema y estilo CSS a los componentes e inspeccione un nuevo proyecto de AEM CIF, generado por el arquetipo. Además, descubra cómo se organizan CSS y JavaScript utilizados por los componentes principales de CIF. |
 | [!UICONTROL AEM Forms] | Artículo: [Autenticar con AEM Author mediante OKTA](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/single-sign-on-with-okta.html) | Obtenga información sobre cómo configurar la aplicación en el portal OKTA y sobre la configuración que suele utilizar para registrar una nueva aplicación. |
 | [!UICONTROL AEM Commerce] | Tutorial: [Personalización de los componentes principales de CIF](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/05-customize-cif-components.md) | Consulte varios puntos de extensión diferentes proporcionados por los componentes principales de CIF y AEM en general. Los componentes principales de CIF proporcionan un conjunto estándar de componentes comerciales que se pueden utilizar para acelerar un proyecto que integra las soluciones de Adobe Experience Manager (AEM) y Magento. |
