@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
+source-git-commit: 1fc011a1dbdc71052547679e69ac4f853f7fa4c2
 workflow-type: tm+mt
-source-wordcount: '6378'
+source-wordcount: '6445'
 ht-degree: 41%
 
 ---
@@ -369,6 +369,15 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Notas de la versión de Adobe Advertising Cloud.
+
+* [Nuevas funciones de Advertising Cloud DSP](#adcloud-dsp)
+* [Nuevas funciones en Advertising Cloud Search](#adcloud-search)
+
+### New features in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+
+| Función | Descripción |
+| -----------| ---------- |
+| Anuncio previo interactivo ampliado para incluir el inventario VAST | Cada anuncio y colocación previa interactiva ahora admite el inventario VPAID y VAST. **Nota:** Si el KPI principal es la visualización, siga creando colocaciones y publicidades VPAID y VAST por separado porque las impresiones visibles no están disponibles para anuncios VAST. |
 
 ### Nuevas funciones en [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
