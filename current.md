@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
+source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6522'
 ht-degree: 94%
 
 ---
@@ -27,10 +27,10 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia las actualizaciones.
 
-Última actualización: **13 de agosto de 2020**
+Última actualización: **19 de agosto de 2020**
 
 * [Estado del sistema de Adobe](#status)
-* [Interfaz de Experience Cloud](#ecloud)
+* [Interfaz de Experience Cloud](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) (actualizado el 13 de agosto de 2020) y [Customer Journey Analytics](#cust-journey)
@@ -52,6 +52,12 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 Consulte la información de la última versión del [21 de mayo de 2020](c-legacy-releases/2020/05212020.md#status).
 
 ## ![Icono](/assets/ec_appicon_24.png) Interfaz de Experience Cloud {#ecloud}
+
+Actualizado: **19 de agosto de 2020**
+
+| Función | Descripción |
+| -----------| ---------- |
+| Herramienta de administración: mejoras en las funciones y el rendimiento | La versión de agosto de 2020 de la Herramienta [!UICONTROL de] administración permite a los administradores de sistemas realizar vistas de una lista de perfiles de productos y ver o exportar una vista detallada de cada perfil de producto. Se agregaron mejoras de rendimiento para cargar los datos del último inicio de sesión, lo que corrigió problemas de tiempo de espera. Consulte la ayuda de la [herramienta de administración de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obtener más información. |
 
 Consulte las [notas de la versión anteriores](c-legacy-releases/2020/07162020.md#ecloud) de julio para obtener la información más reciente sobre la interfaz actualizada y el dominio unificado del producto.
 
