@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
 source-wordcount: '6627'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -30,7 +30,7 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 Última actualización: **21 de agosto de 2020**
 
 * [Estado del sistema de Adobe](#status)
-* [Interfaz de Experience Cloud](#ecloud) (updated **August 19, 2020**)
+* [Interfaz de Experience Cloud](#ecloud)  (actualizado: **19 de agosto de 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) (actualizado el 21 de agosto de 2020) y [Customer Journey Analytics](#cust-journey)
@@ -38,9 +38,9 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [[!Destinatario DNL]](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html)
-* [[!Magento DNL]](#magento)
-* [[!Marketo Engage DNL]](#marketo)
+* [[!DNL Target]](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html)
+* [[!DNL Magento]](#magento)
+* [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/es-ES/primetime/release-notes/home.html)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
@@ -57,7 +57,7 @@ Actualizado: **19 de agosto de 2020**
 
 | Función | Descripción |
 | -----------| ---------- |
-| Herramienta de administración: mejoras en las funciones y el rendimiento | La versión de agosto de 2020 de la Herramienta [!UICONTROL de] administración permite a los administradores de sistemas realizar vistas de una lista de perfiles de productos y ver o exportar una vista detallada de cada perfil de producto. Se agregaron mejoras de rendimiento para cargar los datos del último inicio de sesión, lo que corrigió problemas de tiempo de espera. Consulte la ayuda de la [herramienta de administración de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obtener más información. |
+| Herramienta de administración: mejoras en las funciones y en el rendimiento | La versión de agosto de 2020 de la [!UICONTROL Herramienta de administración] permite a los administradores de sistemas realizar vistas de una lista de perfiles de productos y ver o exportar una vista detallada de cada perfil de producto. Se agregaron mejoras de rendimiento para cargar los datos del último inicio de sesión, lo que corrigió problemas de tiempo de espera. Consulte la ayuda de la [herramienta de administración de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obtener más información. |
 
 Consulte las [notas de la versión anteriores](c-legacy-releases/2020/07162020.md#ecloud) de julio para obtener la información más reciente sobre la interfaz actualizada y el dominio unificado del producto.
 
@@ -140,7 +140,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación   o actualizada | Descripción |
+| Aviso | Fecha de incorporación    o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Migración de `omniture.com` a dominio `adobe.com` | 21 de agosto de 2020 | El 13 de agosto de 2020, Adobe Analytics migró su arquitectura de front-end de `omniture.com|http://omniture.com/` al `adobe.com|http://adobe.com/` dominio. Este cambio debería mitigar los problemas de cookies de terceros que surgieron tras el cambio inicial del dominio unificado del producto del 28 de mayo de 2020. Como resultado de esta actualización, el explorador puede pedir a los usuarios que confíen en el nuevo `an.adobe.com|http://an.adobe.com/` o `experience.adobe.com|http://experience.adobe.com/` dominio. |
 | Actualización de la compatibilidad con Ad Hoc Analysis Java 8 | 21 de agosto de 2020 | Actualmente, Ad Hoc Analysis no es compatible con Java 8 versiones 1.8.0_261 o posterior. Para garantizar que el acceso a esta herramienta no se interrumpa antes de que se llegue a la fecha [de](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) finalización de la vida útil, le recomendamos que mantenga una versión de Java 8 anterior a la versión 1.8.0_261. |
@@ -243,8 +243,8 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * Compatibilidad con la versión 1.0.2 de la [capa de datos del cliente de Adobe](https://docs.adobe.com/content/help/es-ES/experience-manager-core-components/using/developing/data-layer/overview.html).
    * Varias mejoras en la interfaz de usuario en Cloud Manager.
    * Las canalizaciones de Cloud Manager ahora admiten las variables y los secretos establecidos por el cliente. Consulte [Variables de canalización.](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/onboarding/getting-access/creating-aem-application-project.html#pipeline-variables)
-   * [Los registros se pueden reenviar a cuentas de Splunk](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs), lo que permite a las organizaciones aprovechar su inversión en [!DNL Splunk].
-   * Puede asignar [una dirección IP](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) de salida estática y dedicada para el tráfico saliente programada en el código Java, lo que puede resultar útil para algunas integraciones.
+   * [Los registros se pueden reenviar a cuentas de Splunk](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs), lo que permite a las organizaciones aprovechar su inversión en [!DNL Splunk].
+   * Puede asignar [una dirección IP](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) de salida estática y dedicada para el tráfico saliente programada en el código Java, lo que puede resultar útil para algunas integraciones.
    * Se ha lanzado [!UICONTROL Cloud Readiness Analyzer] v1.0.2. Consulte las [Notas de la versión de](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) detalladas para obtener más información. Para empezar a usar el [!UICONTROL Cloud Readiness Analyzer], consulte [Cómo usar el Cloud Readiness Analyzer](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html).
    * Consulte [las notas de la versión completas para AEM as a Cloud Service.](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
@@ -372,7 +372,7 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 * Adobe Campaign Standard: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html) - [Planificación de versiones](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-planning.html) - [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos ](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/overview.html)- [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/documentation-updates.html)
-* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)   - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)    - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -427,7 +427,7 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 ### Degradaciones
 
-* **Parámetro de API de Asset &quot;_method&quot;:** `_method` a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI.
+* **Parámetro de API de Asset &quot;_method&quot;:**  a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;`_method`&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI.
 * **Degradación de compatibilidad con Internet Explorer:** a partir de la versión del 31 de julio de 2020, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
