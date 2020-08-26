@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
+source-git-commit: 7349731bb72163473efc26069df9f1d77f0f7c23
 workflow-type: tm+mt
-source-wordcount: '6639'
+source-wordcount: '6651'
 ht-degree: 98%
 
 ---
@@ -102,7 +102,7 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: disponibilidad en EMEA y APAC | 31 de agosto de 2020 | Los clientes de EMEA y de APAC accederán a gráficos privados y de [Cross-Device Analytics](https://docs.adobe.com/content/help/es-ES/analytics/components/cda/overview.html). |
 | Mejora de la unión basada en el campo en [!UICONTROL Cross-Device Analytics] (disponible en América y EMEA) | 31 de agosto de 2020 | Esta implementación simplificada para los nuevos clientes de [!UICONTROL Cross-Device Analytics] le ofrece la opción de realizar una unión basada en un ID de usuario almacenado en un campo de Analytics (prop o eVar) en lugar de utilizar el gráfico de dispositivos (cooperativo o privado). La mejora elimina el requisito de implementar ECID y el de implementar la sincronización de ID a los fines de CDA. (La sincronización de ECID e ID sigue siendo necesaria para otras funciones). |
-| (Anuncio previo) Workspace: descargar 50.000 elementos para una sola dimensión | 17 de septiembre de 2020 | Podrá descargar 50.000 elementos para una sola dimensión en una tabla improvisada, con segmentos y filtros aplicados. Esto le permite acceder a más de 400 filas de datos fuera de Analysis Workspace. |
+| (Anuncio previo) Workspace: descargar 50.000 elementos para una sola dimensión | 17 de septiembre de 2020 | Podrá descargar 50.000 elementos para una sola dimensión en una tabla improvisada, con segmentos y filtros aplicados. Esto le permite acceder a más de 400 filas de datos fuera de Analysis Workspace. [Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
