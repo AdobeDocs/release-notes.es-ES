@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
+source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
 workflow-type: tm+mt
-source-wordcount: '6673'
+source-wordcount: '6685'
 ht-degree: 96%
 
 ---
@@ -110,7 +110,7 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Espacio de trabajo: Mejoras en la visualización de líneas | 17 de septiembre de 2020 | <ul><li>Puede mostrar u ocultar el eje X y el eje Y de cualquier visualización de línea. Esto puede resultar especialmente útil cuando las visualizaciones de líneas son más compactas.</li><li>Puede superponer una etiqueta de valor mínimo y máximo en cualquier visualización de línea para resaltar rápidamente los picos y los valores de una métrica.</li><li>Puede superponer distintas líneas de tendencia de regresión en cualquier visualización de línea para ver con mayor facilidad la tendencia en los datos. Las opciones incluyen Lineal, Logarítmico, Exponencial, Potencia y Cuadrático.</li></ul> |
+| Espacio de trabajo: Mejoras en la visualización de líneas | 17 de septiembre de 2020 | <ul><li>Puede mostrar u ocultar el eje X y el eje Y de cualquier visualización de línea. Esto puede resultar especialmente útil cuando las visualizaciones de líneas son más compactas.</li><li>Puede superponer una etiqueta de valor mínimo y máximo en cualquier visualización de línea para resaltar rápidamente los picos y los valores de una métrica.</li><li>Puede superponer distintas líneas de tendencia de regresión en cualquier visualización de línea para ver con mayor facilidad la tendencia en los datos. Las opciones incluyen Lineal, Logarítmico, Exponencial, Potencia y Cuadrático.</li></ul>[Más información...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
