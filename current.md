@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2bda04891fdfe3a57208f4f6accf7ac0d5c49432
+source-git-commit: 2670c9b311ff63f308ca380657be1bb399dcf2e6
 workflow-type: tm+mt
-source-wordcount: '6728'
+source-wordcount: '6737'
 ht-degree: 39%
 
 ---
@@ -42,10 +42,10 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html)
-* [!DNL Magento](#magento)
-* [!DNL Marketo Engage](#marketo)
-* [!DNL Primetime](https://docs.adobe.com/content/help/es-ES/primetime/release-notes/home.html)
+* [[!DNL Target]](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html)
+* [[!DNL Magento]](#magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Primetime]](https://docs.adobe.com/content/help/es-ES/primetime/release-notes/home.html)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
