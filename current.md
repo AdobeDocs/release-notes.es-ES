@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
+source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
 workflow-type: tm+mt
-source-wordcount: '6762'
+source-wordcount: '6745'
 ht-degree: 39%
 
 ---
 
 
-# Acceso anticipado - Notas de la versión de Adobe Experience Cloud - septiembre de 2020
+# Notas de la versión de Adobe Experience Cloud - Septiembre de 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 Esta página describe nuevas funciones, correcciones y avisos importantes en [!DNL Adobe Experience Cloud]. También se destacan la nueva documentación, los cursos de formación y los tutoriales de vídeo que le ayudarán a sacar el máximo rendimiento de Experience Cloud.
-
->[!IMPORTANT]
->
->Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeta a cambios antes de su publicación planificada.
 
 >[!NOTE]
 >
@@ -83,7 +79,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y servic
 | 17 de agosto de 2020 | [Creación de una configuración de Launch Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-cloud-service.html) | Vídeo | Obtenga información sobre cómo crear una nueva configuración de Launch Cloud Services. La configuración del Cloud Service de inicio se puede aplicar a un sitio existente y las bibliotecas de inicio se pueden observar cargando tanto en entornos de creación como de publicación. |
 | 17 de agosto de 2020 | [Conectar AEM con Launch mediante E/S de Adobe](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/connect-aem-launch-adobe-io.html) | Vídeo | Obtenga información sobre cómo crear una configuración IMS con E/S de Adobe para autenticar AEM con la API de Launch. Una vez que esta integración esté implementada, AEM podrá comunicarse mediante la API de Launch para acceder a las propiedades de Launch. |
 | 17 de agosto de 2020 | [Administración de consentimiento: compatibilidad con Google IAB TCF 2.0](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-iab-transparency-and-consent-framework-2.html) | Vídeo | Este vídeo muestra cómo la plataforma de datos del cliente en tiempo real de Adobe ayuda a las marcas a honrar el consentimiento de los consumidores cuando se dedican a las propiedades digitales. Con el apoyo de Transparencia y Consentimiento Framework 2.0 de IAB, las marcas obtienen buena flexibilidad sobre cómo pueden interactuar con los consumidores y, al mismo tiempo, les brindan un mayor control de su consentimiento para hacerlo. |
-| 17 de agosto de 2020 | [Coincidencia de clientes de Google](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-google-customer-match.html) | Vídeo | Este vídeo muestra cómo las capacidades de CDP en tiempo real de Adobe y Coincidencia de clientes de Google pueden ayudar a las marcas a interactuar con sus clientes en las propiedades de Google y en las que opera con el objetivo comercial de aumentar sus campañas de divulgación. |
+| 17 de agosto de 2020 | [Destino del cliente de Google](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-google-customer-match.html) | Vídeo | Este vídeo muestra cómo las capacidades de CDP en tiempo real de Adobe y Coincidencia de clientes de Google pueden ayudar a las marcas a interactuar con sus clientes en las propiedades de Google y en las que opera con el objetivo comercial de aumentar sus campañas de divulgación. |
 | 17 de agosto de 2020 | [Introducción al curso para empezar con Adobe Experience Platform para ingenieros de datos](https://video.tv.adobe.com/v/39478?captions=spa) | Vídeo | Un vídeo introductorio para el curso [Introducción a Adobe Experience Platform para ingenieros](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) de datos. |
 | 17 de agosto de 2020 | [Introducción a Adobe Experience Platform para ingenieros de datos](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) | Curso | Conozca cómo realizar tareas clave de Data Engineer en Adobe Experience Platform. Este curso de introducción utiliza vídeos y ejercicios prácticos para empezar a ingerir datos por lotes, ingerir datos de flujo continuo con el SDK web, ejecutar consultas y mucho más. |
 | 17 de agosto de 2020 | [Introducción al curso Introducción a Adobe Experience Platform para arquitectos de datos](https://video.tv.adobe.com/v/39477?captions=spa) | Vídeo | Este vídeo le ofrece una descripción general del curso [Introducción a Adobe Experience Platform para arquitectos](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1) de datos. |
