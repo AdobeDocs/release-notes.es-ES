@@ -2,12 +2,15 @@
 description: 'Nuevas funciones y correcciones de errores en Adobe Experience Cloud: 2014 y anteriores'
 seo-description: 'Nuevas funciones y correcciones de errores en Adobe Experience Cloud: 2014 y anteriores'
 title: Notas de la versión, 2014 y anteriores
-solution: Notas de la versión,Experience Cloud,Analytics,Social,Target,Advertising Cloud
+solution: Experience Cloud,Analytics,Target,Advertising Cloud
 seo-title: Notas de la versión de 2014 y anteriores para Adobe Experience Cloud
-topic: Notas de la versión
+topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 translation-type: tm+mt
-source-git-commit: 9dcd8e8ea0e020c56906e5e4635d68eeceb070a0
+source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 100%
 
 ---
 
