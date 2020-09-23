@@ -1,15 +1,18 @@
 ---
 description: Información que le ayudará a comunicarse con Adobe y a comprender los aspectos legales relativos al uso de este producto y esta documentación.
-keywords: Dynamic Tag Management; Notas de la versión
+keywords: dynamic tag management;release notes
 seo-description: Información que le ayudará a comunicarse con Adobe y a comprender los aspectos legales relativos al uso de este producto y esta documentación.
 seo-title: Contacto e información legal
-solution: Experience Cloud, Notas de la versión
+solution: Experience Cloud
 title: Contacto e información legal
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: ht
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+translation-type: tm+mt
+source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+workflow-type: tm+mt
+source-wordcount: '253'
+ht-degree: 97%
 
 ---
 
@@ -41,8 +44,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Términos de uso](https://www.adobe.com/go/marketingcloud_terms_of_use_es) | [Centro de privacidad](https://www.adobe.com/es/privacy/policy.html)
+[Condiciones de uso](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centro de privacidad](https://www.adobe.com/es/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Información actualizada/Información adicional de códigos de terceros disponible en [https://www.adobe.com/go/thirdparty](https://www.adobe.com/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/es/products/eula/third_party/).
