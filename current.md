@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
+source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
 workflow-type: tm+mt
-source-wordcount: '6533'
+source-wordcount: '6530'
 ht-degree: 42%
 
 ---
@@ -298,13 +298,13 @@ La documentación del Editor de texto enriquecido se actualiza para lista [de to
 
 * Si los usuarios han modificado [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) para establecer que la configuración de tiempo de espera sea inferior al tiempo que tarda un recurso en cargarse, el usuario puede encontrarse con una situación de tiempo de espera de sesión. Por lo tanto, los usuarios deben cambiar el `chunkUploadMinFileSize` y `chunksize`, para que cada solicitud de fragmento actualice la sesión. Para obtener más información, consulte [Carga de recursos](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Los recursos se pueden [mover a carpetas del mismo nivel mediante la operación](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) de arrastrar, además de la operación [!UICONTROL Mover (m)] que abre el asistente [!UICONTROL Mover recursos] .
+* Los recursos se pueden [mover a carpetas del mismo nivel mediante la operación](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) de arrastrar, además de la operación [!UICONTROL Mover(m)] que abre el asistente [!UICONTROL Mover recursos] .
 
 * Para las perspectivas de recursos, utilice Inicio [de](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)Adobe. [La integración](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) de la DTM se denomina un método obsoleto en los documentos.
 
 **[!DNL Adobe Experience Manager]aplicación de escritorio**
 
-* Los usuarios que inicien sesión en la aplicación de escritorio después de cerrar sesión o iniciarla por primera vez deben proporcionar la URL de su [!DNL Experience Manager] servidor con el formato https://[aem-server-url]:[port]/ y, a continuación, seleccionar la opción [!UICONTROL Connect] para evitar el error &quot;La aplicación ha encontrado un error desconocido&quot;. Para obtener más información, consulte [Uso de la aplicación](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html)de escritorio de Adobe Experience Manager.
+* Los usuarios que inicien sesión en la aplicación de escritorio después de cerrar la sesión o de iniciarla por primera vez deben proporcionar la dirección URL del [!DNL Experience Manager] servidor en formato `https://[aem-server-url]:[port]/` y, a continuación, seleccionar la opción [!UICONTROL Connect] para evitar el error &quot;La aplicación encontró un error desconocido&quot;. Para obtener más información, consulte [Uso de la aplicación](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html)de escritorio de Adobe Experience Manager.
 
 ### Comunidad
 
