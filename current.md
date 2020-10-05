@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
+source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
 workflow-type: tm+mt
-source-wordcount: '6530'
-ht-degree: 42%
+source-wordcount: '6537'
+ht-degree: 44%
 
 ---
 
@@ -64,7 +64,7 @@ Anteriormente denominados servicios _principales de_ Experience Cloud, la docume
 
 No actualizado en septiembre.
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) for the latest release information.
+Consulte [Recopilación de notas de la versión para obtener información sobre los servicios](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) de Experience Cloud.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -105,6 +105,8 @@ Versión de septiembre: consulte Notas [de la versión para Journey Orchestratio
 [Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+Fecha de la versión: **8 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey)
@@ -397,9 +399,9 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Solución | Descripción |
 | ----------- | ----------- | ---------- | ---------- |
-| 22 de septiembre de 2020 | [AI de viaje - Optimización del tiempo de envío predictivo - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo AI de Viaje. Obtenga información sobre cómo vista las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar envíos de correo electrónico mediante una fórmula de tiempo de envío. |
-| 22 de septiembre de 2020 | [Viaje AI - Puntuación de participación predictiva - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Aprenda a vista las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y cómo crear reglas de tipología para gestionar la fatiga de los clientes. |
-| 22 de septiembre de 2020 | [Añadir el control de un grupo en un envío: Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Obtenga información sobre cómo definir un grupo de control para su envío y cómo extraer los perfiles asignados al grupo de control después de enviar el envío. |
+| 22 de septiembre de 2020 | [AI de viaje - Optimización del tiempo de envío predictivo - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo del recorrido de IA. Obtener información sobre cómo ver las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar los envíos de correo electrónico mediante una fórmula de tiempo de envío. |
+| 22 de septiembre de 2020 | [Viaje AI - Puntuación de participación predictiva - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes. |
+| 22 de septiembre de 2020 | [Añadir un grupo de control a un envío: Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Obtenga información sobre cómo definir un grupo de control para el envío y cómo extraer los perfiles asignados al grupo de control después de mandar el envío. |
 | 11 de septiembre de 2020 | [Delegación de subdominios](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | El Panel de control de Adobe Campaign le permite delegar completamente un subdominio a Adobe Campaign. |
 | 3 de septiembre de 2020 | [Añadir direcciones IP a listas de permitidos](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | El panel de control de Campaign le permite configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, la instancia de Adobe Campaign Classic no es accesible desde varias direcciones IP. |
 | 3 de septiembre de 2020 | [Panel de control de Campaign: Añadir permisos de URL](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | El panel de control de Campaign le permite configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, la instancia de Adobe Campaign Classic no es accesible desde varias direcciones IP. |
