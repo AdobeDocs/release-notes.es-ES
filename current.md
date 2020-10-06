@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
+source-git-commit: 51da999834b44cdbd2a5ecc7c26da652327dd3cc
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6618'
 ht-degree: 44%
 
 ---
@@ -49,6 +49,10 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 * [Document Cloud](#doc-cloud)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
+
+>[!NOTE]
+>
+>La documentación se está trasladando a Experience League. Durante el mes de octubre, todas las notas de la versión, artículos, vídeos y tutoriales se moverán de su ubicación actual en `docs.adobe.com` y estarán disponibles como parte de Experience League. Este movimiento garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación: Experience League. Cuando se produce este cambio, no hay nada que hacer, ya que todos los vínculos se redireccionarán a la nueva ubicación. Actualizaremos las notas de la versión cuando comience el corte.
 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
@@ -399,9 +403,9 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Solución | Descripción |
 | ----------- | ----------- | ---------- | ---------- |
-| 22 de septiembre de 2020 | [AI de viaje - Optimización del tiempo de envío predictivo - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo del recorrido de IA. Obtener información sobre cómo ver las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar los envíos de correo electrónico mediante una fórmula de tiempo de envío. |
-| 22 de septiembre de 2020 | [Viaje AI - Puntuación de participación predictiva - Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes. |
-| 22 de septiembre de 2020 | [Añadir un grupo de control a un envío: Vídeo](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Obtenga información sobre cómo definir un grupo de control para el envío y cómo extraer los perfiles asignados al grupo de control después de mandar el envío. |
+| 22 de septiembre de 2020 | [AI de viaje - Optimización del tiempo de envío predictivo - Vídeo](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo del recorrido de IA. Obtener información sobre cómo ver las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar los envíos de correo electrónico mediante una fórmula de tiempo de envío. |
+| 22 de septiembre de 2020 | [Viaje AI - Puntuación de participación predictiva - Vídeo](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes. |
+| 22 de septiembre de 2020 | [Añadir un grupo de control a un envío: Vídeo](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Obtenga información sobre cómo definir un grupo de control para el envío y cómo extraer los perfiles asignados al grupo de control después de mandar el envío. |
 | 11 de septiembre de 2020 | [Delegación de subdominios](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | El Panel de control de Adobe Campaign le permite delegar completamente un subdominio a Adobe Campaign. |
 | 3 de septiembre de 2020 | [Añadir direcciones IP a listas de permitidos](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | El panel de control de Campaign le permite configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, la instancia de Adobe Campaign Classic no es accesible desde varias direcciones IP. |
 | 3 de septiembre de 2020 | [Panel de control de Campaign: Añadir permisos de URL](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | El panel de control de Campaign le permite configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, la instancia de Adobe Campaign Classic no es accesible desde varias direcciones IP. |
