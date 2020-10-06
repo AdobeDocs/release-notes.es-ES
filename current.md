@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b3ba9bfac88074b9dd5838acd086bade5a43b734
+source-git-commit: 4f7fd84dcf6c1edcee352fd1c7592d1a0f36ed36
 workflow-type: tm+mt
-source-wordcount: '6617'
+source-wordcount: '6619'
 ht-degree: 44%
 
 ---
@@ -52,7 +52,7 @@ Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia la
 
 >[!NOTE]
 >
->La documentación se está trasladando a Experience League. Durante el mes de octubre, todas las notas de la versión, artículos, vídeos y tutoriales se moverán de su ubicación actual en `docs.adobe.com` y estarán disponibles como parte de Experience League. Este movimiento garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación: Experience League. Cuando se produce este cambio, no hay nada que hacer, ya que todos los vínculos se redireccionarán a la nueva ubicación. Actualizaremos las notas de la versión cuando comience el corte.
+>La documentación del Experience Cloud se está trasladando a Experience League. Durante el mes de octubre, todas las notas de la versión, artículos, vídeos y tutoriales se moverán de su ubicación actual en `docs.adobe.com` y estarán disponibles como parte de Experience League. Este movimiento garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación: Experience League. Cuando se produce este cambio, no hay nada que hacer, ya que todos los vínculos se redireccionarán a la nueva ubicación. Actualizaremos las notas de la versión cuando comience el corte.
 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
