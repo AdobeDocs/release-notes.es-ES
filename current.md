@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
+source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
 workflow-type: tm+mt
-source-wordcount: '6775'
-ht-degree: 43%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Las fechas de lanzamiento del producto pueden variar. Consulte con frecuencia las actualizaciones.
 
-Última actualización: **2 de octubre de 2020**
+Última actualización: **7 de octubre de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Servicios y administración de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: 2 de octubre de 2020)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: 7 de octubre de 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -113,7 +113,7 @@ Versión de septiembre: consulte Notas [de la versión para Journey Orchestratio
 Fecha de la versión: **8 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualización: 7 de octubre de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -142,6 +142,7 @@ Fecha de la versión: **8 de octubre de 2020**
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan al rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Visualización de líneas] : Opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de línea de tendencia de visualización de línea. Una media móvil calcula la media de un período anterior especificado y la utiliza como punto de datos de línea de tendencia y, a continuación, se mueve al período siguiente. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Eliminando limitación de relleno | 19 de octubre de 2020 | Anteriormente, se podía rellenar un máximo de 2.500 millones de filas al crear una conexión. Eliminamos la limitación de relleno y le permitimos rellenar hasta 13 meses de datos, independientemente del tamaño. |
+| Vinculación basada en campo de CJA | 30 de octubre de 2020 | La vinculación basada en campo CJA permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el lago de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de evento de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en persona en una conexión CJA, lo que permite la análisis entre dispositivos y canales en Analysis Workspace. |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
