@@ -1,16 +1,23 @@
 ---
-source-git-commit: d97a18edd04952f15a93be3197cf707c3de729d0
+source-git-commit: f15603c29aa5f6df6eb7dc630ca72cc4e8292caa
+workflow-type: tm+mt
 translation-type: tm+mt
+source-wordcount: '529'
+ht-degree: 80%
 
 ---
 # Artículo sobre colaboración
+
+| EXL-PR | EXL | Vista previa | Activar | Publicadas | Ayuda |
+|--- |--- |--- |--- |--- |--- |
+| [![Estado de compilación](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_pr-exl/lastBuild/) | [![Estado de compilación](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_exl/lastBuild/lastBuild) | [URL de previsualización](https://experienceleague.corp.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Dirección URL en directo](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) | [Guía de creación](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Agradecemos las contribuciones de nuestra comunidad, así como de los empleados de Adobe que no forman parte de los equipos de documentación.
 
 ## Código de conducta de Adobe Open Source
 
 
-Este proyecto ha adoptado el [código de conducta de Adobe Open Source](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) o el [código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obtener más información, consulte el artículo [Contribución](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
+Este proyecto ha adoptado el [Código de conducta de Adobe Open Source](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) o el [Código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obtener más información, consulte el artículo [Contribución](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
 
 ## Acerca de las contribuciones al contenido de Adobe
 
@@ -40,7 +47,7 @@ Si es un redactor técnico, administrador de programa o desarrollador del equipo
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para editar o ramificar el repositorio con el fin de realizar contribuciones importantes.
 
-Consulte la Guía del colaborador de [Adobe Docs para](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html) obtener más detalles.
+Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html) para obtener más detalles.
 
 ## Cómo utilizar Markdown para dar formato al tema
 
