@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e3cd66e2ec665be1583b0a3ee3aaba05462c8407
+source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
 workflow-type: tm+mt
-source-wordcount: '6828'
-ht-degree: 97%
+source-wordcount: '6918'
+ht-degree: 96%
 
 ---
 
@@ -204,9 +204,15 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 
 Nuevas funciones, correcciones, documentación y tutoriales en Audience Manager.
 
-Fecha de versión: fines del **8 de octubre de 2020**
+Fecha de actualización: **22 de octubre de 2020**
 
-### Nuevas funciones y correcciones en Adobe Audience Manager
+### Nuevas funciones y correcciones en Audience Manager {#aam-features}
+
+| Función | Fecha de incorporación o actualizada | Descripción |
+|----|----|----|
+| [Audiencias predictivas](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 de octubre de 2020 | <ul><li>**Clonación** del modelo de Audiencias predictivas: Ahora puede clonar modelos existentes y cambiar su configuración según sus necesidades. Lea [Clonación y edición de modelos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) de Audiencia predictivos para obtener más información.</li><li>**Clasificación** por lotes de Audiencias predictivas: Además de clasificar visitantes en distintas personalidades en tiempo real, las Audiencias predictivas ahora admiten la clasificación por lotes, lo que le ayuda a clasificar usuarios incorporados y a activarlos en destinos por lotes.</li></ul> |
+
+### Correcciones y mejoras {#aam-fixes-and-improvements}
 
 * Se ha corregido un problema con la API de REST de Audience Manager, en el que el extremo de características no arrojaba métricas entre dispositivos al filtrar características en la solicitud. (AAM-55878)
 * Se ha corregido un problema en Destinos basados en personas, en el que para las integraciones de Facebook, los correos electrónicos de recordatorio de caducidad de token de acceso no se enviaban a los destinatarios correctos. (AAM-56215)
