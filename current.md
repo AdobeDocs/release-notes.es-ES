@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 684a0b00a2f2bdb2f7c92ca0b0552bc18fc8c19f
+source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
 workflow-type: tm+mt
 source-wordcount: '6960'
-ht-degree: 69%
+ht-degree: 68%
 
 ---
 
@@ -56,7 +56,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 No se ha actualizado.
 
-Consulte [Estado del sistema de Adobe - 21 de mayo de 2020](https://docs.adobe.com/content/help/es-ES/release-notes/experience-cloud/previous/2020/05212020.translate.html#status) para obtener la información más reciente sobre la versión.
+Consulte [Estado del sistema de Adobe - 21 de mayo de 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) para obtener la información más reciente sobre la versión.
 
 ## ![Icono](/assets/ec_appicon_24.png) Administración y servicios del Experience Cloud {#ecloud}
 
