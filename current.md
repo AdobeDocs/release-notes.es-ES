@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
+source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
 workflow-type: tm+mt
-source-wordcount: '6960'
+source-wordcount: '7024'
 ht-degree: 68%
 
 ---
@@ -338,6 +338,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 27 de octubre de 2020 | [Introducción a AEM Documento Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artículo | Adobe Experience Manager Documento Security Extension for Microsoft Office garantiza que solo las personas autorizadas por usted puedan utilizar archivos de Word, Excel y PowerPoint que contengan su propiedad intelectual. Con Documento Security Extension for Microsoft Office, puede aplicar parámetros de confidencialidad predefinidos a sus archivos. |
 | 7 de octubre de 2020 | [Métricas de página de vista en Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artículo | Obtenga información sobre cómo asignar datos capturados desde un sitio de Adobe Experience Manager a métricas y dimensiones en grupos de informes de Adobe Analytics. |
 | 8 de octubre de 2020 | [Personalización de las experiencias de página Web completa](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Vídeo | Obtenga información sobre cómo crear una actividad para redirigir las páginas del sitio alojadas en AEM a una nueva página mediante Adobe Target. |
 | 8 de octubre de 2020 | [Personalización mediante el Compositor de experiencias visuales](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-using-vec.html) | Vídeo | Obtenga información sobre cómo crear una Actividad de Destinatario de prueba A/B mediante el Compositor de experiencias visuales (VEC). |
