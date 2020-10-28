@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
 source-wordcount: '7148'
-ht-degree: 67%
+ht-degree: 69%
 
 ---
 
@@ -258,7 +258,7 @@ Funciones nuevas, correcciones y actualizaciones en Adobe Experience Manager (AE
       * Se agregó un mensaje de validación descriptivo para la *URL* y el *nombre del conjunto de migración*.
    * **Herramientas de refactorización de código**
 
-      * El complemento AIO-CLI admite el Modernizador de repositorio y permite a los usuarios ejecutar la herramienta mediante el complemento. Consulte el recurso [aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) de Git para obtener más información.
+      * El complemento AIO-CLI admite el Modernizador de repositorio y permite a los usuarios ejecutar la herramienta mediante el complemento. Consulte el recurso [aio-cli-plugin-aem-cloud-service-migration de Git](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) para obtener más información.
       * La utilidad Modernizador del repositorio se puede usar para reestructurar los paquetes de proyectos existentes en paquetes compatibles con la estructura de proyectos definida para AEM as a Cloud Service. Consulte el [recurso Git: Modernizador de repositorio](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/repository-modernizer) para obtener más detalles.
 
 
@@ -281,7 +281,7 @@ La documentación del Editor de texto enriquecido se actualiza para la lista [de
 
 * **[El parámetro](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/using/search-assets.html#assetpicker)** Viewmode se agrega al selector de recursos (selector de recursos) para abrirlo en modo de búsqueda. Para abrir el selector de recursos en modo de búsqueda y utilizarlo con `assettype` y `mimetype`, el usuario debe agregar el parámetro `viewmode=search` a la dirección URL `https://[aem-server]:[port]/aem/assetpicker.html`. Por ejemplo, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
-* Los grupos de usuarios asociados de la carpeta privada se eliminan al [eliminar la carpeta](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/managing/private-folder.html#delete-private-folder) privada, y los grupos de usuarios redundantes, no utilizados y autogenerados se pueden limpiar del repositorio con el método &quot;clean&quot; en JMX.
+* Los grupos de usuarios asociados de la carpeta privada se eliminan al [eliminar la carpeta](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/managing/private-folder.html#delete-private-folder) privada, y los grupos de usuarios redundantes, no utilizados y autogenerados se pueden limpiar del repositorio con el método “clean” en JMX.
 
 * El problema de inicio de sesión de la aplicación de escritorio con [Service Pack 6.5.5.0](https://docs.adobe.com/content/help/es-ES/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) se ha corregido con la versión 2.0.3.2 de la aplicación de escritorio.
 
@@ -327,7 +327,7 @@ Además, el repositorio incluye otros artículos importantes, como [AEM las defi
 
 ### [!DNL Adobe Experience Manager] - Aplicación de escritorio
 
-* Los usuarios que inicien sesión en la aplicación de escritorio después de cerrar sesión o iniciarla por primera vez deben proporcionar la URL de su [!DNL Experience Manager] servidor con el formato `https://[aem-server-url]:[port]/` y, a continuación, seleccionar la opción [!UICONTROL Connect] para evitar el error &quot;La aplicación ha encontrado un error desconocido&quot;. Para obtener más información, consulte [Uso de la aplicación de escritorio de Adobe Experience Manager](https://docs.adobe.com/content/help/es-ES/experience-manager-desktop-app/using/using.html).
+* Los usuarios que inicien sesión en la aplicación de escritorio después de cerrar sesión o iniciarla por primera vez deben proporcionar la URL de su [!DNL Experience Manager] servidor con el formato `https://[aem-server-url]:[port]/` y, a continuación, seleccionar la opción [!UICONTROL Connect] para evitar el error “La aplicación ha encontrado un error desconocido”. Para obtener más información, consulte [Uso de la aplicación de escritorio de Adobe Experience Manager](https://docs.adobe.com/content/help/es-ES/experience-manager-desktop-app/using/using.html).
 
 ### Comunidad
 
@@ -455,8 +455,8 @@ Fecha de la versión: 15 de octubre de 2020
 
 | Función | Descripción |
 | -----------| ---------- |
-| Inventario privado | Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de servicio de publicidad [!UICONTROL inteligente] . Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventario > Ofertas]**, haga clic en **[!UICONTROL Crear]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
-| Previsión de ubicación | En el caso de colocaciones con un ritmo de nivel de colocación, la sección [!UICONTROL Previsión] de la configuración de colocación incluye una nueva sección [!UICONTROL Maximos] estimados, que indica cuánta mayor capacidad está disponible con la configuración de objetivo actual. |
+| Inventario privado | Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de [!UICONTROL servicio de publicidad inteligente]. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventario > Ofertas]**, haga clic en **[!UICONTROL Crear]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
+| Previsión de ubicación | En el caso de las ubicaciones con un ritmo de nivel de ubicación, la sección [!UICONTROL Previsión] de la configuración de ubicación incluye una nueva sección [!UICONTROL Máximos estimados], que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. |
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
@@ -464,9 +464,9 @@ Fecha de la versión: 17 de octubre de 2020
 
 | Función | Descripción |
 | -----------| ---------- |
-| Buscar campañas | En la vista [!UICONTROL Cuentas] , la columna [!UICONTROL Acceso] ahora indica si [!DNL Advertising Cloud Search] no puede iniciar sesión en una cuenta de motor de búsqueda habilitada. Para ver la causa del error, mantenga el cursor sobre el icono de advertencia. |
-| [!UICONTROL Alertas personalizadas] | La versión beta [!UICONTROL de] Alertas anterior ahora se denomina Alertas personalizadas. |
-|  | En las alertas personalizadas, el flujo de trabajo para identificar cuándo las métricas del intervalo de fechas especificado han aumentado o disminuido con respecto a las métricas del período anterior se ha simplificado y se ha movido a la ficha [!UICONTROL Filtros] . |
+| Buscar campañas | En la vista [!UICONTROL Cuentas], la columna [!UICONTROL Acceso] ahora indica si [!DNL Advertising Cloud Search] no puede iniciar sesión en una cuenta de motor de búsqueda habilitada. Para ver la causa del error, mantenga el cursor sobre el icono de advertencia. |
+| [!UICONTROL Alertas personalizadas] | La versión [!UICONTROL beta de Alertas] anterior ahora se denomina [!UICONTROL Alertas personalizadas]. |
+|  | En las alertas personalizadas, el flujo de trabajo para identificar cuándo las métricas del intervalo de fechas especificado han aumentado o disminuido con respecto a las métricas del período anterior se ha simplificado y se ha movido a la pestaña [!UICONTROL Filtros]. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -494,7 +494,7 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 ### Degradaciones
 
-* **Parámetro de API de Asset &quot;_method&quot;:** a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;`_method`&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI.
+* **Parámetro de API de Asset &quot;_method&quot;:** a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán “`_method`” para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI.
 * **Degradación de compatibilidad con Internet Explorer:** a partir de la versión del 31 de julio de 2020, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
 
 Para ver las notas de la versión acumulativas e históricas, consulte [Notas de la versión de Marketo](https://docs.marketo.com/x/CgA6Ag).
