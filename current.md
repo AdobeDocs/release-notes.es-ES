@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
+source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
 workflow-type: tm+mt
-source-wordcount: '7353'
-ht-degree: 67%
+source-wordcount: '7479'
+ht-degree: 66%
 
 ---
 
@@ -83,6 +83,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 26 de octubre de 2020 | [Introducción a Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Vídeo | Este vídeo ofrece información general sobre Offer Decisioning, un servicio de aplicaciones creado sobre Adobe Experience Platform. El vídeo cubre los desafíos comerciales que resuelve Offer Decisioning, sus funciones clave, la arquitectura básica y sus principales casos de uso. |
 | 14 de septiembre de 2020 | [Valor comercial de Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Vídeo | [!UICONTROL Attribution AI], como parte de [!UICONTROL Intelligent Services], es un servicio de atribución algorítmica de varios canales que calcula la influencia y el impacto incremental de las interacciones de los clientes con los resultados especificados. Con [!UICONTROL Attribution AI], los especialistas en marketing pueden medir y optimizar el gasto en marketing y publicidad al comprender el impacto de cada interacción individual con los clientes en cada fase de los recorridos de los clientes. |
 | 14 de septiembre de 2020 | [Valor comercial de Customer AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Vídeo | Este vídeo muestra cómo la [!UICONTROL Customer AI] enriquece los perfiles de los clientes con las tendencias basadas en AI y potencia la segmentación de clientes y las medidas de determinación de objetivos. |
 | 14 de septiembre de 2020 | [Valor comercial de Platform y Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Vídeo | Este vídeo muestra que Adobe Experience Platform se puede utilizar con [!DNL Magento] Commerce para crear una única vista de clientes y personalizar de forma inteligente las experiencias en una tienda digital y en varios canales. |
@@ -437,6 +438,8 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Solución | Descripción |
 | ----------- | ----------- | ---------- | ---------- |
+| 19 de octubre de 2020 | [Panel de control de Campaign: Añadir un intervalo de IP a la lista de permitidos](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del Panel de control de Campaign. |
+| 19 de octubre de 2020 | [Panel de control de Campaign: Añadir un intervalo de IP a la lista de permitidos](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del Panel de control de Campaign. |
 | 16 de octubre de 2020 | [Panel de control de Campaign - Delegación de subdominios mediante CNAME (beta) - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el panel de control. |
 | 16 de octubre de 2020 | [Panel de control de Campaign - Delegación de subdominios mediante CNAME (beta) - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el panel de control. |
 
