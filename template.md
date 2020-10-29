@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ac62e2402e3d41cbcea6670b8e482bc295b9a14
+source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1350'
 ht-degree: 91%
 
 ---
@@ -69,8 +69,6 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 Funciones y correcciones.
 
 Para obtener documentación del producto, consulte [Administrar usuarios y productos](https://docs.adobe.com/content/help/es-ES/core-services/interface/manage-users-and-products/admin-getting-started.html).
-
-## [!UICONTROL Experience Platform] {#platform}
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
