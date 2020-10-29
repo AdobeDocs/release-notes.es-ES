@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
+source-git-commit: 48d79544adc9225c086b7574d522622df084623b
 workflow-type: tm+mt
-source-wordcount: '7670'
-ht-degree: 63%
+source-wordcount: '7634'
+ht-degree: 64%
 
 ---
 
@@ -127,7 +127,6 @@ Fecha de la versión: **29 de octubre de 2020**
 | [!UICONTROL Visualización de líneas]: opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de línea de tendencia de visualización de línea. Un promedio móvil calcula la media de un periodo anterior especificado y la utiliza como punto de datos de línea de tendencia y, a continuación, se mueve al periodo siguiente. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Eliminación de la limitación de relleno | 19 de octubre de 2020 | Con el fin de ofrecer una experiencia CJA mejorada, hemos eliminado la limitación de relleno (importación de datos históricos). Anteriormente, se podía rellenar un máximo de 2.500 millones de filas por su cuenta y, de lo contrario, se requería la participación de ingeniería. Ahora, puede rellenar los datos por su cuenta, sin ninguna limitación. [Más información](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| Componentes > Preferencias de usuario agregadas a Espacio de trabajo de CJA | 29 de octubre de 2020 | La página Componentes > Preferencias de usuario permite administrar la configuración de Analysis Workspace (y sus componentes relacionados) para el usuario. Actualmente, esto incluye el separador de miles y el delimitador CSV. |
 | IQ de viaje: Análisis de canales cruzados | 30 de octubre de 2020 | IQ de viaje: Análisis de canales cruzados permite a los clientes volver a escribir un conjunto de datos de evento Adobe Analytics (u otro) en el lago de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
