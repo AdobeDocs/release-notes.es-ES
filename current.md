@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f3ee5a99df82abf91e09a74f3f808f8ab8cf177e
+source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
 workflow-type: tm+mt
-source-wordcount: '7550'
-ht-degree: 64%
+source-wordcount: '7670'
+ht-degree: 63%
 
 ---
 
@@ -83,7 +83,8 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| 26 de octubre de 2020 | [Introducción a Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Vídeo | Este vídeo ofrece información general sobre Offer Decisioning, un servicio de aplicaciones creado sobre Adobe Experience Platform. El vídeo cubre los desafíos comerciales que resuelve Offer Decisioning, sus funciones clave, la arquitectura básica y sus principales casos de uso. |
+| 26 de octubre de 2020 | [Introducción a Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Vídeo | Este vídeo ofrece información general sobre [!UICONTROL Offer Decisioning], un servicio de aplicaciones creado sobre Adobe Experience Platform. El vídeo cubre los desafíos comerciales que [!UICONTROL Offer Decisioning] resuelve, sus funciones clave, la arquitectura básica y los principales casos de uso. |
+| 29 de octubre de 2020 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | Vídeo | Descubra cómo las marcas pueden utilizar el nuevo servicio de [!UICONTROL Offer Decisioning] de Adobe para definir y administrar sus ofertas, aprovechar los datos de clientes en tiempo real y ofrecer las experiencias correctas que esperan sus clientes. |
 | 14 de septiembre de 2020 | [Valor comercial de Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Vídeo | [!UICONTROL Attribution AI], como parte de [!UICONTROL Intelligent Services], es un servicio de atribución algorítmica de varios canales que calcula la influencia y el impacto incremental de las interacciones de los clientes con los resultados especificados. Con [!UICONTROL Attribution AI], los especialistas en marketing pueden medir y optimizar el gasto en marketing y publicidad al comprender el impacto de cada interacción individual con los clientes en cada fase de los recorridos de los clientes. |
 | 14 de septiembre de 2020 | [Valor comercial de Customer AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Vídeo | Este vídeo muestra cómo la [!UICONTROL Customer AI] enriquece los perfiles de los clientes con las tendencias basadas en AI y potencia la segmentación de clientes y las medidas de determinación de objetivos. |
 | 14 de septiembre de 2020 | [Valor comercial de Platform y Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Vídeo | Este vídeo muestra que Adobe Experience Platform se puede utilizar con [!DNL Magento] Commerce para crear una única vista de clientes y personalizar de forma inteligente las experiencias en una tienda digital y en varios canales. |
@@ -204,6 +205,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Audience Manager.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 29 de octubre de 2020 | [Explicación de los números en el gráfico de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Vídeo | Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características. |
 | 28 de octubre de 2020 | [Explicación de los números en el gráfico de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Vídeo | Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características. |
 | 23 de octubre de 2020 | [Planificación de la creación de características a partir de datos de Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Vídeo | Conozca algunos consejos y trucos que le ayudarán a utilizar los datos de Adobe Analytics en sus características en Audience Manager. |
 | 23 de octubre de 2020 | [Selección de una fuente de datos al crear características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Vídeo | Uno de los campos importantes que se debe completar al crear características es el campo Fuente de datos. Obtenga sugerencias para elegir la fuente de datos correcta para las características basadas en reglas y integradas. |
@@ -352,6 +354,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 28 de octubre de 2020 | [Etiquetas inteligentes de vídeo](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Vídeo | Recursos Experience Manager aprovecha Adobe Sensei para etiquetar recursos de vídeo de forma inteligente con palabras clave que describen elementos clave del vídeo, lo que permite descubrirlos fácilmente mediante la búsqueda de palabras clave por parte de los usuarios AEM. |
 | 27 de octubre de 2020 | [Introducción a AEM Documento Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artículo | Adobe Experience Manager Documento Security Extension for Microsoft Office garantiza que solo las personas autorizadas por usted puedan utilizar archivos de Word, Excel y PowerPoint que contengan su propiedad intelectual. Con Documento Security Extension for Microsoft Office, puede aplicar parámetros de confidencialidad predefinidos a sus archivos. |
 | 7 de octubre de 2020 | [Métricas de página de vista en Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artículo | Obtenga información sobre cómo asignar datos capturados desde un sitio de Adobe Experience Manager a métricas y dimensiones en grupos de informes de Adobe Analytics. |
 | 8 de octubre de 2020 | [Personalización de las experiencias de página Web completa](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Vídeo | Obtenga información sobre cómo crear una actividad para redirigir las páginas del sitio alojadas en AEM a una nueva página mediante Adobe Target. |
