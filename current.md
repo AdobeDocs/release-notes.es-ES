@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
+source-git-commit: 1dec5a72cc3a6c3592544ab198516f6253f5c50a
 workflow-type: tm+mt
-source-wordcount: '7669'
-ht-degree: 63%
+source-wordcount: '7635'
+ht-degree: 64%
 
 ---
 
@@ -210,7 +210,6 @@ Nuevos vídeos, tutoriales o cursos publicados para Audience Manager.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| 29 de octubre de 2020 | [Explicación de los números en el gráfico de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Vídeo | Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características. |
 | 28 de octubre de 2020 | [Explicación de los números en el gráfico de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Vídeo | Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características. |
 | 23 de octubre de 2020 | [Planificación de la creación de características a partir de datos de Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Vídeo | Conozca algunos consejos y trucos que le ayudarán a utilizar los datos de Adobe Analytics en sus características en Audience Manager. |
 | 23 de octubre de 2020 | [Selección de una fuente de datos al crear características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Vídeo | Uno de los campos importantes que se debe completar al crear características es el campo Fuente de datos. Obtenga sugerencias para elegir la fuente de datos correcta para las características basadas en reglas y integradas. |
@@ -530,6 +529,6 @@ Nuevos vídeos, tutoriales o cursos publicados para Adobe Document Cloud.
 
 Para obtener ayuda de Document Cloud, consulte:
 
-* [Centro de aprendizaje de Adobe Acrobat Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=en)
+* [Centro de aprendizaje de Adobe Acrobat](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=en)
 * [Centro de aprendizaje de Adobe Sign](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=en)
 * [Aprendizaje y asistencia sobre Document Cloud](https://helpx.adobe.com/es/support/document-cloud.html)
