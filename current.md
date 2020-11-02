@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
+source-git-commit: 5050a05473619e75107b0874d592322ee5a70d44
 workflow-type: tm+mt
-source-wordcount: '7894'
+source-wordcount: '7947'
 ht-degree: 62%
 
 ---
@@ -27,7 +27,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones.
 
-Última actualización: **28 de octubre de 2020**
+Última actualización: **2 de noviembre de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Administración y servicios de Experience Cloud](#ecloud)
@@ -35,10 +35,10 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: 28 de octubre de 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (actualizado: **28/10/2020**)
+* [Experience Manager](#aem) (actualizado: **28 de octubre de 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Updated: **October 28, 2020**)
+* [[!DNL Target]](#target) (Actualizado: **2 de noviembre de 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/es-ES/primetime/release-notes/home.html)
@@ -358,6 +358,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 2 de noviembre de 2020 | [Carga y activación de una llamada de Destinatario](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Vídeo | Obtenga información sobre cómo cargar, pasar parámetros a una solicitud de página y activar una llamada de Destinatario desde la página del sitio mediante una regla de inicio. La información de la página se recupera y pasa como parámetros mediante la capa de datos del cliente de Adobe, que permite recopilar y almacenar datos sobre la experiencia de los visitantes en una página web y, a continuación, facilitar el acceso a estos datos. |
 | 28 de octubre de 2020 | [Etiquetas inteligentes de vídeo](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Vídeo | Recursos Experience Manager aprovecha Adobe Sensei para etiquetar recursos de vídeo de forma inteligente con palabras clave que describen elementos clave del vídeo, lo que permite descubrirlos fácilmente mediante la búsqueda de palabras clave por parte de los usuarios AEM. |
 | 27 de octubre de 2020 | [Introducción a AEM Documento Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artículo | Adobe Experience Manager Documento Security Extension for Microsoft Office garantiza que solo las personas autorizadas por usted puedan utilizar archivos de Word, Excel y PowerPoint que contengan su propiedad intelectual. Con Documento Security Extension for Microsoft Office, puede aplicar parámetros de confidencialidad predefinidos a sus archivos. |
 | 7 de octubre de 2020 | [Métricas de página de vista en Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artículo | Obtenga información sobre cómo asignar datos capturados desde un sitio de Adobe Experience Manager a métricas y dimensiones en grupos de informes de Adobe Analytics. |
@@ -385,7 +386,6 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | 30 de septiembre de 2020 | [Explorar la capa de datos del cliente de Adobe](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Artículo | Explore las funciones y características de la capa de datos del cliente de Adobe impulsada por evento y su integración con los componentes principales de AEM Sites. Aprenda a escuchar eventos, obtener el estado actual y modificar la capa de datos. |
 | 30 de septiembre de 2020 | [Introducción a la capa de datos del cliente de Adobe](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Vídeo | Obtenga información sobre cómo la capa de datos de cliente de Adobe impulsada por eventos expone los datos de los componentes principales de AEM Sites. Mediante la capa de datos del cliente de Adobe, las soluciones de administración de etiquetas como Experience Platform Launch pueden transmitir datos de sitios web a aplicaciones como Analytics y Target. |
 | 8 de octubre de 2020 | [Añadir Extensión de grupo de destinatarios para iniciar propiedad](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Vídeo | Obtenga información sobre cómo cargar, pasar parámetros a una solicitud de página y activar una llamada de Destinatario desde la página del sitio mediante una regla de inicio. La información de la página se recupera y pasa como parámetros mediante la capa de datos del cliente de Adobe, que permite recopilar y almacenar datos sobre la experiencia de los visitantes en una página web y, a continuación, facilitar el acceso a estos datos. |
-| 8 de octubre de 2020 | [Añadir Extensión de grupo de destinatarios para iniciar propiedad](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Vídeo | Obtenga información sobre cómo agregar la extensión de Adobe Target a su propiedad Launch |
 | 7 de octubre de 2020 | [Crear cuenta de Adobe Target Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | Vídeo | Obtenga información sobre cómo integrar Adobe Experience Manager como Cloud Service con Adobe Target mediante la autenticación IMS de Cloud Service y Adobe. |
 | 2 de octubre de 2020 | [Información general sobre AEM y Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) | Vídeo | AEM y Destinatario son soluciones poderosas con capacidades aparentemente superpuestas. A veces, los clientes tienen dificultades para comprender cómo y cuándo utilizar estos productos en conjunto para ofrecer una experiencia personalizada. Para ofrecer una experiencia optimizada para cada usuario final, los diferentes equipos de su organización deben trabajar de cerca y definir quién hace qué. |
 | 2 de octubre de 2020 | [Integración de AEM Forms y Adobe Sign](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | Curso | En conjunto, Adobe Sign y AEM Forms le permiten automatizar transacciones complejas e incluir firmas electrónicas seguras y legales como parte de una experiencia digital sin fisuras. |
@@ -445,8 +445,8 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Solución | Descripción |
 | ----------- | ----------- | ---------- | ---------- |
-| 20 de octubre de 2020 | [Panel de control de Campaign - Generar una clave SSH - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
-| 20 de octubre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
+| 2 de noviembre de 2020 | [Panel de control de Campaign - Generar una clave SSH - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
+| 2 de noviembre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP - Vídeo de funciones](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
 | 20 de octubre de 2020 | [Panel de control de Campaign - Introducción al Panel de control de Campaign - Artículo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
 | 20 de octubre de 2020 | [Panel de control de Campaign - Introducción al Panel de control de Campaign - Artículo](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
 | 19 de octubre de 2020 | [Panel de control de Campaign: Añadir un intervalo de IP a la lista de permitidos](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del Panel de control de Campaign. |
@@ -500,6 +500,8 @@ Para las notas de la versión de Magento, consulte:
 Consulte las notas de la versión[[!DNL Target]  de ](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html) para obtener la información más reciente sobre la versión.
 
 ### Nuevos cursos y tutoriales de Adobe Target
+
+Actualizado: **2 de noviembre de 2020**
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
