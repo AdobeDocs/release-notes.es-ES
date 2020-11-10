@@ -4,9 +4,9 @@ description: Notas de la versión de Adobe Experience Cloud
 doc-type: release notes
 last-update: November 2020
 author: mfrei
-translation-type: ht
-source-git-commit: 27e6ef1fb123fd8a5d136f86c5df492ea6e79733
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 46d20e153aaa57df2387c2d084b6c20b914bc8e1
+workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 100%
 
@@ -27,13 +27,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones.
 
-Última actualización: **2 de noviembre de 2020**
+Última actualización: **10 de noviembre de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)    (Actualizado el **2 de noviembre de 2020**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)    (Actualizado el **10 de noviembre de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (actualizado el **28 de octubre de 2020**)
 * [Campaign](#ac)
@@ -108,7 +108,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 Fecha de la versión: **29 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)   (Actualizado el 2 de noviembre de 2020)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey)   (Actualizado el 10 de noviembre de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -133,9 +133,9 @@ Fecha de la versión: **29 de octubre de 2020**
 | Visualización de [!UICONTROL líneas]: opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de línea de tendencia de visualización de línea. Un promedio móvil calcula la media de un periodo anterior especificado y la utiliza como punto de datos de línea de tendencia y, a continuación, se mueve al periodo siguiente. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Eliminación de la limitación de relleno | 19 de octubre de 2020 | Con el fin de ofrecer una experiencia CJA mejorada, hemos eliminado la limitación de relleno (importación de datos históricos). Anteriormente, se podía rellenar un máximo de 2500 millones de filas por su cuenta y, de lo contrario, se requería la participación de técnicos. Ahora, puede rellenar los datos por su cuenta, sin ninguna limitación. [Más información](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| IQ de recorrido: análisis en canales múltiples | 30 de octubre de 2020 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. |
 | Métricas y dimensiones de [!UICONTROL tiempo empleado] | 30 de octubre de 2020 | Las métricas y dimensiones de [!UICONTROL tiempo empleado] le permiten ver la cantidad de tiempo que los consumidores invierten en diversos aspectos del recorrido del cliente, lo que le ofrece una vista más completa de la participación y los cuellos de botella en los canales. |
 | Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Las dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] ya están disponibles de forma predeterminada como parte del proyecto de “compatibilidad con búsquedas globales” en el [conector de origen de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-overview/cja-aa.html). |
+| IQ de recorrido: análisis en canales múltiples | 22 de noviembre de 2020 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
