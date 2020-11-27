@@ -4,11 +4,11 @@ description: Notas de la versión de Adobe Experience Cloud
 doc-type: release notes
 last-update: November 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cc49396194cb768b6d4d3fc7f3967afb65636188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8005'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -33,11 +33,11 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualizado el **10 de noviembre de 2020**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)  (Actualizado el **10 de noviembre de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Actualizado el **28 de octubre de 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Actualizado el **28 de octubre de 2020**)
+* [Advertising Cloud](#adcloud)  (Actualizado el **28 de octubre de 2020**)
 * [[!DNL Target]](#target) (Actualizado el **2 de noviembre de 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -108,7 +108,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 Fecha de la versión: **29 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualizado el 10 de noviembre de 2020)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey)  (Actualizado el 10 de noviembre de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -119,7 +119,7 @@ Fecha de la versión: **29 de octubre de 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
-| Documentación de Adobe Analytics | 11 de noviembre de 2020 | La documentación de Adobe Analytics se ha trasladado a Experience League. During November, all articles, videos, release notes, and tutorials moved from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos fueron redirigidos a Experience League. |
+| Documentación de Adobe Analytics | 11 de noviembre de 2020 | La documentación de Adobe Analytics se ha migrado a Experience League. Durante noviembre, todos los artículos, vídeos, notas de la versión y tutoriales se moverán de su ubicación actual de `docs.adobe.com` a `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos se han redirigido a Experience League. |
 | Visualización de la [!UICONTROL línea] de [!UICONTROL Workspace]: opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de [!UICONTROL Línea] de la tendencia de visualización de línea. Un promedio móvil utiliza una cantidad determinada de puntos de datos (definida por una selección de [!UICONTROL Periodos]), los promedia y utiliza el promedio como punto en la línea. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | API de [!UICONTROL reparación de datos] | 8 de octubre de 2020 | La API [!UICONTROL de reparación de datos] es una herramienta para eliminar datos de los grupos de informes de Analytics. La versión de octubre incluye la posibilidad de eliminar las variables eVars, props y [!UICONTROL Activity Map] especificadas para un intervalo de fechas especificado. En el futuro se lanzarán funciones adicionales. El uso de la [!UICONTROL API de reparación de datos] elimina permanentemente los datos de Adobe Analytics existentes. Recomendamos un enfoque cuidadoso para ejecutar la reparación y minimizar la eliminación accidental. El acceso a la [!UICONTROL API de reparación de datos] requiere un contrato. Póngase en contacto con el equipo de la cuenta para obtener más detalles. [Más información](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]: página de ayuda de rendimiento | 22 de octubre de 2020 | La página de ayuda de rendimiento de [!UICONTROL Analysis Workspace] muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -129,13 +129,13 @@ Fecha de la versión: **29 de octubre de 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics documentación | 11 de noviembre de 2020 | La documentación del Customer Journey Analytics se ha trasladado a Experience League. During November, all articles, videos, release notes, and tutorials moved from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos fueron redirigidos a Experience League. |
+| Customer Journey Analytics  documentación | 11 de noviembre de 2020 | La documentación de Customer Journey Analytics se ha trasladado a Experience League. Durante noviembre, todos los artículos, vídeos, notas de la versión y tutoriales se moverán de su ubicación actual de `docs.adobe.com` a `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos se han redirigido a Experience League. |
 | Visualización de [!UICONTROL líneas]: opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de línea de tendencia de visualización de línea. Un promedio móvil calcula la media de un periodo anterior especificado y la utiliza como punto de datos de línea de tendencia y, a continuación, se mueve al periodo siguiente. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Eliminación de la limitación de relleno | 19 de octubre de 2020 | Con el fin de ofrecer una experiencia CJA mejorada, hemos eliminado la limitación de relleno (importación de datos históricos). Anteriormente, se podía rellenar un máximo de 2500 millones de filas por su cuenta y, de lo contrario, se requería la participación de técnicos. Ahora, puede rellenar los datos por su cuenta, sin ninguna limitación. [Más información](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Métricas y dimensiones de [!UICONTROL tiempo empleado] | 30 de octubre de 2020 | Las métricas y dimensiones de [!UICONTROL tiempo empleado] le permiten ver la cantidad de tiempo que los consumidores invierten en diversos aspectos del recorrido del cliente, lo que le ofrece una vista más completa de la participación y los cuellos de botella en los canales. |
 | Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Las dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] ya están disponibles de forma predeterminada como parte del proyecto de “compatibilidad con búsquedas globales” en el [conector de origen de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-overview/cja-aa.html). |
-| IQ de recorrido: análisis en canales múltiples | 22 de noviembre de 2020 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
+| IQ de recorrido: análisis en canales múltiples | 22 de noviembre de 2020 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
@@ -157,7 +157,7 @@ AN-224702; AN-232791; AN-233982; AN-234384; AN-235608; AN-236538; AN-236598; AN-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación o actualizada | Descripción |
+| Aviso | Fecha de incorporación  o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Añadir el encabezado HSTS a todas las solicitudes de HTTPS entrantes | 29 de septiembre de 2020 | El 29 de septiembre de 2020, empezamos a agregar el encabezado HSTS a todas las solicitudes entrantes que utilicen HTTPS. Esto indica al navegador/cliente que realice todas las solicitudes futuras en HTTPS, lo que se considera una práctica recomendada de seguridad. En este punto, no se aplicará esto a las solicitudes entrantes que utilicen HTTP. |
 | Cambio en la configuración de cookies del servicio de Experience Cloud ID | 22 de septiembre de 2020 | Una actualización de la configuración de privacidad de la versión 80 de Chrome afectó la capacidad de Adobe Analytics para rastrear a algunos usuarios que ven páginas AMP de Google. Específicamente, evita el seguimiento entre dominios de los usuarios que ven páginas AMP alojadas en Google. Esto podría causar un aumento en la cantidad de visitantes únicos. Esta corrección permite a los usuarios solucionar este problema cambiando la configuración de sus cookies de ECID.<br>Actualmente, Analytics establece cookies ECID del servicio de Experience Cloud ID con la configuración `SameSite = Lax` que, antes de la versión 80 de Chrome, permitía el seguimiento entre dominios. Ya no es así. Este cambio permite a los usuarios actualizar la configuración SameSite para las cookies ECID a `None`.<br>Tenga en cuenta que esto permite compartir la cookie de Analytics en más situaciones, pero las cookies de Analytics no contienen información confidencial. Además, al elegir esta configuración, las cookies deben configurarse en `Secure` para que los datos solo puedan pasarse a través de conexiones HTTPS. Si desea hacer este cambio, pida a un usuario de asistencia técnica que abra un ticket con el Servicio de atención al cliente. |
@@ -195,7 +195,7 @@ Fecha de versión: fines del **8 de octubre de 2020**
 
 ### Nuevas funciones y correcciones en Audience Manager {#aam-features}
 
-| Función | Fecha de incorporación o actualizada | Descripción |
+| Función | Fecha de incorporación  o actualizada | Descripción |
 |----|----|----|
 | [Predictive Audiences](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 de octubre de 2020 | <ul><li>**Clonación del modelo de Predictive Audiences**: ahora puede clonar modelos existentes y cambiar su configuración según sus necesidades. Lea [Clonación y edición de modelos de Audiencia predictivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) para obtener más información.</li><li>**Clasificación por lotes de Predictive Audiences**: además de clasificar visitantes en distintas personalidades en tiempo real, las Audiencias predictivas ahora admiten la clasificación por lotes, lo que le ayuda a clasificar usuarios incorporados y activarlos en destinos por lotes.</li></ul> |
 | [Informes de superposición](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html) | 23 de octubre de 2020 | Hemos actualizado la metodología que usamos para calcular los informes de superposición ([características](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/trait-trait-overlap-report.html), [segmento a característica](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-trait-overlap-report.html), [segmento a segmento](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-segment-overlap-report.html)). El cálculo de los informes de superposición ahora se basa en las firmas únicas y MinHash del sistema de informes (en lugar de [un muestreo de datos de 1/54](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/report-sampling.html#data-sampling-ratio)). |
@@ -460,7 +460,7 @@ Nuevos vídeos, tutoriales o cursos publicados durante el mes pasado.
 
 * Adobe Campaign Standard: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html) - [Planificación de versiones](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-planning.html) - [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos ](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/overview.html)- [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/documentation-updates.html)
-* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html) - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)  - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -475,7 +475,7 @@ Actualizado el 28 de octubre de 2020
 
 | Función | Descripción |
 | -----------| ---------- |
-| Nuevo Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es) |
+| Nuevo  Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es) |
 | Campañas | (Versión del 28 de octubre) Las vistas beta de Campaign anteriores son ahora las vistas de Campaign predeterminadas para obtener perspectivas más rápidas, flujos de trabajo simplificados y vistas personalizadas. |
 | Inventario privado | (Versión del 15 de octubre) Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de [!UICONTROL servicio de publicidad inteligente]. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventario > Ofertas]**, haga clic en **[!UICONTROL Crear]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
 | Previsión de ubicación | (Versión del 15 de octubre) En el caso de las ubicaciones con un ritmo de nivel de ubicación, la sección [!UICONTROL Previsión] de la configuración de ubicación incluye una nueva sección [!UICONTROL Máximos estimados], que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. |
