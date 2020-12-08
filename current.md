@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
+source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9838'
 ht-degree: 85%
@@ -27,13 +27,13 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones.
 
-Última actualización: **2 de diciembre de 2020**
+Última actualización: **8 de diciembre de 2020**
 
 * [Estado del sistema de Adobe](#status)
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **2 de diciembre de 2020**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **8 de diciembre de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Actualizado el **28 de octubre de 2020**)
 * [Campaign](#ac)
@@ -122,7 +122,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 Fecha de la versión: **29 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualización: 2 de diciembre de 2020)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualización: 8 de diciembre de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -149,7 +149,7 @@ Fecha de la versión: **29 de octubre de 2020**
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Métricas y dimensiones de [!UICONTROL tiempo empleado] | 30 de octubre de 2020 | Las métricas y dimensiones de [!UICONTROL tiempo empleado] le permiten ver la cantidad de tiempo que los consumidores invierten en diversos aspectos del recorrido del cliente, lo que le ofrece una vista más completa de la participación y los cuellos de botella en los canales. |
 | Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Las dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] ya están disponibles de forma predeterminada como parte del proyecto de “compatibilidad con búsquedas globales” en el [conector de origen de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-overview/cja-aa.html). |
-| IQ de recorrido: análisis en canales múltiples | 11 de diciembre de 2020 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
+| IQ de recorrido: análisis en canales múltiples | 11 de enero de 2021 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
 
