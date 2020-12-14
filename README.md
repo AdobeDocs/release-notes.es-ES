@@ -1,9 +1,9 @@
 ---
 source-git-commit: 13ad94d323a3ac655b93f10b11c5245fe00ee379
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '447'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 # Artículo sobre colaboración
@@ -13,17 +13,17 @@ Agradecemos las contribuciones de nuestra comunidad, así como de los empleados 
 ## Código de conducta de Adobe Open Source
 
 
-Este proyecto ha adoptado el [Código de conducta de Adobe Open Source](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) o el [Código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obtener más información, consulte el artículo [Contribución](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
+Este proyecto ha adoptado el [Código de conducta de Adobe Open Source](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) o el [Código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obtener más información, consulte el artículo [Contribución](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/conduct-contributions/contributing.html).
 
 ## Acerca de las contribuciones al contenido de Adobe
 
-Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html).
 
 La manera en que contribuye depende de quién es usted y del tipo de cambios con los que desee contribuir:
 
 ### Cambios menores
 
-Si desea contribuir de buena fe con actualizaciones menores, visite el artículo y haga clic en el vínculo **Editar** que le redirige a la fuente del artículo GitHub. A continuación, utilice la interfaz de usuario de GitHub para realizar las actualizaciones. Consulte la guía [general del colaborador de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Si desea contribuir de buena fe con actualizaciones menores, visite el artículo y haga clic en el vínculo **Editar** que le redirige a la fuente del artículo GitHub. A continuación, utilice la interfaz de usuario de GitHub para realizar las actualizaciones. Consulte la guía [general del colaborador de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html) para obtener más información.
 
 Las correcciones o aclaraciones menores que envía para la documentación y los ejemplos de código de este repositorio están incluidos en las condiciones de uso de Adobe.
 
@@ -37,13 +37,13 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Cambios importantes de los empleados de Adobe
 
-Si es un redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de Adobe Experience Cloud y su trabajo es contribuir en artículos técnicos o crearlos, debe utilizar el repositorio privado`https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+Si es un redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de Adobe Experience Cloud y su trabajo es contribuir en artículos técnicos o crearlos, debe utilizar el repositorio privado `https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## Herramientas y configuración
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para editar o ramificar el repositorio con el fin de realizar contribuciones importantes.
 
-Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html) para obtener más detalles.
+Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide-for-adobe-documentation/introduction.html) para obtener más detalles.
 
 ## Cómo utilizar Markdown para dar formato al tema
 
