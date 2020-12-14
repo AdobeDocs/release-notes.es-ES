@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9838'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -33,11 +33,11 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)  (Actualización: **8 de diciembre de 2020**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **8 de diciembre de 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Actualizado el **28 de octubre de 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)  (Actualizado el **28 de octubre de 2020**)
+* [Advertising Cloud](#adcloud) (Actualizado el **28 de octubre de 2020**)
 * [[!DNL Target]](#target) (Actualizado el **2 de noviembre de 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -68,7 +68,7 @@ Consulte [Recopilación de notas de la versión para obtener información sobre 
 
 ### Tutoriales de Experience Cloud
 
-Actualizado el **miércoles, 2 de diciembre de 2020**
+Actualizado el **2 de diciembre de 2020**
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
@@ -98,7 +98,7 @@ Consulte las [notas de la versión de Experience Platform Launch](https://docs.a
 
 Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus servicios.
 
-Actualizado el **miércoles, 2 de diciembre de 2020**
+Actualizado el **2 de diciembre de 2020**
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
@@ -122,7 +122,7 @@ Con Adobe Experience Platform, puede organizar los recorridos individuales de lo
 Fecha de la versión: **29 de octubre de 2020**
 
 * [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)  (Actualización: 8 de diciembre de 2020)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualización: 8 de diciembre de 2020)
 * [Nuevas funciones de Media Analytics](#media-aa)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
@@ -143,7 +143,7 @@ Fecha de la versión: **29 de octubre de 2020**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics  documentación | 11 de noviembre de 2020 | La documentación de Customer Journey Analytics se ha trasladado a Experience League. Durante noviembre, todos los artículos, vídeos, notas de la versión y tutoriales se moverán de su ubicación actual de `docs.adobe.com` a `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos se han redirigido a Experience League. |
+| Customer Journey Analytics documentación | 11 de noviembre de 2020 | La documentación de Customer Journey Analytics se ha trasladado a Experience League. Durante noviembre, todos los artículos, vídeos, notas de la versión y tutoriales se moverán de su ubicación actual de `docs.adobe.com` a `experienceleague.adobe.com`. Esta migración garantiza que todo el aprendizaje, la autoayuda, la habilitación y el contenido de la comunidad se proporcionen desde una sola ubicación. Todos los vínculos se han redirigido a Experience League. |
 | Visualización de [!UICONTROL líneas]: opción de línea de tendencia promedio móvil | 8 de octubre de 2020 | El promedio móvil se ha agregado a la configuración de línea de tendencia de visualización de línea. Un promedio móvil calcula la media de un periodo anterior especificado y la utiliza como punto de datos de línea de tendencia y, a continuación, se mueve al periodo siguiente. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Eliminación de la limitación de relleno | 19 de octubre de 2020 | Con el fin de ofrecer una experiencia CJA mejorada, hemos eliminado la limitación de relleno (importación de datos históricos). Anteriormente, se podía rellenar un máximo de 2500 millones de filas por su cuenta y, de lo contrario, se requería la participación de técnicos. Ahora, puede rellenar los datos por su cuenta, sin ninguna limitación. [Más información](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -171,7 +171,7 @@ AN-224702; AN-232791; AN-233982; AN-234384; AN-235608; AN-236538; AN-236598; AN-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación  o actualizada | Descripción |
+| Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Añadir el encabezado HSTS a todas las solicitudes de HTTPS entrantes | 29 de septiembre de 2020 | El 29 de septiembre de 2020, empezamos a agregar el encabezado HSTS a todas las solicitudes entrantes que utilicen HTTPS. Esto indica al navegador/cliente que realice todas las solicitudes futuras en HTTPS, lo que se considera una práctica recomendada de seguridad. En este punto, no se aplicará esto a las solicitudes entrantes que utilicen HTTP. |
 | Cambio en la configuración de cookies del servicio de Experience Cloud ID | 22 de septiembre de 2020 | Una actualización de la configuración de privacidad de la versión 80 de Chrome afectó la capacidad de Adobe Analytics para rastrear a algunos usuarios que ven páginas AMP de Google. Específicamente, evita el seguimiento entre dominios de los usuarios que ven páginas AMP alojadas en Google. Esto podría causar un aumento en la cantidad de visitantes únicos. Esta corrección permite a los usuarios solucionar este problema cambiando la configuración de sus cookies de ECID.<br>Actualmente, Analytics establece cookies ECID del servicio de Experience Cloud ID con la configuración `SameSite = Lax` que, antes de la versión 80 de Chrome, permitía el seguimiento entre dominios. Ya no es así. Este cambio permite a los usuarios actualizar la configuración SameSite para las cookies ECID a `None`.<br>Tenga en cuenta que esto permite compartir la cookie de Analytics en más situaciones, pero las cookies de Analytics no contienen información confidencial. Además, al elegir esta configuración, las cookies deben configurarse en `Secure` para que los datos solo puedan pasarse a través de conexiones HTTPS. Si desea hacer este cambio, pida a un usuario de asistencia técnica que abra un ticket con el Servicio de atención al cliente. |
@@ -182,7 +182,7 @@ AN-224702; AN-232791; AN-233982; AN-234384; AN-235608; AN-236538; AN-236598; AN-
 
 ### AppMeasurement {#appm}
 
-Para obtener las últimas actualizaciones de las versiones de AppMeasurement, consulte las notas de la versión de [AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.html).
+Para obtener las últimas actualizaciones de las versiones de AppMeasurement, consulte las [notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.html).
 
 ### Nuevos cursos y tutoriales de Analytics {#tutorials-analytics}
 
@@ -210,14 +210,14 @@ Fecha de versión: fines del **8 de octubre de 2020**
 
 ### Nuevas funciones y correcciones en Audience Manager {#aam-features}
 
-| Función | Fecha de incorporación  o actualizada | Descripción |
+| Función | Fecha de incorporación o actualizada | Descripción |
 |----|----|----|
-| [Predictive Audiences](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 de octubre de 2020 | <ul><li>**Clonación del modelo de Predictive Audiences**: ahora puede clonar modelos existentes y cambiar su configuración según sus necesidades. Lea [Clonación y edición de modelos de Audiencia predictivos](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) para obtener más información.</li><li>**Clasificación por lotes de Predictive Audiences**: además de clasificar visitantes en distintas personalidades en tiempo real, las Audiencias predictivas ahora admiten la clasificación por lotes, lo que le ayuda a clasificar usuarios incorporados y activarlos en destinos por lotes.</li></ul> |
+| [Predictive Audiences](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 de octubre de 2020 | <ul><li>**Clonación del modelo de Predictive Audiences**: ahora puede clonar modelos existentes y cambiar su configuración según sus necesidades. Lea [Clonación y edición de modelos de Predictive Audiences](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) para obtener más información.</li><li>**Clasificación por lotes de Predictive Audiences**: además de clasificar visitantes en distintas personalidades en tiempo real, Predictive Audiences ahora admiten la clasificación por lotes, lo que le ayuda a clasificar usuarios incorporados y activarlos en destinos por lotes.</li></ul> |
 | [Informes de superposición](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html) | 23 de octubre de 2020 | Hemos actualizado la metodología que usamos para calcular los informes de superposición ([características](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/trait-trait-overlap-report.html), [segmento a característica](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-trait-overlap-report.html), [segmento a segmento](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-segment-overlap-report.html)). El cálculo de los informes de superposición ahora se basa en las firmas únicas y MinHash del sistema de informes (en lugar de [un muestreo de datos de 1/54](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reporting/report-sampling.html#data-sampling-ratio)). |
 
 ### Correcciones y mejoras {#aam-fixes-and-improvements}
 
-* Se ha corregido un problema en la función Audiencia predictiva en el cual algunos usuarios no podían eliminar ninguno de sus modelos, aunque no se asignara ningún segmento a los modelos. (AAM-55881)
+* Se ha corregido un problema en la función Predictive Audience en el cual algunos usuarios no podían eliminar ninguno de sus modelos, aunque no se asignara ningún segmento a los modelos. (AAM-55881)
 * Se ha corregido un problema en el cual algunos usuarios no podían eliminar características o segmentos que se habían utilizado como referencia para modelos de audiencia predictiva eliminados. (AAM-56476)
 * Seguimos mejorando la accesibilidad en toda la interfaz. (AAM-53215)
 
@@ -231,7 +231,7 @@ Actualización: **2 de diciembre de 2020**
 | -----------| ---------- | ---------- | ---------- |
 | 25 de noviembre de 2020 | [Uso de informes de tendencias con características y segmentos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=es-ES#reports) | Vídeo | Descubra cómo utilizar los informes de tendencias en Audience Manager para ver el rendimiento de las características y los segmentos con el paso del tiempo. |
 | 25 de noviembre de 2020 | [Uso de informes generales con características y segmentos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=es-ES#reports) | Vídeo | En este vídeo, vea cómo utilizar los informes generales en Audience Manager para obtener números de características y segmentos. |
-| 2 de noviembre de 2020 | [Configurar e informar sobre Audiencias predictivas](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=es-ES#build-and-manage-audiences) | Vídeo | En este vídeo, se mostrará la configuración de Audiencias predictivas en la interfaz del Audience Manager. También veremos los informes que muestran los resultados del modelo. |
+| 2 de noviembre de 2020 | [Configurar e informar sobre Predictive Audiences](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=es-ES#build-and-manage-audiences) | Vídeo | En este vídeo, se mostrará la configuración de Predictive Audiences en la interfaz del Audience Manager. También veremos los informes que muestran los resultados del modelo. |
 | 28 de octubre de 2020 | [Explicación de los números del gráfico de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=es-ES#build-and-manage-audiences) | Vídeo | Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características. |
 | 23 de octubre de 2020 | [Planificación de la creación de características a partir de datos de Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=es-ES#build-and-manage-audiences) | Vídeo | Conozca algunos consejos y trucos que le ayudarán a utilizar los datos de Adobe Analytics en sus características en Audience Manager. |
 | 23 de octubre de 2020 | [Selección de una fuente de datos al crear características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=es-ES#build-and-manage-audiences) | Vídeo | Uno de los campos importantes que se debe completar al crear características es el campo Fuente de datos. Obtenga consejos para elegir la fuente de datos correcta para las características basadas en reglas e integradas. |
@@ -310,11 +310,11 @@ La documentación del Editor de texto enriquecido se actualiza para la lista [de
 
 **[!DNL Experience Manager] Assets**
 
-* Hay un nuevo contenido de ayuda disponible sobre [cómo todos los usuarios pueden acceder](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/assets/accessibility.html) a AEM Assets.
+* Hay un nuevo contenido de ayuda disponible sobre [cómo todos los usuarios pueden acceder a AEM Assets](https://docs.adobe.com/content/help/es-ES/experience-manager-cloud-service/assets/accessibility.html).
 
-* **[El parámetro](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/using/search-assets.html#assetpicker)** Viewmode se agrega al selector de recursos (selector de recursos) para abrirlo en modo de búsqueda. Para abrir el selector de recursos en modo de búsqueda y utilizarlo con `assettype` y `mimetype`, el usuario debe agregar el parámetro `viewmode=search` a la dirección URL `https://[aem-server]:[port]/aem/assetpicker.html`. Por ejemplo, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
+* **[El parámetro Viewmode](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/using/search-assets.html#assetpicker)** se agrega al selector de recursos (selector de recursos) para abrirlo en modo de búsqueda. Para abrir el selector de recursos en modo de búsqueda y utilizarlo con `assettype` y `mimetype`, el usuario debe agregar el parámetro `viewmode=search` a la dirección URL `https://[aem-server]:[port]/aem/assetpicker.html`. Por ejemplo, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
-* Los grupos de usuarios asociados de la carpeta privada se eliminan al [eliminar la carpeta](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/managing/private-folder.html#delete-private-folder) privada, y los grupos de usuarios redundantes, no utilizados y autogenerados se pueden limpiar del repositorio con el método “clean” en JMX.
+* Los grupos de usuarios asociados de la carpeta privada se eliminan al [eliminar la carpeta privada](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/managing/private-folder.html#delete-private-folder), y los grupos de usuarios redundantes, no utilizados y autogenerados se pueden limpiar del repositorio con el método “clean” en JMX.
 
 * El problema de inicio de sesión de la aplicación de escritorio con [Service Pack 6.5.5.0](https://docs.adobe.com/content/help/es-ES/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) se ha corregido con la versión 2.0.3.2 de la aplicación de escritorio.
 
@@ -374,7 +374,7 @@ Además, el repositorio incluye otros artículos importantes, como [las definici
 
 ### Nuevos cursos y tutoriales para Experience Manager
 
-Actualizado el **miércoles, 2 de diciembre de 2020**
+Actualizado el **2 de diciembre de 2020**
 
 Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
@@ -398,8 +398,8 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | 21 de octubre de 2020 | [Compilación de archivos adjuntos de formulario](https://docs.adobe.com/content/help/es-ES/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | Vídeo | Organice los archivos adjuntos en un PDF en un orden específico. |
 | 9 de noviembre de 2020 | [Añadir la demostración de WKND Assets a Demo Utils](http://bit.ly/demoAEM) | Demostración | Añada la demostración de WKND Asset como una tarjeta a Demo Utils para promocionar sus instrucciones de existencia, disponibilidad e instalación. |
 | 2 de noviembre de 2020 | [Creación de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=es-ES) | Vídeo | Vídeo de introducción a la creación de un fragmento de contenido en activos de Adobe Experience Manager (AEM). |
-| 2 de noviembre de 2020 | [Uso de fragmentos de contenido en páginas del sitio](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html#content-fragments&amp;lang=es-ES) | Vídeo | Aprenda a utilizar fragmentos de contenido en una página de AEM Sites. Los componentes de fragmento de contenido se pueden diseñar con el sistema de estilos de AEM para mostrar el contenido según sea necesario. |
-| 2 de noviembre de 2020 | [Sistema de estilos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html&amp;lang=es-ES) | Vídeo | Cree un vídeo de sistema de estilo para AEM 6.4 con el componente de Lista We.Retail. |
+| 2 de noviembre de 2020 | [Uso de fragmentos de contenido en páginas del sitio](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html?lang=es-ES) | Vídeo | Aprenda a utilizar fragmentos de contenido en una página de AEM Sites. Los componentes de fragmento de contenido se pueden diseñar con el sistema de estilos de AEM para mostrar el contenido según sea necesario. |
+| 2 de noviembre de 2020 | [Sistema de estilos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html?lang=es-ES) | Vídeo | Cree un vídeo de sistema de estilo para AEM 6.4 con el componente de Lista We.Retail. |
 | 2 de noviembre de 2020 | [Carga y activación de una llamada de destinatario](https://docs.adobe.com/content/help/es-ES/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Vídeo | Obtenga información sobre cómo cargar, pasar parámetros a una solicitud de página y activar una llamada de Destinatario desde la página del sitio mediante una regla de Launch. La información de la página se recupera y pasa como parámetros mediante la capa de datos del cliente de Adobe, que permite recopilar y almacenar datos sobre la experiencia de los visitantes en una página web y, a continuación, facilitar el acceso a estos datos. |
 | 28 de octubre de 2020 | [Etiquetas inteligentes de vídeo](https://docs.adobe.com/content/help/es-ES/experience-manager-learn/assets/metadata/video-smart-tags.html) | Vídeo | Experience Manager Assets aprovecha Adobe Sensei para etiquetar recursos de vídeo de forma inteligente con palabras clave que describen elementos clave del vídeo, lo que permite a los usuarios de AEM descubrirlos fácilmente mediante la búsqueda de palabras clave. |
 | 27 de octubre de 2020 | [Introducción a la extensión AEM Document Security para Microsoft Office](https://docs.adobe.com/content/help/es-ES/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artículo | La extensión de seguridad de documentos de Adobe Experience Manager para Microsoft Office garantiza que solo las personas autorizadas por usted puedan utilizar archivos de Word, Excel y PowerPoint que tengan su propiedad intelectual. Con la extensión de Document Security para Microsoft Office, puede aplicar parámetros de confidencialidad predefinidos a sus archivos. |
@@ -436,7 +436,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | 7 de octubre de 2020 | [Capacidad de extensión de Asset Compute](https://docs.adobe.com/content/help/es-ES/experience-manager-learn/cloud-service/asset-compute/overview.html) | Artículo | Tutorial sobre la creación de un asistente de microservicio de recursos personalizados para AEM as a Cloud Service. |
 | 6 de octubre de 2020 | [Creación de su primer formulario adaptable](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms&amp;lang=es-ES) | Curso | AEM Forms le permite crear formularios atractivos, interactivos, dinámicos y adaptables. El curso comienza con la creación de una plantilla de formulario adaptable personalizada y le explica el proceso de creación de un formulario adaptable mediante los distintos componentes del formulario. |
 | 21 de octubre de 2020 | [Herramientas locales de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | Artículo | AEM Dispatcher es un módulo de servidor web Apache HTTP que proporciona una capa de seguridad y rendimiento entre el nivel de CDN y AEM Publish. Aprenda a configurar Dispatcher como parte de un entorno de desarrollo local. |
-| 14 de octubre de 2020 | [Introducción a AEM Sites para desarrolladores](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided&amp;lang=es-ES) | Curso | Este curso actualiza un curso [existente](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided&amp;lang=es-ES) en Experience League. |
+| 14 de octubre de 2020 | [Introducción a AEM Sites para desarrolladores](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided&amp;lang=es-ES) | Curso | Este curso actualiza un [curso existente](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided&amp;lang=es-ES) en Experience League. |
 
 ### Información de la versión de Experience Manager
 
@@ -491,15 +491,15 @@ Actualización: **2 de diciembre de 2020**
 | 23 de noviembre de 2020 | [Configuración y envío de notificaciones push](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html?lang=es-ES) | Campaign Classic | Obtenga información sobre cómo configurar y enviar una notificación push a usuarios de aplicaciones Android. |
 | 19 de noviembre de 2020 | [Configuración de un servicio de Android y de una aplicación móvil de Android en Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html?lang=es-ES) | Campaign Classic | Obtenga información sobre cómo configurar un servicio de Android y crear una aplicación móvil de Android en Campaign. |
 | 2 de noviembre de 2020 | [Panel de control de Campaign - Generación de una clave SSH](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
-| 28 de octubre de 2020 | [Panel de control de Campaign: supervisión del uso de la base de datos](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=es-ES) | Campaign Classic | Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el Panel de control de Campaign. |
-| 28 de octubre de 2020 | [Panel de control de Campaign: bases de datos de monitoreo](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=es-ES) | Campaign Standard | Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el Panel de control de Campaign. |
+| 28 de octubre de 2020 | [Panel de control de Campaign: supervisión del uso de la base de datos](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html?lang=es-ES) | Campaign Classic | Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el Panel de control de Campaign. |
+| 28 de octubre de 2020 | [Panel de control de Campaign: bases de datos de monitoreo](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html?lang=es-ES) | Campaign Standard | Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el Panel de control de Campaign. |
 | 12 de octubre de 2020 | [Panel de control de Campaign - Inclusión de un intervalo IP a la lista de permitidos](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del Panel de control de Campaign. |
-| 7 de octubre de 2020 | [Panel de control de Campaign - Generación de una clave SSH](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html&amp;lang=es-ES) | Campaign Classic | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
-| 2 de octubre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.htmlv&amp;lang=es-ES) | Campaign Classic | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
+| 7 de octubre de 2020 | [Panel de control de Campaign - Generación de una clave SSH](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html?lang=es-ES) | Campaign Classic | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
+| 2 de octubre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html?lang=es-ES) | Campaign Classic | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
 | 2 de octubre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
 | 2 de octubre de 2020 | [Panel de control de Campaign - Generación de una clave SSH](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign. |
 | 2 de noviembre de 2020 | [Panel de control de Campaign - Conexión a un servidor SFTP](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. |
-| 6 de octubre de 2020 | [Panel de control de Campaign: Introducción a Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html&amp;lang=es-ES) | Campaign Classic | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
+| 6 de octubre de 2020 | [Panel de control de Campaign: Introducción a Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html?lang=es-ES) | Campaign Classic | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
 | 6 de octubre de 2020 | [Panel de control de Campaign: Introducción a Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
 | 20 de octubre de 2020 | [Panel de control de Campaign: Introducción a Panel de control de Campaign - Artículo](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
 | 20 de octubre de 2020 | [Panel de control de Campaign: Introducción a Panel de control de Campaign - Artículo](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control. |
@@ -512,7 +512,7 @@ Actualización: **2 de diciembre de 2020**
 
 * Adobe Campaign Standard: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html) - [Planificación de versiones](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/release-notes/release-planning.html) - [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Centro de ayuda](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos ](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/overview.html)- [Últimas actualizaciones de la documentación](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/documentation-updates.html)
-* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)  - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html) - Vídeos prácticos para [Campaign Standard](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) y [Campaign Classic](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -527,7 +527,7 @@ Actualizado el 28 de octubre de 2020
 
 | Función | Descripción |
 | -----------| ---------- |
-| Nuevo  Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES) |
+| Nuevo Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES) |
 | Campañas | (Versión del 28 de octubre) Las vistas beta de Campaign anteriores son ahora las vistas de Campaign predeterminadas para obtener perspectivas más rápidas, flujos de trabajo simplificados y vistas personalizadas. |
 | Inventario privado | (Versión del 15 de octubre) Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de [!UICONTROL servicio de publicidad inteligente]. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventario > Ofertas]**, haga clic en **[!UICONTROL Crear]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
 | Previsión de ubicación | (Versión del 15 de octubre) En el caso de las ubicaciones con un ritmo de nivel de ubicación, la sección [!UICONTROL Previsión] de la configuración de ubicación incluye una nueva sección [!UICONTROL Máximos estimados], que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. |
@@ -544,7 +544,7 @@ Fecha de la versión: **17 de octubre de 2020**
 
 ### Tutoriales y cursos de Ad Cloud
 
-Actualizado el **miércoles, 2 de diciembre de 2020**
+Actualizado el **2 de diciembre de 2020**
 
 | Publicadas | Nombre | Solución | Descripción |
 | ----------- | ----------- | ---------- | ---------- |
