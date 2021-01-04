@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f04d1dd4487a4e169360c0b23cdbef257121794
+source-git-commit: ec98405c2e3d4a712d42487917029dae7aa454f3
 workflow-type: tm+mt
-source-wordcount: '9815'
-ht-degree: 100%
+source-wordcount: '9816'
+ht-degree: 99%
 
 ---
 
@@ -144,7 +144,7 @@ Fecha de la versión: **29 de octubre de 2020**
 | Eliminación de la limitación de relleno | 19 de octubre de 2020 | Con el fin de ofrecer una experiencia CJA mejorada, hemos eliminado la limitación de relleno (importación de datos históricos). Anteriormente, se podía rellenar un máximo de 2500 millones de filas por su cuenta y, de lo contrario, se requería la participación de técnicos. Ahora, puede rellenar los datos por su cuenta, sin ninguna limitación. [Más información](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Página de ayuda de Analysis Workspace Performance | 22 de octubre de 2020 | La página de ayuda de rendimiento de Analysis Workspace muestra los diferentes factores que afectan el rendimiento del proyecto y los vínculos a sugerencias para la optimización. [Más información](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Métricas y dimensiones de [!UICONTROL tiempo empleado] | 30 de octubre de 2020 | Las métricas y dimensiones de [!UICONTROL tiempo empleado] le permiten ver la cantidad de tiempo que los consumidores invierten en diversos aspectos del recorrido del cliente, lo que le ofrece una vista más completa de la participación y los cuellos de botella en los canales. |
-| Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Las dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] ya están disponibles de forma predeterminada como parte del proyecto de “compatibilidad con búsquedas globales” en el [conector de origen de Adobe Analytics](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-overview/cja-aa.html). |
+| Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | [!UICONTROL Las dimensiones ] de dispositivo y   geografía ahora están disponibles de forma predeterminada como parte del proyecto de compatibilidad con  [Global ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#cja-usecases) Lookupsupport en el conector de Adobe Analytics Source. Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-overview/cja-aa.html). |
 | IQ de recorrido: análisis en canales múltiples | 11 de enero de 2021 | IQ de recorrido: el análisis en canales múltiples permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Adobe Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
 
 ### Nuevas funciones de [!UICONTROL Media Analytics] {#media-aa}
