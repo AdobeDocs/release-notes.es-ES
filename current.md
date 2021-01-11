@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
+source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
 workflow-type: tm+mt
-source-wordcount: '6183'
+source-wordcount: '6185'
 ht-degree: 44%
 
 ---
@@ -23,7 +23,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **10 de enero de 2020**
+Última actualización: **11 de enero de 2020**
 
 * [Estado](#status)  del sistema de Adobe (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
@@ -36,7 +36,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Marketo Engage]](#marketo) (Actualizado:  **11 de enero de 2021**)
 * [Document Cloud](#doc-cloud)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es-ES#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores. El contenido se ha movido a esta ubicación desde `docs.adobe.com`. Actualice los marcadores según corresponda.
