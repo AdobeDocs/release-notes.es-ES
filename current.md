@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
+source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
 workflow-type: tm+mt
-source-wordcount: '6185'
-ht-degree: 44%
+source-wordcount: '6419'
+ht-degree: 43%
 
 ---
 
@@ -135,6 +135,7 @@ Fecha de la versión: **14 de enero de 2021**
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [AppMeasurement](#appm)
+* [Report Builder ](#arb)
 
 ### Funciones nuevas en Adobe Analytics {#aa-features}
 
@@ -181,6 +182,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
+| Actualización requerida de [!UICONTROL Report Builder] | 8 de enero de 2021 | Para el 30 de abril de 2021, todos los usuarios [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. Esta versión incluye una actualización crítica del proceso de inicio de sesión. Los usuarios que no actualicen a la versión 5.6.47 o posterior no podrán iniciar sesión después del 30 de abril de 2021. [!UICONTROL Report ] Builder versión 5.6.47 y posterior solo admite el inicio de sesión de Experience Cloud y no admite inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Fin de vida útil para tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics están programados para alcanzar su fecha de finalización y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos proporcionado una [Preguntas frecuentes sobre EOL de API heredadas](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para ayudarle a responder sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [1.4 API de Analytics REST](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) y/o a [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Añadir el encabezado HSTS a todas las solicitudes de HTTPS entrantes | 29 de septiembre de 2020 | El 29 de septiembre de 2020, empezamos a agregar el encabezado HSTS a todas las solicitudes entrantes que utilicen HTTPS. Esto indica al navegador/cliente que realice todas las solicitudes futuras en HTTPS, lo que se considera una práctica recomendada de seguridad. En este punto, no se aplicará esto a las solicitudes entrantes que utilicen HTTP. |
 | Cambiar a [!UICONTROL servicio de ID de Experience Cloud] configuración de cookie | 22 de septiembre de 2020 | Una actualización de la configuración de privacidad de la versión 80 de Chrome afectó la capacidad de Adobe Analytics para rastrear a algunos usuarios que ven páginas AMP de Google. Específicamente, evita el seguimiento entre dominios de los usuarios que ven páginas AMP alojadas en Google. Esto podría causar un aumento en la cantidad de visitantes únicos. Esta corrección permite a los usuarios solucionar este problema cambiando la configuración de sus cookies de ECID.<br>Actualmente, Analytics establece cookies ECID del servicio de Experience Cloud ID con la configuración `SameSite = Lax` que, antes de la versión 80 de Chrome, permitía el seguimiento entre dominios. Ya no es así. Este cambio permite a los usuarios actualizar la configuración SameSite para las cookies ECID a `None`.<br>Tenga en cuenta que esto permite compartir la cookie de Analytics en más situaciones, pero las cookies de Analytics no contienen información confidencial. Además, al elegir esta configuración, las cookies deben configurarse en `Secure` para que los datos solo puedan pasarse a través de conexiones HTTPS. Si desea hacer este cambio, pida a un usuario de asistencia técnica que abra un ticket con el Servicio de atención al cliente. |
@@ -191,7 +193,13 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 ### AppMeasurement {#appm}
 
-Para obtener las últimas actualizaciones de las versiones de AppMeasurement, consulte las notas de la versión de [AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.html).
+Para obtener las últimas actualizaciones de las versiones de AppMeasurement, consulte las [notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.html).
+
+### Report Builder  {#arb}
+
+| Función | [Disponibilidad general](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
+| ----------- | ---------- | ----- |
+| Actualización de inicio de sesión en Analytics [!UICONTROL Report Builder] | 14 de enero de 2021 | Las mejoras del proceso de inicio de sesión de [!UICONTROL Report Builder] eliminan las dependencias de las tecnologías heredadas y alinean el proceso de inicio de sesión con Adobe Experience Cloud. El inicio de sesión del Experience Cloud le permite utilizar su Adobe ID o Enterprise ID (Registro único) para iniciar sesión en el Adobe Experience Cloud. Para el 30 de abril de 2021, todos los usuarios [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. [!UICONTROL Report ] Builder versión 5.6.47 y posteriores solo admiten el inicio de sesión de Experience Cloud y no admiten los inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Recursos de ayuda de Analytics
 
