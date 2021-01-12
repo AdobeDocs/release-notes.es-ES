@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
+source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
 workflow-type: tm+mt
-source-wordcount: '6428'
+source-wordcount: '6518'
 ht-degree: 42%
 
 ---
@@ -29,7 +29,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Fecha de la versión: **14 de enero de 2021**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualizado: **12 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaña](#ac) (Actualización: 12  **de enero de 2012**)
@@ -141,8 +141,9 @@ Fecha de la versión: **14 de enero de 2021**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
+| Analysis Workspace - Direcciones URL de imagen | 14 de enero de 2021 | Puede agregar imágenes a proyectos [!UICONTROL Workspace] haciendo referencia a una dirección URL de imagen pública. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
+| Analysis Workspace: administrador de fuentes y configuración combinadas | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que puede administrar fácilmente el origen y la configuración desde la misma ubicación. |
 | Analysis Workspace - Selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/desplegable que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación en [!UICONTROL Workspace]. Esta mejora le permite elegir entre una lista desplegable de componentes compatibles o seguir utilizando el espacio como zona de colocación. |
-| Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede agregar imágenes a proyectos [!UICONTROL Workspace] haciendo referencia a una dirección URL de imagen pública. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
@@ -150,8 +151,9 @@ Fecha de la versión: **14 de enero de 2021**
 | ----------- | ---------- | ----- |
 | Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Estas dimensiones ahora están disponibles de forma predeterminada como parte del proyecto de soporte [Búsqueda global](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets) en el Adobe Analytics [!UICONTROL Conector de origen]. Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview). |
 | IQ de recorrido: [!UICONTROL Análisis de Canales cruzados] | 11 de enero de 2021 | IQ de recorrido: [!UICONTROL Análisis de Canales cruzados] le permite volver a escribir un conjunto de datos de evento Adobe Analytics (u otro) en el lago de datos de Experience Platform de una Área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos con reclave puede combinarse con otros datos basados en persona en una conexión CJA, permitiendo así la análisis entre dispositivos y canales en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
-| Analysis Workspace - Selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/desplegable que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación en [!UICONTROL Workspace]. Esta mejora le permite elegir entre una lista desplegable de componentes compatibles o seguir utilizando el espacio como zona de colocación. |
 | Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede agregar imágenes a proyectos de Workspace haciendo referencia a una URL de imagen pública. |
+| Analysis Workspace: administrador de fuentes y configuración combinadas | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que puede administrar fácilmente el origen y la configuración desde la misma ubicación. |
+| Analysis Workspace - Selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/desplegable que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación en [!UICONTROL Workspace]. Esta mejora le permite elegir entre una lista desplegable de componentes compatibles o seguir utilizando el espacio como zona de colocación. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
 
