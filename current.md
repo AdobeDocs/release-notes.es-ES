@@ -7,8 +7,8 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6601'
+ht-degree: 41%
 
 ---
 
