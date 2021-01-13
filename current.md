@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
+source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
 workflow-type: tm+mt
-source-wordcount: '6518'
-ht-degree: 42%
+source-wordcount: '6601'
+ht-degree: 41%
 
 ---
 
@@ -27,8 +27,8 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 * [Estado](#status)  del sistema de Adobe (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
-* [Experience Platform](#platform)
-* [Journey Orchestration](#journey-orch)
+* [Experience Platform](#platform) (Actualización: 13  **de enero de 2012**)
+* [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualizado: **12 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -55,7 +55,10 @@ Consulte [Estado del sistema de Adobe - 21 de mayo de 2020](https://docs.adobe.c
 
 No se ha actualizado este mes.
 
-Consulte [Recopilación de notas de la versión para obtener información sobre los servicios](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) de Experience Cloud.
+**Consulte también**
+
+* [Recopilación de notas de la versión para ](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) servicios de Experience Cloud para obtener información sobre la versión más reciente.
+* [Notas de la versión de Experience Cloud ID ](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) Service
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -75,7 +78,14 @@ Consulte [Notas de la versión del Experience Platform](https://experienceleague
 
 ### Experience Platform Launch
 
-Consulte las [notas de la versión de Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) para obtener información sobre Platform Launch.
+Fecha de la versión: **13 de enero de 2021**
+
+**[!UICONTROL Launch Server Side]:** envíe datos a nivel de evento a AEP Edge Network y, a continuación, utilice Launch Server Side para transformar, enriquecer y enviar esos datos a un extremo que no sea de Adobe mediante los servidores de Adobe, no el cliente, con baja latencia. [Más...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+
+**Consulte también**
+
+* [Notas de la versión ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) del Experience Platform Launch para obtener información sobre el Experience Platform Launch.
+* [Notas de la versión de la ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) Extensión del servicio de ID de Experience Cloud
 
 ### Adobe Mobile
 
