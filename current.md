@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
 workflow-type: tm+mt
 source-wordcount: '6796'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -27,12 +27,12 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 * [Estado del sistema de Adobe](#status)  (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
-* [Experience Platform](#platform) (Actualización: 14  **de enero de 2012**)
+* [Experience Platform](#platform) (actualización:  **14 de enero de 2021**)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **20 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaña](#ac) (Actualización: 14  **de enero de 2012**)
+* [Campaign](#ac) (actualización:  **14 de enero de 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -57,8 +57,8 @@ No se ha actualizado este mes.
 
 **Consulte también**
 
-* [Recopilación de notas de la versión para ](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) servicios de Experience Cloud para obtener información sobre la versión más reciente.
-* [Notas de la versión de Experience Cloud ID ](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) Service
+* [Notas de la versión acumulativas de servicios de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/release-notes/release-notes.html) para obtener información de la versión más reciente.
+* Notas de la versión de [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html?lang=es-ES).
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -70,7 +70,7 @@ Incluye información sobre la actualización de versión de Experience Platform 
 
 Última actualización: **9 de diciembre de 2020**
 
-Consulte [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en) para ver las actualizaciones más recientes que se aplican a lo siguiente:
+Consulte [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es-ES) para ver las actualizaciones más recientes que se aplican a lo siguiente:
 
 * [!UICONTROL Flujos de datos]
 * [!UICONTROL Data Science Workspace]
@@ -80,16 +80,16 @@ Consulte [Notas de la versión de Experience Platform](https://experienceleague.
 
 Fecha de la versión: **13 de enero de 2021**
 
-**[!UICONTROL Launch Server Side]:** envíe datos a nivel de evento a AEP Edge Network y, a continuación, utilice Launch Server Side para transformar, enriquecer y enviar esos datos a un extremo que no sea de Adobe mediante los servidores de Adobe, no el cliente, con baja latencia. [Más...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+**[!UICONTROL Launch Server Side]:** envíe datos del nivel de evento a AEP Edge Network y, a continuación, utilice Launch Server Side para transformar, enriquecer y enviar esos datos a un extremo que no sea de Adobe mediante los servidores de Adobe, no el cliente, con baja latencia. [Más...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=es-ES#server-side-info)
 
 **Consulte también**
 
-* [Notas de la versión ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=es-ES) del Experience Platform Launch para obtener información sobre el Experience Platform Launch.
-* [Notas de la versión de la ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) Extensión del servicio de ID de Experience Cloud
+* Consulte las [Notas de la versión de Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=es-ES) para obtener información sobre Experience Platform Launch.
+* Notas de la versión de la [Extensión Service de Experience Cloud ID](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=es-ES)
 
 ### Adobe Mobile
 
-Actualizado el **14 de enero de 2021**
+Actualización: **14 de enero de 2021**
 
 iOS versión 4.21.1
 
@@ -97,7 +97,7 @@ iOS versión 4.21.1
 
 iOS versión 4.21.0
 
-* General: El SDK ahora se distribuye mediante [!DNL XCFrameworks] para admitir hardware con la nueva arquitectura Apple M1, mientras se mantiene la compatibilidad con la arquitectura Intel existente.
+* General: el SDK ahora se distribuye mediante [!DNL XCFrameworks] para admitir hardware con la nueva arquitectura de Apple M1 y, al mismo tiempo, mantener la compatibilidad con la arquitectura de Intel existente.
 
 * IMPORTANTE: La actualización a AdobeMobile [!DNL XCFrameworks] requiere Xcode 12.0 o posterior.
 * IMPORTANTE: Si utiliza [!DNL Cocoapods], la actualización a AdobeMobile [!DNL XCFrameworks] requiere [!DNL Cocoapods] 1.10.0 o posterior.
@@ -157,8 +157,8 @@ Fecha de la versión: **14 de enero de 2021**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
-| Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede añadir imágenes a proyectos de [!UICONTROL Workspace] haciendo referencia a una dirección URL de imagen pública. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
-| Analysis Workspace: administrador de fuentes y configuración combinadas | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que puede administrar fácilmente el origen y la configuración desde la misma ubicación. |
+| Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede añadir imágenes a proyectos de [!UICONTROL Workspace] haciendo referencia a una dirección URL de imagen pública. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=es-ES#analysis-workspace) |
+| Analysis Workspace: administrador de origen y configuración combinados | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que pueda administrar fácilmente el origen y la configuración desde la misma ubicación. |
 | Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
@@ -168,7 +168,7 @@ Fecha de la versión: **14 de enero de 2021**
 | Dimensiones de [!UICONTROL dispositivo] y [!UICONTROL geografía] | 30 de octubre de 2020 | Estas dimensiones ya están disponibles de forma predeterminada como parte del proyecto de soporte [Búsqueda global](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=es-ES#use-global-lookups-with-adobe-data-connector-datasets) en el [!UICONTROL conector de origen] de Adobe Analytics. Esta adición tan solicitada aumenta la [paridad entre Adobe Analytics y CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=es-ES#cja-overview). |
 | IQ de recorrido: [!UICONTROL Cross-Channel Analytics] | 11 de enero de 2021 | IQ de recorrido: [!UICONTROL Cross-Channel Analytics] permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Experience Platform de una área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis en canales múltiples y varios dispositivos en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
 | Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede añadir imágenes a proyectos de Workspace haciendo referencia a una URL de imagen pública. |
-| Analysis Workspace: administrador de fuentes y configuración combinadas | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que puede administrar fácilmente el origen y la configuración desde la misma ubicación. |
+| Analysis Workspace: administrador de origen y configuración combinados | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que pueda administrar fácilmente el origen y la configuración desde la misma ubicación. |
 | Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
@@ -201,7 +201,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835; AN-233989; AN-235593; AN-
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | EOL de Ad Hoc Analysis | 21 de enero de 2021 | El 1 de marzo de 2021, Ad Hoc Analysis llegará al final de su vida útil. En ese momento, todos los proyectos y programaciones que aprovechen este producto dejarán de funcionar. Para obtener más información, consulte [Discover Workspace](https://adobe.ly/discoverworkspace). |
-| Actualización requerida de [!UICONTROL Report Builder] | 8 de enero de 2021 | Para el 30 de abril de 2021, todos los usuarios [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. Esta versión incluye una actualización crítica del proceso de inicio de sesión. Los usuarios que no actualicen a la versión 5.6.47 o posterior no podrán iniciar sesión después del 30 de abril de 2021. [!UICONTROL Report ] Builder versión 5.6.47 y posterior solo admite el inicio de sesión de Experience Cloud y no admite inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
+| Actualización requerida de [!UICONTROL Report Builder] | 8 de enero de 2021 | Para el 30 de abril de 2021, todos los usuarios de [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. Esta versión incluye una actualización esencial del proceso de inicio de sesión. Los usuarios que no actualicen a la versión 5.6.47 o posterior no podrán iniciar sesión después del 30 de abril de 2021. [!UICONTROL Report Builder] versión 5.6.47 y posterior solo admite el inicio de sesión de Experience Cloud y no admite inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=es-ES#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Fin de la vida útil de tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics tienen programado alcanzar la fecha de fin de vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) y/o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Añadir el encabezado HSTS a todas las solicitudes de HTTPS entrantes | 29 de septiembre de 2020 | El 29 de septiembre de 2020, empezamos a agregar el encabezado HSTS a todas las solicitudes entrantes que utilicen HTTPS. Esto indica al navegador/cliente que realice todas las solicitudes futuras en HTTPS, lo que se considera una práctica recomendada de seguridad. En este punto, no se aplicará esto a las solicitudes entrantes que utilicen HTTP. |
 | Cambio en la configuración de cookies del [!UICONTROL servicio de Experience Cloud ID] | 22 de septiembre de 2020 | Una actualización de la configuración de privacidad de la versión 80 de Chrome afectó la capacidad de Adobe Analytics para rastrear a algunos usuarios que ven páginas AMP de Google. Específicamente, evita el seguimiento entre dominios de los usuarios que ven páginas AMP alojadas en Google. Esto podría causar un aumento en la cantidad de visitantes únicos. Esta corrección permite a los usuarios solucionar este problema cambiando la configuración de sus cookies de ECID.<br>Actualmente, Analytics establece cookies ECID del [!UICONTROL servicio de Experience Cloud ID] con la configuración `SameSite = Lax` que, antes de la versión 80 de Chrome, permitía el seguimiento entre dominios. Ya no es así. Este cambio permite a los usuarios actualizar la configuración SameSite para las cookies ECID a `None`.<br>Tenga en cuenta que esto permite compartir la cookie de Analytics en más situaciones, pero las cookies de Analytics no contienen información confidencial. Además, al elegir esta configuración, las cookies deben configurarse en `Secure` para que los datos solo puedan pasarse a través de conexiones HTTPS. Si desea hacer este cambio, pida a un usuario de asistencia técnica que abra un ticket con el Servicio de atención al cliente. |
@@ -217,7 +217,7 @@ Para obtener las últimas actualizaciones de las versiones de AppMeasurement, co
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Actualización de inicio de sesión en Analytics [!UICONTROL Report Builder] | 14 de enero de 2021 | Las mejoras del proceso de inicio de sesión de [!UICONTROL Report Builder] eliminan las dependencias de las tecnologías heredadas y alinean el proceso de inicio de sesión con Adobe Experience Cloud. El inicio de sesión del Experience Cloud le permite utilizar su Adobe ID o Enterprise ID (Registro único) para iniciar sesión en el Adobe Experience Cloud. Para el 30 de abril de 2021, todos los usuarios [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. [!UICONTROL Report ] Builder versión 5.6.47 y posteriores solo admiten el inicio de sesión de Experience Cloud y no admiten los inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
+| Actualización de inicio de sesión en Analytics [!UICONTROL Report Builder] | 14 de enero de 2021 | Las mejoras del proceso de inicio de sesión de [!UICONTROL Report Builder] quitan las dependencias de las tecnologías heredadas y alinean el proceso de inicio de sesión con Adobe Experience Cloud. El inicio de sesión de Experience Cloud le permite utilizar su Adobe ID o Enterprise ID (registro único) para iniciar sesión en Adobe Experience Cloud. Para el 30 de abril de 2021, todos los usuarios de [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. [!UICONTROL Report Builder] versión 5.6.47 y posteriores solo admiten el inicio de sesión de Experience Cloud y no admiten los inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Recursos de ayuda de Analytics
 
@@ -391,7 +391,7 @@ Información de la versión para Campaign Classic, Campaign Standard y Panel de 
 
 #### Campaign Classic
 
-[Boletín](https://helpx.adobe.com/security/products/campaign/apsb21-04.html)  de respuesta a incidentes(actualizado:  **12 de enero de 2021**)
+[Boletín de respuesta a problemas](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (actualización: **12 de enero de 2021**)
 
 * Versión 20.3.3: [más información](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es-ES#release-notes)
 * Versión 20.3.1: [más información](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
@@ -417,13 +417,13 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | Publicadas | Nombre | Solución | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | 23 de diciembre de 2020 | [Configuración del contenido dinámico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html?lang=es-ES#sending-messages) | Campaign Classic | (Vídeo) Comprenda los distintos tipos de contenido dinámico, y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a una entrega. |
-| 23 de diciembre de 2020 | [Configuración y administración de servicios de suscripción](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) | Campaign Classic | (Vídeo) Aprenda a configurar y administrar suscripciones y suscriptores de destinatario. |
-| 22 de diciembre de 2020 | [Acceso a los informes integrados](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) | Campaign Classic | (Vídeo)  Comprender  sistema de informes y análisis integrados en Campaign Classic y aprenda a generar un informe de envío. |
-| 22 de diciembre de 2020 | [Solución de problemas de envío de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) | Campaign Classic | (Vídeo)Obtenga información sobre cómo solucionar problemas de envío. |
-| 18 de diciembre de 2020 | [Creación de Envíos de Correo postal](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | (Vídeo) Aprenda a crear un envío de correo directo y a utilizar direcciones semilla en una campaña. |
-| 18 de diciembre de 2020 | [Administración de aprobaciones en una campaña  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) | Campaign Classic | (Vídeo) Aprenda a configurar aprobaciones y una campaña y a diferenciar entre aprobaciones de envío y de flujo de trabajo. |
-| 18 de diciembre de 2020 | [Ejecución de una campaña](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) | Campaign Classic | (Vídeo)Obtenga información sobre cómo ejecutar una campaña, revisar un envío de correo electrónico y las propiedades de envío. |
-| 15 de diciembre de 2020 | [Ampliación del esquema de Suscripción de la aplicación para personalizar las notificaciones push](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) | Campaign Classic | (Vídeo) Aprenda a ampliar el esquema de suscripción de la aplicación para poder almacenar los valores de personalización que la Campaña recibe de una aplicación móvil. |
+| 23 de diciembre de 2020 | [Configuración y administración de servicios de suscripción](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a configurar y administrar suscripciones y suscriptores de destinatario. |
+| 22 de diciembre de 2020 | [Acceso a los informes integrados](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html?lang=es-ES) | Campaign Classic | (Vídeo) Entienda el sistema de análisis y creación de informes integrado en Campaign Classic, y aprenda a generar un informe de entrega. |
+| 22 de diciembre de 2020 | [Solución de problemas de entrega de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html?lang=es-ES) | Campaign Classic | (Vídeo) Obtenga información sobre cómo solucionar problemas de entrega. |
+| 18 de diciembre de 2020 | [Creación de envíos de correo directo](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | (Vídeo) Aprenda a crear una entrega de correo directo y a utilizar direcciones semilla en una campaña. |
+| 18 de diciembre de 2020 | [Administración de aprobaciones en una campaña  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a configurar aprobaciones y una campaña, y a diferenciar entre aprobaciones de entrega y de flujo de trabajo. |
+| 18 de diciembre de 2020 | [Ejecución de una campaña](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a realizar una campaña, y a revisar una entrega de correo electrónico y las propiedades de entrega. |
+| 15 de diciembre de 2020 | [Ampliación del esquema de suscripción de la aplicación para personalizar notificaciones push](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a ampliar el esquema de suscripción de la aplicación para poder almacenar los valores de personalización que Campaign recibe de una aplicación móvil. |
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
