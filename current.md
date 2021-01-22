@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
+source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
 workflow-type: tm+mt
-source-wordcount: '6770'
+source-wordcount: '6772'
 ht-degree: 97%
 
 ---
@@ -23,20 +23,20 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **14 de enero de 2021**
+Última actualización: **22 de enero de 2021**
 
 * [Estado del sistema de Adobe](#status)  (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
-* [Experience Platform](#platform) (actualización:  **14 de enero de 2021**)
+* [Experience Platform](#platform) (actualización:  14 de enero de 2021)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **20 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac) (actualización:  **14 de enero de 2021**)
-* [Advertising Cloud](#adcloud)
+* [Campaign](#ac) (actualización:  14 de enero de 2021)
+* [Advertising Cloud](#adcloud) (Actualización: 22  **de enero de 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (Actualización: **11 de enero de 2021**)
+* [[!DNL Marketo Engage]](#marketo) (Actualización: 11 de enero de 2021)
 * [Document Cloud](#doc-cloud)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es-ES#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores. El contenido se ha movido a esta ubicación desde `docs.adobe.com`. Actualice sus marcadores según corresponda.
