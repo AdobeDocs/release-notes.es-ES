@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
+source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
 workflow-type: tm+mt
-source-wordcount: '6796'
-ht-degree: 99%
+source-wordcount: '6770'
+ht-degree: 97%
 
 ---
 
@@ -438,22 +438,20 @@ Notas de la versión de Adobe Advertising Cloud.
 
 | Función | Descripción |
 | -----------| ---------- |
-| Nuevo Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES) |
-| Campañas | (Versión del 28 de octubre) Las vistas beta de Campaign anteriores son ahora las vistas de Campaign predeterminadas para obtener perspectivas más rápidas, flujos de trabajo simplificados y vistas personalizadas. |
+| Nuevo Ayuda | (Versión del 28 de octubre) La ayuda heredada se reemplazó por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de la DSP y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es-ES) |
+| Campañas | (Versión del 28 de octubre) Las vistas beta de Campañas anteriores son ahora las vistas de Campañas predeterminadas, para obtener perspectivas más rápidas, flujos de trabajo simplificados y vistas personalizadas. |
 | Inventario privado | (Versión del 15 de octubre) Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de [!UICONTROL servicio de publicidad inteligente]. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventario > Ofertas]**, haga clic en **[!UICONTROL Crear]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
 | Previsión de ubicación | (Versión del 15 de octubre) En el caso de las ubicaciones con un ritmo de nivel de ubicación, la sección [!UICONTROL Previsión] de la configuración de ubicación incluye una nueva sección [!UICONTROL Máximos estimados], que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. |
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización:  **17 de octubre de 2020**
+Última actualización: **22 de enero de 2021, para la versión del 23 de enero**
 
 | Función | Descripción |
 | -----------| ---------- |
-| [!UICONTROL Buscar campañas] | En la vista [!UICONTROL Cuentas], la columna [!UICONTROL Acceso] ahora indica si [!DNL Advertising Cloud Search] no puede iniciar sesión en una cuenta de motor de búsqueda habilitada. Para ver la causa del error, mantenga el cursor sobre el icono de advertencia. |
-| [!UICONTROL Alertas personalizadas] | La versión [!UICONTROL beta de Alertas] anterior ahora se denomina [!UICONTROL Alertas personalizadas]. |
-| [!UICONTROL Alertas personalizadas] | En las alertas personalizadas, el flujo de trabajo para identificar cuándo las métricas del intervalo de fechas especificado han aumentado o disminuido con respecto a las métricas del período anterior se ha simplificado y se ha movido a la pestaña [!UICONTROL Filtros]. |
+| [!UICONTROL Buscar campañas]<br> Informes | Advertising Cloud Search ya no informa de nuevos datos de posición promedio para campañas de publicidad de Microsoft. La columna Posición promedio muestra los valores de cero (0) para las fechas que comienzan el 23 de enero. Esto se está preparando para la desaprobación por parte de Microsoft de los datos de posición promedio en enero de 2021.<br>Los datos de posición promedio recopilados hasta el 22 de enero aún están disponibles en los informes. |
 
-### Tutoriales y cursos de Ad Cloud
+### Tutoriales y cursos de Advertising Cloud
 
 Actualizado el **2 de diciembre de 2020**
 
