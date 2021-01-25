@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
+source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
 workflow-type: tm+mt
-source-wordcount: '6772'
+source-wordcount: '6776'
 ht-degree: 97%
 
 ---
@@ -146,10 +146,10 @@ Utilice Adobe Experience Platform para orquestar el recorrido de un cliente a es
 
 Fecha de la versión: **14 de enero de 2021**
 
-* [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
+* [Nuevas funciones de Adobe Analytics](#aa-features)  (actualizado el 25 de enero de 2021)
+* [Nuevas funciones de Customer Journey Analytics](#cust-journey)  (actualizado el 25 de enero de 2021)
 * [Correcciones en Adobe Analytics](#aa-fixes)
-* [Avisos importantes para los administradores de Analytics](#aa-notices)(Actualizado 20 de enero de 2021)
+* [Avisos importantes para los administradores de Analytics](#aa-notices) (Actualizado 20 de enero de 2021)
 * [AppMeasurement](#appm)
 * [Report Builder ](#arb)
 
