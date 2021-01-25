@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
+source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
 workflow-type: tm+mt
 source-wordcount: '6772'
 ht-degree: 97%
@@ -29,7 +29,7 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience Platform](#platform) (actualización:  14 de enero de 2021)
 * [Organización de recorridos](#journey-orch)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **20 de enero de 2021**)
+* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **25 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac) (actualización:  14 de enero de 2021)
@@ -159,7 +159,7 @@ Fecha de la versión: **14 de enero de 2021**
 | ----------- | ---------- | ------- |
 | Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede añadir imágenes a proyectos de [!UICONTROL Workspace] haciendo referencia a una dirección URL de imagen pública. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=es-ES#analysis-workspace) |
 | Analysis Workspace: administrador de origen y configuración combinados | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que pueda administrar fácilmente el origen y la configuración desde la misma ubicación. |
-| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
+| Analysis Workspace: selección de componentes | 16 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
@@ -169,7 +169,7 @@ Fecha de la versión: **14 de enero de 2021**
 | IQ de recorrido: [!UICONTROL Cross-Channel Analytics] | 11 de enero de 2021 | IQ de recorrido: [!UICONTROL Cross-Channel Analytics] permite a los clientes volver a escribir un conjunto de datos de evento de Adobe Analytics (u otro) en el conjunto de datos de Experience Platform de una área de nombres de ID a otra. Normalmente, esto significa volver a incrustar el conjunto de datos de eventos de un ID basado en cookies a un ID basado en persona. De este modo, el conjunto de datos reabierto puede combinarse con otros datos basados en personas en una conexión CJA, lo que permite el análisis en canales múltiples y varios dispositivos en Analysis Workspace. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=es-ES#cja-connections) |
 | Analysis Workspace: direcciones URL de imagen | 14 de enero de 2021 | Puede añadir imágenes a proyectos de Workspace haciendo referencia a una URL de imagen pública. |
 | Analysis Workspace: administrador de origen y configuración combinados | 14 de enero de 2021 | El administrador de fuentes de datos (punto) y el administrador de configuración (engranaje) para visualizaciones se han combinado en un único cuadro de diálogo, de modo que pueda administrar fácilmente el origen y la configuración desde la misma ubicación. |
-| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
+| Analysis Workspace: selección de componentes | 16 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
 
