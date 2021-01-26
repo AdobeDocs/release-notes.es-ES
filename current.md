@@ -25,14 +25,14 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 
 Última actualización: **25 de enero de 2021**
 
-* [Estado del sistema de Adobe](#status)  (no actualizado)
+* [Estado del sistema de Adobe](#status) (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
-* [Experience Platform](#platform) (actualización:  **25 de enero de 2021**)
+* [Experience Platform](#platform) (actualización: **25 de enero de 2021**)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **25 de enero de 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac) (actualización:  14 de enero de 2021)
+* [Campaign](#ac) (actualización: 14 de enero de 2021)
 * [Advertising Cloud](#adcloud) (Actualización: 22  **de enero de 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -151,7 +151,7 @@ Fecha de la versión: **14 de enero de 2021**
 * [Nuevas funciones de Adobe Analytics](#aa-features)  (actualizado el 25 de enero de 2021)
 * [Nuevas funciones de Customer Journey Analytics](#cust-journey)  (actualizado el 25 de enero de 2021)
 * [Correcciones en Adobe Analytics](#aa-fixes)
-* [Avisos importantes para los administradores de Analytics](#aa-notices) (Actualizado 20 de enero de 2021)
+* [Avisos importantes para los administradores de Analytics](#aa-notices)  (Actualizado 20 de enero de 2021)
 * [AppMeasurement](#appm)
 * [Report Builder ](#arb)
 
@@ -202,7 +202,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835; AN-233989; AN-235593; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
-| EOL de Ad Hoc Analysis | 21 de enero de 2021 | El 1 de marzo de 2021, Ad Hoc Analysis llegará al final de su vida útil. En ese momento, todos los proyectos y programaciones que aprovechen este producto dejarán de funcionar. Para obtener más información, consulte [Discover Workspace](https://adobe.ly/discoverworkspace). |
+| EOL de Ad Hoc Analysis | 21 de enero de 2021 | El 1 de marzo de 2021, Ad Hoc Analysis llegará al final de su vida útil. En ese momento, todos los proyectos y programaciones que usen este producto dejarán de funcionar. Para obtener más información, consulte [Discover Workspace](https://adobe.ly/discoverworkspace). |
 | Actualización requerida de [!UICONTROL Report Builder] | 8 de enero de 2021 | Para el 30 de abril de 2021, todos los usuarios de [!UICONTROL Report Builder] deben actualizar el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior. Esta versión incluye una actualización esencial del proceso de inicio de sesión. Los usuarios que no actualicen a la versión 5.6.47 o posterior no podrán iniciar sesión después del 30 de abril de 2021. [!UICONTROL Report Builder] versión 5.6.47 y posterior solo admite el inicio de sesión de Experience Cloud y no admite inicios de sesión heredados, como el inicio de sesión único de SiteCatalyst o el inicio de sesión estándar. Para obtener más información, consulte [Inicio de sesión de Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=es-ES#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Fin de la vida útil de tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics tienen programado alcanzar la fecha de fin de vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) y/o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Añadir el encabezado HSTS a todas las solicitudes de HTTPS entrantes | 29 de septiembre de 2020 | El 29 de septiembre de 2020, empezamos a agregar el encabezado HSTS a todas las solicitudes entrantes que utilicen HTTPS. Esto indica al navegador/cliente que realice todas las solicitudes futuras en HTTPS, lo que se considera una práctica recomendada de seguridad. En este punto, no se aplicará esto a las solicitudes entrantes que utilicen HTTP. |
@@ -215,7 +215,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835; AN-233989; AN-235593; AN-
 
 Para obtener las últimas actualizaciones de las versiones de AppMeasurement, consulte las [notas de la versión de AppMeasurement para JavaScript](https://docs.adobe.com/content/help/es-ES/analytics/implementation/appmeasurement-updates.html).
 
-### Report Builder  {#arb}
+### Report Builder {#arb}
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
@@ -346,7 +346,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | -----------| ---------- | ---------- | ---------- |
 | 7 de diciembre de 2020 | [Modelado de datos avanzado con referencias de fragmento](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/fragment-references.html?lang=es-ES) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Aprenda a utilizar la función [!UICONTROL Referencia de fragmento] para modelar datos avanzados y crear una relación entre dos [!UICONTROL Fragmentos de contenido] diferentes. Aprenda a modificar una consulta de GraphQL para incluir un campo de un modelo al que se hace referencia. |
 | 7 de diciembre de 2020 | [AEM de consulta mediante GraphQL desde una aplicación externa](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html?lang=es-ES) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Explore las API de GraphQL de AEM, una aplicación de React y GraphQL de muestra de WKND. Descubra cómo esta aplicación externa hace llamadas de GraphQL a AEM para potenciar su experiencia. Descubra cómo realizar la gestión básica de errores. |
-| 7 de diciembre de 2020 | [API de GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Explore las API de GraphQL de AEM mediante el IDE integrado de GrapiQL. Descubra cómo AEM genera automáticamente un esquema de GraphQL basado en un modelo de fragmento de contenido. Experimente construyendo consultas básicas usando la sintaxis de GraphQL. |
+| 7 de diciembre de 2020 | [API de GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Explore las API de GraphQL de AEM mediante el IDE integrado de GraphQL. Descubra cómo AEM genera automáticamente un esquema de GraphQL basado en un modelo de fragmento de contenido. Experimente construyendo consultas básicas usando la sintaxis de GraphQL. |
 | Diciembre de 2020 | [Creación de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/author-content-fragments.html?lang=es-ES) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Cree y edite un nuevo fragmento de contenido basado en un [!UICONTROL modelo de fragmento de contenido]. Obtenga información sobre cómo crear variaciones de [!UICONTROL Fragmentos de contenido]. |
 | 7 de diciembre de 2020 | [Definición de modelos de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/content-fragment-models.html?lang=es-ES) | Artículo | Introducción a Adobe Experience Manager (AEM) y GraphQL. Aprenda a modelar contenido y a crear un esquema con los modelos de fragmentos de contenido en AEM. Revise los modelos existentes y cree uno nuevo. Obtenga información sobre los distintos tipos de datos que se pueden utilizar para definir un esquema. |
 | 9 de diciembre de 2020 | [Compatibilidad con API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/developer-reference-material-apis.html?lang=es-ES) | Artículo | Cree un artículo sencillo que comunique claramente qué API de AEM (npm, Java, HTTP) se pueden usar para varias operaciones de [!UICONTROL Assets]. |
@@ -393,7 +393,7 @@ Información de la versión para Campaign Classic, Campaign Standard y Panel de 
 
 #### Campaign Classic
 
-[Boletín de respuesta a problemas](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (actualización: **12 de enero de 2021**)
+[Boletín de respuesta a problemas](https://helpx.adobe.com/es/security/products/campaign/apsb21-04.html) (actualización: **12 de enero de 2021**)
 
 * Versión 20.3.3: [más información](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es-ES#release-notes)
 * Versión 20.3.1: [más información](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
@@ -423,7 +423,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | 22 de diciembre de 2020 | [Acceso a los informes integrados](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html?lang=es-ES) | Campaign Classic | (Vídeo) Entienda el sistema de análisis y creación de informes integrado en Campaign Classic, y aprenda a generar un informe de entrega. |
 | 22 de diciembre de 2020 | [Solución de problemas de entrega de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html?lang=es-ES) | Campaign Classic | (Vídeo) Obtenga información sobre cómo solucionar problemas de entrega. |
 | 18 de diciembre de 2020 | [Creación de envíos de correo directo](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | (Vídeo) Aprenda a crear una entrega de correo directo y a utilizar direcciones semilla en una campaña. |
-| 18 de diciembre de 2020 | [Administración de aprobaciones en una campaña  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a configurar aprobaciones y una campaña, y a diferenciar entre aprobaciones de entrega y de flujo de trabajo. |
+| 18 de diciembre de 2020 | [Administración de aprobaciones en una campaña ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a configurar aprobaciones y una campaña, y a diferenciar entre aprobaciones de entrega y de flujo de trabajo. |
 | 18 de diciembre de 2020 | [Ejecución de una campaña](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a realizar una campaña, y a revisar una entrega de correo electrónico y las propiedades de entrega. |
 | 15 de diciembre de 2020 | [Ampliación del esquema de suscripción de la aplicación para personalizar notificaciones push](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html?lang=es-ES) | Campaign Classic | (Vídeo) Aprenda a ampliar el esquema de suscripción de la aplicación para poder almacenar los valores de personalización que Campaign recibe de una aplicación móvil. |
 
