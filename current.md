@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
+source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
 workflow-type: tm+mt
-source-wordcount: '6776'
+source-wordcount: '6802'
 ht-degree: 97%
 
 ---
@@ -23,11 +23,11 @@ Esta página describe nuevas funciones, correcciones y avisos importantes en [!D
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **22 de enero de 2021**
+Última actualización: **25 de enero de 2021**
 
 * [Estado del sistema de Adobe](#status)  (no actualizado)
 * [Administración y servicios de Experience Cloud](#ecloud)
-* [Experience Platform](#platform) (actualización:  14 de enero de 2021)
+* [Experience Platform](#platform) (actualización:  **25 de enero de 2021**)
 * [Organización de recorridos](#journey-orch)
 * [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey) (Actualización: **25 de enero de 2021**)
 * [Audience Manager](#aam)
@@ -52,8 +52,6 @@ Consulte [Estado del sistema de Adobe - 21 de mayo de 2020](https://docs.adobe.c
 ## ![Icono](/assets/ec_appicon_24.png) Administración y servicios del Experience Cloud {#ecloud}
 
 La documentación de [Servicios y administración de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html) incluye servicios de Activación de Atributos de cliente, Biblioteca de audiencias ([!UICONTROL Personas]), administración de usuarios, y productos y cookies de Experience Cloud.
-
-No se ha actualizado este mes.
 
 **Consulte también**
 
@@ -82,10 +80,14 @@ Fecha de la versión: **13 de enero de 2021**
 
 **[!UICONTROL Launch Server Side]:** envíe datos del nivel de evento a AEP Edge Network y, a continuación, utilice Launch Server Side para transformar, enriquecer y enviar esos datos a un extremo que no sea de Adobe mediante los servidores de Adobe, no el cliente, con baja latencia. [Más...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=es-ES#server-side-info)
 
+Actualización: **25 de enero de 2021**:
+
+Se ha publicado la extensión del servicio de ID de Experience Cloud **5.1.1**. Consulte [Notas de la versión de Experience Cloud ID Service Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=es-ES) para obtener más información.
+
 **Consulte también**
 
 * Consulte las [Notas de la versión de Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=es-ES) para obtener información sobre Experience Platform Launch.
-* Notas de la versión de la [Extensión Service de Experience Cloud ID](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=es-ES)
+* Notas de la versión de la [Extensión Service de Experience Cloud ID](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html).
 
 ### Adobe Mobile
 
