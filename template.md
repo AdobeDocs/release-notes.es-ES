@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
+source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
 workflow-type: tm+mt
-source-wordcount: '1350'
-ht-degree: 91%
+source-wordcount: '1349'
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Esta página incluye contenido previo al lanzamiento de la nueva versión y está sujeta a cambios antes de su publicación planificada.
+>Esta página contiene contenido previo al lanzamiento y está sujeta a cambios antes de las fechas de lanzamiento.
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Nuevas funciones y correcciones en la interfaz de Experience Cloud, incluida la
 
 Funciones y correcciones.
 
-For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html)
+Para obtener documentación sobre el producto, consulte [interfaz de Experience Cloud](https://docs.adobe.com/content/help/es-ES/core-services/interface/experience-cloud.html)
 
 ### Administración y desarrollador {#admin}
 
@@ -93,9 +93,9 @@ Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
+Mediante el uso de Adobe [!UICONTROL Experience Platform,] orquesta recorridos de clientes individuales a escala en todos los canales de experiencia anticipando de manera inteligente las necesidades de cada individuo en tiempo real, dondequiera que su recorrido lo lleve.
 
-#### Additional resources for [!UICONTROL Journey Orchestration]
+#### Recursos adicionales para [!UICONTROL Journey Orchestration]
 
 [Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -134,7 +134,7 @@ Para obtener documentación del producto, consulte [Inicio de Ayuda de Adobe Ana
 | Función B | Texto |
 | Función C | Texto |
 
-### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] (anteriormente VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK for  [!DNL iOS] &amp;  [!DNL Android] (anteriormente VHL SDK)  {#aa-va}
 
 | Función | Descripción |
 | ------- | ------- |
@@ -294,7 +294,7 @@ Para las notas de la versión de Magento, consulte:
 
 ## Marketo {#marketo}
 
-Marketo Engage es una solución completa para la administración de posibles clientes y los especialistas en mercadotecnia B2B que buscan transformar las experiencias de los clientes al involucrarse en todas las etapas de los viajes de compra complejos.
+Marketo Engage es una solución completa para la administración de posibles clientes y los especialistas en mercadotecnia B2B que buscan transformar las experiencias de los clientes al involucrarse en todas las etapas de recorridos de compra complejos.
 
 ### Actualizaciones centrales de Marketo Engage
 
@@ -307,7 +307,7 @@ Fecha de publicación: 21 de febrero de 2020
    * API de reglas de redireccionamiento de páginas de aterrizaje
 * **Almacenamiento en caché del descriptor de formulario:** mejoras en las páginas de aterrizaje y en los formularios.
 
-See Marketo release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+Consulte las notas de la versión de Marketing Cloud para [febrero de 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) para obtener más información.
 
 ### Próximas funciones
 
