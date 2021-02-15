@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 10f5e323e30ed0c4c8b3b5b2e2236674b2ab6c69
 workflow-type: tm+mt
 source-wordcount: '6355'
-ht-degree: 32%
+ht-degree: 33%
 
 ---
 
@@ -60,7 +60,7 @@ La documentación de [Servicios y administración de Experience Cloud](https://d
 
 **4 de febrero de 2021**
 
-* **Actualización de inicio de sesión:** Una actualización al Experience Cloud elimina la pantalla de inicio de sesión del Experience Cloud inicial. A partir del 4 de febrero, se le enviará directamente desde `https://experience.adobe.com/login` a la pantalla de inicio de sesión de Adobe.
+* **Actualización de inicio de sesión:** Una actualización al Experience Cloud elimina la pantalla de inicio de sesión del Experience Cloud inicial. A partir del 4 de febrero, se le redirigirá directamente desde `https://experience.adobe.com/login` a la pantalla de inicio de sesión de Adobe.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
