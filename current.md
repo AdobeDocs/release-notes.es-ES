@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 150911084be7da0d1f3c887d76a7b897ac94a173
+source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
 workflow-type: tm+mt
-source-wordcount: '6355'
+source-wordcount: '6309'
 ht-degree: 33%
 
 ---
@@ -120,14 +120,14 @@ Fecha de publicación: **18 de febrero de 2021**
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
-| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. Consulte [Panel de visores simultáneos de medios en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) para ver un tutorial de vídeo. |
+| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 | Selección de idioma de paneles de Analytics | 14 de enero de 2021 | Ahora puede seleccionar un idioma en el panel de Analytics. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. Consulte [Panel de visores simultáneos de medios en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) para ver un tutorial de vídeo. |
+| Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
 | API de CJA | 18 de febrero de 2021 | Las API de CJA ya están disponibles. Estas API permiten editar componentes mediante programación y recuperar informes. Consulte la documentación de la API de CJA (vínculo a continuación) para obtener más información. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
