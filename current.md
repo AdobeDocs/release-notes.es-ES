@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
+source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
 workflow-type: tm+mt
 source-wordcount: '6309'
 ht-degree: 33%
@@ -182,7 +182,7 @@ Nuevas funciones, correcciones, documentación y tutoriales en Audience Manager.
 
 | Función | Fecha de incorporación o actualizada | Descripción |
 |----|----|----|
-| [Migración de usuarios Audience Manager a Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1 de febrero de 2020 | La administración de cuentas de usuario de Audience Manager se está trasladando al Adobe Admin Console para disfrutar de una experiencia más optimizada en las soluciones de Adobe. <br>Siga los pasos descritos en este artículo para facilitar la migración de usuarios. Todos los administradores de Audience Manager deben realizar el inicio de migrar sus cuentas de usuario a Adobe Admin Console lo antes posible. |
+| [Migración de usuarios Audience Manager a Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1 de febrero de 2021 | La administración de cuentas de usuario de Audience Manager se está trasladando al Adobe Admin Console para disfrutar de una experiencia más optimizada en las soluciones de Adobe. <br>Siga los pasos descritos en este artículo para facilitar la migración de usuarios. Todos los administradores de Audience Manager deben realizar el inicio de migrar sus cuentas de usuario a Adobe Admin Console lo antes posible. |
 
 ### Correcciones y mejoras {#aam-fixes-and-improvements}
 
