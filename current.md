@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
+source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
 workflow-type: tm+mt
-source-wordcount: '6381'
-ht-degree: 33%
+source-wordcount: '6384'
+ht-degree: 32%
 
 ---
 
@@ -81,7 +81,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 | 3 de febrero de 2021 | [Introducción a la ingesta de datos por lotes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Vídeo | Información general sobre la ingestión de datos por lotes en Adobe Experience Platform. Obtenga información sobre cómo ingerir datos por lotes mediante la API. |
 | 3 de febrero de 2021 | [Activar datos en aplicaciones que no son de Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Vídeo | Descubra cómo el CDP en tiempo real de Adobe le ayuda a crear estrategias de personalización verdaderas con sus audiencias. Además, descubra cómo se pliega en sus aplicaciones existentes de sistemas ecológicos y no Adobes de Microsoft, Google y Facebook. |
 | 21 de enero de 2021 | [Introducción al curso para iniciarse en los servicios inteligentes para especialistas en mercadotecnia](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a los servicios inteligentes para especialistas en marketing. |
-| 13 de enero de 2021 | [Introducción a la introducción a Offer Decisioning para especialistas en marketing](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a Offer Decisioning para especialistas en marketing. |
+| 13 de enero de 2021 | [Introducción a Introducción a Offer Decisioning para especialistas en mercadotecnia](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a Offer Decisioning para especialistas en marketing. |
 | 31 de enero de 2021 | [Entrene, puntee y produzca modelos con la plantilla del generador de fórmulas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Vídeo | Obtenga información sobre cómo utilizar la plantilla actualizada del creador de fórmulas para crear una fórmula con el esquema de ventas minoristas y los conjuntos de datos. |
 | 31 de enero de 2021 | [Carga de datos en portátiles JupyterLab](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Vídeo | Obtenga información sobre JupyterLab en el área de trabajo de ciencias de datos. |
 | 12 de enero de 2021 | [Crear directivas de combinación](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Vídeo | Obtenga información sobre cómo crear políticas de combinación en Adobe Experience Platform. |
@@ -122,7 +122,7 @@ Fecha de publicación: **18 de febrero de 2021**
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/es-ES/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
 | Analysis Workspace: selección de componentes | 4 de febrero de 2021 | El componente de zona desplegable/zona de colocación que se encuentra en [!UICONTROL Quick Insights] se ha agregado a todas las zonas de colocación de [!UICONTROL Workspace]. Esta mejora le permite elegir de una lista desplegable de componentes compatibles o continuar utilizando el espacio como zona de colocación. |
-| Selección de idioma de paneles de Analytics | 14 de enero de 2021 | Ahora puede seleccionar un idioma en el panel de Analytics. |
+| Selección de idioma de paneles de Analytics | 14 de enero de 2021 | Vaya a **[!UICONTROL Configuración]** > **[!UICONTROL Preferencias]** > **[!UICONTROL Idioma]** para seleccionar un idioma en el panel de Analytics. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
@@ -171,7 +171,7 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | 8 de febrero de 2021 | [Añadir líneas de tendencia a visualizaciones de línea](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Vídeo | En Configuración de visualización, puede añadir una regresión o mover la línea de tendencia media a la serie de líneas. Esta función ayuda a mostrar un patrón más claro en los datos. |
-| 8 de febrero de 2021 | [Añadir complementos de implementación en el inicio de plataforma](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Vídeo | Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenda cómo y dónde agregar el código en Inicio de plataforma. |
+| 8 de febrero de 2021 | [Añadir complementos de implementación en Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Vídeo | Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenda cómo y dónde agregar el código en Platform Launch. |
 | 6 de enero de 2021 | [Panel de visualizadores simultáneos de medios en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Vídeo | Comprender dónde se produjo el pico de concurrencia o dónde se produjeron los descensos. Obtenga una valiosa perspectiva de la calidad del contenido y la participación del visor, y ayude a solucionar problemas o a planificar el volumen y la escala. |
 
 ### Recursos de ayuda de Analytics
