@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
+source-git-commit: c7220fd5298c74ac555ba9d1799194d794b81271
 workflow-type: tm+mt
-source-wordcount: '6384'
+source-wordcount: '6403'
 ht-degree: 32%
 
 ---
@@ -81,7 +81,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 | 3 de febrero de 2021 | [Introducción a la ingesta de datos por lotes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Vídeo | Información general sobre la ingestión de datos por lotes en Adobe Experience Platform. Obtenga información sobre cómo ingerir datos por lotes mediante la API. |
 | 3 de febrero de 2021 | [Activar datos en aplicaciones que no son de Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Vídeo | Descubra cómo el CDP en tiempo real de Adobe le ayuda a crear estrategias de personalización verdaderas con sus audiencias. Además, descubra cómo se pliega en sus aplicaciones existentes de sistemas ecológicos y no Adobes de Microsoft, Google y Facebook. |
 | 21 de enero de 2021 | [Introducción al curso para iniciarse en los servicios inteligentes para especialistas en mercadotecnia](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a los servicios inteligentes para especialistas en marketing. |
-| 13 de enero de 2021 | [Introducción a Introducción a Offer Decisioning para especialistas en mercadotecnia](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a Offer Decisioning para especialistas en marketing. |
+| 13 de enero de 2021 | [Introducción a Introducción a Offer decisioning para especialistas en mercadotecnia](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Vídeo | Introducción al curso Introducción a Offers decisioning para especialistas en marketing. |
 | 31 de enero de 2021 | [Entrene, puntee y produzca modelos con la plantilla del generador de fórmulas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Vídeo | Obtenga información sobre cómo utilizar la plantilla actualizada del creador de fórmulas para crear una fórmula con el esquema de ventas minoristas y los conjuntos de datos. |
 | 31 de enero de 2021 | [Carga de datos en portátiles JupyterLab](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Vídeo | Obtenga información sobre JupyterLab en el área de trabajo de ciencias de datos. |
 | 12 de enero de 2021 | [Crear directivas de combinación](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Vídeo | Obtenga información sobre cómo crear políticas de combinación en Adobe Experience Platform. |
@@ -171,7 +171,7 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | 8 de febrero de 2021 | [Añadir líneas de tendencia a visualizaciones de línea](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Vídeo | En Configuración de visualización, puede añadir una regresión o mover la línea de tendencia media a la serie de líneas. Esta función ayuda a mostrar un patrón más claro en los datos. |
-| 8 de febrero de 2021 | [Añadir complementos de implementación en Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Vídeo | Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenda cómo y dónde agregar el código en Platform Launch. |
+| 8 de febrero de 2021 | [Añadir complementos de implementación en Platform launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Vídeo | Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenda cómo y dónde agregar el código en Platform launch. |
 | 6 de enero de 2021 | [Panel de visualizadores simultáneos de medios en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Vídeo | Comprender dónde se produjo el pico de concurrencia o dónde se produjeron los descensos. Obtenga una valiosa perspectiva de la calidad del contenido y la participación del visor, y ayude a solucionar problemas o a planificar el volumen y la escala. |
 
 ### Recursos de ayuda de Analytics
@@ -409,15 +409,20 @@ Notas de la versión de Adobe Advertising Cloud.
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **22 de enero de 2021 para la versión del 23 de enero**
+Última actualización: **23 de febrero de 2021, para la versión del 20 de febrero**
 
 | Función | Descripción |
 | -----------| ---------- |
-| [!UICONTROL Buscar campañas]<br> Informes | Advertising Cloud Search ya no informa de nuevos datos de posición promedio para campañas de Microsoft Advertising. La columna Posición promedio muestra los valores de cero (0) para las fechas que comienzan el 23 de enero. Esto se está preparando para el cese de la utilización de los datos de posición promedio por parte de Microsoft en enero de 2021.<br>Los datos de posición promedio recopilados hasta el 22 de enero aún están disponibles en los informes. |
+| Todas | Herramientas > &quot;Etiquetas de conversión de adwords&quot; ahora es &quot;Etiquetas de conversión de Google Ads.&quot; |
+| Todas | En abril, las siguientes funciones y vistas quedarán en desuso:<br><ul><li>Optimización > Tarjetas de Portfolio</li><li>Optimización > Reglas de oferta</li><li>Perspectivas e informes > Panel</li><li>Campañas:  Compatibilidad pendiente y programada para ediciones masivas</li></ul> |
 
-### Tutoriales y cursos de Ad Cloud
+### Tutoriales y cursos de Advertising Cloud
 
-Actualizado el **2 de diciembre de 2020**
+Actualizado: **23 de febrero de 2021**
+
+| Tutorial | Descripción |
+| -----------| ---------- |
+| [Introducción a Workspace y Sistema de informes](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Descubra cómo puede utilizar los datos de Advertising Cloud para crear informes visuales en Adobe Analytics Analysis Workspace. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
