@@ -1,14 +1,14 @@
 ---
-title: Notas de la versión para Experience Cloud y Experience Platform
-description: Conozca las últimas notas de la versión, las nuevas funciones y la nueva documentación de Experience Cloud y Experience Platform. Encuentre ayuda y tutoriales nuevos sobre Creative Cloud para empresas y Document Cloud.
+title: Últimas notas de la versión
+description: '"Obtenga información sobre las últimas notas de la versión, las nuevas funciones y la nueva documentación de los productos y servicios de Experience Cloud. Encuentre nueva ayuda y tutoriales sobre Experience Cloud, Creative Cloud para empresas y Document Cloud".'
 doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
+source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 99%
+source-wordcount: '6425'
+ht-degree: 98%
 
 ---
 
