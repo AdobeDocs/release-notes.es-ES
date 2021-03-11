@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
+source-git-commit: fad566f4a78d7963f450b9998c009a50d081a212
 workflow-type: tm+mt
-source-wordcount: '6425'
+source-wordcount: '6479'
 ht-degree: 98%
 
 ---
@@ -29,7 +29,7 @@ Las soluciones y servicios de Experience Cloud se actualizan mensualmente. Esta 
 * [Administración y servicios de Experience Cloud](#ecloud)
 * [Experience ](#platform) **Platform actualizado el 21 de febrero de 2021**
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) **Actualización del 19 de febrero de 2021**
+* [](#analytics) **Analytics actualizado el 10 de marzo de 2021**
 * [Customer Journey Analytics](#cust-journey)`
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -110,7 +110,7 @@ Fecha de publicación: **18 de febrero de 2021**
 * [Nuevas funciones en Adobe Analytics](#aa-features)
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey)
 * [Correcciones en Adobe Analytics](#aa-fixes)
-* [Avisos importantes para los administradores de Analytics](#aa-notices) **Actualizado el 19 de febrero de 2021**
+* [Avisos importantes para los administradores de Analytics](#aa-notices)  **Actualizado el 10 de marzo de 2021**
 * [Cursos y tutoriales sobre Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -150,6 +150,7 @@ AN-224987; AN-229009; AN-239750; AN-239765; AN-241620; AN-242996; AN-243577; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
+| Fin de la vida útil de las fuentes de datos de procesamiento completo | 10 de marzo de 2021 | Adobe planea eliminar las fuentes de datos de procesamiento completo en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
 | Opciones de la página de aterrizaje Reports &amp; Analytics | 19 de febrero de 2021 | El 25 de marzo de 2021, se eliminarán las opciones para establecer nuevos paneles de Reports &amp; Analytics u otro contenido como página de aterrizaje de Adobe Analytics. Si anteriormente estableció una página de Reports &amp; Analytics como página de aterrizaje personalizada, seguirá funcionando hasta que se modifique la página de aterrizaje en [!UICONTROL Preferencias del usuario]. A partir del 25 de marzo de 2021, ya no podrá definir nuevas páginas de aterrizaje personalizadas de Reports &amp; Analytics. |
 | EOL de Ad Hoc Analysis | Enero de 2021 | [!UICONTROL Ad Hoc Analysis] llega a su fecha de finalización de servicio el 1 de marzo de 2021. Para obtener más información, consulte [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Fin de la vida útil de tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics tienen programado alcanzar la fecha de fin de vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
@@ -238,7 +239,7 @@ Funciones nuevas, correcciones y actualizaciones en Experience Manager. Adobe re
       * **Aplicaciones web progresivas (PWA)**
 
          * [Ahora puede habilitarse una versión de aplicación web progresiva (PWA) de un sitio](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/features/enable-pwa.html?lang=es) en el nivel de proyecto mediante una configuración simple.
-   * **Experience Manager Assets as a Cloud Service**
+   * **Experience Manager de recursos como Cloud Service**
 
       * Experience Manager como Cloud Service amplía la funcionalidad Etiquetas inteligentes para admitir la identificación de palabras clave y entidades en recursos basados en texto. El texto se identifica, se indexa y se publica en forma de metadatos para mejorar la experiencia de búsqueda sin necesidad de ninguna configuración. Consulte [Etiquetas inteligentes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/smart-tags.html?lang=es).
       * Ahora se admite el formato de archivo MXF. Consulte [Formatos de archivo compatibles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/file-format-support.html?lang=es#video-formats).
