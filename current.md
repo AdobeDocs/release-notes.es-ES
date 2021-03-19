@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: da0cc40fb828e5f64d832c2e4e5dba931d2f2e99
+source-git-commit: 1cde3fd4f91f53c6f2281b95397257bbcf1f5672
 workflow-type: tm+mt
-source-wordcount: '6120'
+source-wordcount: '6130'
 ht-degree: 36%
 
 ---
@@ -148,7 +148,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | [!UICONTROL Procesamiento]  de VISTA igual a SiteCatalyst = ON | 17 de marzo de 2021 | El 17 de junio de 2021, todos los grupos de informes se actualizarán para que [!UICONTROL Procesamiento de VISTA igual a SiteCatalyst] esté activado.  Este cambio afectará a los informes de [!UICONTROL Data Warehouse] al procesar los datos para que coincidan con las reglas de procesamiento.  Si tiene alguna pregunta o aclaración, póngase en contacto con el Servicio de atención al cliente de Adobe. |
-| Fin de la vida útil de [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] | 10 de marzo de 2021 | El Adobe planea eliminar [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
+| Fin de la vida útil de [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] | 10 de marzo de 2021 | El Adobe planea eliminar [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. [Más información](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Opciones de la página de aterrizaje Reports &amp; Analytics | 19 de febrero de 2021 | El 25 de marzo de 2021, se eliminarán las opciones para establecer nuevos paneles de Reports &amp; Analytics u otro contenido como página de aterrizaje de Adobe Analytics. Si anteriormente estableció una página de Reports &amp; Analytics como página de aterrizaje personalizada, seguirá funcionando hasta que se modifique la página de aterrizaje en [!UICONTROL Preferencias del usuario]. |
 | Fin de la vida útil de Ad Hoc Analysis | Enero de 2021 | [!UICONTROL Ad Hoc Analysis] llega a su fecha de finalización de servicio el 1 de marzo de 2021. Para obtener más información, consulte [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Fin de la vida útil de tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics tienen programado alcanzar la fecha de fin de vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
