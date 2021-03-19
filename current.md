@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
+source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
 workflow-type: tm+mt
-source-wordcount: '6109'
+source-wordcount: '6141'
 ht-degree: 36%
 
 ---
@@ -55,7 +55,7 @@ Las actualizaciones más recientes del estado del sistema de Adobe se encuentran
 
 ## ![](/assets/ec_appicon_24.png) IconoComponentes, servicios y administración de la interfaz de usuario de Experience Cloud  {#ecloud}
 
-No se ha actualizado.
+**Búsqueda unificada:** la búsqueda unificada, que actualmente está disponible para Experience Platform, ahora admite la búsqueda de fuentes y destinos para usuarios Experience Platform. Esta función le permite buscar segmentos, conjuntos de datos, esquemas, fuentes y destinos.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
