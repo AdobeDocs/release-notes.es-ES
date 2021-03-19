@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
+source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
 workflow-type: tm+mt
-source-wordcount: '5917'
-ht-degree: 37%
+source-wordcount: '6109'
+ht-degree: 36%
 
 ---
 
@@ -229,6 +229,14 @@ AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 publicado el 25 de febre
       * Las empresas ahora pueden obtener recursos mediante Brand Portal. La función de abastecimiento de recursos utiliza Brand Portal para ayudar a los clientes a interactuar con los usuarios de la agencia a fin de que obtengan recursos para nuevas campañas de marketing, fotos y proyectos. Consulte [Descripción general de Asset Sourcing](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) en la Guía de Brand Portal.
       * El informe de uso de Brand Portal ahora muestra solamente los usuarios activos. Los usuarios inactivos no se muestran ahora. Los usuarios activos son aquellos cuya cuenta se asigna a un perfil de producto en el Admin Console. Consulte [Trabajar con informes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) en la guía de Brand Portal.
       * En Brand Portal, se introduce una nueva configuración de descarga que permite crear carpetas independientes para cada recurso al descargar carpetas, colecciones, etc. Consulte [Descarga de recursos](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) en **Descarga de recursos desde Brand Portal** en la Guía de Brand Portal.
+   * **Experience Manager de Forms as a Cloud Service**
+
+      AEM Forms ha ayudado a varias organizaciones a ofrecer buenas experiencias de incorporación e inscripción a lo largo de los años. Estas experiencias han ayudado a las organizaciones a convertir posibles clientes en ventas reales, a procesar los datos capturados de los clientes, a ofrecer experiencias adaptables basadas en el perfil de audiencia y mucho más. Ahora, AEM Forms está disponible como servicio en la nube.
+
+      Puede utilizar AEM Forms como Cloud Service para crear formularios digitales, conectar formularios a orígenes de datos existentes, integrar formularios con Adobe Sign para agregar firmas electrónicas a formularios y generar un documento de registro (DoR) para archivar formularios rellenados como archivos PDF. También puede utilizar el servicio para convertir los PDF forms existentes en formularios digitales. Además de las funciones estándar de AEM Forms, el servicio ofrece varias funciones nativas de la nube, como el escalado automático basado en la carga, el tiempo de inactividad nulo para las actualizaciones y el entorno de desarrollo nativo de la nube. Puede leer [esta entrada de blog](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) para obtener más información sobre más funcionalidades y características del servicio.
+
+      La fecha de disponibilidad general (GA) de AEM Forms as a Cloud Service es el 25 de marzo. Póngase en contacto con el representante de su Adobe para realizar una demostración o registrarse en el servicio.
+
    * **Experience Manager Commerce as a Cloud Service**
 
       * Administración de experiencia del producto: Enriquezca las páginas del catálogo de productos individualmente con fragmentos de experiencias.
