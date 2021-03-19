@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
+source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
 workflow-type: tm+mt
-source-wordcount: '5857'
-ht-degree: 38%
+source-wordcount: '5917'
+ht-degree: 37%
 
 ---
 
@@ -117,26 +117,27 @@ Fecha de la versión: **25 de marzo de 2021**
 | ----------- | ---------- | ------- |
 | Actualizaciones de la API de reparación de datos | 25 de marzo de 2021 | La API de reparación de datos ahora es compatible con variables estándar como [!UICONTROL Page] y [!UICONTROL IP address], variables móviles y de vídeo, así como propiedades y eVars personalizadas.  Los valores dentro de las variables se pueden eliminar o definir nuevos valores. La API ahora también ofrece filtrado para direcciones URL, cadenas de consulta, signos de, etc. |
 | Analysis Workspace: [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] | 25 de marzo de 2021 | La página [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] permite administrar la configuración de [!UICONTROL Analysis Workspace] y sus componentes relacionados para el usuario. [!UICONTROL Las ] preferencias de usuario se aplican a todos los proyectos y paneles nuevos. **Nota:** Las siguientes opciones de configuración se han trasladado a la página  [!UICONTROL Preferencias de ] usuario:<ul><li>Configuración de informes: Separador de miles (ahora llamado &quot;Formato de número&quot;)</li><li>Configuración de informes: Separador CSV</li><li>Proyectos de Workspace: Ayuda > Habilitar sugerencias</li><li>Proyectos de Workspace: Panel en blanco, opción &quot;Iniciar nuevos proyectos con este panel&quot;</li></ul> |
-| Analysis Workspace: Predicción del contenedor inteligente del histograma | 25 de marzo de 2021 | La predicción de bloques inteligentes de histograma ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de los datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
+| Analysis Workspace: [!UICONTROL Predicción de bloques inteligentes de histograma] | 25 de marzo de 2021 |  La predicción de bloques Histograma inteligente ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
+| [!UICONTROL API de ] registro de uso | 25 de marzo de 2021 | Se trata de una nueva API de Analytics v2.0 que habilita el acceso mediante programación a los mismos datos de registro de uso disponibles en [!UICONTROL Administración] > [!UICONTROL Registro] > [!UICONTROL Registro de uso y acceso]. Encontrará más detalles sobre la autenticación, el esquema y la respuesta de ejemplo disponibles [aquí](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
 | Función | [Disponibilidad general](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Fecha de destino | Descripción |
 | ----------- | ---------- | ----- |
-| Compatibilidad con el panel de Analytics | 25 de marzo de 2021 | CJA ahora es compatible con el Generador de informes de valoración móvil y la aplicación móvil. Esto permite a los ejecutivos y usuarios empresariales ver sus KPI de canales cruzados a partir de datos de CJA, utilizando la misma aplicación que ya están utilizando para Adobe Analytics. |
+| Compatibilidad con [!UICONTROL paneles de Adobe Analytics] | 25 de marzo de 2021 | [!UICONTROL Customer Journey Analytics]  (CJA) ahora es compatible con el Generador de informes de valoración de paneles de  [!UICONTROL Adobe Analytics y con el ] Creador de aplicaciones móviles. Esto permite a los ejecutivos y usuarios empresariales ver sus KPI de canales cruzados en función de los datos de CJA, utilizando la misma aplicación que ya están utilizando para Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] | 25 de marzo de 2021 | La página [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] permite administrar la configuración de [!UICONTROL Analysis Workspace] y sus componentes relacionados para el usuario. [!UICONTROL Las ] preferencias de usuario se aplican a todos los proyectos y paneles nuevos. **Nota:** Las siguientes opciones de configuración se han trasladado a la página  [!UICONTROL Preferencias de ] usuario:<ul><li>Proyectos de Workspace: Ayuda > Habilitar sugerencias</li><li>Proyectos de Workspace: Panel en blanco, opción &quot;Iniciar nuevos proyectos con este panel&quot;</li></ul> |
-| Analysis Workspace: Predicción del contenedor inteligente del histograma | 25 de marzo de 2021 | La predicción de bloques inteligentes de histograma ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de los datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
+| Analysis Workspace: [!UICONTROL Predicción de bloques inteligentes de histograma] | 25 de marzo de 2021 |  La predicción de bloques Histograma inteligente ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
 
 * Se ha corregido un problema por el cual, después de editar y guardar el nuevo propietario de un segmento, este nuevo propietario no se reflejaba en la interfaz de usuario del segmento. (AN-234502) AN-250970; (AN-250286)
 * Se ha corregido un problema que provocaba que un grupo de informes de aplicación consumiera llamadas primarias al servidor y llamadas primarias al servidor móvil. (AN-244029)
-* Se ha corregido un problema con el tiempo de respuesta lento de la interfaz de usuario al abrir proyectos de Workspace. (AN-242553)
-* Se ha corregido un problema que impedía iniciar sesión en Report Builder después de actualizar a la versión más reciente. (AN-248825)
-* Se ha corregido un problema con los permisos de usuario para usuarios no administradores: Un usuario debe tener un permiso siempre y cuando se añada al menos a uno de sus perfiles en Admin Console. Añadir usuarios a perfiles solo debe añadir a los permisos que tienen y no debe eliminar nada de lo que ya tienen derecho a través de otros perfiles de producto. (AN-242723)
-* Se ha corregido un problema de codificación de idioma con las fuentes de datos. (AN-249862)
-* Se ha corregido un problema que impedía a los usuarios acceder a proyectos compartidos de Workspace. (AN-247814)
-* Se ha corregido un problema con las vistas previas de alertas que no coincidían con el número de alertas activadas. (AN-249392) (AN-250804)
+* Se ha corregido un problema con el tiempo de respuesta lento de la interfaz de usuario al abrir proyectos de [!UICONTROL Workspace]. (AN-242553)
+* Se ha corregido un problema que impedía iniciar sesión en [!UICONTROL Report Builder] después de actualizar a la versión más reciente. (AN-248825)
+* Se ha corregido un problema con los permisos de usuario para usuarios no administradores: Un usuario debe tener un permiso siempre y cuando se añada al menos a uno de sus perfiles en [!UICONTROL Admin Console]. Añadir usuarios a perfiles solo debe añadir a los permisos que tienen y no debe eliminar nada de lo que ya tienen derecho a través de otros perfiles de producto. (AN-242723)
+* Se ha corregido un problema de codificación de idioma con [!UICONTROL Fuentes de datos]. (AN-249862)
+* Se ha corregido un problema que impedía a los usuarios acceder a proyectos compartidos de [!UICONTROL Workspace]. (AN-247814)
+* Se ha corregido un problema por el que [!UICONTROL Alert Previews] no coincidía con el número de [!UICONTROL Alerts] activadas. (AN-249392) (AN-250804)
 
 #### Correcciones adicionales de Adobe Analytics
 
@@ -146,8 +147,8 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
-| Procesamiento de VISTA igual que SiteCatalyst activado | 17 de marzo de 2021 | El 17 de junio de 2021, todos los grupos de informes se actualizarán para que [!UICONTROL Procesamiento de VISTA igual a SiteCatalyst] esté activado.  Este cambio afectará a los informes de Data Warehouse al procesar los datos para que coincidan con las reglas de procesamiento.  Si tiene alguna pregunta o aclaración, póngase en contacto con el Servicio de atención al cliente. |
-| Fin de la vida útil de las fuentes de datos de procesamiento completo | 10 de marzo de 2021 | Adobe tiene planificado retirar las fuentes de datos de procesamiento completo en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
+| [!UICONTROL Procesamiento]  de VISTA igual a SiteCatalyst = ON | 17 de marzo de 2021 | El 17 de junio de 2021, todos los grupos de informes se actualizarán para que [!UICONTROL Procesamiento de VISTA igual a SiteCatalyst] esté activado.  Este cambio afectará a los informes de [!UICONTROL Data Warehouse] al procesar los datos para que coincidan con las reglas de procesamiento.  Si tiene alguna pregunta o aclaración, póngase en contacto con el Servicio de atención al cliente de Adobe. |
+| Fin de la vida útil de [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] | 10 de marzo de 2021 | El Adobe planea eliminar [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
 | Opciones de la página de aterrizaje Reports &amp; Analytics | 19 de febrero de 2021 | El 25 de marzo de 2021, se eliminarán las opciones para establecer nuevos paneles de Reports &amp; Analytics u otro contenido como página de aterrizaje de Adobe Analytics. Si anteriormente estableció una página de Reports &amp; Analytics como página de aterrizaje personalizada, seguirá funcionando hasta que se modifique la página de aterrizaje en [!UICONTROL Preferencias del usuario]. |
 | Fin de la vida útil de Ad Hoc Analysis | Enero de 2021 | [!UICONTROL Ad Hoc Analysis] llega a su fecha de finalización de servicio el 1 de marzo de 2021. Para obtener más información, consulte [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Fin de la vida útil de tres servicios de API de Analytics | 6 de enero de 2021 | El 30 de abril de 2021, los siguientes servicios de la API heredada de Analytics tienen programado alcanzar la fecha de fin de vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Hemos creado [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe IO](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
