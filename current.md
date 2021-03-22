@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
+source-git-commit: ffd0377c6309d206bbb98ddc9c7e74f938ad4081
 workflow-type: tm+mt
-source-wordcount: '6141'
-ht-degree: 35%
+source-wordcount: '6263'
+ht-degree: 34%
 
 ---
 
@@ -57,8 +57,8 @@ Las actualizaciones más recientes del estado del sistema de Adobe se encuentran
 
 Incluye información sobre la actualización de versión de Experience Platform y Experience Platform Launch.
 
-* [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (24 de febrero de 2021)
-* [Notas de la versión de Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=es). (13 de enero de 2021)
+* [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Actualizado el 24 de febrero de 2021)
+* [Notas de la versión de Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=es). (Actualizado el 18 de febrero de 2021)
 
 ### Tutoriales y cursos de Experience Platform
 
@@ -115,6 +115,7 @@ Fecha de la versión: **25 de marzo de 2021**
 | Analysis Workspace: [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] | 25 de marzo de 2021 | La página [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] permite administrar la configuración de [!UICONTROL Analysis Workspace] y sus componentes relacionados para el usuario. [!UICONTROL Las ] preferencias de usuario se aplican a todos los proyectos y paneles nuevos. **Nota:** Las siguientes opciones de configuración se han trasladado a la página  [!UICONTROL Preferencias de ] usuario:<ul><li>Configuración de informes: Separador de miles (ahora llamado &quot;Formato de número&quot;)</li><li>Configuración de informes: Separador CSV</li><li>Proyectos de Workspace: Ayuda > Habilitar sugerencias</li><li>Proyectos de Workspace: Panel en blanco, opción &quot;Iniciar nuevos proyectos con este panel&quot;</li></ul> |
 | Analysis Workspace: [!UICONTROL Predicción de bloques inteligentes de histograma] | 25 de marzo de 2021 |  La predicción de bloques Histograma inteligente ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
 | [!UICONTROL API de ] registro de uso | 25 de marzo de 2021 | Se trata de una nueva API de Analytics v2.0 que habilita el acceso mediante programación a los mismos datos de registro de uso disponibles en [!UICONTROL Administración] > [!UICONTROL Registro] > [!UICONTROL Registro de uso y acceso]. Encontrará más detalles sobre la autenticación, el esquema y la respuesta de ejemplo disponibles [aquí](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
+| Compatibilidad de paneles de Analytics con intervalos de fechas personalizados | 25 de marzo de 2021 | Los creadores de informes de valoración pueden crear y aplicar intervalos de fechas personalizados a los proyectos de informes de valoración móviles. Los creadores pueden elegir entre espacios de trabajo familiares y preconjuntos de intervalos de fechas móviles, o crear un intervalo de fechas personalizado. Esta función comenzará a implementarse el 25 de marzo. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
@@ -123,6 +124,7 @@ Fecha de la versión: **25 de marzo de 2021**
 | Compatibilidad con [!UICONTROL paneles de Adobe Analytics] | 25 de marzo de 2021 | [!UICONTROL Customer Journey Analytics]  (CJA) ahora es compatible con el Generador de informes de valoración de paneles de  [!UICONTROL Adobe Analytics y con el ] Creador de aplicaciones móviles. Esto permite a los ejecutivos y usuarios empresariales ver sus KPI de canales cruzados en función de los datos de CJA, utilizando la misma aplicación que ya están utilizando para Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] | 25 de marzo de 2021 | La página [!UICONTROL Componentes] > [!UICONTROL Preferencias de usuario] permite administrar la configuración de [!UICONTROL Analysis Workspace] y sus componentes relacionados para el usuario. [!UICONTROL Las ] preferencias de usuario se aplican a todos los proyectos y paneles nuevos. **Nota:** Las siguientes opciones de configuración se han trasladado a la página  [!UICONTROL Preferencias de ] usuario:<ul><li>Proyectos de Workspace: Ayuda > Habilitar sugerencias</li><li>Proyectos de Workspace: Panel en blanco, opción &quot;Iniciar nuevos proyectos con este panel&quot;</li></ul> |
 | Analysis Workspace: [!UICONTROL Predicción de bloques inteligentes de histograma] | 25 de marzo de 2021 |  La predicción de bloques Histograma inteligente ayuda con los histogramas de métricas de alta cardinalidad al identificar automáticamente la anchura y el número adecuados de bloques para la propagación de datos. Para las métricas de baja cardinalidad, la visualización se comporta del mismo modo que antes. |
+| Compatibilidad de paneles de Analytics con el Customer Journey Analytics | 25 de marzo de 2021 | La aplicación de paneles de Analytics ahora es compatible con Customer Journey Analytics. Los usuarios con Customer Journey Analytics pueden mostrar KPI de cualquier dato ingerido en Adobe Experience Platform en la aplicación de paneles de Analytics. Customer Journey Analytics le permite combinar varias fuentes de datos para obtener una vista verdadera y multicanal de la experiencia del cliente. Ahora, con la aplicación de paneles de Analytics, puede obtener una vista completa y actualizada de su empresa, en cualquier momento y en cualquier lugar. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
 
