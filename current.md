@@ -225,7 +225,7 @@ AEM 6.5, Service Pack 8 (6.5.8.0, publicado el 11 de marzo de 2021) es una actua
    * [Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es#service-pack)
    * [Características de la versión de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=es#forms-updates)
 
-   * **AEM 6.4.8.4**
+* **AEM 6.4.8.4**
 AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 publicado el 25 de febrero de 2021) es una actualización importante que incluye varias correcciones internas y de cliente desde la disponibilidad general de AEM 6.4, Service Pack 8 (6.4.8.0) en marzo de 2020.
    * [Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
    * [Características de la versión de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
