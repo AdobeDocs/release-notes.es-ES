@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
+source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
 workflow-type: tm+mt
-source-wordcount: '7045'
+source-wordcount: '7026'
 ht-degree: 32%
 
 ---
@@ -204,7 +204,6 @@ Nuevos vídeos, tutoriales o cursos publicados para Audience Manager.
 | 12 de marzo de 2021 | [Explicación de la ingesta de datos web en CDP en tiempo real para usuarios Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.html) | Vídeo | Conozca los conceptos relativos a la introducción de datos de sitios web en la plataforma de datos del cliente en tiempo real (CDP en tiempo real) e incluya un contacto de alto nivel sobre dónde se adapta el conector de datos del Audience Manager, así como la forma en que los datos pueden moverse del sitio web directamente a través del SDK web a CDP en tiempo real. |
 | 3 de marzo de 2021 | [Explicación de los segmentos en CDP en tiempo real para usuarios Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations) | Vídeo | Conozca las diferencias en la creación de segmentos y segmentos entre CDP en tiempo real y Audience Manager. |
 | 3 de marzo de 2021 | [Explicación de los rasgos en CDP en tiempo real para usuarios Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations) | Vídeo | Conozca las características en Audience Manager y qué equivalente se encuentra en CDP en tiempo real. |
-| 3 de marzo de 2021 | [Introducción al curso: Habilidades avanzadas del Audience Manager](https://video.tv.adobe.com/v/331788/?quality=12&learn=on) | Vídeo | Aprenda lo que le espera en el curso Audience Manager de habilidades avanzadas. |
 | 3 de marzo de 2021 | [Explicación de la ingesta de datos de origen en CDP en tiempo real para usuarios Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.html?lang=en#other-integrations) | Vídeo | Obtenga información sobre la ingesta de datos sin conexión de origen en la plataforma de datos del cliente en tiempo real (CDP en tiempo real). Obtenga información sobre algunas de las principales diferencias entre los dos productos con respecto a la ingesta de datos y muestra cómo se puede utilizar el conector de datos del Audience Manager como una brecha de parada hasta que los procesos se hayan trasladado a CDP en tiempo real. |
 | 1 de marzo de 2021 | [Comercializar las audiencias que posee ofreciéndoles a un Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.html?lang=en#audience-marketplace) | Vídeo | Obtenga información sobre cómo configurar los datos como una fuente de datos pública o privada en el Audience Marketplace, lo que lo convierte en un proveedor de datos de segundo o tercer nivel. |
 | Marzo de 2021 | [Creación y administración de la activación de datos en el Audience Manager](https://experienceleague.adobe.com/?lang=es&amp;recommended=AudienceManager-U-1-2020.4) | Curso | En este curso, aprenda todo sobre la activación de audiencias, por ejemplo, el envío de datos de audiencia a socios de destino para personalizar la experiencia para los usuarios finales. Conozca los conceptos básicos de los destinos, cómo elegir el destino adecuado y cómo preparar y enviar datos de audiencia a destinos de redes sociales basados en personas, no en cookies. |
