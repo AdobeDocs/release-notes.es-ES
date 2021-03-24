@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
+source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
 workflow-type: tm+mt
-source-wordcount: '7139'
-ht-degree: 32%
+source-wordcount: '7549'
+ht-degree: 30%
 
 ---
 
@@ -23,9 +23,10 @@ Las soluciones y servicios de Experience Cloud se actualizan mensualmente. Esta 
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes y puede contener contenido que esté sujeto a cambios antes de la fecha de lanzamiento. Consulte regularmente las actualizaciones de la documentación de Adobe Enterprise y Experience League.
 
-Actualización más reciente: **22 de marzo de 2021**
+Actualización más reciente: **24 de marzo de 2021**
 
-* [Estado del sistema de Adobe](#status) (no actualizado)
+* [Modelos de experiencia digital](#blueprints)  (nueva documentación de implementación)
+* [Estado del sistema de Adobe](#status)
 * [Componentes, servicios y administración de la interfaz de usuario del Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -43,6 +44,23 @@ Actualización más reciente: **22 de marzo de 2021**
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
+## ![](/assets/adobe.png) IconoModelos de experiencia digital  {#blueprints}
+
+Los modelos de experiencia digital son implementaciones repetibles para abordar la estrategia y resolver problemas empresariales establecidos. Los modelos aceleran el tiempo de respuesta al valor y proporcionan un camino rápido hacia el éxito.
+
+| Publicadas | Descripción |
+| -----------| ---------- |
+| [Modelos de experiencia digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | Información general sobre [!UICONTROL modelos digitales]. Cada modelo ofrece una serie de artefactos que explican el problema comercial de alto valor, las arquitecturas, los pasos de implementación, las consideraciones técnicas y los vínculos a la documentación relevante. |
+| [Modelo de Audience Activation](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | Esta activación por primera vez permite a las marcas conectar las interacciones de los clientes en varios canales para ofrecer una audiencia centralizada que se pueda activar en todos los canales. |
+| [Modelo de Centro de actividades del cliente](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | Descubra cómo las aplicaciones externas pueden acceder al [!UICONTROL Perfil del cliente en tiempo real] de Adobe Experience Platform. |
+| [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | Descubra cómo las marcas pueden unificar los datos y el comportamiento de los clientes desde varios canales y fuentes de interacción para crear una vista basada en el recorrido de todas las interacciones con los clientes. |
+| [Ciencia de datos personalizada para un modelo de enriquecimiento de perfiles](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | Descubra cómo [!UICONTROL Data Science Workspace] utiliza los datos de Adobe Experience Platform para entrenar, implementar y puntuar modelos para proporcionar perspectivas de aprendizaje automático. |
+| [Modelo de preparación e ingesta de datos](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | Obtenga información sobre cómo asignar datos de origen al esquema [!UICONTROL Experience Data Model] (XDM). Este modelo también incluye la realización de transformaciones en los datos, incluido el formato de fecha, la división de campos, la concatenación y las conversiones, así como la unión, combinación y reclaves de registros. |
+| [Modelo de informes y exploración de datos empresariales](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | El [!UICONTROL servicio de consulta] del Experience Platform permite realizar consultas SQL en los datos. Descubra cómo [!UICONTROL Data Science Workspace] permite que las cargas de trabajo de exploración, ciencia de datos y aprendizaje automático de los datos se realicen en los datos. |
+| [Modelo de organización de mensajes multicanal](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | Descubra cómo las marcas pueden interactuar y comunicarse de forma proactiva con sus clientes a través de canales como correo electrónico, SMS y alertas móviles. |
+| [Modelo de recopilación de datos empresariales del lado del servidor](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Descubra cómo los datos recopilados con los SDK web y móvil de Adobe Experience Platform se pueden reenviar desde el Experience Platform [!UICONTROL Edge Network] a un destino deseado. |
+| [Modelo de personalización móvil y web](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | Aprenda a utilizar la segmentación de audiencia en varias aplicaciones para personalizar y optimizar las experiencias de los clientes. Puede utilizar comportamientos de clientes, información demográfica, nivel de lealtad y transacciones anteriores para personalizar diseños, llamadas a acciones y contenido. |
+
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
 [!UICONTROL El estado del sistema de Adobe] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos en la nube de Adobe y las interrupciones y sesiones de mantenimiento de los servicios de Adobe. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
@@ -51,7 +69,9 @@ Las actualizaciones más recientes del estado del sistema de Adobe se encuentran
 
 ## ![](/assets/ec_appicon_24.png) IconoComponentes, servicios y administración de la interfaz de usuario de Experience Cloud  {#ecloud}
 
-**Búsqueda unificada:** la búsqueda unificada, que actualmente está disponible para Experience Platform, ahora admite la búsqueda de fuentes y destinos para usuarios Experience Platform. Esta función le permite buscar segmentos, conjuntos de datos, esquemas, fuentes y destinos.
+| Función | Descripción |
+| -----------| ---------- |
+| Búsqueda unificada | La búsqueda unificada, que actualmente está disponible para el Experience Platform, ahora admite la búsqueda de fuentes y destinos para los usuarios del Experience Platform. Esta función le permite buscar segmentos, conjuntos de datos, esquemas, fuentes y destinos. |
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
