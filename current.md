@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
+source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
 workflow-type: tm+mt
-source-wordcount: '7549'
+source-wordcount: '7534'
 ht-degree: 30%
 
 ---
@@ -87,8 +87,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Marzo de 2021 | [Panel de monitorización](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/monitoring-dashboard.html) | Vídeo | Obtenga información sobre cómo monitorizar y rastrear datos que se incorporan a Adobe Experience Platform mediante el panel de control de Campaign. Este tablero de monitorización proporciona una vista descendente del procesamiento de datos de origen a través del lago de datos a los niveles de ejecución de Perfil e Identidad en los niveles de origen, flujo de datos y flujo de datos, con avisos procesables de forma oportuna. |
-| Marzo de 2021 | [Ingesta de datos mediante conectores de flujo del servidor de servidor](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Vídeo | Este vídeo muestra cómo transmitir datos en tiempo real desde una fuente de almacenamiento en la nube a Platform y utilizar los datos en tiempo real para la participación de los clientes. |
-| Marzo de 2021 | [Ingesta de datos para ingenieros de datos](https://video.tv.adobe.com/v/331971?quality=12&learn=on) | Vídeo | Información general del curso Ingesta de datos . |
+| Marzo de 2021 | [Transmisión de datos mediante conectores de origen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Vídeo | Este vídeo muestra cómo transmitir datos en tiempo real desde una fuente de almacenamiento en la nube a Platform y utilizar los datos en tiempo real para la participación de los clientes. |
 | 5 de marzo de 2021 | [Ingesta de datos para ingenieros de datos](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion) | Curso | Cómo importar datos de varias fuentes a Adobe Experience Platform, etc. |
 | Marzo de 2021 | [Configuración del destino de Azure Blob](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=es#destinations) | Vídeo | Aprenda a seguir los pasos necesarios para configurar y configurar un destino de almacenamiento de Azure Blob en [!UICONTROL Plataforma de datos del cliente en tiempo real] (CDP en tiempo real). |
 | 5 de marzo de 2021 | [Introducción a Offer decisioning para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Curso | Obtenga información sobre el servicio de aplicaciones [!UICONTROL Offer decisioning] creado sobre Adobe Experience Platform. Este curso está diseñado para los especialistas en marketing que deseen aumentar los ingresos, la experiencia del cliente y la lealtad mediante el envío de las mejores ofertas a sus clientes. |
