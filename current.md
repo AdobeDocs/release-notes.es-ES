@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
+source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
 workflow-type: tm+mt
-source-wordcount: '7556'
+source-wordcount: '7773'
 ht-degree: 30%
 
 ---
@@ -429,15 +429,21 @@ Notas de la versión de Adobe Advertising Cloud.
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **22 de enero de 2021 para la versión del 23 de enero**
+Última actualización: **29 de marzo de 2022, para la versión del 27 de marzo**
 
 | Función | Descripción |
 | -----------| ---------- |
-| [!UICONTROL Buscar campañas]<br> Informes | Advertising Cloud Search ya no informa de nuevos datos de posición promedio para campañas publicitarias de Microsoft®. La columna Posición promedio muestra los valores de cero (0) para las fechas que comienzan el 23 de enero. Esto se está preparando para el cese de la utilización de los datos de posición promedio por parte de Microsoft en enero de 2021.<br>Los datos de posición promedio recopilados hasta el 22 de enero aún están disponibles en los informes. |
+| [!UICONTROL Buscar campañas]<br> Informes | (Campañas de Microsoft Ads) La compatibilidad de ofertas ya está disponible para la estrategia de oferta de Microsoft mejorada coste por clic (eCPC), que es la estrategia de oferta predeterminada para las campañas de Microsoft Advertising. Ahora puede especificar una [!UICONTROL estrategia de oferta] a nivel de campaña para sus campañas. Las opciones incluyen [!UICONTROL CPC manual] y [!UICONTROL CPC mejorado]. Puede utilizar [!UICONTROL CPC mejorado] con campañas de búsqueda, publicidad de búsqueda dinámica existente y campañas de compra.<br>Cuando agrega una campaña con eCPC a un portafolio optimizado de Advertising Cloud, Advertising Cloud optimiza las ofertas de base y, cuando la opción &quot;Ajustar automáticamente los límites presupuestarios de la campaña&quot; está activada, el presupuesto de la campaña. Microsoft aplica todos los ajustes de oferta y puede cambiar las ofertas generadas por Advertising Cloud en el momento de la consulta del usuario en función de los datos propietarios y las perspectivas.<br>La columna  [!UICONTROL Estrategias de ] oferta, personalizada, está disponible en la vista   Campañas y en los informes. |
+| [!UICONTROL Buscar campañas]<br> [!UICONTROL Hojas de edición en bloque] | (Campañas de publicidad de Microsoft) Para los anuncios de texto expandidos, ahora se admite un tercer titular opcional ([!UICONTROL Título de anuncio 3]) y una segunda descripción opcional ([!UICONTROL Descripción 2]). La compatibilidad está disponible en la vista [!UICONTROL Anuncios] y en [!UICONTROL Hojas de edición masiva]. |
+| [!UICONTROL Información sobre los anuncios] | Hay dos nuevas [!UICONTROL Advertising Insights] disponibles:<ul><li>[!UICONTROL Ingresos] retrasados: Mide el retraso de conversión (el tiempo transcurrido entre un clic SEM y una conversión posterior) de un portafolio y muestra cualquier diferencia en los ingresos ponderados, el ROI y la precisión del modelo debido al retraso.</li><li>[!UICONTROL Coincidencia cruzada de consultas]: Encuentra instancias de consultas de búsqueda que Google coincidió con más de una palabra clave y proporciona sugerencias para dónde dirigir el tráfico.</li></ul> |
 
-### Tutoriales y cursos de Ad Cloud
+### Tutoriales y cursos de Advertising Cloud
 
-Actualizado el **2 de diciembre de 2020**
+Actualización: **23 de febrero de 2021**
+
+| Tutorial | Descripción |
+| -----------| ---------- |
+| [Introducción a Workspace y Creación de informes](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=es) | Descubra cómo puede utilizar los datos de Advertising Cloud para crear informes visuales en Analysis Workspace de Adobe Analytics. |
 
 ## ![Icono](/assets/magento.png) [!DNL Magento] {#magento}
 
