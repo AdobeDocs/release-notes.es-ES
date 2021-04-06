@@ -4,14 +4,14 @@ description: Conozca las últimas notas de la versión, las nuevas funciones y l
 doc-type: release notes
 last-update: March 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
+source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
 workflow-type: tm+mt
-source-wordcount: '7773'
-ht-degree: 30%
+source-wordcount: '7872'
+ht-degree: 29%
 
 ---
-
 
 # Notas de la versión de Adobe Experience Cloud: marzo de 2021
 
@@ -23,7 +23,7 @@ Las soluciones y servicios de Experience Cloud se actualizan mensualmente. Esta 
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes y puede contener contenido que esté sujeto a cambios antes de la fecha de lanzamiento. Consulte regularmente las actualizaciones de la documentación de Adobe Enterprise y Experience League.
 
-Actualización más reciente: **24 de marzo de 2021**
+Última actualización: **6 de abril de 2021**
 
 * [Modelos de experiencia digital](#blueprints)  (nueva documentación de implementación)
 * [Estado del sistema de Adobe](#status)
@@ -31,7 +31,7 @@ Actualización más reciente: **24 de marzo de 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) **(actualizado el 6 de abril de 2021)** y  [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -140,7 +140,7 @@ Fecha de la versión: **25 de marzo de 2021**
 * [Nuevas funciones en Adobe Analytics](#aa-features)
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey)
 * [Correcciones en Adobe Analytics](#aa-fixes)
-* [Avisos importantes para los administradores de Analytics](#aa-notices)
+* [Avisos importantes para los administradores de Analytics](#aa-notices)  **(actualizado el 6 de abril de 2021)**
 * [AppMeasurement](#appm)
 
 ### Funciones nuevas en Adobe Analytics {#aa-features}
@@ -181,6 +181,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
+| Cambios en la fuente de datos y la dirección IP de Data Warehouse | 6 de abril de 2021 | A partir del 17 de junio, el sistema de entrega de fuentes de datos y Datas Warehouse se reubicará dentro de nuestros centros de datos y, por lo tanto, puede provocar un cambio en las direcciones IP externas que usted pueda ver.  Debe confirmar que todos los bloques CIDR de IP del centro de datos donde se originan los informes y las fuentes están presentes en cualquier cortafuegos, para cualquier sistema de destino que controle. [Esta es una lista completa de intervalos de direcciones IP que se deben colocar en las listas de permitidos](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) del cortafuegos. |
 | Aviso de los próximos cambios en el menú de Analytics | 24 de marzo de 2021 | El 22 de abril de 2021, actualizaremos los menús desplegables **[!UICONTROL Componentes]**, **[!UICONTROL Herramientas]** y **[!UICONTROL Administración]** para lograr algunas mejoras en el rendimiento. Todas estas páginas seguirán estando disponibles en los vínculos **[!UICONTROL Todos los componentes]**, **[!UICONTROL Todas las herramientas]** y **[!UICONTROL Todos los administradores]**; simplemente se eliminarán del menú desplegable. Estos son los elementos de menú que se eliminarán del menú desplegable y se colocarán en su página de vínculo respectiva:<br><br> [!UICONTROL Componentes]<ul><li>[!UICONTROL Marcadores]</li><li>[!UICONTROL Tableros]</li><li>[!UICONTROL Objetivos]</li><li>[!UICONTROL Eventos de calendario]</li><li>[!UICONTROL Informes programados]</li><li>[!UICONTROL Configuración de informes]</li></ul>Herramientas de <ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Administrador]<ul><li>[!UICONTROL Administración de usuarios]</li><li>[!UICONTROL Importador de clasificaciones]</li><li>[!UICONTROL Clasificación del Generador de reglas]</li><li>[!UICONTROL Fuentes de datos]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Configuración de la empresa]</li><li>[!UICONTROL Registros]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Administrador de códigos]</li><li>[!UICONTROL Excluir por dirección IP]</li><li>[!UICONTROL Administración del tráfico]</li></ul> |
 | [!UICONTROL Procesamiento]  de VISTA igual a SiteCatalyst = ON | 17 de marzo de 2021 | El 17 de junio de 2021, todos los grupos de informes se actualizarán para que [!UICONTROL Procesamiento de VISTA igual a SiteCatalyst] esté activado. Este cambio afecta a los informes de [!UICONTROL Data Warehouse] al procesar los datos para que coincidan con las reglas de procesamiento. Si tiene alguna pregunta o aclaración, póngase en contacto con el Servicio de atención al cliente de Adobe. |
 | Fin de la vida útil de [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] | 10 de marzo de 2021 | El Adobe planea eliminar [!UICONTROL Procesamiento completo] [!UICONTROL Fuentes de datos] en el futuro. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. [Más información](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
