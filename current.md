@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e5c34b37703cc4aaf0c6711dc5da7857321375ae
+source-git-commit: 21fdbc0a354a87723097e294db15d88e9877061c
 workflow-type: tm+mt
-source-wordcount: '5431'
+source-wordcount: '5430'
 ht-degree: 42%
 
 ---
@@ -343,7 +343,7 @@ Notas de la versión de Adobe Advertising Cloud.
 | -----------| ---------- |
 | Nuevo Ayuda | (Versión del 28 de octubre) La ayuda anterior se ha sustituido por páginas actualizadas, que están disponibles en el vínculo Ayuda del menú principal de DSP, y también están disponibles en todo momento en [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=es). |
 | Campañas | (Versión del 28 de octubre) Las vistas beta de Campaign anteriores son ahora las vistas de Campaign predeterminadas para obtener perspectivas más rápidas, flujos de trabajo simplificados y vistas personalizadas. |
-| Inventario privado | (Versión del 15 de octubre) Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de [!UICONTROL servicio de publicidad inteligente]. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventory]** > **!UICONTROL Deals]**, haga clic en **[!UICONTROL Create]** y, a continuación, haga clic en **[!UICONTROL Deal ID Beta]**. |
+| Inventario privado | (Versión del 15 de octubre) Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del formulario heredado de servicio de publicidad inteligente. Para configurar los detalles del nuevo ID de acuerdo, vaya a **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]** y haga clic en **[!UICONTROL Deal ID Beta]**. |
 | Previsión de ubicación | (Versión del 15 de octubre) En el caso de las ubicaciones con un ritmo de nivel de ubicación, la sección [!UICONTROL Previsión] de la configuración de ubicación incluye una nueva sección [!UICONTROL Máximos estimados], que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. |
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
