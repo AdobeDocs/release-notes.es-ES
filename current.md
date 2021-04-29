@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 0bea009a45c2c507b900bb8aea93a02d59c11c98
+source-git-commit: 88813a1c8a3510b84057dff39603fb30e252c64b
 workflow-type: tm+mt
-source-wordcount: '5498'
-ht-degree: 36%
+source-wordcount: '5690'
+ht-degree: 35%
 
 ---
 
@@ -157,6 +157,7 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| Abril de 2021 | [Configuración básica de vistas de datos en Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/basic-configuration-for-data-views.html) | Vídeo | Una vez que haya creado una [!UICONTROL Conexión] en Customer Journey Analytics a conjuntos de datos en Adobe Experience Platform, debe crear una [!UICONTROL Vista de datos] para esa [!UICONTROL Conexión], de modo que pueda utilizar los datos en Analysis Workspace en Platform. Este vídeo lo acompaña durante la configuración básica de una [!UICONTROL Vista de datos]. |
 | Abril de 2021 | [Preferencias de usuario en Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/user-preferences.html) | Vídeo | La página Componentes: preferencias de usuario permite administrar la configuración de Analysis Workspace y sus componentes relacionados a nivel de usuario. Por ejemplo, puede elegir un grupo de informes predeterminado y una paleta de colores. Las preferencias de usuario se aplican a todos los proyectos nuevos y paneles nuevos. |
 | Abril de 2021 | [Uso de desplegables de componentes en Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-component-dropdowns-in-workspace.html) | Vídeo | Los desplegables de componentes le permiten elegir entre una lista de componentes compatibles para crear su análisis. También puede crear componentes directamente desde la lista desplegable si no encuentra lo que necesita. Estos espacios también funcionan como zonas de colocación si tiene un caso de uso más avanzado. |
 | Abril de 2021 | [Introducción de datos en visualizaciones](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/getting-data-into-visualizations.html?lang=en#analysis-workspace) | Vídeo | Al añadir visualizaciones en Analysis Workspace, existen varias formas de agregarles datos, según el tipo de visualización. Este vídeo muestra estos métodos.Options |
@@ -274,6 +275,8 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| Abril de 2021 | [Instalación de 32 pero bibliotecas para la instalación de AEM Forms Linux](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/installing-aem-form-on-linux.html) | Artículo | Aprenda a instalar bibliotecas de 32 bits para AEM Forms para que funcionen en la instalación de Linux. |
+| Abril de 2021 | [Crear la configuración de Cloud Services de Adobe Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adobe-sign-cloud-configuration.html) | Artículo | Cree la configuración de los servicios en la nube de Adobe Sign para integrarla con Adobe Sign mediante la aplicación de API de Adobe Sign. |
 | Abril de 2021 | [SPA Editor y SPA remoto: información general: tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Tutorial | Descubra cómo se puede actualizar un SPA remoto o un SPA que se ejecute fuera del contexto de AEM para consumir y entregar contenido creado en AEM. Este tutorial se basa en la aplicación WKND GraphQL, una aplicación React que consume AEM contenido de fragmentos de contenido a través de las API de GraphQL de AEM. |
 | Abril de 2021 | [Conceptos básicos de modelos de GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Vídeo | Aprenda a definir y utilizar fragmentos de contenido en Adobe Experience Manager (AEM) para su uso con GraphQL. |
 | Abril de 2021 | [Modelado avanzado para GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Vídeo | Aprenda a crear relaciones entre los modelos de fragmento de contenido en Adobe Experience Manager (AEM) y a aprovechar estas relaciones en las consultas de GraphQL. |
@@ -406,6 +409,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Adobe Document Cloud.
 
 | Publicadas | Nombre | Solución | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| Abril de 2021 | [Administración de flujos de trabajo de documentos financieros con API de servicios de documentos de Adobe en Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Tutorial | Aprenda cómo puede utilizar las API de servicios de documentos de Adobe para aplicaciones [!DNL Java Spring Boot] y crear una aplicación de controlador de vista de modelo (MVC) que extraiga contenido de documentos PDF, lo convierta a otros formatos de datos como Excel, combine varios PDF y proteja los recursos con contraseña. |
 | Abril de 2021 | [Controle su experiencia en línea de PDF y recopile análisis](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | Artículo | ¿Su organización publica archivos PDF en su sitio web? Aprenda a utilizar la API de incrustación de Adobe PDF para controlar la apariencia, habilitar la colaboración y recopilar análisis sobre cómo interactúan el usuario con los archivos PDF, incluido el tiempo invertido en una página y búsquedas. |
 | Abril de 2021 | [Administración de flujos de trabajo de documentos financieros con API de servicios de documentos de Adobe en Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artículo | Aprenda a utilizar las API de servicios de documentos de Adobe para las aplicaciones de inicio de primavera de Java™. Cree una aplicación de controlador de vista de modelo (MVC) que extraiga contenido de documentos PDF, lo convierta a otros formatos de datos como Excel, combine varios PDFs y proteja los recursos con contraseña. |
 | Abril de 2021 | [Flujos de trabajo de documentos de HR con API de servicios de documentos de Adobe en Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | Tutorial | Muchas empresas necesitan documentación sobre un nuevo contrato, como acuerdos laborales para empleados que trabajan desde casa. Tradicionalmente, las empresas administraban estos documentos físicamente en formularios difíciles de administrar y almacenar. Al cambiar a documentos electrónicos, los archivos PDF son una opción ideal porque son más seguros y menos modificables que otros tipos de archivos. Además, también admiten firmas digitales. |
