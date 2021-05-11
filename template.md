@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 99%
@@ -97,7 +97,7 @@ Con Adobe [!UICONTROL Experience Platform,] puede organizar los recorridos indiv
 
 #### Recursos adicionales para [!UICONTROL Journey Orchestration]
 
-[Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[Documentación](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/journeys/using/release-notes/release-notes.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services] y [!UICONTROL Mobile SDK] {#mobile}
 
@@ -161,7 +161,7 @@ Vea las [Notas de la versión del Data Workbench](https://docs.adobe.com/content
 * Se ha corregido un problema que hacía que se mostrara
 * Se ha corregido un problema que hacía que se mostrara
 
-Consulte el [Historial de versiones de AppMeasurement](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) para ver el historial de versiones de AppMeasurement en las plataformas siguientes:
+Consulte el [Historial de versiones de AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) para ver el historial de versiones de AppMeasurement en las plataformas siguientes:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
