@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 2659558cae189222d57865d7027115f024dac44d
+source-git-commit: 7ba8d1728f066499f8b0cdb8fb5fad1abe83ec53
 workflow-type: tm+mt
-source-wordcount: '5689'
+source-wordcount: '5695'
 ht-degree: 99%
 
 ---
@@ -23,14 +23,14 @@ Las soluciones y servicios de Experience Cloud se actualizan mensualmente. Esta 
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **29 de abril de 2021**
+Última actualización: **11 de mayo de 2021**
 
 * [Estado del sistema de Adobe](#status)
 * [Componentes, servicios y administración de IU de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) y [Customer Journey Analytics](#cust-journey)
+* [](#analytics) Analytics y  [Customer Journey Analytics](#cust-journey)  (actualizado el 11 de mayo de 2021)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -99,8 +99,8 @@ Lanzamiento de febrero de 2021: Descubra las últimas funciones en las [Notas de
 
 Fecha de publicación: **22 de abril de 2021**
 
-* [Nuevas funciones en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
+* [Nuevas funciones de Adobe Analytics](#aa-features)  (actualizado el 11 de mayo de 2021)
+* [Nuevas funciones de Customer Journey Analytics](#cust-journey)  (actualizado el 11 de mayo de 2021)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [Cursos y tutoriales sobre Analytics](#tutorials-analytics)
@@ -111,7 +111,7 @@ Fecha de publicación: **22 de abril de 2021**
 | Función | [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=es) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
 | Paneles de Analytics: Intervalos de fechas personalizados | 22 de abril de 2021 | Permite a los usuarios de la aplicación móvil de Analytics aplicar intervalos de fechas personalizados a sus cuadros de resultados, además de los intervalos de fechas preestablecidos disponibles actualmente. |
-| Workspace: Versiones anteriores del proyecto | 13 de mayo de 2021 | Permite cargar versiones anteriores de un proyecto de Workspace para deshacer cambios no deseados o simplemente volver a una versión anterior preferida. |
+| Workspace: Versiones anteriores del proyecto | 20 de mayo de 2021 | Permite cargar versiones anteriores de un proyecto de Workspace para deshacer cambios no deseados o simplemente volver a una versión anterior preferida. |
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
@@ -120,7 +120,7 @@ Fecha de publicación: **22 de abril de 2021**
 | Vistas de datos de CJA mejoradas | 22 de abril de 2021 | Las vistas de datos mejoradas amplían en gran medida su flexibilidad para crear métricas y dimensiones a partir de campos de esquema XDM. Puede utilizar un campo de cadena como métrica. Puede utilizar un campo numérico como dimensión y crear varias métricas desde el mismo campo con diferentes modelos de atribución y ventanas de conversión. Además, puede hacer que las métricas y dimensiones sean compatibles entre las vistas de datos, ocultar un componente de los informes e incluir o excluir valores, utilizar bloques, y mucho más. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=es) |
 | Workspace: Compatibilidad con informes programados | 7 de abril de 2021 | Los informes programados ahora son compatibles con CJA. |
 | Paneles de Analytics: Intervalos de fechas personalizados | 22 de abril de 2021 | Permite a los usuarios de la aplicación móvil de Analytics aplicar intervalos de fechas personalizados a sus cuadros de resultados, además de los intervalos de fechas preestablecidos disponibles actualmente. |
-| Workspace: Versiones anteriores del proyecto | 13 de mayo de 2021 | Permite cargar versiones anteriores de un proyecto de Workspace para deshacer cambios no deseados o simplemente volver a una versión anterior preferida. |
+| Workspace: Versiones anteriores del proyecto | 20 de mayo de 2021 | Permite cargar versiones anteriores de un proyecto de Workspace para deshacer cambios no deseados o simplemente volver a una versión anterior preferida. |
 
 ### Correcciones en Adobe Analytics {#aa-fixes}
 
