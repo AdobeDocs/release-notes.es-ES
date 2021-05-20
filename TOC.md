@@ -5,10 +5,9 @@ user-guide-title: Notas de la versión de Adobe Experience Cloud
 breadcrumb-title: Notas de la versión
 user-guide-description: Obtenga información sobre nuevas funciones, correcciones y avisos importantes de Adobe Experience Cloud y Experience Platform.
 user-guide-url: https://www.adobe.com
-translation-type: ht
-source-git-commit: 23b21798efb0ed55bd99c72f9f7ba307a1845b78
-workflow-type: ht
-source-wordcount: '66'
+source-git-commit: 49fd5b10ffc4798ddd4b14b89440a4d6b7daf530
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -19,12 +18,13 @@ ht-degree: 100%
 + [Notas de la versión actual](current.md)
 + Notas de la versión anterior {#previous}
    + 2021 {#2021}
+      + [Abril de 2021](c-legacy-releases/2021/04222021.md)
       + [Marzo de 2021](c-legacy-releases/2021/03252021.md)
       + [Febrero de 2021](c-legacy-releases/2021/02182021.md)
       + [Enero de 2021](c-legacy-releases/2021/01142021.md)
    + 2020 {#2020}
       + [Noviembre de 2020](c-legacy-releases/2020/10292020.md)
-      + [Octubre de 2020](c-legacy-releases/2020/10082020.md)
+      + [octubre de 2020](c-legacy-releases/2020/10082020.md)
       + [Septiembre de 2020](c-legacy-releases/2020/09102020.md)
       + [Agosto de 2020](c-legacy-releases/2020/08132020.md)
       + [Julio de 2020](c-legacy-releases/2020/07162020.md)
@@ -36,7 +36,7 @@ ht-degree: 100%
       + [Enero de 2020](c-legacy-releases/2020/01162020.md)
    + 2019 {#2019}
       + [Noviembre de 2019](c-legacy-releases/2019/10312019.md)
-      + [Octubre de 2019](c-legacy-releases/2019/10102019.md)
+      + [de octubre de 2019](c-legacy-releases/2019/10102019.md)
       + [Septiembre de 2019](c-legacy-releases/2019/09122019.md)
       + [Agosto de 2019](c-legacy-releases/2019/08082019.md)
       + [Julio de 2019](c-legacy-releases/2019/07182019.md)
