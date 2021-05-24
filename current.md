@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9e29b645302ecff11108f8d265a1e4ec3e06a755
+source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
 workflow-type: tm+mt
-source-wordcount: '5365'
+source-wordcount: '5360'
 ht-degree: 43%
 
 ---
@@ -75,7 +75,7 @@ Descubra las funciones, mejoras y correcciones más recientes en las [Notas de l
 
 ### Recursos adicionales para Journey Orchestration
 
-[Documentación](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Vídeos de presentación](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=es)
+[Documentación](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Vídeos de presentación](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
@@ -105,7 +105,7 @@ Fecha de versión: **20 de mayo de 2021**
 | Función | [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=es) - Fecha de destino | Descripción |
 | ----------- | ---------- | ------- |
 | Workspace: Versiones anteriores del proyecto | 20 de mayo de 2021 | Permite cargar versiones anteriores de un proyecto de Workspace para deshacer cambios no deseados o simplemente volver a una versión anterior preferida. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version) |
-| Las solicitudes de API de Data Warehouse ahora admiten &quot;Horas&quot; | 20 de mayo de 2021 | Las solicitudes de API de Data Warehouse admiten fechas en formato `Y-m-d h:m:s` cuando el parámetro `"fuzzyDates”:false` se proporciona en el cuerpo de la solicitud. Esto permite solicitar los datos de Data Warehouse del día actual, mientras que anteriormente, el día tendría que completarse antes de que se devolvieran los datos. [Más información](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+| Las solicitudes de API de Data Warehouse ahora admiten &quot;Horas&quot; | 20 de mayo de 2021 | Las solicitudes de API de Data Warehouse admiten fechas en formato `Y-m-d h:m:s` cuando el parámetro `"fuzzyDates”:false` se proporciona en el cuerpo de la solicitud. Esta actualización permite solicitar datos de Data Warehouse para el día actual, mientras que anteriormente, el día tendría que completarse antes de que se devolvieran datos. [Más información](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -133,7 +133,7 @@ AN-240821; AN-243625; AN-243958; AN-248728; AN-249877; AN-250151; AN-251273; AN-
 | ----------- | ---------- | ---------- |
 | Los agentes de usuario del explorador reflejan versiones incorrectas del sistema operativo para macOS | 19 de mayo de 2021 | Actualmente, todos los exploradores principales informan incorrectamente a los usuarios de macOS X 11 y versiones posteriores del uso de macOS 10, tal como se registró en la cadena del agente de usuario del explorador. Este problema afecta a los informes de Adobe Analytics, ya que utiliza el agente de usuario para determinar la información del dispositivo, como el sistema operativo. Aparentemente, esta inexactitud sirve para evitar problemas de compatibilidad en algunos sitios web. Consulte este [ticket de Bugzilla](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) como referencia. No está claro cuándo o si se corregirá este problema.<br>Algunos exploradores registraron inicialmente macOS 11 correctamente, por lo que es posible que haya tráfico que coincida con este valor. Sin embargo, debido a los informes inexactos, el filtrado para el sistema operativo macOS 11 no es útil.<br>Este problema es significativo porque, a partir de Safari en macOS 11, Apple actualizó las limitaciones de caducidad de las cookies ITP para aplicarlas a las implementaciones CNAME (consulte la publicación en el blog de  [WebKit](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Antes de esta actualización, estas limitaciones se aplicaban solo a las cookies del lado del cliente configuradas mediante JavaScript. Esta inexactitud dificulta la evaluación de cuánto tráfico está usando OS 11 y, por lo tanto, se ve afectado por el cambio de ITP. Puede obtener más información sobre las cookies y Adobe Analytics [aquí](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
 | Fin de la vida útil de tres servicios de API de Analytics | 19 de mayo de 2021 | El 18 de agosto de 2021, los siguientes servicios de API heredadas de Analytics llegaron a su fecha de finalización y se cerraron. Cualquier integración actual creada con estos servicios dejó de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe ha proporcionado una [Preguntas frecuentes sobre el fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para ayudarle a responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
-| Actualizaciones de la región ISO 2021 | 13 de mayo de 2021 | Adobe realizará actualizaciones de la región ISO 2021 el 21 de mayo de 2021. Después de esta versión, debería ver actualizaciones menores. |
+| Actualizaciones de la región ISO 2021 | 13 de mayo de 2021 | Adobe realizará actualizaciones de la región ISO 2021 el 21 de mayo de 2021. Después de esta versión se esperan actualizaciones menores. |
 | Fin de la vida útil de las fuentes de datos de procesamiento completo | 12 de abril de 2021 | Adobe tiene planificado dejar de utilizar el procesamiento completo de fuentes de datos el 31 de julio de 2021. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
 | Actualización de inicio de sesión en [!UICONTROL Report Builder] | 9 de abril de 2021 | El 14 de enero de 2021, las actualizaciones de inicio de sesión de [!UICONTROL Report Builder] eliminaron las dependencias de tecnologías heredadas y alinearon el proceso de inicio de sesión con Experience Cloud. Experience Cloud utiliza su Enterprise ID (correo electrónico y contraseña). Para garantizar el acceso ininterrumpido a [!UICONTROL Report Builder], actualice el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior antes del 22 de julio de 2021. La versión 5.6.47 y posteriores de Report Builder solo admitirán el inicio de sesión de Experience Cloud y no el inicio de sesión único. |
 | Cambios en la dirección IP de la fuente de datos y de Data Warehouse | 6 de abril de 2021 | A partir del 17 de junio, el sistema de entrega de Data Feeds y Data Warehouse será reubicado en los centros de datos de Adobe y, por lo tanto, puede haber cambios en las direcciones IP externas que usted ve. Adobe le recomienda que confirme que todos los bloques CIDR de IP del centro de datos donde se originan los informes y las fuentes estén presentes en cualquier cortafuegos de cualquier sistema de destino que usted administra. [Esta es una lista completa de intervalos de direcciones IP que se deben colocar en las listas de permitidos](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=es#data-collection-and-ftp-ip-address-blocks) del cortafuegos. |
@@ -361,10 +361,10 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 Notas de la versión de [!DNL Adobe Advertising].
 
-* [Nuevas funciones de Advertising Cloud DSP](#adcloud-dsp)
-* [Nuevas funciones en Advertising Cloud Search](#adcloud-search)
+* [Nuevas funciones de Advertising DSP](#adcloud-dsp)
+* [Nuevas funciones en Advertising Search](#adcloud-search)
 
-### Nuevas funciones de la versión [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nuevas funciones de la versión [!DNL Advertising DSP] {#adcloud-dsp}
 
 Última actualización: **19 de mayo de 2021 para la versión del 5 de mayo**
 
@@ -374,13 +374,13 @@ Notas de la versión de [!DNL Adobe Advertising].
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
+### Nuevas funciones de la versión [!DNL Advertising Search] {#adcloud-search}
 
 Última actualización: **19 de mayo de 2021, para la versión del 18 de mayo**
 
 | Función | Descripción |
 | -----------| ---------- |
-| [!UICONTROL Centro de notificaciones beta] | El [!UICONTROL Centro de notificaciones beta] está disponible para todos los usuarios. Puede utilizarla para suscribirse a notificaciones por correo electrónico y web sobre errores de autenticación de cuenta, alertas personalizadas activadas y finalización de [!UICONTROL Advertising Insights] que genere.<br>Puede ver las notificaciones desde:<ul><li>El panel [!UICONTROL Notifications], que se abre desde el vínculo Notifications en la parte superior derecha de cualquier página.</li><li>El [!UICONTROL Centro de notificaciones] en [!UICONTROL Insights &amp; Reports >Notification Center Beta].</li></ul><br><b>Nota:</b> Debido a las mejoras en el modo de almacenamiento de las notificaciones, se borraron todas las notificaciones existentes. |
+| [!UICONTROL Centro de notificaciones beta] | El [!UICONTROL Centro de notificaciones beta] está disponible para todos los usuarios. Utilícelo para suscribirse a notificaciones por correo electrónico y web sobre errores de autenticación de cuenta, alertas personalizadas que se activan y finalización de [!UICONTROL Advertising Insights] que genere.<br>Puede ver las notificaciones desde:<ul><li>El panel [!UICONTROL Notifications], que se abre desde el vínculo Notifications en la parte superior derecha de cualquier página.</li><li>El [!UICONTROL Centro de notificaciones] en [!UICONTROL Insights &amp; Reports >Notification Center Beta].</li></ul><br><b>Nota:</b> Debido a las mejoras en el modo de almacenamiento de las notificaciones, se borraron todas las notificaciones existentes. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -409,7 +409,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Adobe Document Cloud.
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Mayo de 2021 | [Crear experiencias de firma electrónica y documento incrustadas](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | Artículo | Aprenda a utilizar las API de Adobe Sign para incrustar la firma electrónica y documentar experiencias en las plataformas web y en los sistemas de administración de contenido y documentos. (Cuatro partes). |
-| Mayo de 2021 | [Automatización de documentos con Adobe Sign para Microsoft Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | Artículo | Obtenga información sobre cómo activar y utilizar los conectores de herramientas de Adobe Sign y Adobe PDF para aplicaciones de Microsoft Power. Cree flujos de trabajo que automaticen los procesos de aprobación y firma empresarial de forma rápida y segura sin ningún código. (Cuatro partes). |
+| Mayo de 2021 | [Automatización de documentos con Adobe Sign para Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artículo | Obtenga información sobre cómo activar y utilizar los conectores Adobe Sign y Adobe PDF Tools para aplicaciones Microsoft® Power. Cree flujos de trabajo que automaticen los procesos de aprobación y firma empresarial de forma rápida y segura sin ningún código. (Cuatro partes). |
 
 {style=&quot;table-layout:auto&quot;}
 
