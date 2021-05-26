@@ -4,10 +4,9 @@ description: Notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
-source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1344'
 ht-degree: 99%
 
 ---
@@ -30,14 +29,14 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 **Fecha de la versión: 2020**
 
 * [Estado del sistema de Adobe](#status)
-* [Interfaz de Experience Cloud](#ecloud)
+* [Interfaz de Experience Cloud ](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Target](https://docs.adobe.com/content/help/es-ES/target/using/release-notes/target-release-notes.html) (vínculos a las soluciones de ayuda)
-* [Advertising Cloud](#adcloud)
+* [Publicidad](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://helpx.adobe.com/es/primetime/user-guide.html) (vínculos a las páginas de ayuda de la solución)
@@ -74,14 +73,14 @@ Para obtener documentación del producto, consulte [Administrar usuarios y produ
 
 Notas de la versión de [!DNL Experience Platform,] incluyendo [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL ofertas], [!UICONTROL usuarios], [!UICONTROL Places], [!UICONTROL Mobile Services], y boletines de seguridad.
 
-* [Servicio Experience Cloud ID](#ecid)
+* [Servicio de Experience Cloud ID](#ecid)
 * [Notas de la versión de Experience Platform](https://docs.adobe.com/content/help/es-ES/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Organización de recorridos](#journey)
+* [Journey Orchestration](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
 * [Boletines de seguridad y avisos](https://helpx.adobe.com/es/security.html) (Todos los productos de Adobe)
 
-### [!UICONTROL Servicio Experience Cloud ID] {#ecid}
+### [!UICONTROL Servicio de Experience Cloud ID] {#ecid}
 
 Funciones y correcciones.
 
@@ -270,7 +269,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 * Adobe Campaign Classic: [Documentación](https://helpx.adobe.com/es/support/campaign/classic.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de presentación](https://docs.adobe.com/content/help/es-ES/campaign-learn/campaign-classic-tutorials/overview.html)
 * Panel de control de Adobe Campaign: [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html) - [Notas de la versión](https://docs.adobe.com/content/help/es-ES/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## Publicidad {#adcloud}
 
 | Función | Descripción |
 | ------- | ------- |
