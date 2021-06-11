@@ -2,17 +2,17 @@
 title: Notas de la versión de Adobe Experience Cloud
 description: Notas de la versión de Experience Cloud
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
-source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
+source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
 workflow-type: tm+mt
 source-wordcount: '1344'
-ht-degree: 79%
+ht-degree: 80%
 
 ---
 
 
-# PLANTILLA: Notas de la versión de Adobe Experience Cloud: mes de 2020
+# PLANTILLA: Notas de la versión de Adobe Experience Cloud: mes de 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -26,7 +26,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 >
 >Suscríbase a la [actualización de producto prioritaria de Adobe](https://www.adobe.com/subscription/priority-product-update.html) para recibir notificaciones por correo electrónico de las próximas versiones. La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
 
-**Fecha de la versión: 2020**
+**Fecha de la versión: 2021**
 
 * [Estado del sistema de Adobe](#status)
 * [Interfaz de Experience Cloud ](#ecloud)
@@ -96,7 +96,7 @@ Con Adobe [!UICONTROL Experience Platform,] puede organizar los recorridos indiv
 
 #### Recursos adicionales para [!UICONTROL Journey Orchestration]
 
-[Documentación](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) - [Vídeos de presentación](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
+[Documentación](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) - [Vídeos de presentación](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es)
 
 ### [!UICONTROL Mobile Services] y [!UICONTROL Mobile SDK] {#mobile}
 
@@ -223,11 +223,11 @@ Los siguientes conjuntos de documentación AEM se han migrado a una nueva plataf
 
 * [Inicio de Información y asistencia de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=es)
 * [Inicio de Información y asistencia de AEM 6.3](https://helpx.adobe.com/es/support/experience-manager/6-3.html)
-* [Inicio de Información y asistencia de AEM 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
+* [Inicio de Información y asistencia de AEM 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es)
 * [Guía del usuario de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=es)
 * [Versiones anteriores de la documentación de AEM](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es)
 * [Notas de la versión de Scene7 Publishing System](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=es)
-* [Notas de la versión de Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
+* [Notas de la versión de Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=es)
 
 ### [!DNL Livefyre] {#livefyre}
 
