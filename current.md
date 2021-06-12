@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
+source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
 workflow-type: tm+mt
 source-wordcount: '5062'
 ht-degree: 51%
@@ -58,7 +58,7 @@ Los componentes de interfaz central de Experience Cloud incluyen actualizaciones
 
 * Ayuda de administración para [Componentes de interfaz central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) y administración de usuarios
 * Ayuda y notas de la versión de [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
-* Ayuda sobre [People - Atributos del cliente y Biblioteca de audiencias](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
+* Ayuda de [People - Atributos del cliente y Biblioteca de audiencias](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 Para obtener documentación del producto sobre estas funciones, consulte [Componentes de la interfaz central del Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
@@ -413,7 +413,7 @@ Para obtener ayuda de Document Cloud, consulte:
 ## ![Icono](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
 
 | Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
+| ----------| --------- | --------- | --------- |
 | Junio de 2021 | [Pruebe la mano en el Fresco en el iPad (y en el iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html) | Vídeo | Explore todo un mundo nuevo de dibujo digital y pintura con Adobe Fresca en este taller práctico de 15 minutos. Aprenda rápidamente a trabajar con capas y máscaras de recorte para ajustar la pintura y las texturas a una forma base. |
 | Junio de 2021 | [Descodificación de la sopa de alfabetos de formatos gráficos](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html) | Vídeo | Los archivos PG, PNG, SVG, GIF y EPS se utilizan normalmente en el diseño, algunos para páginas web, otros para presentaciones, publicaciones y proyectos creativos. Pero... ¿qué quieren decir, y cuál deberías escoger? Averigüe en este taller práctico de 15 minutos. |
 
