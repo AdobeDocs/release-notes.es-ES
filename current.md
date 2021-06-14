@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
+source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
 workflow-type: tm+mt
-source-wordcount: '4926'
+source-wordcount: '4930'
 ht-degree: 52%
 
 ---
@@ -51,7 +51,7 @@ Los componentes de interfaz central de Experience Cloud incluyen actualizaciones
 | Función | Fecha | Descripción |
 | ------- | ------- | ------- |
 | Compatibilidad con inicio de sesión único para Federated ID de Adobe | 17 de junio de 2021 | Si utiliza Federated ID, puede iniciar sesión en el Experience Cloud sin tener que introducir una dirección de correo electrónico o contraseña. Para utilizar esta función, añada **#/sso:@domain** a la dirección URL del Experience Cloud. <br><br>Por ejemplo, suponga que es el propietario del dominio  **adobecustomer.** command y que desea iniciar sesión en Adobe Analytics. La dirección URL sería: **https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Búsqueda en Experience League | 1 de junio de 2021 | Se ha mejorado la búsqueda de documentación de Experience League. Vaya a [Experience League](https://experienceleague.adobe.com/docs/?lang=en) y utilice el campo **[!UICONTROL Search]** para localizar tutoriales, documentación, cursos y más. |
+| Búsqueda de Experience League | 1 de junio de 2021 | Se ha mejorado la búsqueda de documentación del Experience League. Vaya a [Experience League](https://experienceleague.adobe.com/docs/?lang=en) y utilice el campo **[!UICONTROL Buscar]** para localizar tutoriales, documentación, cursos y más. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -89,7 +89,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 | Junio de 2021 | [Crear tipos de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Vídeo | Aprenda a crear sus propios tipos de datos en Adobe Experience Platform para utilizarlos en esquemas del Modelo de datos de experiencia (XDM). |
 | Junio de 2021 | [Convertir el modelo de datos en un modelo de datos de experiencia](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | Vídeo | Descubra cómo los arquitectos de datos pueden tomar su modelo de datos transaccionales existente y convertirlo en un modelo de datos de experiencia. Este vídeo muestra la diferencia en los enfoques de modelado mediante diagramas de relación entre entidades. |
 | Junio de 2021 | [Planificar el modelo de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | Vídeo | Aprenda qué hacer antes de empezar a crear los esquemas en Adobe Experience Platform. Registre sus casos de uso empresarial, comprenda su licencia de Platform, conozca las protecciones del producto e identifique qué datos se van a introducir antes de finalizar su modelo de datos. |
-| Junio de 2021 | [Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Vídeo | Obtenga información sobre cómo conectarse a [!UICONTROL Query Service] desde varias aplicaciones cliente de escritorio que admite el protocolo `PostgreSQL` y cómo utilizar las herramientas y controladores `PostgreSQL` para conectar y escribir consultas. |
+| Junio de 2021 | [Conexión de Tableau al servicio de consulta](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Vídeo | Obtenga información sobre cómo conectarse a [!UICONTROL Query Service] desde varias aplicaciones cliente de escritorio que admite el protocolo `PostgreSQL` y cómo utilizar las herramientas y controladores `PostgreSQL` para conectar y escribir consultas. |
 | Junio de 2021 | [Funciones definidas por Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Vídeo | Aprenda a utilizar funciones definidas por Adobe en Adobe Experience Platform [!UICONTROL Query Service] para realizar tareas comunes relacionadas con el negocio en los datos de Experience Event. |
 | Junio de 2021 | [Exploración de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Vídeo | Obtenga información sobre cómo validar datos ingestados, obtener una vista previa de datos y explorar propiedades estadísticas y analíticas de datos mediante funciones SQL. |
 | Junio de 2021 | [Información general del servicio de consultas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | Vídeo | Obtenga información sobre el servicio de consulta en Adobe Experience Platform y cómo ayuda a comprender el comportamiento de los clientes y generar perspectivas impactantes. |
@@ -257,7 +257,7 @@ Funciones nuevas, correcciones y actualizaciones en Experience Manager (AEM). Ad
 
 * [Directrices para enviar una nueva idea de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/td-p/382376)
 
-* [La Cumbre Adobe 2021 se pasa por alto con Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865): Una vez al año, cada empleado de Adobe, desde ingenieros y científicos de datos hasta diseñadores de experiencia de usuario y gestores de productos, tiene la oportunidad de compartir ideas innovadoras para desarrollar la manera en que las marcas interactúan con sus clientes. Únete a nosotros para Adobe Sneaks, donde compartimos los siete proyectos principales, pulsando las últimas tecnologías en áreas como IA y aplicaciones de código bajo.
+* [El Adobe Summit 2021 habla con Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865): Una vez al año, cada empleado de Adobe, desde ingenieros y científicos de datos hasta diseñadores de experiencia de usuario y gestores de productos, tiene la oportunidad de compartir ideas innovadoras para desarrollar la manera en que las marcas interactúan con sus clientes. Únete a nosotros para Adobe Sneaks, donde compartimos los siete proyectos principales, pulsando las últimas tecnologías en áreas como IA y aplicaciones de código bajo.
 
 ### Información de la versión de Experience Manager
 
