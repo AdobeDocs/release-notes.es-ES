@@ -6,10 +6,10 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 26fb9b46a6cf48db7cd98a75439f35a98e342898
+source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
 workflow-type: tm+mt
-source-wordcount: '5042'
-ht-degree: 51%
+source-wordcount: '4910'
+ht-degree: 52%
 
 ---
 
@@ -235,15 +235,9 @@ Funciones nuevas, correcciones y actualizaciones en Experience Manager (AEM). Ad
       * [Complemento Maven de Experience Manager as a Cloud Service SDK Build Analyzer](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Actualice sus proyectos maven a la versión más reciente, que incluye una comprobación de API Java™ obsoleta y otras mejoras.
    * **Experience Manager Sites as a Cloud Service**
 
-      * **Puntos finales de GraphQL:** ahora es posible habilitar la API de Experience Manager GraphQL para configuraciones de sitios de Experience Manager individuales y crear extremos personalizados de GraphQL para esas configuraciones mediante la nueva interfaz de usuario de la consola de GraphQL. La interfaz de usuario también permite administrar los extremos de GraphQL.
-      * **Modelos de contenido, tipo de datos mejorado de fecha y hora:**  ahora es posible configurar el tipo de fecha de fecha y hora para permitir la creación solo de información de fecha, hora o fecha y hora.
-      * **Modelos de contenido, tipo de datos Etiquetas mejorado:** ahora es posible configurar el tipo de datos Etiquetas para permitir la creación de etiquetas únicas o múltiples.
-      * **Modelos de contenido, nuevo tipo de datos de marcador de posición de pestañas:**  el nuevo tipo de datos de marcador de posición de pestañas permite agrupar tipos de datos en secciones que se procesan en pestañas en el editor de fragmentos de contenido.
+      Ahora puede verificar el contenido en un nuevo [nivel de vista previa](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) para simular el aspecto y la presentación finales de la experiencia como lo haría en el nivel de publicación. Esta nueva funcionalidad la habilita el asistente de publicación administrada de sitios de Experience Manager, que le permite elegir un destino de publicación entre [!UICONTROL Publicar] o [!UICONTROL Vista previa]. A continuación, se puede acceder a las experiencias en [!UICONTROL Preview] mediante una dirección URL dedicada. Después de la validación en [!UICONTROL Preview], puede publicar contenido de [!UICONTROL Author] en [!UICONTROL Publish] como de costumbre. La activación del servicio [!UICONTROL Preview] en entornos de Experience Manager as a Cloud Service se está implementando gradualmente en las próximas semanas.
+
    * **Experience Manager Assets as a Cloud Service**
-
-      Ahora puede verificar el contenido en un nuevo [nivel de vista previa](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) para simular el aspecto y la presentación finales de la experiencia como lo haría en el nivel de publicación. Esta nueva funcionalidad está habilitada por el asistente de publicación administrada de sitios de Experience Manager, que le permite elegir un destino de publicación entre [!UICONTROL Publicar] o [!UICONTROL Vista previa]. A continuación, se puede acceder a las experiencias en [!UICONTROL Preview] a través de una dirección URL dedicada. Después de la validación en [!UICONTROL Preview], el contenido se puede publicar de [!UICONTROL Author] a [!UICONTROL Publish] como de costumbre. La activación del servicio [!UICONTROL Preview] en Experience Manager como entorno de Cloud Service se está implementando gradualmente en las próximas semanas.
-
-   * **Experience Manager de recursos como Cloud Service**
 
       Nuevas funciones del canal de prelanzamiento:
 
@@ -254,7 +248,6 @@ Funciones nuevas, correcciones y actualizaciones en Experience Manager (AEM). Ad
       Nuevas funciones en [!UICONTROL Dynamic Media]:
 
       * La proporción de píxeles de dispositivos de imágenes inteligentes (DPR) y la optimización del ancho de banda de la red le permiten ofrecer imágenes de la mejor calidad de forma eficaz, en dispositivos con pantallas de alta resolución y ancho de banda de red restringido. Consulte [preguntas frecuentes sobre imágenes inteligentes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
-
 
 
 
