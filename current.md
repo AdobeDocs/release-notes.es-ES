@@ -4,8 +4,9 @@ description: Conozca las últimas notas de la versión, las nuevas funciones y l
 doc-type: release notes
 last-update: June 2021
 author: mfrei
+mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d45e7c6a5329d4e6a211edaeb607547bfb297e4e
+source-git-commit: 26fb9b46a6cf48db7cd98a75439f35a98e342898
 workflow-type: tm+mt
 source-wordcount: '5042'
 ht-degree: 51%
