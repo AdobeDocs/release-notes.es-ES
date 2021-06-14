@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
+source-git-commit: d45e7c6a5329d4e6a211edaeb607547bfb297e4e
 workflow-type: tm+mt
-source-wordcount: '5062'
+source-wordcount: '5042'
 ht-degree: 51%
 
 ---
@@ -58,8 +58,7 @@ Los componentes de interfaz central de Experience Cloud incluyen actualizaciones
 
 * Ayuda de administración para [Componentes de interfaz central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) y administración de usuarios
 * Ayuda y notas de la versión de [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
-* Ayuda sobre [People - Atributos del cliente y Biblioteca de audiencias](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
-Para obtener documentación del producto sobre estas funciones, consulte [Componentes de la interfaz central del Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
+* Ayuda de [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
 
 ## ![Icono](/assets/adobe.png) Estado del sistema de Adobe {#status}
 
