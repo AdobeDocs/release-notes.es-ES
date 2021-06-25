@@ -12,7 +12,7 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.es-ES
 index: true
 source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
 ht-degree: 100%
 
