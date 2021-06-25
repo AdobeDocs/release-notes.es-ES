@@ -6,7 +6,7 @@ breadcrumb-title: Notas de la versión
 user-guide-description: Obtenga información sobre nuevas funciones, correcciones y avisos importantes de Adobe Experience Cloud y Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: f6be8c7c3f91824d79618f7f3f1088ddba8a419d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
       + [Enero de 2021](c-legacy-releases/2021/01142021.md)
    + 2020 {#2020}
       + [Noviembre de 2020](c-legacy-releases/2020/10292020.md)
-      + [octubre de 2020](c-legacy-releases/2020/10082020.md)
+      + [Octubre de 2020](c-legacy-releases/2020/10082020.md)
       + [Septiembre de 2020](c-legacy-releases/2020/09102020.md)
       + [Agosto de 2020](c-legacy-releases/2020/08132020.md)
       + [Julio de 2020](c-legacy-releases/2020/07162020.md)
