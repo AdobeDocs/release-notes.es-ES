@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3621c31c456cf7fc9de8ed65991aeab9fc8fedc8
+source-git-commit: a168806cc4b7e5ab5e9d1ab9c71583a4b89c020b
 workflow-type: tm+mt
-source-wordcount: '4909'
+source-wordcount: '4923'
 ht-degree: 46%
 
 ---
@@ -213,6 +213,9 @@ Adobe recomienda visitar con frecuencia [actualizaciones de la versión del Expe
       * **Sistema de administración de contenido de componentes nativo de la nube** : la documentación XML para Adobe Experience Manager está disponible como Cloud Service. Obtenga el entorno que le permite crear, administrar y entregar documentación y contenido a escala.
       * **Documentación con tecnología de IA** : capacidad de etiquetado inteligente para identificar y extraer automáticamente palabras clave de metadatos relevantes del texto para el etiquetado de metadatos.
       * **Nueva apariencia para el editor web** : nueva apariencia con los cambios de interfaz de usuario, lo que lo hace más intuitivo. La arquitectura subyacente ha cambiado de corales a espectro basado en reacciones.
+
+      Visite [Documentación XML para Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html) para obtener más información.
+
    * **Cloud Manager en AEM como Cloud Service**
 
       * [!UICONTROL Los ] servicios de vista previa se implementan de forma gradual en todos los programas. Se notifica a los clientes en el producto cuando su programa está habilitado para [!UICONTROL Preview Service]. Consulte [Acceso al servicio de vista previa](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
