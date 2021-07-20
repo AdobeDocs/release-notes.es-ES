@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
+source-git-commit: 722ad9ef37f15c3c6070ccaa66c9b55e25b4e35d
 workflow-type: tm+mt
 source-wordcount: '4899'
 ht-degree: 47%
@@ -23,7 +23,7 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **19 de julio de 2021**
+Última actualización: **20 de julio de 2021**
 
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
 * [Estado del sistema de Adobe](#status)
@@ -278,6 +278,17 @@ Adobe recomienda visitar con frecuencia [actualizaciones de la versión del Expe
 
 
 
+### Nuevos cursos y tutoriales para Experience Manager {#tutorials-aem}
+
+Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Julio de 2021 | [Documentación XML para Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artículo | Descubra cómo la [!UICONTROL solución de documentación XML] ofrece todas las funciones principales de CCMS, como colaboración, revisión, traducción, búsqueda e informes para contenido DITA. Estas funciones permiten a los autores hacer más en menos tiempo mediante una reutilización eficiente del contenido y flujos de trabajo potentes. |
+| Julio de 2021 | [Colecciones AEM sin encabezado de Postman de GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Vídeo | Aprenda a definir y utilizar fragmentos de contenido en Adobe Experience Manager (AEM) para su uso con GraphQL. |
+
+{style=&quot;table-layout:auto&quot;}
+
 ### Información de la versión de Experience Manager {#aem-links}
 
 Las notas de la versión y otros vínculos de información de la versión para Experience Manager están aquí:
@@ -294,17 +305,6 @@ Las notas de la versión y otros vínculos de información de la versión para E
 * [Notas de la versión de Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=es)
 * [Notas de la versión de Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Notas de la versión de Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
-
-### Nuevos cursos y tutoriales para Experience Manager {#tutorials-aem}
-
-Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
-
-| Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| Julio de 2021 | [Documentación XML para Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artículo | Descubra cómo la [!UICONTROL solución de documentación XML] ofrece todas las funciones principales de CCMS, como colaboración, revisión, traducción, búsqueda e informes para contenido DITA. Estas funciones permiten a los autores hacer más en menos tiempo mediante una reutilización eficiente del contenido y flujos de trabajo potentes. |
-| Julio de 2021 | [Colecciones AEM sin encabezado de Postman de GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Vídeo | Aprenda a definir y utilizar fragmentos de contenido en Adobe Experience Manager (AEM) para su uso con GraphQL. |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### Otros recursos de ayuda para Experience Manager
 
