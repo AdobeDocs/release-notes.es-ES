@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7c57afe86724db59e8696b3e034a82d5ba6f9153
+source-git-commit: 5de9bc92bc3752726b7af80dd0abf91e253a5c33
 workflow-type: tm+mt
-source-wordcount: '4923'
-ht-degree: 46%
+source-wordcount: '5139'
+ht-degree: 44%
 
 ---
 
@@ -22,6 +22,14 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 >[!NOTE]
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
+
+## Experience League Activo
+
+[Implementación de Adobe Analytics: consejos y trucos](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+
+Lo has visto en el escenario en Summit. Ha oído que comparte consejos de expertos en el Adobe Insider Tours. Puede que incluso haya tenido la ventaja de trabajar con él en su propia implementación de Adobe Analytics. Ahora, Eric Matisoff trae sus Tres consejos de implementación favoritos de Adobe Analytics a esta exclusiva discusión de Experience League en vivo.
+
+Únete a nosotros para escuchar consejos concretos que todo el equipo de implementación de Adobe Analytics debe conocer, y hacer que sus preguntas sean respondidas por Eric en el pod de chat. Este es un evento en directo, por lo que no es necesario registrarse con antelación, pero asegúrese de ponerlo en su calendario para que no se pierda.
 
 Última actualización: **20 de julio de 2021**
 
@@ -133,6 +141,20 @@ Fecha de la versión: **22 de julio de 2021**
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
+
+### Aviso de evento para Experience League en directo: Implementación de Analytics
+
+Únete a nosotros para escuchar consejos concretos que todo el equipo de implementación de Adobe Analytics debe conocer, y hacer que sus preguntas sean respondidas por Eric Matisoff en el pod de chat. Este es un evento en directo, por lo que no es necesario registrarse con antelación, pero asegúrese de ponerlo en su calendario para que no se pierda.
+
+[Implementación de Adobe Analytics: consejos y trucos](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+
+**Cuándo:** 29 de julio de 2021 a las 9:00 PDT
+
+**Presentadores de Adobe**
+
+* Eric Matisoff, evangelista principal de Analytics &amp; Data Science, Adobe
+* Dasha Fitzpatrick, Adobe Asesor Técnico Principal
+* Doug Moore, ingeniero técnico de marketing de Adobe
 
 ### Funciones nuevas en Adobe Analytics {#aa-features}
 
