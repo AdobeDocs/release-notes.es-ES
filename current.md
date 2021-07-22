@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
+source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
 workflow-type: tm+mt
-source-wordcount: '5023'
+source-wordcount: '5036'
 ht-degree: 45%
 
 ---
@@ -23,8 +23,9 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **20 de julio de 2021**
+Última actualización: **22 de julio de 2021**
 
+* [Aviso de evento para Experience League Live](#events) : 29 de  **julio de 2021**
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
 * [Estado del sistema de Adobe](#status)
 * [Experience Platform](#platform)
@@ -127,6 +128,7 @@ Consulte las [notas de la versión del Offer decisioning](https://experienceleag
 
 Fecha de la versión: **22 de julio de 2021**
 
+* [Aviso de evento para Experience League Live](#events)
 * [Funciones nuevas en Adobe Analytics](#aa-features)
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualizado el 19 de julio de 2021)
 * [Correcciones en Adobe Analytics](#aa-fixes)
@@ -134,7 +136,7 @@ Fecha de la versión: **22 de julio de 2021**
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Aviso de evento para Experience League en directo: Implementación de Analytics
+## Aviso de evento para Experience League en directo: Implementación de Analytics {#events}
 
 Únete a nosotros para escuchar consejos concretos que todo el equipo de implementación de Adobe Analytics debe conocer, y hacer que sus preguntas sean respondidas por Eric Matisoff en el pod de chat. Este es un evento en directo, por lo que no es necesario registrarse con antelación, pero asegúrese de ponerlo en su calendario para que no se pierda.
 
