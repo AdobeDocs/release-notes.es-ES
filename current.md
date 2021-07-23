@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
+source-git-commit: 1d747dd10da74db31ce6195c43f6529a2663d1a0
 workflow-type: tm+mt
-source-wordcount: '5036'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -73,7 +73,7 @@ Las actualizaciones más recientes del estado del sistema de Adobe se encuentran
 Incluye información sobre la actualización y nueva documentación de la versión de Experience Platform y Experience Platform Launch.
 
 * **30 de junio de 2021** [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es)
-* **17 de mayo de 2021** [Notas de la versión de recopilación de datos de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (anteriormente, Experience Platform Launch)
+* **17 de mayo de 2021** [Notas de la versión de Etiquetas de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html)  (anteriormente, Experience Platform Launch)
 
 ### Tutoriales y cursos de Experience Platform {#tutorials-platform}
 
