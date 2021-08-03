@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
 source-wordcount: '5034'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -70,10 +70,10 @@ Las actualizaciones más recientes del estado del sistema de Adobe se encuentran
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Incluye información sobre la actualización de la versión y nueva documentación para el etiquetado de Experience Platform y plataformas.
+Incluye información sobre la actualización y nueva documentación de la versión del etiquetado en Experience Platform y Platform.
 
 * **30 de junio de 2021:** [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es)
-* **** [Notas de la versión de las etiquetas del Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=es)  del 17 de mayo de 2021 (anteriormente, Experience Platform Launch)
+* **17 de mayo de 2021:** [Notas de la versión de etiquetas de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=es) (anteriormente, Experience Platform Launch)
 
 ### Tutoriales y cursos de Experience Platform {#tutorials-platform}
 
@@ -140,7 +140,7 @@ Fecha de la versión: **22 de julio de 2021**
 
 Únase a nosotros para escuchar consejos concretos que todo el equipo de implementación de Adobe Analytics debe conocer, y para que Eric Matisoff responda sus preguntas en el pod de chat. Este es un evento en directo, por lo que no es necesario registrarse con antelación, pero asegúrese de ponerlo en su calendario para que no se lo pierda.
 
-**Evento:**[implementación de Adobe Analytics, consejos y trucos](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**Evento:** [implementación de Adobe Analytics, consejos y trucos](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
 **Cuándo:** el 29 de julio de 2021 a las 9:00 PDT
 
