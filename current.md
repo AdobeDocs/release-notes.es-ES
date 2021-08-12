@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6c6ebfbf878dcdd9db406789f1350e04b42f3d85
+source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
-source-wordcount: '5004'
+source-wordcount: '5003'
 ht-degree: 98%
 
 ---
@@ -385,11 +385,11 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **Para la versión del 24 de julio**
+Última actualización: **11 de agosto para la versión del 24 de julio**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Herramientas] | Si la cuenta del anunciante está configurada para utilizar la optimización híbrida, Advertising Cloud puede, opcionalmente, cargar los objetivos de la cuenta en Google Ads y Microsoft Ads como conversiones para que pueda utilizarlos en la optimización híbrida. Puede habilitar la función desde **[!UICONTROL Buscar]** > **[!UICONTROL Herramientas]** > **[!UICONTROL Configuración de carga de conversión]**. |
+| [!UICONTROL Herramientas] | Si la cuenta del anunciante está configurada para utilizar la optimización híbrida, [!DNL Advertising Cloud Search] puede, opcionalmente, cargar los objetivos de las carteras de la cuenta en Google Ads como conversiones, de modo que pueda utilizarlos para la optimización híbrida. Puede habilitar la función desde **[!UICONTROL Buscar]** > **[!UICONTROL Herramientas]** > **[!UICONTROL Configuración de carga de conversión]**. |
 
 {style=&quot;table-layout:auto&quot;}
 
