@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
 source-wordcount: '5003'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -32,11 +32,11 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) **(Actualización: 10 de agosto de 2021)**
+* [[!DNL Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) **(Actualizado el 10 de agosto de 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising Cloud]](#adcloud) (Actualizado el 11 de  **agosto de 2021**)
+*  [[!DNL Advertising Cloud]](#adcloud)**(Actualización: 11 de agosto de 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -181,7 +181,7 @@ AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-25656
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
-| Fin de la vida útil de Conectores de datos de Adobe | 3 de agosto de 2021 | Los [!UICONTROL Data Connectors de Adobe] utilizan tecnología antigua que ya no es útil ni compatible. Hay disponible un nuevo estándar en el [Programa de socios de Exchange de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). Utilice ese estándar para que se puedan seguir ofreciendo y admitiendo integraciones. La fecha oficial de finalización es **el 19 de agosto de 2021**. [Más información...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=es) |
+| Fin de la vida útil de Adobe Data Connectors | 3 de agosto de 2021 | Los [!UICONTROL Data Connectors de Adobe] utilizan tecnología antigua que ya no es útil ni compatible. Hay disponible un nuevo estándar en el [Programa de socios de Exchange de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). Utilice ese estándar para que se puedan seguir ofreciendo y admitiendo integraciones. La fecha oficial de finalización es **el 19 de agosto de 2021**. [Más información...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=es) |
 | Fin de la vida útil de tres servicios de API de Analytics | 15 de julio de 2021 | El **18 de agosto de 2021**, los siguientes servicios de API heredada de Analytics alcanzarán la fecha de fin de su vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la vida útil de las fuentes de datos de procesamiento completo | 12 de abril de 2021 | Adobe planea dejar de utilizar el procesamiento completo de fuentes de datos **el 31 de julio de 2021**. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
 | Actualización de inicio de sesión en [!UICONTROL Report Builder] | 9 de abril de 2021 | El 14 de enero de 2021, las actualizaciones de inicio de sesión de [!UICONTROL Report Builder] eliminaron las dependencias de tecnologías heredadas y alinearon el proceso de inicio de sesión con Experience Cloud. Experience Cloud utiliza su Enterprise ID (correo electrónico y contraseña). Para garantizar el acceso ininterrumpido a [!UICONTROL Report Builder], actualice el complemento [!UICONTROL Report Builder] a la versión 5.6.47 o posterior **antes del 22 de julio de 2021**. La versión 5.6.47 y posteriores de Report Builder solo admitirán el inicio de sesión de Experience Cloud y no el inicio de sesión único. |
