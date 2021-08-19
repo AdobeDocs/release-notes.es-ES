@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
 source-wordcount: '4363'
-ht-degree: 51%
+ht-degree: 53%
 
 ---
 
@@ -110,9 +110,9 @@ Nuevos vídeos, tutoriales o cursos publicados para Adobe Campaign.
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Agosto de 2021 | [Introducción a la creación de un recorrido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Vídeo | Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido. |
-| Agosto de 2021 | [Resumen de configuración de datos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | Vídeo | Obtenga información sobre los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer. |
-| Agosto de 2021 | [Asigne identidades](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Vídeo | Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad. |
-| Agosto de 2021 | [Caso de uso: Mensaje de ráfaga](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Vídeo | Comprenda los casos de uso aplicables a la mensajería de fragmentación. Obtenga información sobre cómo configurar un recorrido para los mensajes radiales y las prácticas recomendadas que se deben aplicar. |
+| Agosto de 2021 | [Resumen de configuración de datos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | Vídeo | Obtenga información acerca de los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer. |
+| Agosto de 2021 | [Asignación de identidades](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Vídeo | Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad. |
+| Agosto de 2021 | [Caso de uso: Mensaje de ráfaga](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Vídeo | Comprenda los casos de uso aplicables para la mensajería de ráfaga. Obtenga información sobre cómo configurar un recorrido para los mensajes de ráfaga y las prácticas recomendadas que se deben aplicar. |
 
 **Recursos adicionales para Journey Orchestration**
 
@@ -135,7 +135,7 @@ Consulte las [notas de la versión de Offer decisioning](https://experienceleagu
 Fecha de lanzamiento: **19 de agosto de 2021**
 
 * [Funciones nuevas en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualizado el **17 de agosto de 2021**)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey)  (Actualización: **17 de agosto de 2021**)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
@@ -404,7 +404,7 @@ Consulte [!DNL Marketo Engage] [programación de versiones](https://experiencele
 
 Adobe [!DNL Workfront] es una aplicación de administración de trabajo unificada para compartir ideas, crear contenido, administrar procesos complejos y trabajar de forma óptima.
 
-Consulte la página Versiones de [[!DNL Workfront] ](https://one.workfront.com/s/product-releases) para obtener un resumen de la información más reciente de todos los productos.
+Consulte la página [[!DNL Workfront] Versiones](https://one.workfront.com/s/product-releases) de para obtener un resumen de la información más reciente de todos los productos.
 
 ## ![Icono](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
