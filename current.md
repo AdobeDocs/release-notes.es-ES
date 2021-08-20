@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
+source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
 workflow-type: tm+mt
-source-wordcount: '4363'
-ht-degree: 53%
+source-wordcount: '4444'
+ht-degree: 52%
 
 ---
 
@@ -373,10 +373,11 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 ### Nuevas funciones de la versión [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **12 de agosto de 2021, para la versión del 21 de agosto**
+Última actualización: **20 de agosto de 2021, para la versión del 21 de agosto**
 
 | Función | Descripción |
 | ------- | ----------- |
+| — | La nueva etiqueta beta Advertising Cloud Javascript utiliza el servicio Adobe Experience Cloud ID (ECID), así como el ef_id y el gsurferid heredados para medir las conversiones. La nueva etiqueta crea [cookies s_ecid del Experience Cloud de origen](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) y proporciona una integración más estrecha con otros productos del Experience Cloud.<br><br>La etiqueta JavaScript heredada de Advertising Cloud con asignación ITP dejará de usarse en septiembre de 2021.<br><br>El administrador de cuentas de Adobe se pondrá en contacto con usted para obtener más información e instrucciones de implementación. |
 | [!UICONTROL Portafolios] | Todos los usuarios tienen a su disposición un nuevo [!UICONTROL Objectives Beta] con recomendaciones de peso automatizadas. La nueva interfaz incluye más directrices para crear objetivos y establecer pesos de objetivo iniciales. Las recomendaciones de peso solo están disponibles para las métricas de asistencia. |
 
 {style=&quot;table-layout:auto&quot;}
