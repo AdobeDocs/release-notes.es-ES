@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c47b884401c2d9b4cce5d6b56252c58acccc598c
+source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
 workflow-type: tm+mt
-source-wordcount: '4427'
+source-wordcount: '4430'
 ht-degree: 52%
 
 ---
@@ -389,6 +389,8 @@ Consulte los siguientes vínculos para ver las notas de la versión de Adobe Com
 * [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Icono](/assets/target.png) [!DNL Target] {#target}
+
+Última actualización: **3 de agosto de 2021**
 
 Consulte las [[!DNL Target] notas de la versión](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
 
