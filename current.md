@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
+source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4445'
 ht-degree: 52%
 
 ---
@@ -23,10 +23,10 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **20 de agosto de 2021**
+Última actualización: **25 de agosto de 2021**
 
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (actualizado el 25 de  **agosto de 2021**)
 * [Estado del sistema de Adobe](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -71,7 +71,13 @@ Puede encontrar la información más reciente sobre el estado del sistema de Ado
 
 Incluye información sobre la actualización y nueva documentación de la versión del etiquetado en Experience Platform y Platform.
 
-* **** [Notas de la versión del Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es)  del 28 de julio de 2021 (Próxima versión planificada:  **25 de agosto**)
+**El 25 de agosto de 2021** , las actualizaciones de funciones existentes en Experience Platform incluyen:
+
+* Perspectivas de la capacidad de observación
+* Perfil del cliente en tiempo real
+* Fuentes
+
+Consulte las [notas de la versión del Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para obtener más información.
 
 ### Tutoriales y cursos de Experience Platform {#tutorials-platform}
 
