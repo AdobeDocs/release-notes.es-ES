@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
+source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
-source-wordcount: '4503'
+source-wordcount: '4508'
 ht-degree: 51%
 
 ---
@@ -46,13 +46,11 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
-## Aviso de evento para Experience League Live: Haga que el siguiente segmento de audiencia sea más inteligente que nunca {#events}
+## ![](/assets/experience-league.png) IconoExperience League Live {#events}
 
-Conozca el Generador de segmentos en Experience Platform LIVE con Aaron Shields, Yaya Wang y Andres Monroy!
+**26 de agosto de 2021**  |  [Haga que su siguiente segmento de audiencia sea más inteligente que nunca](https://www.youtube.com/watch?v=rogVKsTFbWk) : Conozca el Generador de segmentos en Experience Platform con Doug Moore, Aaron Shields, Yaya Wang y Andres Monroy!
 
-**Evento:** [haga que el siguiente segmento de audiencia sea más inteligente que nunca](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**Fecha:** 26 de agosto de 2021, 9:00 (PST)
+Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
 ## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
 
