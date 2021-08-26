@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
+source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
 workflow-type: tm+mt
-source-wordcount: '4445'
-ht-degree: 52%
+source-wordcount: '4503'
+ht-degree: 51%
 
 ---
 
@@ -23,8 +23,9 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **25 de agosto de 2021**
+Última actualización: **26 de agosto de 2021**
 
+* [Aviso de evento para Experience League Live](#events) : 26 de  **agosto de 2021**
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
 * [Experience Platform](#platform)  (actualizado el 25 de  **agosto de 2021**)
 * [Estado del sistema de Adobe](#status)
@@ -44,6 +45,14 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 * [Creative Cloud para empresas](#creative-cloud)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
+
+## Aviso de evento para Experience League Live: Haga que el siguiente segmento de audiencia sea más inteligente que nunca {#events}
+
+Conozca el Generador de segmentos en Experience Platform LIVE con Aaron Shields, Yaya Wang y Andres Monroy!
+
+**Evento:** [haga que el siguiente segmento de audiencia sea más inteligente que nunca](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**Fecha:** 26 de agosto de 2021, 9:00 (PST)
 
 ## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
 
