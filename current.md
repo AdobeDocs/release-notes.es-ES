@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
 source-wordcount: '4508'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 
 Última actualización: **26 de agosto de 2021**
 
-* [Aviso de evento para Experience League Live](#events) : 26 de  **agosto de 2021**
+* [Aviso de evento para Experience League Live](#events) - **26 de agosto de 2021**
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
-* [Experience Platform](#platform)  (actualizado el 25 de  **agosto de 2021**)
+* [Experience Platform](#platform) (actualizado: **25 de agosto de 2021**)
 * [Estado del sistema de Adobe](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -46,11 +46,11 @@ Las aplicaciones y servicios de Experience Cloud se actualizan mensualmente. Est
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
-## ![](/assets/experience-league.png) IconoExperience League Live {#events}
+## ![Icono](/assets/experience-league.png) Experience League Live {#events}
 
-**26 de agosto de 2021**  |  [Haga que su siguiente segmento de audiencia sea más inteligente que nunca](https://www.youtube.com/watch?v=rogVKsTFbWk) : Conozca el Generador de segmentos en Experience Platform con Doug Moore, Aaron Shields, Yaya Wang y Andres Monroy!
+**26 de agosto de 2021** | [Haga que su siguiente segmento de audiencia sea más inteligente que nunca](https://www.youtube.com/watch?v=rogVKsTFbWk): conozca el Generador de segmentos de Experience Platform con Doug Moore, Aaron Shields, Yaya Wang y Andres Monroy.
 
-Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
+Para ver más vídeos, visite [el canal de Adobe Experience League](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
 ## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
 
@@ -58,7 +58,7 @@ Los componentes de la interfaz central de Experience Cloud incluyen actualizacio
 
 | Función | Fecha | Descripción |
 | ------- | ------- | -------|
-| [!UICONTROL Recientes unificados]: compatibilidad ampliada para objetos empresariales a los que se ha accedido recientemente | 10 de agosto de 2021 | [!UICONTROL Recientes unificados] se amplía a objetos empresariales adicionales en Journey Optimizer y Experience Platform. Los clientes de Journey Optimizer pueden encontrar los objetos a los que han accedido recientemente (mensajes, recorridos, segmentos, esquemas, conjuntos de datos, fuentes de datos, eventos, acciones, fuentes y destinos) desde la página de inicio de Adobe Journey Optimizer. |
+| [!UICONTROL Recientes unificados]: compatibilidad ampliada para objetos de empresa a los que se ha accedido recientemente | 10 de agosto de 2021 | [!UICONTROL Recientes unificados] se amplía a objetos de empresa adicionales en Journey Optimizer y Experience Platform. Los clientes de Journey Optimizer pueden encontrar los objetos a los que han accedido recientemente (mensajes, recorridos, segmentos, esquemas, conjuntos de datos, fuentes de datos, eventos, acciones, fuentes y destinos) desde la página de inicio de Adobe Journey Optimizer. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,13 +78,13 @@ Puede encontrar la información más reciente sobre el estado del sistema de Ado
 
 Incluye información sobre la actualización y nueva documentación de la versión del etiquetado en Experience Platform y Platform.
 
-**El 25 de agosto de 2021** , las actualizaciones de funciones existentes en Experience Platform incluyen:
+Las actualizaciones del **25 de agosto de 2021** de funciones existentes en Experience Platform incluyen las siguientes:
 
 * Perspectivas de la capacidad de observación
 * Perfil del cliente en tiempo real
 * Fuentes
 
-Consulte las [notas de la versión del Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para obtener más información.
+Consulte las [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para obtener más información.
 
 ### Tutoriales y cursos de Experience Platform {#tutorials-platform}
 
@@ -147,7 +147,7 @@ Consulte las [notas de la versión de Offer decisioning](https://experienceleagu
 Fecha de lanzamiento: **19 de agosto de 2021**
 
 * [Funciones nuevas en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)  (Actualización: **17 de agosto de 2021**)
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey) (Actualización: **17 de agosto de 2021**)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
@@ -389,7 +389,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| — | La nueva etiqueta beta Advertising Cloud Javascript utiliza el servicio Adobe Experience Cloud ID (ECID), así como el ef_id y el gsurferid heredados para medir las conversiones. La nueva etiqueta crea [cookies s_ecid del Experience Cloud de origen](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) y proporciona una integración más estrecha con otros productos del Experience Cloud.<br><br>La etiqueta JavaScript heredada de Advertising Cloud con asignación ITP dejará de usarse en septiembre de 2021.<br><br>El administrador de cuentas de Adobe se pondrá en contacto con usted para obtener más información e instrucciones de implementación. |
+| — | La nueva etiqueta Javascript beta de Advertising Cloud utiliza el servicio de Adobe Experience Cloud ID (ECID), así como el ef_id y el gsurferid heredados para medir las conversiones. La nueva etiqueta crea [cookies s_ecid de Experience Cloud de origen](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=es) y proporciona una integración más estrecha con otros productos de Experience Cloud.<br><br>La etiqueta JavaScript heredada de Advertising Cloud con asignación ITP dejará de usarse en septiembre de 2021.<br><br>El administrador de cuentas de Adobe se pondrá en contacto con usted para proporcionarle más información e instrucciones de implementación. |
 | [!UICONTROL Portafolios] | Todos los usuarios tienen a su disposición una nueva [!UICONTROL versión beta de Objetivos] con recomendaciones de peso automatizadas. La nueva interfaz incluye más directrices para crear objetivos y establecer pesos de objetivo iniciales. Las recomendaciones de peso solo están disponibles para las métricas de asistencia. |
 
 {style=&quot;table-layout:auto&quot;}
