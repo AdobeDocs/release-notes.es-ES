@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4795657c292e131bf0d51e7b29aabc5dc0e0027b
+source-git-commit: b6eb45e7dea1dd5b5884e239fb4e43076618bf3e
 workflow-type: tm+mt
-source-wordcount: '6303'
+source-wordcount: '6307'
 ht-degree: 36%
 
 ---
@@ -361,7 +361,7 @@ Las notas de la versión y otros vínculos de información de la versión para E
 * [[!DNL Experience Manager as a Cloud Service] Notas de la versión de ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=es)
 * [[!DNL Experience Manager as a Cloud Service] información de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es)
 * [[!DNL Experience Manager Cloud Manager] Notas de la versión de ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=es)
-* [[!DNL Automated Forms Conversion Service] Notas de la versión de ](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
+* [Notas de la versión del servicio de conversión automatizada de Forms](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
 * [[!DNL Experience Manager Assets Dynamic Media] Notas de la versión de ](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=es)
