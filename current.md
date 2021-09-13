@@ -28,7 +28,7 @@ ht-degree: 36%
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
 * [Estado del sistema de Adobe](#status)
-* [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) 
 * [[!DNL Adobe Audience Manager]](#aam)
 * [Adobe Experience Platform](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -56,7 +56,7 @@ ht-degree: 36%
 
 {style=&quot;table-layout:auto&quot;}
 
-Para ver más vídeos, visite [el canal de Adobe Experience League](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
+Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
 ## ![Icono](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components]  y administración {#ecloud}
 
@@ -68,13 +68,13 @@ No se ha actualizado este mes. Consulte con frecuencia las actualizaciones.
 * Ayuda y notas de la versión de [Places: Servicio de ubicación](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=es)
 * Ayuda de [People: Atributos de cliente y biblioteca de audiencias](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=es).
 
-## ![Icono](/assets/adobe.png) [!DNL Adobe System Status] {#status}
+## ![Icono](/assets/adobe.png) [!DNL Adobe System Status]  {#status}
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre productos de Adobe y eventos de interrupción, interrupción y mantenimiento de servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
 
 (Busque la información de la versión más reciente de [!DNL Adobe System Status] en las [notas de la versión del 21 de mayo de 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=es)).
 
-## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics]  {#analytics}
 
 Fecha de versión: **15 de septiembre de 2021**
 
@@ -120,7 +120,7 @@ Fecha de versión: **15 de septiembre de 2021**
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación o actualizada | Descripción |
+| Aviso | Fecha de incorporación  o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Fin de la vida útil del Adobe [!UICONTROL Data Connectors] | 3 de agosto de 2020 | Los [!UICONTROL Data Connectors de Adobe] utilizan tecnología antigua que ya no es útil ni compatible. Hay disponible un nuevo estándar en el [Programa de socios de Exchange de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). Utilice ese estándar para que se puedan seguir ofreciendo y admitiendo integraciones. La fecha oficial de finalización es **el 19 de agosto de 2021**. [Más información...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=es) |
 | Fin de la vida útil de las fuentes de datos[!UICONTROL  de procesamiento completo] | 12 de abril de 2021 | Adobe dejó de utilizar las fuentes de datos de procesamiento completo **el 31 de julio de 2021**. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
@@ -169,7 +169,7 @@ No se ha actualizado.
 
 Incluye información sobre la actualización de la versión y nueva documentación para Experience Platform y servicios de plataforma ([!UICONTROL Journey Orchestration], [!UICONTROL Offer decisioning] y [!UICONTROL SDK móvil]).
 
-Las actualizaciones del **25 de agosto de 2021** de funciones existentes en Experience Platform incluyen las siguientes:
+**El 25 de agosto de 2021** , las actualizaciones de funciones existentes en Experience Platform incluyen:
 
 * **[!UICONTROL Destinos]:** Mejoras de uso para los especialistas en marketing con capacidad de   destino para activar segmentos sin problemas en destinos existentes.
 * **[!UICONTROL Observability Insights]:** Ahora puede suscribirse a alertas importantes relacionadas con flujos de trabajo que se ejecutan en Platform.
@@ -428,7 +428,7 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 * Adobe Campaign v8: [Centro de ayuda](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Documentación del Campaign Standard](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos explicativos](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Documentación del Campaign Classic v7](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos explicativos](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
-* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
+* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es)  - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -453,12 +453,12 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| — | La nueva etiqueta beta de Advertising Cloud JavaScript utiliza el servicio Adobe Experience Cloud ID (ECID) y las `ef_id` y `gsurferid` heredadas para medir las conversiones. La nueva etiqueta crea [cookies s_ecid de Experience Cloud de origen](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=es) y proporciona una integración más estrecha con otros productos de Experience Cloud.<br><br>La etiqueta JavaScript de Advertising Cloud heredada con asignación ITP dejará de utilizarse en septiembre de 2021.<br><br>El administrador de cuentas de Adobe se pondrá en contacto con usted para proporcionarle más información e instrucciones de implementación. |
+| — | La nueva etiqueta beta de Advertising Cloud JavaScript utiliza el servicio Adobe Experience Cloud ID (ECID) y las `ef_id` y `gsurferid` heredadas para medir las conversiones. La nueva etiqueta crea [cookies s_ecid del Experience Cloud de origen](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) y proporciona una integración más estrecha con otros productos del Experience Cloud.<br><br>La etiqueta JavaScript de Advertising Cloud heredada con asignación ITP dejará de utilizarse en septiembre de 2021.<br><br>El administrador de cuentas de Adobe se pondrá en contacto con usted para obtener más información e instrucciones de implementación. |
 | [!UICONTROL Portafolios] | Todos los usuarios tienen a su disposición una nueva [!UICONTROL versión beta de Objetivos] con recomendaciones de peso automatizadas. La nueva interfaz incluye más directrices para crear objetivos y establecer pesos de objetivo iniciales. Las recomendaciones de peso solo están disponibles para las métricas de asistencia. |
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Icono](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
+## ![Icono](/assets/magento.png) [!DNL Commerce]  (Magento) {#magento}
 
 Consulte los siguientes vínculos para ver las notas de la versión de Adobe Commerce:
 
@@ -467,7 +467,7 @@ Consulte los siguientes vínculos para ver las notas de la versión de Adobe Com
 
 ## ![Icono](/assets/target.png) [!DNL Target] {#target}
 
-Última actualización: **3 de agosto de 2021**
+**Última actualización: 3 de agosto de 2021**
 
 Consulte las [[!DNL Target] notas de la versión](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
 
@@ -512,7 +512,7 @@ Para obtener ayuda de Document Cloud, consulte:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=es)
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=es)
-* [Aprendizaje y asistencia sobre Document Cloud](https://helpx.adobe.com/es/support/document-cloud.html)
+* [Información y asistencia técnica de Adobe Document Cloud](https://helpx.adobe.com/es/support/document-cloud.html)
 
 ## ![Icono](/assets/creative-cloud-24.png) Creative Cloud para empresas {#creative-cloud}
 
