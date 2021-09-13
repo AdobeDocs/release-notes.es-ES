@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 331a26c572b1fc08fe46bd95ed80df1df1986077
+source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
 workflow-type: tm+mt
-source-wordcount: '6307'
+source-wordcount: '6298'
 ht-degree: 36%
 
 ---
@@ -27,10 +27,10 @@ ht-degree: 36%
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
-* [Estado del sistema de Adobe](#status)
+* [Adobe [!UICONTROL Estado del sistema]](#status)
 * [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) 
 * [[!DNL Adobe Audience Manager]](#aam)
-* [Adobe Experience Platform](#platform)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Campaign]](#ac)
@@ -39,8 +39,8 @@ ht-degree: 36%
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [Document Cloud](#doc-cloud)
-* [Creative Cloud para empresas](#creative-cloud)
+* [[!DNL Document Cloud]](#doc-cloud)
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
