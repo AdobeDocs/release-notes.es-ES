@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
+source-git-commit: 8dbb4ef3665160ade3ec8ffa503c01bd5af64b0e
 workflow-type: tm+mt
-source-wordcount: '6298'
+source-wordcount: '6339'
 ht-degree: 36%
 
 ---
@@ -163,7 +163,11 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
-No se ha actualizado.
+Nuevas funciones de Audience Manager.
+
+| Función | Descripción |
+| ------- | ------- |
+| Consentimiento de recopilación de datos de ID de móvil | Se ha agregado compatibilidad con el consentimiento de recopilación de datos de ID móviles. Para beneficiarse de esta actualización, los clientes deben actualizar a [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) o posterior. |
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -417,7 +421,7 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 | Septiembre de 2021 | [Pasos para cambiar la URL del recurso público de http a https](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/change-public-resource-url.html?lang=en) | Campaign Standard | Aprenda a cambiar la URL del recurso público de http a https |
 | Septiembre de 2021 | [Buscar datos XML de entrega](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/query-delivery-output-names.html?lang=en) | Campaign Classic | Obtenga información sobre cómo recuperar datos XML de entrega. |
 | Septiembre de 2021 | [Error al conectar con Experience Manager](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/error-aem-connection.html?lang=en) | Campaign Standard/Experience Manager | Obtenga información sobre cómo resolver el error `GetAEMContentList` del servicio `nms:delivery` al conectarse de Campaign Standard a Experience Manager. |
-| Septiembre de 2021 | [Solución de errores de inicio de sesión en la consola](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en) | Campaign Classic | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
+| Septiembre de 2021 | [Corrección de errores de inicio de sesión en la consola](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en) | Campaign Classic | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
 | Septiembre de 2021 | [Solución de problemas de un error técnico al ver un perfil](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/technical-error-while-viewing-profile.html?lang=en) | Campaign Standard | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
 | Septiembre de 2021 | [Interrupción incondicional en el flujo de trabajo de la campaña](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/unconditional-stop-workflow.html?lang=en) | Campaign Classic | Aprenda a realizar correctamente una detención incondicional en el flujo de trabajo. |
 
