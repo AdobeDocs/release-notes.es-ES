@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8dbb4ef3665160ade3ec8ffa503c01bd5af64b0e
+source-git-commit: fcba6592d43896676fff4a62d15756823c8a1b20
 workflow-type: tm+mt
-source-wordcount: '6339'
+source-wordcount: '6343'
 ht-degree: 36%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 36%
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **10 de septiembre de 2021**
+Última actualización: **14 de septiembre de 2021**
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
 * [Adobe [!UICONTROL Estado del sistema]](#status)
 * [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) 
-* [[!DNL Adobe Audience Manager]](#aam)
+* [[!DNL Adobe Audience Manager]](#aam) (actualizado el 14 de  **septiembre de 2021**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -163,7 +163,7 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
-Nuevas funciones de Audience Manager.
+Nuevas funciones de Audience Manager: actualizado el **14 de septiembre de 2021**:
 
 | Función | Descripción |
 | ------- | ------- |
@@ -421,7 +421,7 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 | Septiembre de 2021 | [Pasos para cambiar la URL del recurso público de http a https](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/change-public-resource-url.html?lang=en) | Campaign Standard | Aprenda a cambiar la URL del recurso público de http a https |
 | Septiembre de 2021 | [Buscar datos XML de entrega](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/query-delivery-output-names.html?lang=en) | Campaign Classic | Obtenga información sobre cómo recuperar datos XML de entrega. |
 | Septiembre de 2021 | [Error al conectar con Experience Manager](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/error-aem-connection.html?lang=en) | Campaign Standard/Experience Manager | Obtenga información sobre cómo resolver el error `GetAEMContentList` del servicio `nms:delivery` al conectarse de Campaign Standard a Experience Manager. |
-| Septiembre de 2021 | [Corrección de errores de inicio de sesión en la consola](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en) | Campaign Classic | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
+| Septiembre de 2021 | [Solución de errores de inicio de sesión en la consola](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en) | Campaign Classic | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
 | Septiembre de 2021 | [Solución de problemas de un error técnico al ver un perfil](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/technical-error-while-viewing-profile.html?lang=en) | Campaign Standard | Aprenda a corregir los errores encontrados durante el inicio de sesión en la consola. |
 | Septiembre de 2021 | [Interrupción incondicional en el flujo de trabajo de la campaña](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/unconditional-stop-workflow.html?lang=en) | Campaign Classic | Aprenda a realizar correctamente una detención incondicional en el flujo de trabajo. |
 
