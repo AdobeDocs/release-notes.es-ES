@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6533'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
-* [Adobe [!UICONTROL Estado del sistema]](#status)
-* [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey) 
-* [[!DNL Adobe Audience Manager]](#aam) (actualizado el 14 de  **septiembre de 2021**)
+* [Estado del sistema de [!UICONTROL Adobe]](#status)
+* [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Audience Manager]](#aam) (actualizado el **14 de septiembre de 2021**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -44,7 +44,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
-## ![Icono de](/assets/experience-league.png) [!DNL Experience League] Eventos en directo {#events}
+## ![Icono](/assets/experience-league.png) de [!DNL Experience League] Eventos en directo {#events}
 
 [!DNL Experience League] Los eventos en directo son debates con expertos e invitados especiales de Adobe que son fundamentales para presentar la tecnología de Adobe. Consulte la siguiente programación y únase a nosotros en directo o vea los eventos grabados anteriormente.
 
@@ -58,7 +58,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
-## ![Icono de](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] y Administración {#ecloud}
+## ![Icono](/assets/ec_appicon_24.png) de [!DNL Experience Cloud Central UI Components] y Administración {#ecloud}
 
 No se ha actualizado este mes. Consulte con frecuencia las actualizaciones.
 
@@ -68,13 +68,13 @@ No se ha actualizado este mes. Consulte con frecuencia las actualizaciones.
 * Ayuda y notas de la versión de [Places: Servicio de ubicación](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=es)
 * Ayuda de [People: Atributos de cliente y biblioteca de audiencias](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=es).
 
-## ![Icono](/assets/adobe.png) [!DNL Adobe System Status]  {#status}
+## ![Icono](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
 
 (Busque la información de la versión más reciente de [!DNL Adobe System Status] en las notas de la versión del [21 de mayo de 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=es)).
 
-## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics]  {#analytics}
+## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
 Fecha de versión: **15 de septiembre de 2021**
 
@@ -95,17 +95,17 @@ Fecha de versión: **15 de septiembre de 2021**
 
 ### Nuevas funciones en Customer Journey Analytics {#cust-journey}
 
-| Función | Descripción | [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Fecha de destino |
+| Función | Descripción | [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=es) - Fecha de destino |
 | ----------- | ---------- | ----- |
-| Anulación de duplicación métrica | Ahora, Customer Journey Analytics (CJA) puede deduplicar instancias de una métrica. Si se ve el mismo valor en una columna (ya sea en esa misma o en otra columna), puede evitar que una métrica aumente. La deduplicación evita el recuento excesivo de métricas clave y aumenta la confianza en los datos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=en) | 16 de septiembre de 2021 |
-| Compatibilidad con el horario de verano para la creación de informes | Todos los datos de CJA se almacenan en UTC (no con una zona horaria específica). Ahora, las [!UICONTROL vistas de datos] en CJA pueden desplazar los datos para tener en cuenta el aumento de una hora o la disminución en función del horario de verano. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 16 de septiembre de 2021 |
-| [!UICONTROL Calendarios personalizados] | Permite seleccionar un tipo de calendario diferente (por ejemplo, [!UICONTROL comercio minorista 4-4-5]) para una vista de datos. Puede crear varias vistas de datos basadas en la misma conexión para ver los mismos datos en diferentes formatos de calendario. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 16 de septiembre de 2021 |
-| Compatibilidad con campos booleanos | CJA ahora admite campos booleanos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=en) | 16 de septiembre de 2021 |
-| Nueva experiencia de información de [!UICONTROL Conexiones]  | Esta mejora de la interfaz de usuario de [!UICONTROL Conexiones] le permite saber si los datos están listos para utilizarse en el sistema de informes y cuándo hacerlo. También permite rastrear cualquier problema relacionado con el procesamiento de datos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=es) | 20 de septiembre de 2021 |
+| Anulación de duplicación métrica | Ahora, Customer Journey Analytics (CJA) puede deduplicar instancias de una métrica. Si se ve el mismo valor en una columna (ya sea en esa misma o en otra columna), puede evitar que una métrica aumente. La deduplicación evita el recuento excesivo de métricas clave y aumenta la confianza en los datos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=es) | 16 de septiembre de 2021 |
+| Compatibilidad con el horario de verano para la creación de informes | Todos los datos de CJA se almacenan en UTC (no con una zona horaria específica). Ahora, las [!UICONTROL vistas de datos] en CJA pueden desplazar los datos para tener en cuenta el aumento de una hora o la disminución en función del horario de verano. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=es#calendar) | 16 de septiembre de 2021 |
+| [!UICONTROL Calendarios personalizados] | Permite seleccionar un tipo de calendario diferente (por ejemplo, [!UICONTROL comercio minorista 4-4-5]) para una vista de datos. Puede crear varias vistas de datos basadas en la misma conexión para ver los mismos datos en diferentes formatos de calendario. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=es#calendar) | 16 de septiembre de 2021 |
+| Compatibilidad con campos booleanos | CJA ahora admite campos booleanos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=es) | 16 de septiembre de 2021 |
+| Nueva experiencia de información de [!UICONTROL Conexiones] | Esta mejora de la interfaz de usuario de [!UICONTROL Conexiones] le permite saber si los datos están listos para utilizarse en el sistema de informes y cuándo hacerlo. También permite rastrear cualquier problema relacionado con el procesamiento de datos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=es) | 20 de septiembre de 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Correcciones en Adobe Analytics  y CJA {#aa-fixes}
+### Correcciones en Adobe Analytics y CJA {#aa-fixes}
 
 * Se ha corregido un problema que impedía que los administradores de las compañías que acababan de aprovisionarse de Analytics crearan el primer grupo de informes. (AN-265842, AN-269752)
 * Se han corregido problemas con fuentes de datos que no se entregaban. (AN-268758, AN-268737, AN-268568, AN-268759 y AN-264728)
@@ -120,10 +120,10 @@ AN-224899; AN-239753; AN-256295; AN-262122; AN-262449; AN-263969; AN-264665; AN-
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación   o actualizada | Descripción |
+| Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
-| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **28 de octubre de 2021**, los siguientes servicios de API heredadas de Analytics alcanzan su fecha de finalización y se cierran. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
-| Fin de la vida útil de los [!UICONTROL conectores de datos] de Adobe | 3 de agosto de 2020 | Los [!UICONTROL Data Connectors de Adobe] utilizan tecnología antigua que ya no es útil ni compatible. Hay disponible un nuevo estándar en el [Programa de socios de Exchange de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). Utilice ese estándar para que se puedan seguir ofreciendo y admitiendo integraciones. La fecha oficial de finalización es **el 19 de agosto de 2021**. [Más información...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=es) |
+| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **28 de octubre de 2021**, los siguientes servicios de la API heredada de Analytics alcanzarán la fecha de fin de su vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejarán de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://console.adobe.io/home?mv=email#), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
+| Fin de la vida útil de los [!UICONTROL conectores de datos] de Adobe | 3 de agosto de 2020 | Los [!UICONTROL Data Connectors] de Adobe utilizan tecnología antigua que ya no es útil ni compatible. Hay disponible un nuevo estándar en el [Programa de socios de Exchange de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). Utilice ese estándar para que se puedan seguir ofreciendo y admitiendo integraciones. La fecha oficial de finalización es **el 19 de agosto de 2021**. [Más información...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=es) |
 | Fin de la vida útil de las [!UICONTROL fuentes de datos] de procesamiento completo | 12 de abril de 2021 | Adobe dejó de utilizar las fuentes de datos de procesamiento completo **el 31 de julio de 2021**. A partir del 25 de marzo de 2021, ya no se podrán crear nuevas importaciones de este tipo. Utilice la [API de inserción de datos masiva](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) para importar este tipo de datos. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -164,11 +164,11 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
-Nuevas funciones de Audience Manager: actualizado el **14 de septiembre de 2021**:
+Nuevas funciones de Audience Manager: actualizadas el **14 de septiembre de 2021**.
 
 | Función | Descripción |
 | ------- | ------- |
-| Consentimiento de recopilación de datos de ID de móvil | Se ha agregado compatibilidad con el consentimiento de recopilación de datos de ID móviles. Para beneficiarse de esta actualización, los clientes deben actualizar a [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) o posterior. |
+| Consentimiento de recopilación de datos de ID de móviles | Se ha agregado compatibilidad con el consentimiento de recopilación de datos de ID de móviles Para beneficiarse de esta actualización, los clientes deben actualizar a [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) o posterior. |
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -202,7 +202,7 @@ Funciones, correcciones y contenido de ayuda nuevo para Journey Orchestration.
 **Agosto de 2021**
 
 * **Encabezados dinámicos:** ahora puede pasar datos dinámicos en parámetros de encabezado HTTP. Estos parámetros los pueden utilizar los sistemas de integración que reciben las llamadas HTTP de acción del recorrido, por ejemplo, la marca de tiempo o el ID de seguimiento. [Más información...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=es)
-* **Rutas de URL dinámicas:** ahora puede configurar rutas de URL dinámicas para acciones personalizadas. [Más información...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+* **Rutas de URL dinámicas:** ahora puede configurar rutas de URL dinámicas para acciones personalizadas. [Más información...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=es)
 
 Consulte las [Notas de la versión de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) para obtener más información.
 
@@ -219,7 +219,7 @@ Consulte las [Notas de la versión de Journey Orchestration](https://experiencel
 
 #### Recursos adicionales para Journey Orchestration
 
-[Centro de ayuda](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
+[Centro de ayuda](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
 
 ### [!UICONTROL Offer Decisioning] {#offer-decisioning}
 
@@ -250,7 +250,7 @@ Consulte las [Notas de la versión de Journey Optimizer](https://experienceleagu
 
 ### Recursos adicionales para Journey Optimizer
 
-[Centro de ayuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
+[Centro de ayuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
 
 ## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
@@ -279,7 +279,7 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
       _Nuevas funciones_
 
       * El proyecto de [!UICONTROL Experience Manager Archetype] para [!DNL AEM Forms as a Cloud Service] ahora incluye modelos de datos de [formulario para Microsoft® Dynamics y Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/setup-environment/setup-local-development-environment.html?lang=es#forms-cloud-service-local-development-environment).
-      * Documento de registro basado en Acroform: [!DNL AEM Forms as a Cloud Service]admite el uso de [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=es) como plantilla para el [!UICONTROL documento de registro,] además de la plantilla de formulario basada en XFA.
+      * Documento de registro basado en Acroform: [!DNL AEM Forms as a Cloud Service]admite el uso de [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=es) como plantilla para el [!UICONTROL documento de registro], además de la plantilla de formulario basada en XFA.
       * Conector del almacén de datos de Microsoft® Azure: ahora puede [conectar el modelo de datos de formulario a Microsoft® Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=es). Esta característica le permite recuperar y almacenar datos de formulario adaptables en Microsoft® Azure Storage como BLOB.
 
       _Funciones beta de Forms_
@@ -336,7 +336,7 @@ Consulte [Informes de SLA](https://experienceleague.adobe.com/docs/experience-ma
 
 * [Lista del contenido más reciente de Adobe Experience Manager en Experience League | Septiembre de 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751?profile.language=es#M29908)
 
-   Una lista detallada de los últimos artículos se encuentra [aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+   Una lista detallada de los últimos artículos se encuentra [aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751?profile.language=es#M29908).
 
 * Las comunidades de [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) son el núcleo que conecta, involucra y permite a los usuarios de Adobe crear experiencias digitales que cambian el panorama para sus clientes.
 
@@ -344,7 +344,7 @@ Consulte [Informes de SLA](https://experienceleague.adobe.com/docs/experience-ma
 
 * [¿Cómo enviar una nueva solicitud/sugerencia de funcionalidades para Experience Manager?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=es)
 
-   El nuevo proceso para enviar solicitudes de funcionalidades de Experience Manager ya está en funcionamiento. Consulte [Creación de una idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas?profile.language=es) | Más [detalles aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [Envío de directrices](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376?profile.language=es#M27427)
+   El nuevo proceso para enviar solicitudes de funcionalidades de Experience Manager ya está en funcionamiento. Consulte [Creación de una idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas?profile.language=es) | Más [detalles aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=es) | [Envío de directrices](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376?profile.language=es#M27427)
 
 ### Nuevos cursos y tutoriales para Experience Manager {#tutorials-aem}
 
@@ -363,16 +363,16 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 Las notas de la versión y otros vínculos de información de la versión para Experience Manager están aquí:
 
-* [[!DNL Experience Manager as a Cloud Service] Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=es)
+* [[!DNL Experience Manager as a Cloud Service]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=es)
 * [[!DNL Experience Manager as a Cloud Service] Información de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es)
-* [[!DNL Experience Manager Cloud Manager] Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=es)
+* [[!DNL Experience Manager Cloud Manager]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=es)
 * [Notas de la versión del servicio de conversión automatizada de Forms](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
-* [[!DNL Experience Manager Assets Dynamic Media] Notas de la versión](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=es)
-* [[!DNL Experience Manager Brand Portal] Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=es)
+* [[!DNL Experience Manager Assets Dynamic Media]  Notas de la versión](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=es)
+* [[!DNL Experience Manager Brand Portal]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=es)
 * [Notas de la versión de la aplicación de escritorio de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=es)
-* [[!DNL Experience Manager Dispatcher] Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=es)
+* [[!DNL Experience Manager Dispatcher]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=es)
 * [Notas de la versión de Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=es)
 * [Notas de la versión de Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=es)
 
@@ -383,7 +383,7 @@ Las notas de la versión y otros vínculos de información de la versión para E
 * [Formación y asistencia de Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)
-* [Versiones anteriores de la documentación de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Versiones anteriores de la documentación de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)
 * [[!DNL Cloud Manager] Guía de usuario](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=es)
 * [[!DNL Dynamic Media Classic] Página inicial de Ayuda](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=es)
 * [Documentación de Experience Manager: actualizaciones recientes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=es#aem-as-a-cloud-service)
@@ -397,7 +397,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 Conozca las últimas funciones, mejoras y correcciones publicadas:
 
 * [Notas de la versión v8 de Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=es)
-* [Notas de la versión de Campaign Classic v7 ](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es)
+* [Notas de la versión de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es)
 * [Notas de la versión de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es)
 
 ### Nuevos cursos y tutoriales de [!UICONTROL Campaign] {#tutorials-campaign}
@@ -405,14 +405,14 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 | Publicadas | Nombre | Aplicación | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Septiembre de 2021 | [Solución de problemas del [!UICONTROL Panel de control de Campaign]](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/troubleshooting.html?lang=es) | Campaign V8 | Obtenga información sobre cómo solucionar problemas del [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Monitorización de bases de datos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/performance-monitoring/monitor-databases.html?lang=es) | Campaña V8 | Obtenga información sobre cómo monitorizar el uso de la base de datos con el [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Direcciones IP de la lista de permitidos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html?lang=es) | Campaña V8 | Obtenga información sobre cómo añadir un intervalo de IP a las listas de permitidos de instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Rangos de IP de la lista de permitidos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html?lang=es) | Campaña V8 | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Adición de permisos de URL](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/add-url-permissions.html?lang=es) | Campaña V8 | Obtenga información sobre cómo establecer una conexión desde la instancia de Adobe Campaign Classic a una URL externa. |
-| Septiembre de 2021 | [Conexión a un servidor SFTP](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/connect-to-sftp-server.html?lang=es) | Campaña V8 | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Generación de una clave SSH](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/generate-ssh-key.html?lang=es) | Campaña V8 | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el [!UICONTROL Panel de control de Campaign]. |
-| Septiembre de 2021 | [Panel de control de Campaign: monitorización de la capacidad del servidor](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/monitor-server-capacity.html?lang=es) | Campaña V8 | Obtenga información sobre cómo monitorizar la capacidad de almacenamiento de sus servidores SFTP. |
-| Septiembre de 2021 | [Panel de control de Campaign: introducción al Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/get-started.html?lang=es) | Campaña V8 | Este artículo explica cómo acceder al [!UICONTROL Panel de control de Campaign] y cuáles son los requisitos previos para poder trabajar [!UICONTROL con este]. |
+| Septiembre de 2021 | [Monitorización de bases de datos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/performance-monitoring/monitor-databases.html?lang=es) | Campaign V8 | Obtenga información sobre cómo monitorizar el uso de la base de datos con el [!UICONTROL Panel de control de Campaign]. |
+| Septiembre de 2021 | [Direcciones IP de la lista de permitidos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html?lang=es) | Campaign V8 | Obtenga información sobre cómo añadir un intervalo de IP a las listas de permitidos de instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el [!UICONTROL Panel de control de Campaign]. |
+| Septiembre de 2021 | [Rangos de IP de la lista de permitidos](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html?lang=es) | Campaign V8 | Obtenga información sobre cómo agregar un intervalo de direcciones IP a la lista de permitidos del [!UICONTROL Panel de control de Campaign]. |
+| Septiembre de 2021 | [Adición de permisos de URL](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/add-url-permissions.html?lang=es) | Campaign V8 | Obtenga información sobre cómo establecer una conexión desde la instancia de Adobe Campaign Classic a una URL externa. |
+| Septiembre de 2021 | [Conexión a un servidor SFTP](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/connect-to-sftp-server.html?lang=es) | Campaign V8 | Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el [!UICONTROL Panel de control de Campaign]. |
+| Septiembre de 2021 | [Generación de una clave SSH](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/generate-ssh-key.html?lang=es) | Campaign V8 | Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el [!UICONTROL Panel de control de Campaign]. |
+| Septiembre de 2021 | [Panel de control de Campaign: monitorización de la capacidad del servidor](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/monitor-server-capacity.html?lang=es) | Campaign V8 | Obtenga información sobre cómo monitorizar la capacidad de almacenamiento de sus servidores SFTP. |
+| Septiembre de 2021 | [Panel de control de Campaign: introducción al Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/get-started.html?lang=es) | Campaign V8 | Este artículo explica cómo acceder al [!UICONTROL Panel de control de Campaign] y cuáles son los requisitos previos para poder trabajar [!UICONTROL con este]. |
 | Septiembre de 2021 | [Solución de problemas de Adobe Campaign: información general](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es) | Campaign Standard | Asistencia al cliente de Adobe ha proporcionado esta sección para ayudarle a solucionar problemas que pueda tener con Adobe Campaign Standard. |
 | Septiembre de 2021 | [Falta el registro de ID cero](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/fixing-zero-id.html?lang=es) | Campaign Classic | Aprenda a solucionar el problema del ID cero (0). |
 | Septiembre de 2021 | [Problemas del equilibrador de carga](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/administration/load-balancer-issues.html?lang=es) | Campaign Classic | Aprenda a solucionar los problemas del equilibrador de carga al reiniciar la instancia. |
@@ -431,16 +431,16 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 ### Recursos de ayuda de Campaign
 
 * Adobe Campaign v8: [Centro de ayuda](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=es) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=es)
-* Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
-* Adobe Campaign Classic: [documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
-* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es)   - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
+* Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
+* Adobe Campaign Classic: [documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
+* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Notas de la versión para [!DNL Adobe Advertising Cloud].
 
-* [Nuevas funciones en [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [Nuevas funciones en [!DNL Advertising Cloud Search]](#adcloud-search)
+* [Nuevas funciones en  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+* [Nuevas funciones en  [!DNL Advertising Cloud Search]](#adcloud-search)
 
 ### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
@@ -463,7 +463,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Icono](/assets/magento.png) [!DNL Commerce]   (Magento) {#magento}
+## ![Icono](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
 Consulte los siguientes vínculos para ver las notas de la versión de Adobe Commerce:
 
