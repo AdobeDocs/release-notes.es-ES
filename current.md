@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
+source-git-commit: acd15846c8be6d3fd4ad9bdb8688912013d92f74
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -195,6 +195,38 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform y sus se
 
 {style=&quot;table-layout:auto&quot;}
 
+### SDK de Adobe Mobile
+
+Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para conocer los SDK de Adobe Experience Platform Mobile.
+
+## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+Las actualizaciones de **agosto de 2021** para Journey Optimizer incluyen las siguientes:
+
+| Función | Descripción |
+| -----------| ---------- |
+| [!UICONTROL Optimización del tiempo de envío] | Envíe automáticamente su mensaje push o correo electrónico en el mejor momento para cada cliente con el que interactúe con Adobe Journey Optimizer. |
+| Aprovechamiento de las relaciones de esquema | Ahora puede aprovechar las relaciones entre esquemas al configurar un evento empresarial. |
+| [!UICONTROL Período de tiempo de reintento] | Ahora puede definir el período de reintento por ajuste preestablecido para garantizar que los intentos de reintentar no se realicen más cuando ya no sean necesarios. |
+| [!UICONTROL Lista de supresión] | La adición de direcciones de correo electrónico y dominios a la lista de supresión ya está disponible en la interfaz de usuario, ya sea una por una, o en modo masivo a través de la carga de un archivo CSV. |
+
+Consulte las [Notas de la versión de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es) para obtener más información.
+
+### Nuevos tutoriales y cursos para Journey Optimizer {#tutorials-ajo}
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Agosto de 2021 | [Introducción a la creación de un recorrido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=es) | Vídeo | Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido. |
+| Agosto de 2021 | [Configuración de datos de perfil de cliente: información general](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=es) | Vídeo | Obtenga información acerca de los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer. |
+| Agosto de 2021 | [Asignación de identidades](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=es) | Vídeo | Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad. |
+| Agosto de 2021 | [Caso de uso: mensaje de ráfaga](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=es) | Vídeo | Comprenda los casos de uso aplicables para la mensajería de ráfaga. Obtenga información sobre cómo configurar un recorrido para los mensajes de ráfaga y las prácticas recomendadas que se deben aplicar. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Recursos adicionales para Journey Optimizer
+
+[Centro de ayuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
+
 ### Journey Orchestration {#journey-orch}
 
 Funciones, correcciones y contenido de ayuda nuevo para Journey Orchestration.
@@ -219,38 +251,6 @@ Consulte las [Notas de la versión de Journey Orchestration](https://experiencel
 #### Más recursos para [!UICONTROL Offer decisioning]
 
 [Centro de ayuda](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=es#new) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html?lang=es)
-
-### SDK de Adobe Mobile
-
-Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para conocer los SDK de Adobe Experience Platform Mobile.
-
-## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-Las actualizaciones de **agosto de 2021** para Journey Optimizer incluyen las siguientes:
-
-| Función | Descripción |
-| -----------| ---------- |
-| [!UICONTROL Optimización del tiempo de envío] | Envíe automáticamente su mensaje push o correo electrónico en el mejor momento para cada cliente con el que interactúe con Adobe Journey Optimizer. |
-| Aprovechamiento de las relaciones de esquema | Ahora puede aprovechar las relaciones entre esquemas al configurar un evento empresarial. |
-| [!UICONTROL Período de tiempo de reintento] | Ahora puede definir el período de reintento por ajuste preestablecido para garantizar que los intentos de reintentar no se realicen más cuando ya no sean necesarios. |
-| [!UICONTROL Lista de supresión] | La adición de direcciones de correo electrónico y dominios a la lista de supresión ya está disponible en la interfaz de usuario, ya sea una por una, o en modo masivo a través de la carga de un archivo CSV. |
-
-Consulte las [Notas de la versión de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es) para obtener más información.
-
-#### Nuevos tutoriales y cursos para Journey Optimizer {#tutorials-ajo}
-
-| Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| Agosto de 2021 | [Introducción a la creación de un recorrido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=es) | Vídeo | Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido. |
-| Agosto de 2021 | [Configuración de datos de perfil de cliente: información general](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=es) | Vídeo | Obtenga información acerca de los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer. |
-| Agosto de 2021 | [Asignación de identidades](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=es) | Vídeo | Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad. |
-| Agosto de 2021 | [Caso de uso: mensaje de ráfaga](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=es) | Vídeo | Comprenda los casos de uso aplicables para la mensajería de ráfaga. Obtenga información sobre cómo configurar un recorrido para los mensajes de ráfaga y las prácticas recomendadas que se deben aplicar. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Recursos adicionales para Journey Optimizer
-
-[Centro de ayuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
 
 ## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
