@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
+source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -206,8 +206,6 @@ Funciones, correcciones y contenido de ayuda nuevo para Journey Orchestration.
 
 Consulte las [Notas de la versión de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) para obtener más información.
 
-{style=&quot;table-layout:auto&quot;}
-
 #### Recursos adicionales para Journey Orchestration
 
 [Centro de ayuda](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
@@ -247,6 +245,8 @@ Consulte las [Notas de la versión de Journey Optimizer](https://experienceleagu
 | Agosto de 2021 | [Configuración de datos de perfil de cliente: información general](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=es) | Vídeo | Obtenga información acerca de los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer. |
 | Agosto de 2021 | [Asignación de identidades](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=es) | Vídeo | Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad. |
 | Agosto de 2021 | [Caso de uso: mensaje de ráfaga](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=es) | Vídeo | Comprenda los casos de uso aplicables para la mensajería de ráfaga. Obtenga información sobre cómo configurar un recorrido para los mensajes de ráfaga y las prácticas recomendadas que se deben aplicar. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Recursos adicionales para Journey Optimizer
 
