@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: 8b36fbc422c8b7b2bf3f2a7497a5dc51495e0562
+source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
 workflow-type: tm+mt
 source-wordcount: '5136'
 ht-degree: 40%
@@ -180,7 +180,7 @@ Consulte las [Notas de la versión de Experience Platform](https://experiencelea
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Curso | Obtenga información sobre las actividades de administración para Experience Platform, incluida la administración de permisos y entornos limitados. |
+| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Curso | Obtenga información sobre las actividades de administración para Experience Platform, incluida la administración de permisos y entornos limitados. |
 
 {style=&quot;table-layout:auto&quot;}
 
