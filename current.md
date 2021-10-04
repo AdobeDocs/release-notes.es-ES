@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
+source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
 workflow-type: tm+mt
-source-wordcount: '5271'
+source-wordcount: '5278'
 ht-degree: 40%
 
 ---
@@ -23,7 +23,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **1 de octubre de 2021**
+Última actualización: **4 de octubre de 2021**
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
@@ -50,6 +50,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 | Fecha del evento | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| 21 de octubre de 2021 | Por determinar | Evento de vídeo en directo | Detalles próximamente. |
 | 23 de septiembre de 2021 | [Sugerencias de los expertos para que sus campañas de días festivos se destaquen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Evento de vídeo en directo | Al igual que nunca es demasiado pronto para comenzar sus compras de días festivos, tampoco lo es para empezar a planificar una campaña de marketing de días festivos con gran éxito. Con Adobe Campaign, puede diseñar, planificar y ejecutar campañas que hagan realidad todos los deseos de los días festivos de su organización.<br>Pero, ¿conoce todos los consejos para ejecutar campañas que terminen el año con un golpe? Únete a Sandra para una discusión en vivo con tres expertos en Adobe que tienen muchos conocimientos colectivos para hacer justamente eso. |
 | 26 de agosto de 2021 | [Haga que el siguiente segmento de audiencia sea más inteligente que nunca](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=es) | Grabación de eventos | El éxito de las buenas campañas de marketing depende de la segmentación precisa de la audiencia. Con el nuevo [!UICONTROL Generador de segmentos] de Adobe Experience Platform, puede generar su siguiente segmento de audiencia utilizando los datos de perfil y el comportamiento del usuario basado en el tiempo en todos los canales. Es la mejor manera de garantizar que sus mensajes lleguen a las personas que más necesitan escucharlos. |
 | 29 de julio de 2021 | [Mis tres consejos favoritos para la implementación de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=es) | Grabación de eventos | Lo ha visto en el escenario en Summit. Ha oído que comparte consejos de los expertos en Adobe Insider Tours. Puede que incluso haya tenido la ventaja de trabajar con él en su propia implementación de Adobe Analytics. Eric Matisoff le trae sus tres consejos favoritos de implementación de Adobe Analytics a este exclusivo debate de Experience League en vivo. |
