@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e3a7e1b80d25a3b9625ca0ee31a07bae674eda6f
+source-git-commit: bee65444e8ef1c12779c991fa9e199d93b8028f0
 workflow-type: tm+mt
-source-wordcount: '5278'
+source-wordcount: '5361'
 ht-degree: 39%
 
 ---
@@ -48,12 +48,12 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 [!DNL Experience League] Los eventos en directo son debates con expertos e invitados especiales de Adobe que son fundamentales para presentar la tecnología de Adobe. Consulte la siguiente programación y únase a nosotros en directo o vea los eventos grabados anteriormente.
 
-| Fecha del evento | Nombre del evento | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| 21 de octubre de 2021 | Por determinar | Evento de vídeo en directo | Detalles próximamente. |
-| 23 de septiembre de 2021 | [Sugerencias de los expertos para que sus campañas de días festivos se destaquen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Evento de vídeo en directo | Al igual que nunca es demasiado pronto para comenzar sus compras de días festivos, tampoco lo es para empezar a planificar una campaña de marketing de días festivos con gran éxito. Con Adobe Campaign, puede diseñar, planificar y ejecutar campañas que hagan realidad todos los deseos de los días festivos de su organización.<br>Pero, ¿conoce todos los consejos para ejecutar campañas que terminen el año con un golpe? Únete a Sandra para una discusión en vivo con tres expertos en Adobe que tienen muchos conocimientos colectivos para hacer justamente eso. |
-| 26 de agosto de 2021 | [Haga que el siguiente segmento de audiencia sea más inteligente que nunca](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=es) | Grabación de eventos | El éxito de las buenas campañas de marketing depende de la segmentación precisa de la audiencia. Con el nuevo [!UICONTROL Generador de segmentos] de Adobe Experience Platform, puede generar su siguiente segmento de audiencia utilizando los datos de perfil y el comportamiento del usuario basado en el tiempo en todos los canales. Es la mejor manera de garantizar que sus mensajes lleguen a las personas que más necesitan escucharlos. |
-| 29 de julio de 2021 | [Mis tres consejos favoritos para la implementación de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=es) | Grabación de eventos | Lo ha visto en el escenario en Summit. Ha oído que comparte consejos de los expertos en Adobe Insider Tours. Puede que incluso haya tenido la ventaja de trabajar con él en su propia implementación de Adobe Analytics. Eric Matisoff le trae sus tres consejos favoritos de implementación de Adobe Analytics a este exclusivo debate de Experience League en vivo. |
+| Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 21 de octubre de 2021 | 12.00 horas (EST) | [¿Quién hizo clic en eso? Informes avanzados sobre clics en vínculos con Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Evento de vídeo en directo | La creación de informes sobre la interacción del usuario con su propiedad web o móvil es una parte fundamental del recorrido de su cliente. Con Adobe Analytics puede comprender el quién, qué, por qué y dónde de cada clic en la aplicación. Conozca a los expertos de Adobe Analytics sus principales sugerencias para usar clasificaciones de Activity Map y atribuciones personalizadas para comprender mejor la participación del usuario. |
+| 23 de septiembre de 2021 | On Demand | [Sugerencias de los expertos para que sus campañas de días festivos se destaquen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Evento de vídeo en directo | Al igual que nunca es demasiado pronto para comenzar sus compras de días festivos, tampoco lo es para empezar a planificar una campaña de marketing de días festivos con gran éxito. Con Adobe Campaign, puede diseñar, planificar y ejecutar campañas que hagan realidad todos los deseos de los días festivos de su organización.<br>Pero, ¿conoce todos los consejos para ejecutar campañas que terminen el año con un golpe? Únete a Sandra para una discusión en vivo con tres expertos en Adobe que tienen muchos conocimientos colectivos para hacer justamente eso. |
+| 26 de agosto de 2021 | On Demand | [Haga que el siguiente segmento de audiencia sea más inteligente que nunca](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=es) | Grabación de eventos | El éxito de las buenas campañas de marketing depende de la segmentación precisa de la audiencia. Con el nuevo [!UICONTROL Generador de segmentos] de Adobe Experience Platform, puede generar su siguiente segmento de audiencia utilizando los datos de perfil y el comportamiento del usuario basado en el tiempo en todos los canales. Es la mejor manera de garantizar que sus mensajes lleguen a las personas que más necesitan escucharlos. |
+| 29 de julio de 2021 | On Demand | [Mis tres consejos favoritos para la implementación de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=es) | Grabación de eventos | Lo ha visto en el escenario en Summit. Ha oído que comparte consejos de los expertos en Adobe Insider Tours. Puede que incluso haya tenido la ventaja de trabajar con él en su propia implementación de Adobe Analytics. Eric Matisoff le trae sus tres consejos favoritos de implementación de Adobe Analytics a este exclusivo debate de Experience League en vivo. |
 
 {style=&quot;table-layout:auto&quot;}
 
