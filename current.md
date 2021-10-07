@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
+source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
 workflow-type: tm+mt
-source-wordcount: '5394'
+source-wordcount: '5405'
 ht-degree: 39%
 
 ---
@@ -59,7 +59,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
-## ![Icono](/assets/ec_appicon_24.png) de [!DNL Experience Cloud Central UI Components] y Administración {#ecloud}
+## ![Icono](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] y Administración {#ecloud}
 
 | Función | Descripción |
 | ------- | ------- |
@@ -78,7 +78,7 @@ Para ver más vídeos, visite [Adobe Experience League Channel](https://www.yout
 
 ## ![Icono](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/es).
 
 (Busque la información de la versión más reciente de [!DNL Adobe System Status] en las notas de la versión del [21 de mayo de 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=es)).
 
@@ -109,7 +109,7 @@ Fecha de la versión: **7 de octubre de 2021**
 
 | Función | Descripción | [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Fecha de destino |
 | ----------- | ---------- | ----- |
-| asistencia al Report Builder | Report Builder es un complemento [!DNL Excel] de Microsoft® que le permite crear, editar y actualizar fácilmente informes personalizados con datos de Customer Journey Analytics. Con Report Builder y Excel, puede utilizar la sencilla pero flexible IU de arrastrar y soltar para crear fácilmente solicitudes de datos complejas. Con Report Builder para Customer Journey Analytics, puede:<ul><li>Hacer referencia a celdas de hojas de cálculo existentes para obtener el orden de fila, el intervalo de fechas o el filtro perfecto</li><li>Crear fechas personalizadas usando calendario, referencias de celda o matemáticas de fecha</li><li>Diseñe las tablas y visualizaciones con herramientas de formato de Excel conocidas</li><li>Disponible en macOS, Microsoft 365 para la Web y Microsoft Windows</li></ul> | 7 de octubre de 2021 |
+| asistencia al Report Builder | Report Builder es un complemento [!DNL Excel] de Microsoft® que le permite crear, editar y actualizar fácilmente informes personalizados con datos de Customer Journey Analytics. Con Report Builder y Excel, puede utilizar la sencilla pero flexible IU de arrastrar y soltar para crear fácilmente solicitudes de datos complejas. Con Report Builder para Customer Journey Analytics, puede:<ul><li>Hacer referencia a celdas de hojas de cálculo existentes para obtener el orden de fila, el intervalo de fechas o el filtro perfecto</li><li>Crear fechas personalizadas usando calendario, referencias de celda o matemáticas de fecha</li><li>Diseñe las tablas y visualizaciones con herramientas de formato de Excel conocidas</li><li>Disponible para Excel en macOS, Microsoft 365 para la Web y Microsoft Windows</li></ul>[Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7 de octubre de 2021 |
 | Visualizaciones para paneles de Analytics | Analytics [!UICONTROL Tableros] presenta tres nuevas visualizaciones para que los ejecutivos y los responsables de la toma de decisiones puedan comprender mejor sus datos a simple vista. Los nuevos gráficos de anillos, líneas y barras horizontales facilitan la visualización de datos para elementos de dimensión individuales, sin tener que abrir una vista de detalles. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7 de octubre de 2021 |
 | API de registros de auditoría del Customer Journey Analytics | El extremo de la API [Audit Log](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) permite solicitar datos de registro de auditoría desde el Adobe. Es una parte importante del cumplimiento de la seguridad y para auditar datos o acciones del usuario. | 7 de octubre de 2021 |
 | [!UICONTROL Generador de filtros] rápido | Permite a los usuarios empresariales aplicar rápidamente segmentos básicos en un flujo de trabajo de proyecto simplificado y en línea. No es necesario ir al [!UICONTROL Generador de filtros]. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 21 de octubre de 2021 |
@@ -303,7 +303,7 @@ Las notas de la versión y otros vínculos de información de la versión para E
 * [[!DNL Experience Manager as a Cloud Service]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=es)
 * [[!DNL Experience Manager as a Cloud Service] Información de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es)
 * [[!DNL Experience Manager Cloud Manager]  Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=es)
-* [Notas de la versión del servicio de conversión automatizada de Forms](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
+* [Notas de la versión del servicio de conversión automatizada de formularios](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
 * [[!DNL Experience Manager Assets Dynamic Media]  Notas de la versión](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=es)
@@ -387,7 +387,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Icono](/assets/magento.png) [!DNL Commerce]  (Magento) {#magento}
+## ![Icono](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
 Consulte los siguientes vínculos para ver las notas de la versión de Adobe Commerce:
 
