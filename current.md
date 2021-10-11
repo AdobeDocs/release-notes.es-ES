@@ -6,7 +6,7 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e3facdc781ebcea6c4e623799ba1c431c83ae05f
+source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
 workflow-type: tm+mt
 source-wordcount: '5537'
 ht-degree: 38%
@@ -132,7 +132,7 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 | Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
-| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **28 de octubre de 2021**, los siguientes servicios de API heredadas de Analytics alcanzan su fecha de finalización y se cierran. Todas las integraciones actuales creadas con estos servicios dejaron de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://developer.adobe.com/console), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
+| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **20 de octubre de 2021**, los siguientes servicios de API heredadas de Analytics alcanzan su fecha de finalización y se cierran. Todas las integraciones actuales creadas con estos servicios dejaron de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://developer.adobe.com/console), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 
 {style=&quot;table-layout:auto&quot;}
 
