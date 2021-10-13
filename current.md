@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
+source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
 workflow-type: tm+mt
-source-wordcount: '5537'
+source-wordcount: '5553'
 ht-degree: 38%
 
 ---
@@ -23,7 +23,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Última actualización: **7 de octubre de 2021**
+Última actualización: **13 de octubre de 2021**
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
@@ -32,7 +32,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (actualizado el 13 de  **octubre de 2021**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Target]](#target)
@@ -238,6 +238,8 @@ Obtenga más información sobre las últimas funciones, mejoras y correcciones e
 ## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
 Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=es) para mantenerse al día respecto a la información de la versión.
+
+**Actualización del 13/10/2021:** Consulte el vídeo de descripción general de la versión de  [septiembre de 2021 para ](https://video.tv.adobe.com/v/337381) obtener información general sobre las nuevas funciones.
 
 ### Comunidad
 
