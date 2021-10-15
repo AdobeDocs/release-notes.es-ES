@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
+source-git-commit: 506c543d97a19bf88e7ba767c82893b02704ea8b
 workflow-type: tm+mt
-source-wordcount: '5553'
+source-wordcount: '5631'
 ht-degree: 38%
 
 ---
@@ -348,8 +348,8 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 | -----------| ---------- | ---------- | ---------- |
 | Octubre de 2021 | [Creación de campañas avanzadas con Adobe Campaign V8 para usuarios empresariales](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Curso | Obtenga información sobre cómo configurar y ejecutar campañas de marketing avanzadas mediante Adobe Campaign V8. Obtenga información sobre los requisitos previos, cree y configure campañas avanzadas, envíos y administre suscripciones. |
 | Octubre de 2021 | [Uso de API SOAP en flujos de trabajo - Introducción](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Tutorial | Obtenga información sobre cómo utilizar la API de Adobe Campaign Soap y cree un flujo de trabajo de envío avanzado basado en los datos recibidos mediante la API. |
-| Octubre de 2021 | [Crear eventos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Tutorial | Obtenga información sobre cómo configurar un evento, especifique el extremo de flujo continuo y la carga útil para un evento. |
-| Octubre de 2021 | [Configuración de fuentes de datos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Tutorial | Comprenda qué es una fuente de datos y aprenda a configurar fuentes de datos externas y de Experience Platform. |
+| Octubre de 2021 | [Creación de eventos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Tutorial | Obtenga información sobre cómo configurar un evento, especifique el extremo de flujo continuo y la carga útil para un evento. |
+| Octubre de 2021 | [Configuración de fuentes de datos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Tutorial | Comprenda qué es una fuente de datos y aprenda a configurar una fuente de datos de Experience Platform y externas. |
 | Octubre de 2021 | [Caso de uso: mensajes de fragmentación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Tutorial | Comprenda los casos de uso aplicables para la mensajería de ráfaga. Obtenga información sobre cómo configurar un recorrido para los mensajes de ráfaga y las prácticas recomendadas que se deben aplicar. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -370,22 +370,21 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 ### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Última actualización: **28 de septiembre de 2021**
+Última actualización: **7 de octubre de 2021**
 
 | Función | Descripción |
 | ------- | ----------- |
-| Vistas de administración de campañas | Ahora hay disponible una columna &quot;[!UICONTROL Creation date]&quot; en conjuntos de columnas personalizados para las vistas [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] y [!UICONTROL Ads]. También puede filtrar las vistas [!UICONTROL Ubicaciones] y [!UICONTROL Publicidades] por [!UICONTROL Fecha de creación]. |
-| Ofertas garantizadas mediante programación | (Versión del 8 de septiembre) Ahora puede editar la [!UICONTROL Oferta máxima] para la ubicación predeterminada de una oferta garantizada mediante programación (PG). Sin embargo, como las ofertas PG siempre tienen un CPM fijo, solo los clientes internacionales deben editar la [!UICONTROL Oferta máxima] para tener en cuenta las tarifas de cambio de moneda. |
-|  | (Versión del 8 de septiembre) Los usuarios con el permiso &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; ahora pueden enviar una publicidad a [!DNL FreeWheel Programmatic Creative API] desde la vista [!UICONTROL Anuncios] o la vista [!UICONTROL Colocaciones]. Aún puede enviar una publicidad desde la vista [!UICONTROL Ofertas]. |
+| Documentación | Toda la [DSP y otra documentación de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html) en [!DNL Experience League] se traduce ahora automáticamente a todos los idiomas disponibles. Para cambiar el idioma mostrado, utilice el menú Cambiar idioma en la parte inferior izquierda de cualquier página. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **28 de septiembre de 2021**
+Última actualización: **7 de octubre de 2021**
 
 | Función | Descripción |
 | ------- | ----------- |
+| [!UICONTROL Informes], Centro  [!UICONTROL de notificaciones] | (Versión del 9 de octubre) Todas las notificaciones por correo electrónico para informes, que Advertising Cloud Search envía cuando se completa o falla un informe personalizado o programado, ahora las gestiona [!UICONTROL Notification Center]. Las notificaciones por correo electrónico y las notificaciones web están habilitadas de forma predeterminada para los informes, pero también puede cambiar la configuración de las notificaciones. Con este cambio:<ul><li>Los destinatarios del correo electrónico están restringidos a los usuarios registrados y autenticados de Advertising Cloud Search y que tienen acceso a la cuenta del anunciante. Esto garantiza que no se envíen datos confidenciales a usuarios no autorizados.</li><li>El formato y el contenido del correo electrónico utilizan la plantilla [!UICONTROL Notification Center], que incluye más detalles del informe e incluye vínculos de descarga directa para todos los formatos de informe.</li><li>Las notificaciones de informes son un nuevo tipo de notificación, con sus propias preferencias de notificación, en [!UICONTROL Centro de notificaciones].</li></ul>Si utiliza cualquier automatización para extraer informes de las notificaciones por correo electrónico, es posible que tenga que actualizar la lógica de filtrado para garantizar la continuidad del proceso. |
 | Información sobre los anuncios | Hay perspectivas adicionales disponibles en el modo beta. |
 
 {style=&quot;table-layout:auto&quot;}
