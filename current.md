@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: c22db21d36f9ff7309f1ca835ff3241f87b86286
+source-git-commit: f348d6153d81dae8ef84cd1aeb797e707104f392
 workflow-type: tm+mt
-source-wordcount: '4190'
+source-wordcount: '4128'
 ht-degree: 60%
 
 ---
@@ -30,17 +30,18 @@ Mes de lanzamiento: **Noviembre de 2021**
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
 * [Estado del sistema de [!UICONTROL Adobe]](#status)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
-* [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Commerce]](#magento)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -64,7 +65,7 @@ Para ver más vídeos, visite [Adobe Experience League Channel](https://www.yout
 | Función | Descripción |
 | ------- | ------- |
 | Página principal | La información del pie de página principal del Experience Cloud se ha movido a la tarjeta de perfil del usuario, incluidos los avisos legales y la selección de idiomas en Preferencias. |
-| Tableros de AEP | [!DNL Helios Lite] proporciona recomendaciones de gráficos dentro del flujo de trabajo de creación de widget de Experience Platform. Dada la selección de datos (actualmente selección de datos de una sola variable), helios recomienda una visualización adecuada para acompañar esa selección de datos. |
+| Tableros de AEP | [!DNL Helios Lite] proporciona recomendaciones de gráficos dentro del flujo de trabajo de creación de widget de Experience Platform. Dada una selección de datos (actualmente selección de datos de variable única), [!DNL Helios] recomienda una visualización adecuada para acompañar esa selección de datos. |
 | Tableros de AEP | [!DNL Instory] proporciona narración escrita basada en ML y subtítulos para gráficos. decora gráficos en la página Paneles de AEP con puntos de viñeta relevantes que señalan cambios e incidentes importantes en los datos graficados. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -80,6 +81,29 @@ Para ver más vídeos, visite [Adobe Experience League Channel](https://www.yout
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/es).
 
 (Busque la información de la versión más reciente de [!DNL Adobe System Status] en las notas de la versión del [21 de mayo de 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=es)).
+
+## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Incluye información sobre la actualización y nueva documentación de la versión de Experience Platform y el [!UICONTROL SDK móvil].
+
+**29 de septiembre de 2021**
+
+Consulte las [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para todos los detalles.
+
+### Tutoriales y cursos de Experience Platform {#tutorials-platform}
+
+Últimos vídeos, tutoriales o cursos publicados para Experience Platform y sus servicios.
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Noviembre de 2021 | [ Colaboración de datos en el contexto de datos de origen ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | Vídeo | Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un anunciante, editor o agencia, este seminario web le ayuda a desbloquear las oportunidades de colaboración de datos en un futuro sin cookies de terceros. |
+| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Curso | Conozca las actividades de administración de Experience Platform, incluyida la gestión de permisos y de la zona protegida. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### SDK de Adobe Mobile
+
+Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para conocer los SDK de Adobe Experience Platform Mobile.
 
 ## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -158,7 +182,7 @@ Nuevos cursos, tutoriales y artículos en [!DNL Analytics] y [!UICONTROL Custome
 | Noviembre de 2021 | [Contenedores de segmento en Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=en) | Vídeo (actualizado) | En este vídeo, aprenda a utilizar los contenedores y escuchar algunos ejemplos de cada tipo de contenedor. |
 | Noviembre de 2021 | [Segmentación secuencial en Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=en#) | Vídeo (actualizado) | Aprenda a crear un segmento en Analysis Workspace a partir de secuencias de comportamientos en el sitio o en la aplicación. |
 | Noviembre de 2021 | [Secuencias Antes/Después en la segmentación secuencial](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=en) | Vídeo (actualizado) | Obtenga información sobre cómo segmentar en Adobe Analytics para que solo obtenga los datos de antes o después de una ruta de usuario específica. |
-| Noviembre de 2021 | [Report Builder para Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html) | Vídeo | Con la sencilla y flexible IU de arrastrar y soltar de Report Builder, puede crear consultas de datos complejas e informes personalizados a partir de datos de Customer Journey Analytics, todo ello dentro de Excel. |
+| Noviembre de 2021 | [Report Builder para Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html) | Vídeo | Con la sencilla y flexible IU de arrastrar y soltar de Report Builder, puede crear consultas de datos complejas e informes personalizados a partir de datos de Customer Journey Analytics, todo ello con Excel. |
 | Octubre de 2021 | [Uso de las visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) | Curso | Conozca los conceptos básicos sobre las visualizaciones, incluido cómo agregarlas a un proyecto, obtener datos en ellas y qué puede mostrarle cada visualización. Aprenda a configurar los ajustes para obtener exactamente los datos que necesita. Además, obtendrá algunos consejos y casos de uso que le ayudarán a hacer que las visualizaciones sean prácticas para su análisis habitual. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -174,78 +198,6 @@ Correcciones y mejoras en Audience Manager.
 * Se ha resuelto un problema que hacía que todas las llamadas a la API devolvieran un `Undocumented` al realizarse a través de la interfaz Swagger. (AAM-59190)
 * Se ha resuelto un problema que hacía que se asignaran funciones de usuario incorrectas a socios en algunas situaciones. (AAM-59451)
 * Se ha resuelto un problema que hacía que la API necesitara encabezados de autenticación que distinguían entre mayúsculas y minúsculas. (AAM-58528)
-
-
-## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
-
-Incluye información sobre la actualización y nueva documentación de la versión de Experience Platform y el [!UICONTROL SDK móvil].
-
-**29 de septiembre de 2021**
-
-Consulte las [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para todos los detalles.
-
-### Tutoriales y cursos de Experience Platform {#tutorials-platform}
-
-Últimos vídeos, tutoriales o cursos publicados para Experience Platform y sus servicios.
-
-| Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| Noviembre de 2021 | [ Colaboración de datos en el contexto de datos de origen ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | Vídeo | Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un anunciante, editor o agencia, este seminario web le ayuda a desbloquear las oportunidades de colaboración de datos en un futuro sin cookies de terceros. |
-| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Curso | Conozca las actividades de administración de Experience Platform, incluyida la gestión de permisos y de la zona protegida. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### SDK de Adobe Mobile
-
-Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para conocer los SDK de Adobe Experience Platform Mobile.
-
-## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-Con Adobe Journey Optimizer, puede administrar campañas omnicanal programadas y momentos uno a uno para millones de clientes desde una sola aplicación, y todo el recorrido se optimiza con decisiones y perspectivas inteligentes.
-
-### Últimas versiones de productos de Journey Optimizer
-
-Descubra las funcionalidades, mejoras y correcciones más recientes en las [Notas de la versión de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es).
-
-### Tutoriales y cursos de Journey Optimizer {#tutorials-ajo}
-
-Últimos tutoriales de Journey Optimizer:
-
-| Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| Octubre de 2021 | [Configuración y administración de datos en [!DNL Journey Optimizer] para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
-| Octubre de 2021 | [Introducción a [!DNL Journey Optimizer] para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | Curso | Aprenda todo lo que debe saber para crear su primer recorrido. |
-| Octubre de 2021 | [Configuración de [!DNL Journey Optimizer] para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Más recursos para [!DNL Journey Optimizer]
-
-[Documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos de presentación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
-
-## ![Icono](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
-
-Utilice Experience Platform para orquestar el recorrido de un cliente a escala a través de canales de experiencia, anticipando de forma inteligente las necesidades de cada individuo en tiempo real.
-
-### Últimas versiones de productos de [!DNL Journey Orchestration]
-
-Descubra las funcionalidades, mejoras y correcciones más recientes en las Notas de versão do [[!DNL Journey Orchestration] ](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es).
-
-### Más recursos para [!DNL Journey Orchestration]
-
-[Documentación](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
-
-## ![Icono](/assets/experience_platform_appicon_24.png) Administración de decisiones {#offer-decisioning}
-
-[!UICONTROL offer decisioning] es un servicio integrado con Adobe Experience Platform. Utilice [!UICONTROL Offer Decisioning] para ofrecer la mejor oferta y experiencia a sus clientes en todos los puntos de contacto y en el momento adecuado.
-
-### Últimas versiones del producto de Administración de decisiones
-
-Obtenga más información sobre las últimas funciones, mejoras y correcciones en la [Notas de la versión de Administración de decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
-
-### Más recursos para [!UICONTROL Administración de decisiones]
-
-[Documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=es)
 
 ## ![Icono](/assets/aem.png) Experience Manager {#aem}
 
@@ -277,7 +229,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | Noviembre de 2021 | [Planificación del traslado a AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration) | Curso | Obtenga información sobre las consideraciones del paso a AEM as a Cloud Service y las herramientas disponibles que simplifican el proceso. | AEM CS |
 | Noviembre de 2021 | [Traslado a AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration) | Curso | Aprenda a pasar correctamente del AEM 6 al Experience Manager as a Cloud Service. | AEM CS |
 | Noviembre de 2021 | [Descargar DoR interactivo](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=en#create-custom-servlet) | Vídeo | Aprenda a descargar un documento de trabajo interactivo con los datos del formulario adaptable. | AEM Forms |
-| Noviembre de 2021 | [Serie de expertos de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en) | Serie de vídeos | Obtenga información sobre Adobe Experience Manager (AEM) as a Cloud Service por parte de los ingenieros expertos de Adobe que lo crean y del equipo de Professional Services que lo ofrecen. Únase a los expertos de Adobe para explorar lo que es AEM as a Cloud Service, cómo se compara con AEM 6 y cómo pasar de AEM 6 a AEM as a Cloud Service. | AEM CS |
+| Noviembre de 2021 | [Serie de expertos de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en) | Serie de vídeos | Obtenga información sobre Adobe Experience Manager (AEM) as a Cloud Service por parte de los ingenieros expertos de Adobe que lo crean y el equipo de Professional Services que lo proporciona. Únase a los expertos de Adobe para explorar lo que es AEM as a Cloud Service, cómo se compara con AEM 6 y cómo pasar de AEM 6 a AEM as a Cloud Service. | AEM CS |
 | Noviembre de 2021 | [Usuarios de servicio](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=en) | Vídeo | Aprenda a crear y utilizar usuarios de servicios en su código de AEM para proporcionar acceso controlado y programático al repositorio de AEM. | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
@@ -311,6 +263,25 @@ Las notas de la versión y otros vínculos de información de la versión para E
 * [[!DNL Dynamic Media Classic] Página inicial de Ayuda](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=es)
 * [Documentación de Experience Manager: actualizaciones recientes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=es#aem-as-a-cloud-service)
 
+## ![Icono](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
+
+Consulte los siguientes vínculos para ver las notas de la versión de Adobe Commerce:
+
+* [Adobe Commerce y Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite para Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+
+### Nuevos tutoriales de Adobe Commerce {#commerce-tutorials}
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Noviembre de 2021 | [Vídeos y Tutorials de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | Página de inicio del tutorial | Estos recursos de tutorial incluyen series de vídeos que proporcionan una vista de alto nivel de los temas y vídeos individuales dirigidos a tareas y procesos específicos. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización. |
+
+## ![Icono](/assets/target.png) [!DNL Target] {#target}
+
+Última actualización: **20 de octubre de 2021**
+
+Consulte las [[!DNL Target] notas de la versión](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
+
 ## ![Icono](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
 Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes privados a través de canales de marketing en línea y sin conexión. Ahora puede anticipar los deseos de los clientes mediante experiencias basadas en sus hábitos y preferencias.
@@ -343,6 +314,57 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 * Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
 * Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
+## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+Con Adobe Journey Optimizer, puede administrar campañas omnicanal programadas y momentos uno a uno para millones de clientes desde una sola aplicación, y todo el recorrido se optimiza con decisiones y perspectivas inteligentes.
+
+### Últimas versiones de productos de Journey Optimizer
+
+Descubra las funcionalidades, mejoras y correcciones más recientes en las [Notas de la versión de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es).
+
+### Tutoriales y cursos de Journey Optimizer {#tutorials-ajo}
+
+Últimos tutoriales de Journey Optimizer:
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Octubre de 2021 | [Configuración y administración de datos en [!DNL Journey Optimizer] para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
+| Octubre de 2021 | [Introducción a [!DNL Journey Optimizer] para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | Curso | Aprenda todo lo que debe saber para crear su primer recorrido. |
+| Octubre de 2021 | [Configuración de [!DNL Journey Optimizer] para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Más recursos para [!DNL Journey Optimizer]
+
+* [Documentación de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Liberar rutas](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
+* [Documentación de gestión de decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=es)
+
+## ![Icono](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+
+Utilice Experience Platform para orquestar el recorrido de un cliente a escala a través de canales de experiencia, anticipando de forma inteligente las necesidades de cada individuo en tiempo real.
+
+### Últimas versiones de productos de [!DNL Journey Orchestration]
+
+Obtenga más información sobre las últimas funciones, mejoras y correcciones en la [[!DNL Journey Orchestration] notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es).
+
+#### Más recursos para [!DNL Journey Orchestration]
+
+* [documentación del Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
+
+## ![Icono](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+
+[!DNL Marketo Engage] es una aplicación completa para la gestión de posibles clientes y para los especialistas en marketing B2B que buscan transformar las experiencias de los clientes al interactuar en todas las fases de los recorridos de compra complejos.
+
+### Actualizaciones centrales de Marketo Engage
+
+Consulte [!DNL Marketo Engage] [programación de versiones](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=es) para obtener la información más reciente sobre el calendario de versiones y las notas de la versión.
+
+## ![Icono](/assets/workfront.png) [!DNL Workfront] {#workfront}
+
+Adobe [!DNL Workfront] es una aplicación de administración de trabajo unificada para compartir ideas, crear contenido, administrar procesos complejos y trabajar de forma óptima.
+
+Consulte la página [[!DNL Workfront] Versiones](https://one.workfront.com/s/product-releases) de para obtener un resumen de la información más reciente de todos los productos.
+
 ## ![Icono](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Notas de la versión para [!DNL Adobe Advertising Cloud].
@@ -370,39 +392,6 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 | Información sobre los anuncios | Hay más información disponible en el modo beta. |
 
 {style=&quot;table-layout:auto&quot;}
-
-## ![Icono](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
-
-Consulte los siguientes vínculos para ver las notas de la versión de Adobe Commerce:
-
-* [Adobe Commerce y Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite para Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
-
-### Nuevos tutoriales de Adobe Commerce {#commerce-tutorials}
-
-| Publicadas | Nombre | Tipo | Descripción |
-| -----------| ---------- | ---------- | ---------- |
-| Noviembre de 2021 | [Vídeos y Tutorials de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | Página de inicio del tutorial | Estos recursos de tutorial incluyen series de vídeos que proporcionan una vista de alto nivel de los temas y vídeos individuales dirigidos a tareas y procesos específicos. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización. |
-
-## ![Icono](/assets/target.png) [!DNL Target] {#target}
-
-Última actualización: **20 de octubre de 2021**
-
-Consulte las [[!DNL Target] notas de la versión](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
-
-## ![Icono](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
-
-[!DNL Marketo Engage] es una aplicación completa para la gestión de posibles clientes y para los especialistas en marketing B2B que buscan transformar las experiencias de los clientes al interactuar en todas las fases de los recorridos de compra complejos.
-
-### Actualizaciones centrales de Marketo Engage
-
-Consulte [!DNL Marketo Engage] [programación de versiones](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=es) para obtener la información más reciente sobre el calendario de versiones y las notas de la versión.
-
-## ![Icono](/assets/workfront.png) [!DNL Workfront] {#workfront}
-
-Adobe [!DNL Workfront] es una aplicación de administración de trabajo unificada para compartir ideas, crear contenido, administrar procesos complejos y trabajar de forma óptima.
-
-Consulte la página [[!DNL Workfront] Versiones](https://one.workfront.com/s/product-releases) de para obtener un resumen de la información más reciente de todos los productos.
 
 ## ![Icono](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
