@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
 workflow-type: tm+mt
 source-wordcount: '4131'
-ht-degree: 60%
+ht-degree: 64%
 
 ---
 
@@ -29,7 +29,7 @@ Mes de lanzamiento: **Noviembre de 2021**
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
-* [Estado del sistema de [!UICONTROL Adobe]](#status)
+* [[!UICONTROL Estado del sistema] de Adobe](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -54,7 +54,7 @@ Mes de lanzamiento: **Noviembre de 2021**
 | Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 21 de octubre de 2021 | Bajo demanda | [¿Quién ha pulsado eso? Informes avanzados sobre los clics en vínculo con Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Evento de vídeo en directo | La creación de informes sobre la interacción de los usuarios con su propiedad web o móvil es una pieza fundamental para comprender el recorrido de los clientes Con Adobe Analytics puede comprender el quién, el qué, el por qué y el dónde de cada clic en su aplicación Aprenda los principales consejos de los expertos de Adobe Analytics para utilizar las clasificaciones de Activity Map y la atribución personalizada para comprender mejor la participación de los usuarios. |
-| 4 de octubre de 2021 | Bajo demanda | [Desarrolladores de Adobe en vivo](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Vídeo | ¿Se ha perdido el evento o se está buscando una repetición de una sesión específica? Hágalos en el Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias de clientes en todas las industrias. Vea la dirección principal, obtenga información sobre las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
+| 4 de octubre de 2021 | Bajo demanda | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | ¿Se ha perdido el evento o se está buscando una repetición de una sesión específica? Hágalos en el Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias de clientes en todas las industrias. Vea la dirección principal, obtenga información sobre las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -293,7 +293,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 Conozca las últimas funciones, mejoras y correcciones publicadas:
 
-* [Notas de la versión v8 de Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=es)
+* [Notas de la versión de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=es)
 * [Notas de la versión de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es)
 * [Notas de la versión de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es)
 
@@ -381,7 +381,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| Documentación | Todo [DSP y otra documentación de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html) en [!DNL Experience League] ahora se traduce automáticamente a todos los idiomas disponibles. Para cambiar el idioma mostrado, utilice el menú Cambiar idioma en la parte inferior izquierda de cualquier página. |
+| Documentación | Todo [DSP y otra documentación de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=es) en [!DNL Experience League] ahora se traduce automáticamente a todos los idiomas disponibles. Para cambiar el idioma mostrado, utilice el menú Cambiar idioma en la parte inferior izquierda de cualquier página. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -391,7 +391,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Informes], [!UICONTROL Centro de notificaciones] | (Versión del 9 de octubre) Todas las notificaciones por correo electrónico de los informes, que Advertising Cloud Search envía cuando se completa o falla un informe personalizado o programado, ahora son gestionadas por [!UICONTROL Centro de notificaciones]. Las notificaciones por correo electrónico y las notificaciones web están habilitadas de forma predeterminada para los informes, pero también puede cambiar la configuración de las notificaciones. Con este cambio:<ul><li>Los destinatarios del correo electrónico están restringidos a los usuarios registrados, autenticados de Advertising Cloud Search y que tienen acceso a la cuenta del anunciante. Esta función garantiza que no se envíen datos confidenciales a usuarios no autorizados.</li><li>El formato y el contenido del correo electrónico utilizan la variable [!UICONTROL Centro de notificaciones] plantilla, que incluye más detalles del informe e incluye vínculos de descarga directa para todos los formatos de informe.</li><li>Las notificaciones de informes son un nuevo tipo de notificación, con sus propias preferencias de notificación, en [!UICONTROL Centro de notificaciones].</li></ul>Si utiliza cualquier automatización para extraer informes de las notificaciones por correo electrónico, es posible que tenga que actualizar la lógica de filtrado para garantizar la continuidad del proceso. |
+| [!UICONTROL Informes], [!UICONTROL Centro de notificaciones] | (Versión del 9 de octubre) Todas las notificaciones por correo electrónico de los informes, que Advertising Cloud Search envía cuando se completa o falla un informe personalizado o programado, ahora las gestiona el [!UICONTROL Centro de notificaciones]. Las notificaciones por correo electrónico y web están habilitadas de forma predeterminada para los informes, pero también puede cambiar la configuración de las notificaciones. Con este cambio:<ul><li>Los destinatarios del correo electrónico están restringidos a los usuarios registrados, autenticados de Advertising Cloud Search y que tienen acceso a la cuenta del anunciante. Esta función garantiza que no se envíen datos confidenciales a usuarios no autorizados.</li><li>El formato y el contenido del correo electrónico utilizan la plantilla del [!UICONTROL Centro de notificaciones], que incluye más detalles del informe y vínculos de descarga directa para todos los formatos de informe.</li><li>Las notificaciones de informes son un nuevo tipo, con sus propias preferencias, en el [!UICONTROL Centro de notificaciones].</li></ul>Si utiliza cualquier automatización para extraer informes de las notificaciones por correo electrónico, es posible que tenga que actualizar la lógica de filtrado para garantizar la continuidad del proceso. |
 | Información sobre los anuncios | Hay más información disponible en el modo beta. |
 
 {style=&quot;table-layout:auto&quot;}
