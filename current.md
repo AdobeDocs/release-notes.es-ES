@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
+source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
 workflow-type: tm+mt
-source-wordcount: '4131'
-ht-degree: 64%
+source-wordcount: '4147'
+ht-degree: 63%
 
 ---
 
@@ -124,7 +124,7 @@ Fecha de la versión: **28 de octubre de 2021**
 | [!UICONTROL Tiempo invertido en la reproducción de contenido] | El [!UICONTROL Tiempo invertido] en la reproducción de contenido de Adobe proporciona un valioso conocimiento sobre la participación de los espectadores y permite a las organizaciones de medios obtener una información más profunda y granular, con la participación de los usuarios detallada minuto a minuto, a través de un análisis avanzado del tiempo invertido con capacidades de partición del día. Puede observar la cantidad de tiempo que se dedica a ver sus flujos de contenido en un momento determinado. La duración de la reproducción se puede dividir en distintas granularidades, incluidas las nuevas granularidades de 5 minutos, 15 minutos y 30 minutos. [Más información](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=es) | 18 de octubre de 2021 |
 | [!UICONTROL Generador de segmentos] rápidos | Permite a los usuarios empresariales aplicar rápidamente segmentos básicos en un flujo de trabajo del proyecto simplificado y en línea. No es necesario ir al [!UICONTROL Generador de segmentos]. [Más información](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=es) | 21 de octubre de 2021 |
 | Mejoras en la búsqueda del carril izquierdo de Analysis Workspace | La búsqueda del carril izquierdo 1) prioriza las coincidencias exactas por encima de las coincidencias generales, además de seguir teniendo en cuenta la actualización y relevancia de los componentes. 2) Resalta los caracteres coincidentes para que los resultados de la búsqueda sean más comprensibles. 3) Es más fácil encontrar clasificaciones relacionadas con una dimensión. 4) Por último, admite la búsqueda con comodines (`*`) para encontrar más fácilmente los componentes específicos que necesita. Nota: La búsqueda con comodines todavía no funciona en el nivel de elemento de dimensión. | 21 de octubre de 2021 |
-| Tema oscuro de Analysis Workspace | El tema oscuro está disponible como opción de visualización. | 21 de octubre de 2021 |
+| Tema oscuro | [El tema oscuro está disponible como opción de visualización.](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) | 21 de octubre de 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -135,7 +135,7 @@ Fecha de la versión: **28 de octubre de 2021**
 | Intervalos de fechas de nivel de minuto en Analysis Workspace | Puede aplicar un intervalo de fechas de nivel de minuto bajo la configuración avanzada del calendario del panel o al crear un intervalo de fechas personalizado. Si realiza informes en un intervalo de fechas que abarca muchos días, la hora de inicio se aplica al primer día y la hora de finalización se aplica al último día del intervalo. | 18 de octubre de 2021 |
 | [!UICONTROL Generador de filtros] rápidos | Permite a los usuarios empresariales aplicar rápidamente segmentos básicos en un flujo de trabajo del proyecto simplificado y en línea. No es necesario ir al [!UICONTROL Generador de filtros]. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | 21 de octubre de 2021 |
 | Mejoras en la búsqueda del carril izquierdo de Analysis Workspace | La búsqueda del carril izquierdo 1) prioriza las coincidencias exactas por encima de las coincidencias generales, además de seguir teniendo en cuenta la actualización y relevancia de los componentes. 2) Resalta los caracteres coincidentes para que los resultados de la búsqueda sean más comprensibles. 3) Es más fácil encontrar clasificaciones relacionadas con una dimensión. 4) Por último, admite la búsqueda con comodines (`*`) para encontrar más fácilmente los componentes específicos que necesita. Nota: La búsqueda con comodines todavía no funciona en el nivel de elemento de dimensión. | 21 de octubre de 2021 |
-| Tema oscuro de Analysis Workspace | El tema oscuro está disponible como opción de visualización. | 21 de octubre de 2021 |
+| Tema oscuro | [El tema oscuro está disponible como opción de visualización.](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) | 21 de octubre de 2021 |
 | Ventana de retrospectiva para la asignación de dimensiones | Se agrega una ventana retrospectiva de hasta 90 días a la configuración de asignación de dimensiones en Persistencia en la configuración de Vistas de datos. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html) | 28 de octubre de 2021 |
 
 {style=&quot;table-layout:auto&quot;}
