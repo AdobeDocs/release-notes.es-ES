@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
+source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
-source-wordcount: '4456'
-ht-degree: 59%
+source-wordcount: '4513'
+ht-degree: 58%
 
 ---
 
@@ -53,6 +53,7 @@ Mes de lanzamiento: **Noviembre de 2021**
 
 | Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| 18 de noviembre de 2021 | TBA | Acelere más rápido que nunca con la creación rápida de sitios en Experience Manager | Evento de vídeo en directo | Experience Manager Sites incluye varias funciones para acelerar el envío de una atractiva experiencia web. Aprenda a utilizar un método de código bajo para crear un sitio en Adobe Experience Manager mediante una plantilla de sitio predefinida. Más detalles por venir! |
 | 21 de octubre de 2021 | Bajo demanda | [¿Quién ha pulsado eso? Informes avanzados sobre los clics en vínculo con Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Evento de vídeo en directo | La creación de informes sobre la interacción de los usuarios con su propiedad web o móvil es una pieza fundamental para comprender el recorrido de los clientes Con Adobe Analytics puede comprender el quién, el qué, el por qué y el dónde de cada clic en su aplicación Aprenda los principales consejos de los expertos de Adobe Analytics para utilizar las clasificaciones de Activity Map y la atribución personalizada para comprender mejor la participación de los usuarios. |
 | 4 de octubre de 2021 | Bajo demanda | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | ¿Se ha perdido el evento o se está buscando una repetición de una sesión específica? Hágalos en el Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias de clientes en todas las industrias. Vea la dirección principal, obtenga información sobre las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
 
