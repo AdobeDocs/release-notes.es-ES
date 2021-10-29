@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
+source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
 workflow-type: tm+mt
-source-wordcount: '4147'
-ht-degree: 63%
+source-wordcount: '4456'
+ht-degree: 59%
 
 ---
 
@@ -25,7 +25,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 Mes de lanzamiento: **Noviembre de 2021**
 
-Última actualización: **22 de octubre de 2021**
+Última actualización: **28 de octubre de 2021**
 
 * [[!DNL Experience League] Eventos en directo](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
@@ -41,7 +41,7 @@ Mes de lanzamiento: **Noviembre de 2021**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (**27 de octubre de 2021**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -372,16 +372,32 @@ Consulte la página [[!DNL Workfront] Versiones](https://one.workfront.com/s/pro
 
 Notas de la versión para [!DNL Adobe Advertising Cloud].
 
+* [Nuevas funciones en [!DNL Advertising Cloud]](#adcloud-all)
 * [Nuevas funciones en  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nuevas funciones en  [!DNL Advertising Cloud Search]](#adcloud-search)
 
-### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nuevas funciones en [!DNL Advertising Cloud] {#adcloud-all}
 
-Última actualización: **7 de octubre de 2021**
+Última actualización: **27 de octubre de 2021**
 
 | Función | Descripción |
 | ------- | ----------- |
-| Documentación | Todo [DSP y otra documentación de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=es) en [!DNL Experience League] ahora se traduce automáticamente a todos los idiomas disponibles. Para cambiar el idioma mostrado, utilice el menú Cambiar idioma en la parte inferior izquierda de cualquier página. |
+| Analytics para Advertising Cloud | Si su organización desea dejar de utilizar el Adobe Analytics heredado `visitorAPI.js` biblioteca a la biblioteca de Adobe Experience Platform (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. Consulte &quot;[Al usar la variable [!DNL Last Event Service] Biblioteca JavaScript con Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Última actualización: **27 de octubre de 2021**
+
+| Función | Descripción |
+| ------- | ----------- |
+| Informes personalizados | Ahora puede crear y administrar [!DNL Amazon S3] y diferentes tipos de ubicaciones de envío por FTP, denominadas *[!DNL report destinations]*, para sus informes personalizados. Una vez configurados los destinos de los informes, puede configurar cada uno de los nuevos informes personalizados para que se envíen a una o más ubicaciones de un solo tipo de destino o a destinatarios de correo electrónico. Actualizaciones de [!DNL Amazon S3] Las credenciales de y FTP no interrumpen el envío de informes.<br><br>Los informes existentes se seguirán enviando a los destinatarios de correo electrónico especificados. Para configurar la entrega a un destino de informe diferente, cree un nuevo informe con el nuevo destino. |
+| [!UICONTROL Paquetes], [!UICONTROL Ubicaciones]y [!UICONTROL Publicidades] vistas | Cuando se ven datos de un solo día, los gráficos de tendencias ahora incluyen datos por hora. Mantenga el cursor sobre cualquier punto para ver los datos de esa hora. |
+| [!UICONTROL Ubicaciones] | La ubicación [!UICONTROL Inspector] ahora incluye un [!UICONTROL Inventario] , que muestra todas las ofertas y sus métricas asociadas para la ubicación. Utilice la información para realizar ajustes rápidos o solucionar problemas sin generar un informe personalizado. |
+| [!UICONTROL Anuncios] | (Los usuarios con permiso para incluir números de Clearcastwatch en sus anuncios) DSP ya no muestran un error si utiliza un número de reloj adjunto a otro anuncio. **Nota:**  La práctica recomendada es utilizar un número de reloj único para cada anuncio de vídeo. De lo contrario, el editor no aprobará todos los anuncios. |
+| [!UICONTROL ID de acuerdos] | La variable [!UICONTROL ID de acuerdo] Los ajustes de configuración y otros lugares de la interfaz de usuario reflejan la nueva personalización de marca para [!DNL Magnite] SSP:<br><ul><li>El SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) es ahora &quot;[!DNL Magnite CTV].&quot;</li><li>En las próximas semanas, [!DNL Rubicon]&quot; cambiará a &quot;[!DNL Magnite DV+],&quot; donde [!DNL DV+] significa pantalla, vídeo y otros formatos, como audio.</li></ul> |
+| [!DNL Freewheel] ofertas garantizadas mediante programación | Ahora puede encontrar el estado de las publicidades para [!DNL Freewheel] ofertas garantizadas mediante programación de [!UICONTROL Publicidades] vista. Anteriormente, solo se podía comprobar el estado desde el [!UICONTROL Ofertas] vista. |
 
 {style=&quot;table-layout:auto&quot;}
 
