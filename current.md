@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 18e7570cc950555d53a82bbb67555c3a273e2cbc
+source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
 workflow-type: tm+mt
-source-wordcount: '4782'
-ht-degree: 93%
+source-wordcount: '4804'
+ht-degree: 92%
 
 ---
 
@@ -49,11 +49,11 @@ Mes de lanzamiento: **Noviembre de 2021**
 
 ## ![Icono](/assets/experience-league.png) [!DNL Experience League] Eventos {#events}
 
-Los eventos de Experience League son un lugar bueno para obtener respuestas de los expertos en productos en el Adobe. Consulte nuestra
+Los eventos de Experience League son un lugar bueno para obtener respuestas de los expertos en productos en el Adobe. Estos son los eventos disponibles:
 
-* Despachos para café de preguntas y respuestas de la comunidad
-* Eventos de vídeo en directo de Experience League (también disponible bajo demanda)
-* Live de Desarrollador de Adobe
+* [Experience League Activo](#exl-live): Eventos de vídeo en directo y bajo demanda en YouTube
+* [Despachos para café de preguntas y respuestas de la comunidad](#coffee): Chats con administradores de productos en el foro de la comunidad
+* [Live de Desarrollador de Adobe](#dev-live): Eventos de vídeo a petición disponibles en el Experience League
 
 Los programas y eventos son los siguientes:
 
@@ -76,8 +76,8 @@ Pase una hora con un invitado especial y envíe sus preguntas a las comunidades 
 
 | Nombre del evento | Fecha y hora | Aplicación | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, IU general  | 8 de diciembre (miércoles) @ 8 am PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
-| Adobe Campaign: importación de datos a través de otras aplicaciones | 2 de diciembre de 2021 a las 8 am PT | Adobe Campaign | Preguntas y respuestas del foro | Importación de datos mediante otras aplicaciones : prácticas recomendadas para importar datos a través de SFTP/API mediante flujos de trabajo técnicos con Zariely Garcia, consultor técnico sénior. <br>[Detalles](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, IU general  | Miércoles, 8 de diciembre a las 8 am PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Campaign: importación de datos a través de otras aplicaciones | Jueves, 2 de diciembre de 2021 @ 8 am PT | Adobe Campaign | Preguntas y respuestas del foro | Importación de datos mediante otras aplicaciones : prácticas recomendadas para importar datos a través de SFTP/API mediante flujos de trabajo técnicos con Zariely Garcia, consultor técnico sénior. <br>[Detalles](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -86,6 +86,8 @@ Pase una hora con un invitado especial y envíe sus preguntas a las comunidades 
 | Nombre del evento | Fecha y hora | Tema | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Del 4 al 5 de octubre de 2021 | Bajo demanda | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | ¿Se ha perdido el evento o quiere volver a ver una sesión específica? Encuentre lo que busca en Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todas las industrias. Vea la dirección principal, obtenga información acerca de las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Para ver más vídeos, visite [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) en YouTube.
 
