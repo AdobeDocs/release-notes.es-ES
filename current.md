@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
+source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
-source-wordcount: '4804'
+source-wordcount: '4724'
 ht-degree: 92%
 
 ---
@@ -61,10 +61,11 @@ Los programas y eventos son los siguientes:
 
 [Experience League Activo](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) es un programa de transmisión en vivo producido por el equipo Experience League. Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede aplicar con las aplicaciones de Adobe Experience Cloud.
 
+Próximos eventos:
+
 | Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 18 de noviembre de 2021 | 12 p. m. (EST) | [Acelere más rápido que nunca con la creación rápida de sitios en Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Evento de vídeo en directo | Implemente en días experiencias web personalizadas con numerosas funciones, sin desarrollo de back-end. Aprenda a utilizar un enfoque de bajo código para crear un sitio en Adobe Experience Manager mediante una [!UICONTROL Plantilla del sitio]. Únase a nosotros para una presentación en vivo y una demostración con los jefes de producto del Adobe Shankari Panchapakesan, Gabriel Walt y Danny Gordon. Incluso puede ver algún código en directo! |
-| 21 de octubre de 2021 | 12 p. m. (EST) | [¿Quién ha pulsado eso? Informes avanzados sobre los clics en vínculo con Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Bajo demanda | La creación de informes sobre la interacción de los usuarios con su propiedad web o móvil es una pieza fundamental para comprender el recorrido de los clientes Con Adobe Analytics puede comprender el quién, el qué, el por qué y el dónde de cada clic en su aplicación Aprenda los principales consejos de los expertos de Adobe Analytics para utilizar las clasificaciones de Activity Map y la atribución personalizada para comprender mejor la participación de los usuarios. |
 
 {style=&quot;table-layout:auto&quot;}
 
