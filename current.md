@@ -1,6 +1,6 @@
 ---
 title: Últimas notas de la versión
-description: Conozca las últimas notas de la versión, las nuevas funciones y la nueva documentación de los productos y servicios de [!DNL Experience Cloud] . Encuentren ayuda y tutoriales nuevos acerca de [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
+description: Conozca las últimas notas de la versión, las nuevas funciones y la nueva documentación de los productos y servicios de  [!DNL Experience Cloud] . Encuentren ayuda y tutoriales nuevos acerca de [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
 doc-type: release notes
 last-update: November 2021
 author: mfrei
@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
 source-wordcount: '4724'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -47,9 +47,9 @@ Mes de lanzamiento: **Noviembre de 2021**
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, información de la comunidad y formación impartida por instructores.
 
-## ![Icono](/assets/experience-league.png) [!DNL Experience League] Eventos {#events}
+## ![Icono de eventos de ](/assets/experience-league.png) [!DNL Experience League] {#events}
 
-Los eventos de Experience League son un lugar bueno para obtener respuestas de los expertos en productos en el Adobe. Estos son los eventos disponibles:
+Los eventos de Experience League son un buen lugar para obtener respuestas de los expertos en productos de Adobe. Estos son los eventos disponibles:
 
 * [Experience League Activo](#exl-live): Eventos de vídeo en directo y bajo demanda en YouTube
 * [Despachos para café de preguntas y respuestas de la comunidad](#coffee): Chats con administradores de productos en el foro de la comunidad
@@ -57,32 +57,32 @@ Los eventos de Experience League son un lugar bueno para obtener respuestas de l
 
 Los programas y eventos son los siguientes:
 
-### Experience League Activo{#exl-live}
+### Experience League Live{#exl-live}
 
-[Experience League Activo](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) es un programa de transmisión en vivo producido por el equipo Experience League. Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede aplicar con las aplicaciones de Adobe Experience Cloud.
+[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) es un programa de streaming en directo que produce el equipo Experience League. Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
 Próximos eventos:
 
 | Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18 de noviembre de 2021 | 12 p. m. (EST) | [Acelere más rápido que nunca con la creación rápida de sitios en Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Evento de vídeo en directo | Implemente en días experiencias web personalizadas con numerosas funciones, sin desarrollo de back-end. Aprenda a utilizar un enfoque de bajo código para crear un sitio en Adobe Experience Manager mediante una [!UICONTROL Plantilla del sitio]. Únase a nosotros para una presentación en vivo y una demostración con los jefes de producto del Adobe Shankari Panchapakesan, Gabriel Walt y Danny Gordon. Incluso puede ver algún código en directo! |
+| 18 de noviembre de 2021 | 12 p. m. (EST) | [Publique más rápido que nunca con la creación rápida de sitios en Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Evento de vídeo en directo | Implemente en días experiencias web personalizadas con numerosas funciones, sin desarrollo de back-end. Aprenda a utilizar un enfoque de bajo código para crear un sitio en Adobe Experience Manager mediante una [!UICONTROL Plantilla del sitio]. Únase a nosotros para una presentación en vivo y una demostración con los jefes de producto del Adobe Shankari Panchapakesan, Gabriel Walt y Danny Gordon. Podrá ver incluso programación en directo... |
 
 {style=&quot;table-layout:auto&quot;}
 
 Para ver los episodios anteriores, consulte [Experience League Activo](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Despachos para café de preguntas y respuestas de la comunidad{#coffee}
+### Coffee breaks de preguntas y respuestas de la comunidad {#coffee}
 
-Pase una hora con un invitado especial y envíe sus preguntas a las comunidades Experience League, donde podrá obtener respuestas de los expertos en productos en el Adobe.
+Pase una hora con un invitado especial y envíe sus preguntas a las comunidades de Experience League, donde podrá obtener respuestas de los expertos en productos de Adobe!
 
 | Nombre del evento | Fecha y hora | Aplicación | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, IU general  | Miércoles, 8 de diciembre a las 8 am PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, IU general  | Miércoles, 8 de diciembre a las 8 am PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=es) |
 | Adobe Campaign: importación de datos a través de otras aplicaciones | Jueves, 2 de diciembre de 2021 @ 8 am PT | Adobe Campaign | Preguntas y respuestas del foro | Importación de datos mediante otras aplicaciones : prácticas recomendadas para importar datos a través de SFTP/API mediante flujos de trabajo técnicos con Zariely Garcia, consultor técnico sénior. <br>[Detalles](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Live de Desarrollador de Adobe{#dev-live}
+### Adobe Developers Live {#dev-live}
 
 | Nombre del evento | Fecha y hora | Tema | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -129,7 +129,7 @@ Consulte las [Notas de la versión de Experience Platform](https://experiencelea
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Noviembre de 2021 | [Colaboración de datos en el contexto de datos de origen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=es) | Vídeo | Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un anunciante, editor o agencia, este seminario web le ayuda a desbloquear las oportunidades de colaboración de datos en un futuro sin cookies de terceros. |
-| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin&amp;lang=es) | Curso | Conozca las actividades de administración de Experience Platform, incluyida la gestión de permisos y de la zona protegida. |
+| Octubre de 2021 | [[!DNL Platform] Administración](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin&amp;lang=es) | Curso | Conozca las actividades de administración de Experience Platform, incluida la gestión de permisos y de la zona protegida. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -194,7 +194,7 @@ AN-270649
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación o actualizada | Descripción |
+| Aviso | Fecha de incorporación  o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **20 de octubre de 2021**, los siguientes servicios de la API heredada de Analytics alcanzarán la fecha de fin de su vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejaron de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://developer.adobe.com/console), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la vida útil para el procesamiento completo en las fuentes de datos | 18 de octubre de 2021 | El **31 de enero de 2022**, Adobe terminará con el procesamiento completo, que permite a los usuarios ingerir datos de visitas sin conexión en Analytics. Esta funcionalidad está disponible mediante la [API de inserción de datos por lotes](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Más información](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=es ) |
@@ -347,7 +347,7 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 * Adobe Campaign v8: [Documentación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=es) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=es)
 * Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
 * Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
-* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
+* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es)  - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
@@ -363,9 +363,9 @@ Descubra las funcionalidades, mejoras y correcciones más recientes en las [Nota
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Octubre de 2021 | [Configuración y administración de datos en [!DNL Journey Optimizer] para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=es) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
-| Octubre de 2021 | [Introducción a [!DNL Journey Optimizer] para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=es) | Curso | Aprenda todo lo que necesita saber para crear su primer recorrido. |
-| Octubre de 2021 | [Configuración de [!DNL Journey Optimizer] para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=es) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
+| Octubre de 2021 | [Configuración y administración de datos en  [!DNL Journey Optimizer]  para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=es) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
+| Octubre de 2021 | [Introducción a  [!DNL Journey Optimizer]  para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=es) | Curso | Aprenda todo lo que necesita saber para crear su primer recorrido. |
+| Octubre de 2021 | [Configuración de  [!DNL Journey Optimizer]  para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=es) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -414,7 +414,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| Analytics para Advertising Cloud | Si su organización desea dejar de utilizar la biblioteca heredada `visitorAPI.js` de Adobe Analytics y cambiar a la biblioteca de Adobe Experience Platform (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. Consulte [Uso de la biblioteca JavaScript [!DNL Last Event Service] con Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=es). |
+| Analytics para Advertising Cloud | Si su organización desea dejar de utilizar la biblioteca heredada `visitorAPI.js` de Adobe Analytics y cambiar a la biblioteca de Adobe Experience Platform (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. Consulte [Uso de la biblioteca JavaScript  [!DNL Last Event Service]  con Adobe Experience Platform  [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=es). |
 
 {style=&quot;table-layout:auto&quot;}
 
