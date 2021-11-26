@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 89342047732a95ba2669eb58397d6a1dc936a8a3
 workflow-type: tm+mt
 source-wordcount: '4803'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -52,13 +52,13 @@ Mes de lanzamiento: **Noviembre de 2021**
 
 Los eventos de Experience League son un buen lugar para obtener respuestas de los expertos en productos de Adobe. Estos son los eventos disponibles:
 
-* [Experience League Activo](#exl-live): Eventos de vídeo en directo y bajo demanda en YouTube
-* [Despachos para café de preguntas y respuestas de la comunidad](#coffee): Chats con administradores de productos en el foro de la comunidad
-* [Live de Desarrollador de Adobe](#dev-live): Eventos de vídeo a petición disponibles en el Experience League
+* [Experience League Live](#exl-live): eventos de vídeo en directo y bajo demanda en YouTube
+* [Pausas para café de preguntas y respuestas de la comunidad](#coffee): chats con administradores de productos en el foro de la comunidad
+* [Live de Desarrollador de Adobe](#dev-live): eventos de vídeo a petición disponibles en Experience League
 
 Los programas y eventos son los siguientes:
 
-### Experience League Live{#exl-live}
+### Experience League Live {#exl-live}
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) es un programa de streaming en directo que produce el equipo Experience League. Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
@@ -66,20 +66,20 @@ Próximos eventos:
 
 | Fecha del evento | Fecha | Nombre del evento | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18 de noviembre de 2021 | 12 p. m. (EST) | [Publique más rápido que nunca con la creación rápida de sitios en Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Evento de vídeo en directo | Implemente en días experiencias web personalizadas con numerosas funciones, sin desarrollo de back-end. Aprenda a utilizar un enfoque de bajo código para crear un sitio en Adobe Experience Manager mediante una [!UICONTROL Plantilla del sitio]. Únase a nosotros para una presentación en vivo y una demostración con los jefes de producto del Adobe Shankari Panchapakesan, Gabriel Walt y Danny Gordon. Podrá ver incluso programación en directo... |
+| 18 de noviembre de 2021 | 12 p. m. (EST) | [Publique más rápido que nunca con la creación rápida de sitios en Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Evento de vídeo en directo | Implemente en días experiencias web personalizadas con numerosas funciones, sin desarrollo de back-end. Aprenda a utilizar un método de código bajo para crear un sitio en Adobe Experience Manager mediante una plantilla de sitio [!UICONTROL predefinida]. Únase para ver una presentación en directo y una demostración con los responsables de los productos de Adobe Shankari Panchapakesan, Gabriel Walt y Danny Gordon. Podrá ver incluso la programación en directo. |
 
 {style=&quot;table-layout:auto&quot;}
 
-Para ver los episodios anteriores, consulte [Experience League Activo](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
+Para ver los episodios anteriores, consulte [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Coffee breaks de preguntas y respuestas de la comunidad {#coffee}
+### Pausas para café de preguntas y respuestas de la comunidad {#coffee}
 
-Pase una hora con un invitado especial y envíe sus preguntas a las comunidades de Experience League, donde podrá obtener respuestas de los expertos en productos de Adobe!
+Pase una hora con un invitado especial y envíe sus preguntas a las comunidades de Experience League, donde podrá obtener respuestas de los expertos en productos de Adobe.
 
 | Nombre del evento | Fecha y hora | Aplicación | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, IU general  | Miércoles, 8 de diciembre a las 8 am PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=es) |
-| Adobe Campaign: importación de datos a través de otras aplicaciones | Jueves, 2 de diciembre de 2021 @ 8 am PT | Adobe Campaign | Preguntas y respuestas del foro | Importación de datos mediante otras aplicaciones : prácticas recomendadas para importar datos a través de SFTP/API mediante flujos de trabajo técnicos con Zariely Garcia, consultor técnico sénior. <br>[Detalles](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target: interfaz de usuario de configuración y administración, integración de A4T, integración AEM, interfaz de usuario general  | Miércoles, 8 de diciembre a las 8 a. m PT | Adobe Target | Preguntas y respuestas del foro | Nos uniremos Robert Calangiu, también conocido como @Robert_Calangiu, director de producto sénior de Adobe Target, en la comunidad de Adobe Target para hablar directamente con usted sobre sus preguntas de Adobe Target relativas a sus áreas de experiencia. <br>[Detalles](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=es) |
+| Adobe Campaign: importación de datos a través de otras aplicaciones | Jueves, 2 de diciembre de 2021 a las 8 a. m. PT | Adobe Campaign | Preguntas y respuestas del foro | Importación de datos mediante otras aplicaciones: prácticas recomendadas para importar datos a través de SFTP/API mediante flujos de trabajo técnicos con Zariely Garcia, consultor técnico sénior. <br>[Detalles](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -87,7 +87,7 @@ Pase una hora con un invitado especial y envíe sus preguntas a las comunidades 
 
 | Nombre del evento | Fecha y hora | Tema | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Del 4 al 5 de octubre de 2021 | Bajo demanda | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | ¿Se ha perdido el evento o quiere volver a ver una sesión específica? Encuentre lo que busca en Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todas las industrias. Vea la dirección principal, obtenga información acerca de las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
+| 4 y 5 de octubre de 2021 | Bajo demanda | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | ¿Se ha perdido el evento o quiere volver a ver una sesión específica? Encuentre lo que busca en Experience League. Developers Live muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todas las industrias. Vea la dirección principal, obtenga información acerca de las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe I/O y mucho más. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -406,11 +406,11 @@ Consulte la página [[!DNL Workfront] Versiones](https://one.workfront.com/s/pro
 
 Notas de la versión para [!DNL Adobe Advertising Cloud].
 
-* [Nuevas funciones en [!DNL Advertising Cloud]](#adcloud-all)
+* [Nuevas funciones en  [!DNL Advertising Cloud]](#adcloud-all)
 * [Nuevas funciones en  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nuevas funciones en  [!DNL Advertising Cloud Search]](#adcloud-search)
 
-### Nuevas funciones en[!DNL Advertising Cloud] {#adcloud-all}
+### Nuevas funciones en [!DNL Advertising Cloud] {#adcloud-all}
 
 Última actualización: **27 de octubre de 2021**
 
