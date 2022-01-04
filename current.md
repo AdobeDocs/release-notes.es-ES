@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e4a4bc3cb484b045f0f1b400e1ba77d0178a90fd
+source-git-commit: 38b851d4e80107dff804a0e41c6b782a2bbf1c4a
 workflow-type: tm+mt
-source-wordcount: '4811'
-ht-degree: 99%
+source-wordcount: '4902'
+ht-degree: 97%
 
 ---
 
@@ -25,13 +25,13 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 
 Mes de lanzamiento: **Noviembre de 2021**
 
-Última actualización: **22 de noviembre de 2021**
+Última actualización: **4 de enero de 2022**
 
 * [[!DNL Experience League] Eventos](#events) (Actualizado el 15 de noviembre de 2021)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
 * [[!UICONTROL Estado del sistema] de Adobe](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) (Actualizado el 22 de noviembre de 2021)
+* [[!DNL Adobe Analytics]](#analytics) (**Actualizado el 4 de enero de 2022**)
 * [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -145,7 +145,7 @@ Fecha de la versión: **28 de octubre de 2021**
 * [Funciones nuevas en Adobe Analytics](#aa-features)
 * [Nuevas funciones en Customer Journey Analytics](#cust-journey)
 * [Correcciones en Adobe Analytics](#aa-fixes)
-* [Avisos importantes para los administradores de Analytics](#aa-notices) (Actualizado el 22 de noviembre de 2021)
+* [Avisos importantes para los administradores de Analytics](#aa-notices)  (Actualizado 4 de enero de 2022)
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -197,8 +197,9 @@ AN-270649
 
 | Aviso | Fecha de incorporación  o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
+| Fin de la vida útil de Reports &amp; Analytics | 4 de enero de 2022 | A partir del 31 de diciembre de 2023, Adobe tiene la intención de suspender Reports &amp; Analytics y sus informes y funciones correspondientes. Los informes, las visualizaciones y la tecnología subyacente que alimentan Reports &amp; Analytics ya no cumplen los estándares tecnológicos del Adobe. La mayoría de las funciones de Reports &amp; Analytics están disponibles en [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=es). Desde la publicación de Analysis Workspace en 2015, las funciones y capacidades de Reports &amp; Analytics se han trasladado a Analysis Workspace y se ha alcanzado un umbral de paridad de flujo de trabajo. [Este aviso](https://spark.adobe.com/page/6WnF8JK6IRDhf) explica el proceso de finalización de la vida útil. |
 | Tipo de RDC “Global + China” | 22 de noviembre de 2021 | “Global + China” es un nuevo tipo de recopilación de datos regionales (RDC) que simplifica el enrutamiento del tráfico para los clientes globales que usan el [!UICONTROL Paquete de complementos para la optimización del rendimiento en China]. En el pasado, tenía que determinar si los datos debían enrutarse al extremo de recopilación de China o a uno de los extremos de recopilación Global. Ahora puede elegir este **tipo** de RDC para permitir que Adobe determine el extremo de recopilación óptimo en función de la geolocalización del usuario. |
-| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | El **20 de octubre de 2021**, los siguientes servicios de la API heredada de Analytics alcanzarán la fecha de fin de su vida útil y se cerrarán. Todas las integraciones actuales creadas con estos servicios dejaron de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://developer.adobe.com/console), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
+| Fin de la vida útil de tres servicios de API de Analytics | 16 de septiembre de 2021 | Activado **20 de octubre de 2021**, los siguientes servicios de API heredadas de Analytics llegaron a su fecha de finalización y se cerraron. Todas las integraciones actuales creadas con estos servicios dejaron de funcionar ese día.<ul><li>API de Analytics 1.3</li><li>API de Analytics SOAP 1.4</li><li>Autenticación OAuth heredada (OAuth y JWT)</li></ul>Adobe pone a su disposición [Preguntas frecuentes del fin de la vida útil de la API heredada](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) para responder a sus preguntas y proporcionar instrucciones sobre cómo proceder. Las integraciones de API que emplean estos servicios pueden migrar a las [API de REST 1.4 de Analytics](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) o a las [API de Analytics 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Las cuentas heredadas de OAuth pueden migrar a una cuenta de integración de Analytics [Adobe I/O](https://developer.adobe.com/console), que puede utilizarse para acceder tanto a las API de Analytics 1.4 como a las API de Analytics 2.0. |
 | Fin de la vida útil para el procesamiento completo en las fuentes de datos | 18 de octubre de 2021 | El **31 de enero de 2022**, Adobe terminará con el procesamiento completo, que permite a los usuarios ingerir datos de visitas sin conexión en Analytics. Esta funcionalidad está disponible mediante la [API de inserción de datos por lotes](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Más información](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=es ) |
 
 {style=&quot;table-layout:auto&quot;}
