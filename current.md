@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b8afd3888f15c0b6dd63d523a5b2d78227a8a7e1
+source-git-commit: 8908cbcaf8fa0dbcc2f85cb9bbe8386dc9b68adb
 workflow-type: tm+mt
-source-wordcount: '4902'
+source-wordcount: '4903'
 ht-degree: 96%
 
 ---
@@ -23,7 +23,7 @@ Las aplicaciones y servicios de [!DNL Experience Cloud] se actualizan mensualmen
 >
 >Suscríbase a la [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html) mensual para recibir notificaciones por correo electrónico sobre actualizaciones de esta página. Esta página se mantiene durante todo el mes, por lo que debe consultar regularmente las actualizaciones de la documentación de Experience League y del producto empresarial de Adobe.
 
-Mes de lanzamiento: **Noviembre de 2021**
+Mes de lanzamiento: **Noviembre/diciembre de 2021**
 
 Última actualización: **4 de enero de 2022**
 
@@ -119,7 +119,7 @@ Para ver más vídeos, visite [Adobe Experience League Channel](https://www.yout
 
 Incluye información sobre la actualización y nueva documentación de la versión de Experience Platform y el [!UICONTROL SDK móvil].
 
-**29 de septiembre de 2021**
+**17 de noviembre de 2021**
 
 Consulte las [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es) para todos los detalles.
 
@@ -317,7 +317,7 @@ Consulte los siguientes vínculos para ver las notas de la versión de Adobe Com
 
 ## ![Icono](/assets/target.png) [!DNL Target] {#target}
 
-Última actualización: **20 de octubre de 2021**
+Última actualización: **6 de enero de 2022**
 
 Consulte las [[!DNL Target] notas de la versión](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
 
