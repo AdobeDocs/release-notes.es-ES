@@ -1,6 +1,6 @@
 ---
 title: Últimas notas de la versión
-description: Conozca las últimas notas de la versión, las nuevas funciones y la nueva documentación de los productos y servicios de  [!DNL Experience Cloud] . Busque ayuda y tutoriales nuevos sobre [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise]y [!DNL Document Cloud].
+description: Conozca las últimas notas de la versión, las nuevas funciones y la nueva documentación de los productos y servicios de [!DNL Experience Cloud] . Encuentre ayuda y tutoriales nuevos acerca de [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise] y [!DNL Document Cloud].
 doc-type: release notes
 last-update: November 2021
 author: mfrei
@@ -58,7 +58,7 @@ Los eventos de Experience League son un buen lugar para obtener respuestas de lo
 
 Los programas y eventos son los siguientes:
 
-### Experience League Live {#exl-live}
+### Experience League Live{#exl-live}
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) es un programa de streaming en directo que produce el equipo Experience League. Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
@@ -72,7 +72,7 @@ Próximos eventos:
 
 Para ver los episodios anteriores, consulte [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Pausas para café de preguntas y respuestas de la comunidad {#coffee}
+### Pausas para café de preguntas y respuestas de la comunidad{#coffee}
 
 Pase una hora con un invitado especial y envíe sus preguntas a las comunidades de Experience League, donde podrá obtener respuestas de los expertos en productos de Adobe.
 
@@ -83,7 +83,7 @@ Pase una hora con un invitado especial y envíe sus preguntas a las comunidades 
 
 {style=&quot;table-layout:auto&quot;}
 
-### Adobe Developers Live {#dev-live}
+### Adobe Developers Live{#dev-live}
 
 | Nombre del evento | Fecha y hora | Tema | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -195,7 +195,7 @@ AN-270649
 
 ### Avisos importantes para los administradores de [!DNL Analytics] {#aa-notices}
 
-| Aviso | Fecha de incorporación  o actualizada | Descripción |
+| Aviso | Fecha de incorporación o actualizada | Descripción |
 | ----------- | ---------- | ---------- |
 | Fin de la vida útil de Reports &amp; Analytics | 4 de enero de 2022 | Efectivo **31 de diciembre de 2023**, Adobe tiene la intención de suspender Reports &amp; Analytics y sus informes y funciones correspondientes. Los informes, las visualizaciones y la tecnología subyacente que alimentan Reports &amp; Analytics ya no cumplen los estándares tecnológicos del Adobe. La mayoría de las funciones de Reports &amp; Analytics están disponibles en [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=es). Desde la publicación de Analysis Workspace en 2015, las funciones y capacidades de Reports &amp; Analytics se han trasladado a Analysis Workspace y se ha alcanzado un umbral de paridad de flujo de trabajo. [Este aviso](https://spark.adobe.com/page/6WnF8JK6IRDhf) explica el proceso de finalización de la vida útil. |
 | Tipo de RDC “Global + China” | 22 de noviembre de 2021 | “Global + China” es un nuevo tipo de recopilación de datos regionales (RDC) que simplifica el enrutamiento del tráfico para los clientes globales que usan el [!UICONTROL Paquete de complementos para la optimización del rendimiento en China]. En el pasado, tenía que determinar si los datos debían enrutarse al extremo de recopilación de China o a uno de los extremos de recopilación Global. Ahora puede elegir este **tipo** de RDC para permitir que Adobe determine el extremo de recopilación óptimo en función de la geolocalización del usuario. |
@@ -240,7 +240,7 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
 
 ### Vídeos de información general de la versión
 
-* [Información general sobre la versión de diciembre de 2021](https://video.tv.adobe.com/v/339278) vídeo de las nuevas funciones.
+* Vídeo de presentación de las nuevas funciones de la [versión de diciembre de 2021](https://video.tv.adobe.com/v/339278).
 * Vídeo de información general de las nuevas funciones de la [versión de octubre de 2021](https://video.tv.adobe.com/v/338253).
 * Vídeo de las nuevas funciones de la [versión de septiembre de 2021](https://video.tv.adobe.com/v/337381).
 
@@ -351,7 +351,7 @@ Conozca las últimas funciones, mejoras y correcciones publicadas:
 * Adobe Campaign v8: [Documentación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=es) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=es)
 * Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
 * Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
-* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es)  - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
+* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
@@ -367,9 +367,9 @@ Descubra las funcionalidades, mejoras y correcciones más recientes en las [Nota
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Octubre de 2021 | [Configuración y administración de datos en  [!DNL Journey Optimizer]  para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=es) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
-| Octubre de 2021 | [Introducción a  [!DNL Journey Optimizer]  para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=es) | Curso | Aprenda todo lo que necesita saber para crear su primer recorrido. |
-| Octubre de 2021 | [Configuración de  [!DNL Journey Optimizer]  para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=es) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
+| Octubre de 2021 | [Configuración y administración de datos en [!DNL Journey Optimizer] para ingenieros de datos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=es) | Curso | Aprenda a configurar y administrar los datos necesarios para la gestión de viajes en Journey Optimizer. |
+| Octubre de 2021 | [Introducción a [!DNL Journey Optimizer] para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=es) | Curso | Aprenda todo lo que necesita saber para crear su primer recorrido. |
+| Octubre de 2021 | [Configuración de [!DNL Journey Optimizer] para administradores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=es) | Curso | Comprenda la arquitectura de [!DNL Journey Optimizer] y los puntos de integración. Aprenda a configurar [!DNL Journey Optimizer]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -418,7 +418,7 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 | Función | Descripción |
 | ------- | ----------- |
-| Analytics para Advertising Cloud | Si su organización desea dejar de utilizar la biblioteca heredada `visitorAPI.js` de Adobe Analytics y cambiar a la biblioteca de Adobe Experience Platform (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. Consulte [Uso de la biblioteca JavaScript  [!DNL Last Event Service]  con Adobe Experience Platform  [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=es). |
+| Analytics para Advertising Cloud | Si su organización desea dejar de utilizar la biblioteca heredada `visitorAPI.js` de Adobe Analytics y cambiar a la biblioteca de Adobe Experience Platform (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. Consulte [Uso de la biblioteca JavaScript [!DNL Last Event Service] con Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=es). |
 
 {style=&quot;table-layout:auto&quot;}
 
