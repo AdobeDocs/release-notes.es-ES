@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
+source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
 workflow-type: tm+mt
-source-wordcount: '6573'
+source-wordcount: '6590'
 ht-degree: 98%
 
 ---
@@ -135,7 +135,6 @@ Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.
 Fecha de la versión: **19 de enero de 2022**
 
 * [Funciones nuevas en Adobe Analytics](#aa-features)
-* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
 * [Correcciones en Adobe Analytics](#aa-fixes)
 * [Avisos importantes para los administradores de Analytics](#aa-notices)
 * [Cursos y tutoriales de Analytics](#tutorials-analytics)
@@ -148,18 +147,6 @@ Fecha de la versión: **19 de enero de 2022**
 | N/A |  | Consulte [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=es) |
 
 {style=&quot;table-layout:auto&quot;}
-
-### Nuevas funciones en Customer Journey Analytics {#cust-journey}
-
-| Función | Descripción | Fecha objetivo |
-| ----------- | ---------- | ----- |
-| Opciones de [!UICONTROL Persistencia] para enlazar dimensiones y métricas de enlace | Al crear o editar una vista de datos, puede enlazar la persistencia de una dimensión a otra dimensión o métrica. Este concepto se conoce como _comercialización_ en Reports &amp; Analytics, y ahora es compatible con CJA. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=es#binding-dimension) | 19 de enero de 2022 |
-| Modelos de asignación [!UICONTROL Conocida por primera vez] y [!UICONTROL Última conocida] | Estos dos nuevos modelos de asignación toman el primer o último valor observado para una dimensión dentro de un ámbito de persistencia especificado (sesión, persona o período de tiempo personalizado con retrospectiva). A continuación, aplican el modelo de asignación a todos los eventos dentro del ámbito especificado. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=es#allocation-settings) | 19 de enero de 2022 |
-| [!UICONTROL PersonID] y [!UICONTROL Área de nombres de PersonID] como dimensiones | Expone el `personID` (o `customerID`, o el ID que utilice para combinar conjuntos de datos en una conexión) como dimensión en vistas de datos. Esta mejora facilita la inclusión de la variable `personID` como dimensión en la vista de datos al extraerla de la conexión. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=es#optional-standard-components) | 19 de enero de 2022 |
-
-{style=&quot;table-layout:auto&quot;}
-
-Consulte la [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=es) para obtener información sobre la versión.
 
 ### Correcciones en Adobe Analytics y Customer Journey Analytics {#aa-fixes}
 
@@ -175,7 +162,7 @@ Consulte la [Disponibilidad general](https://experienceleague.adobe.com/docs/ana
 * Se ha corregido un problema con los informes programados que se enviaban antes de tiempo debido al horario de verano. (AN-276410; AN-276305)
 * Se ha corregido un problema de error con la descarga de proyectos en el archivo `.csv` en el espacio de trabajo. (AN-275834)
 
-#### Correcciones adicionales en Adobe Analytics y CJA
+#### Correcciones adicionales en Adobe Analytics
 
 AN-253294; AN-254976; AN-255377; AN-255561; AN-258550; AN-259336; AN-263935; AN-265094; AN-269441; AN-269486; AN-269855; AN-271166; AN-271588; AN-272088; AN-272249; AN-272859; AN-272873; AN-272885; AN-273229; AN-273913; AN-274237; AN-274472; AN-274491; AN-274619; AN-274766; AN-275248; AN-275259; AN-275271; AN-275315; AN-275388; AN-275418; AN-275597; AN-275643; AN-275650; AN-275651; AN-275675; AN-275682; AN-275704; AN-275711; AN-275796; AN-275834; AN-275923; AN-275941; AN-276044; AN-276125; AN-276157; AN-276397; AN-276597; AN-276789; AN-276834; AN-276861; AN-276870; AN-276963; AN-276975; AN-277000; AN-277044; AN-277093; AN-277200; AN-277215; AN-277271; AN-277281; AN-277362; AN-277419; AN-277492; AN-277498; AN-277533; AN-277619; AN-277675; AN-277681; AN-277767; AN-277805; AN-277810; AN-277818; AN-277875; AN-277933; AN-277988; AN-278105; AN-278115; AN-278122; AN-278192; AN-278407; AN-278437; AN-278559; AN-278604; AN-278610; AN-278709; AN-278835; AN-278849; AN-278881; AN-279067; AN-279103; AN-279111; AN-279219; AN-279237; AN-279312
 
@@ -218,6 +205,28 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe Analytics.
 ### Recursos de ayuda de Analytics
 
 * [Tutoriales y documentación del producto Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=es)
+
+## [!DNL Customer Journey Analytics] {#cja}
+
+* [Nuevas funciones en Customer Journey Analytics](#cust-journey)
+
+Fecha de versión: **19 de enero de 2022**
+
+### Nuevas funciones en Customer Journey Analytics {#cust-journey}
+
+| Función | Descripción | Fecha objetivo |
+| ----------- | ---------- | ----- |
+| Opciones de [!UICONTROL Persistencia] para enlazar dimensiones y métricas de enlace | Al crear o editar una vista de datos, puede enlazar la persistencia de una dimensión a otra dimensión o métrica. Este concepto se conoce como _comercialización_ en Reports &amp; Analytics, y ahora es compatible con CJA. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=es#binding-dimension) | 19 de enero de 2022 |
+| Modelos de asignación [!UICONTROL Conocida por primera vez] y [!UICONTROL Última conocida] | Estos dos nuevos modelos de asignación toman el primer o último valor observado para una dimensión dentro de un ámbito de persistencia especificado (sesión, persona o período de tiempo personalizado con retrospectiva). A continuación, aplican el modelo de asignación a todos los eventos dentro del ámbito especificado. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=es#allocation-settings) | 19 de enero de 2022 |
+| [!UICONTROL PersonID] y [!UICONTROL Área de nombres de PersonID] como dimensiones | Expone el `personID` (o `customerID`, o el ID que utilice para combinar conjuntos de datos en una conexión) como dimensión en vistas de datos. Esta mejora facilita la inclusión de la variable `personID` como dimensión en la vista de datos al extraerla de la conexión. [Más información](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=es#optional-standard-components) | 19 de enero de 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+Consulte la [Disponibilidad general](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=es) para obtener información sobre la versión.
+
+### Recursos de ayuda de Analytics
+
+* [Documentación de producto de Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
