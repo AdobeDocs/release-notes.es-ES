@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
+source-git-commit: 36c608bd0501936778dc791aac7f3c92bc6ce187
 workflow-type: tm+mt
-source-wordcount: '6590'
+source-wordcount: '6609'
 ht-degree: 99%
 
 ---
@@ -415,9 +415,10 @@ Consulte los siguientes vínculos para ver las notas de la versión de Adobe Com
 
 ## ![Icono](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Última actualización: **10 de enero de 2022**
+Última actualización: **1 de febrero de 2022**
 
-Consulte las [notas de la versión de Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) para obtener la información más reciente sobre la versión.
+* Para obtener información sobre la versión preliminar de Adobe Target, consulte [Versión preliminar de Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es) notas de la versión.
+* Para obtener información sobre la versión actual, consulte [Notas de la versión de Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en).
 
 ## ![Icono](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
