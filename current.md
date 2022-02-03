@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 36c608bd0501936778dc791aac7f3c92bc6ce187
+source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
 workflow-type: tm+mt
-source-wordcount: '6609'
+source-wordcount: '6611'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ Obtenga información sobre las últimas actualizaciones de la versión para [pro
 
 **Enero de 2022**
 
-Última actualización: **26 de enero de 2022**
+Última actualización: **3 de febrero de 2022**
 
 * [Los eventos de [!DNL Experience League]](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administración](#ecloud)
@@ -37,7 +37,7 @@ Obtenga información sobre las últimas actualizaciones de la versión para [pro
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
 * [[!DNL Adobe Commerce]](#magento)
-* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Target]](#target) (Actualización: **3 de febrero de 2022**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
