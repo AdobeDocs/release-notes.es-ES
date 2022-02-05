@@ -6,10 +6,10 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
+source-git-commit: 9e16facc25424bb8ce23e35230b7503195cf1a3d
 workflow-type: tm+mt
-source-wordcount: '6611'
-ht-degree: 99%
+source-wordcount: '6534'
+ht-degree: 98%
 
 ---
 
@@ -527,12 +527,11 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **7 de octubre de 2021**
+Última actualización: **4 de febrero de 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Informes], [!UICONTROL Centro de notificaciones] | (Versión del 9 de octubre) Todas las notificaciones por correo electrónico de los informes, que Advertising Cloud Search envía cuando se completa o falla un informe personalizado o programado, ahora las gestiona el [!UICONTROL Centro de notificaciones]. Las notificaciones por correo electrónico y web están habilitadas de forma predeterminada para los informes, pero también puede cambiar la configuración de las notificaciones. Con este cambio:<ul><li>Los destinatarios del correo electrónico están restringidos a los usuarios registrados y autenticados de Advertising Cloud Search y tienen acceso a la cuenta del anunciante. Esta funcionalidad garantiza que no se envíen datos confidenciales a usuarios no autorizados.</li><li>El formato y el contenido del correo electrónico utilizan la plantilla del [!UICONTROL Centro de notificaciones], que incluye más detalles del informe y vínculos de descarga directa para todos los formatos de informe.</li><li>Las notificaciones de informes son un nuevo tipo, con sus propias preferencias, en el [!UICONTROL Centro de notificaciones].</li></ul>Si utiliza cualquier automatización para extraer informes de las notificaciones por correo electrónico, es posible que tenga que actualizar la lógica de filtrado para garantizar la continuidad del proceso. |
-| Información sobre los anuncios | Hay más información disponible en el modo beta. |
+| [!UICONTROL Hojas de edición en bloque], [!UICONTROL Centro de notificaciones] | (Versión del 22 de enero) Todas las notificaciones por correo electrónico para hojas de edición masiva, que Advertising Cloud Search envía cuando se completa o falla una operación de hoja de edición masiva, ahora son gestionadas por [!UICONTROL Centro de notificaciones].<br><br>[!UICONTROL Hojas de edición en bloque] es un nuevo tipo de notificación, con sus propias preferencias de notificación, en [!UICONTROL Centro de notificaciones]. Las notificaciones por correo electrónico y las notificaciones web están habilitadas de forma predeterminada, pero también puede cambiar la configuración de las notificaciones.<br><br>El formato y el contenido de las notificaciones por correo electrónico utilizan la variable [!UICONTROL Centro de notificaciones] e incluye un vínculo de descarga directa para el archivo de hoja de edición masiva o el archivo de error asociado. |
 
 {style=&quot;table-layout:auto&quot;}
 
