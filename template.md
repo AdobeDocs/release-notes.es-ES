@@ -4,9 +4,9 @@ description: Notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
+source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '716'
 ht-degree: 92%
 
 ---
@@ -30,9 +30,9 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 * [Eventos en directo de Experience League](#events)
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
+* [Estado del sistema de Adobe](#status)
 * [Experience Platform](#platform)
 * [Servicios de aplicaciones para Experience Platform](#services)
-* [Estado del sistema de Adobe](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) y [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,17 +50,11 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 
 Funciones y correcciones.
 
-Consulte [Estado del sistema de Adobe](https://status.adobe.com/).
+Consulte [Estado del sistema de Adobe](https://status.adobe.com/es).
 
 ## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
 
 Los componentes de la interfaz central de Experience Cloud incluyen actualizaciones a las que se puede acceder desde el encabezado unificado del producto, como las preferencias de autoayuda, búsqueda y cuenta de usuario. Las actualizaciones de People, Places (Ubicación) y la administración de productos se encuentran aquí.
-
-| Función | Fecha | Descripción |
-| ------- | ------- | -------|
-| Función | Septiembre de 2021 | Descripción |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Servicios principales] {#core-services}
 
@@ -236,7 +230,7 @@ Adobe Campaign permite entregar, de forma intuitiva y automatizada, mensajes pri
 
 Texto
 
-## Publicidad {#adcloud}
+## Advertising {#adcloud}
 
 | Función | Descripción |
 | ------- | ------- |
@@ -263,7 +257,7 @@ Marketo Engage es una solución completa para la gestión de posibles clientes y
 
 Fecha de publicación: 21 de febrero de 2020
 
-* **Acción de flujo de Microsoft® Dynamics  _Change Owner en Microsoft®_ :** cambie un posible cliente o contacto directamente desde el Marketo Engage.
+* **Microsoft® Dynamics _Cambiar propietario en Microsoft®_ Acción de flujo:** Cambie un posible cliente o contacto directamente desde el Marketo Engage.
 * **Mejoras en las llamadas API:**
    * API de User Management
    * API de esquemas de objetos personalizados
