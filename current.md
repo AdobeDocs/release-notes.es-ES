@@ -6,7 +6,7 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e9a119ac8351d6431039b1e0387db1d4875a91bb
+source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
 workflow-type: tm+mt
 source-wordcount: '4933'
 ht-degree: 49%
@@ -96,7 +96,7 @@ Fecha de la versión: **16 de noviembre de 2021**
 
 **Novedades**
 
-* El estado de Adobe ahora informa de incidentes a nivel de producto. Las páginas de Status Cloud y Product tienen un nuevo aspecto y filtros mejorados basados en los informes de incidentes a nivel de producto. Esto facilita la comprensión del impacto de su producto en [status.adobe.com](https://status.adobe.com/) y en sus notificaciones por correo electrónico. Si no está suscrito, utilice este vínculo para configurar sus preferencias de suscripción personalizadas [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* El estado de Adobe ahora informa de incidentes a nivel de producto. Las páginas de Status Cloud y Product tienen un nuevo aspecto y filtros mejorados basados en los informes de incidentes a nivel de producto. Esto facilita la comprensión del impacto de su producto en [status.adobe.com](https://status.adobe.com/) y en sus notificaciones por correo electrónico. Si no está suscrito, utilice este vínculo para configurar sus preferencias de suscripción personalizadas [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
 * La página de inicio de Estado ahora está personalizada con eventos filtrados según sus autorizaciones y suscripciones a productos. Consulte en **status.adobe.com** > **[!UICONTROL Mis eventos]** pestaña .
 
