@@ -6,10 +6,10 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
+source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
 workflow-type: tm+mt
-source-wordcount: '4940'
-ht-degree: 49%
+source-wordcount: '4963'
+ht-degree: 51%
 
 ---
 
@@ -223,7 +223,7 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
          * Configure la detección de recursos duplicados en un repositorio.
          * Configure la adición de marcas de agua digitales a las imágenes.
       * Los administradores ahora pueden configurar el servicio de correo electrónico para las descargas grandes. Permite a los usuarios [activar notificaciones por correo electrónico para descargas grandes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) de la interfaz de Experience Manager Assets. El usuario recibe una notificación por correo electrónico que contiene el vínculo de descarga de la carpeta zip archivada al finalizar el proceso de descarga.
-      * La variable [Administrar publicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) se mejora con una interfaz de usuario mejorada. Los usuarios pueden publicar o cancelar la publicación del contenido desde y hacia el destino seleccionado, y [Añadir contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) a la lista de publicaciones desde el repositorio de DAM. También pueden [Incluir configuración de carpeta](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) para publicar contenido de las carpetas seleccionadas y aplicar filtros, y [programar publicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) a una fecha u hora posterior.
+      * La función [Administrar publicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) se amplía con una interfaz de usuario mejorada. Los usuarios pueden publicar o cancelar la publicación del contenido desde y hacia el destino seleccionado, y [Añadir contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) a la lista de publicaciones desde el repositorio de DAM. También pueden [Incluir configuración de carpeta](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) para publicar contenido de las carpetas seleccionadas y aplicar filtros, y [programar publicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) a una fecha u hora posterior.
 
       _Corrección de errores_
 
@@ -235,9 +235,9 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
       * **Experience Manager Forms as a Cloud Service - Comunicaciones** — [API de comunicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=es) le ayuda a combinar una plantilla y los datos XML para generar documentos de impresión en distintos formatos. El servicio permite generar documentos en modos sincrónico y por lotes. Las API le ayudan a crear aplicaciones que le permitan lo siguiente:
 
          * Generar documentos rellenando archivos de plantilla con datos XML.
-         * Genere formularios en varios formatos, incluidas las secuencias de impresión de PDF no interactivas.
-         * Genere PDF de impresión a partir de PDF de formularios XFA.
-         * Genere documentos de PDF, PostScript, PCL y ZPL de forma masiva combinando varios conjuntos de datos con plantillas de origen.
+         * Generar formularios en varios formatos, incluidas las secuencias de impresión de PDF no interactivas.
+         * Generar PDF de impresión a partir de PDF de formularios XFA.
+         * Generar documentos PDF, PostScript, PCL y ZPL por lotes combinando varios conjuntos de datos con plantillas de origen.
       * **Fuentes personalizadas para documentos de registro y PDF creados con API de comunicaciones** ahora puede utilizar fuentes aprobadas por la marca en documentos de PDF generados mediante API de comunicaciones para cumplir con los requisitos de la organización.
 
       _Novedades en el canal de prelanzamiento de Forms_
@@ -248,7 +248,7 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
       _Fecha de la versión_
 
       La fecha de la versión de Cloud Manager en Experience Manager as a Cloud Service 2022.01.0 es el 20 de enero de 2022.
-La próxima versión está prevista para el 10 de febrero de 2022.
+La próxima versión está planificada para el 10 de febrero de 2022.
 
       _Nuevas funciones_
 
@@ -290,7 +290,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | Febrero de 2022 | [Migración desde arquetipo de AEM antiguo](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/updating-project-archetype.html?lang=en) | Vídeo | Desc. | Forms CS |
 | Febrero de 2022 | [Externalización del almacenamiento de datos de flujo de trabajo en AEM Forms CS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/create-aem-workflow/externalize-workflow.html?lang=en) | Vídeo | Obtenga información sobre cómo almacenar los datos del flujo de trabajo en el almacenamiento de Azure. AEM Forms CS tiene la nueva capacidad de almacenar los datos de flujo de trabajo, como variables, archivos adjuntos, etc., en una cuenta de almacenamiento externa. | AEM Forms CS |
 | Febrero de 2022 | [Integración de Adobe Analytics con la automatización de la configuración del Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/integrations/adobe-analytics-exc-setup-automation.html) | Vídeo | Descubra cómo la automatización de la configuración de Experience Cloud proporciona una forma sencilla y automatizada de integrar e instrumentar Experience Manager Sites con Experience Platform Launch y Adobe Analytics. | AEM Sites |
-| Febrero de 2022 | [Recommendations de producto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/product-recommendations.html) | Vídeo | Aprenda a insertar dinámicamente estas recomendaciones de productos en una tienda de Adobe Experience Manager (AEM). Adobe Commerce cuenta con un motor de recomendaciones equipado con Adobe Sensei. | AEM y Adobe Commerce |
+| Febrero de 2022 | [Recomendaciones de producto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/product-recommendations.html) | Vídeo | Aprenda a insertar dinámicamente estas recomendaciones de productos en una tienda de Adobe Experience Manager (AEM). Adobe Commerce cuenta con un motor de recomendaciones equipado con Adobe Sensei. | AEM y Adobe Commerce |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -473,10 +473,11 @@ Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **4 de febrero de 2022**
+Última actualización: **16 de febrero de 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
+| [!UICONTROL Campañas], [!UICONTROL Hojas de edición masiva] | (Versión del 22 de enero) ([!DNL Microsoft Advertising accounts]) Ahora puede crear y administrar anuncios de búsqueda interactivos (RSA) desde el [!UICONTROL Campañas] > [!UICONTROL Publicidades] ver y de [!UICONTROL Campañas] > [!UICONTROL Hojas de edición en bloque]. |
 | [!UICONTROL Hojas de edición en bloque], [!UICONTROL Centro de notificaciones] | (Versión del 22 de enero) Todas las notificaciones por correo electrónico para hojas de edición masiva, que Advertising Cloud Search envía cuando se completa o falla una operación de hoja de edición masiva, ahora son gestionadas por [!UICONTROL Centro de notificaciones].<br><br>[!UICONTROL Hojas de edición en bloque] es un nuevo tipo de notificación, con sus propias preferencias de notificación, en [!UICONTROL Centro de notificaciones]. Las notificaciones por correo electrónico y las notificaciones web están habilitadas de forma predeterminada, pero también puede cambiar la configuración de las notificaciones.<br><br>El formato y el contenido de las notificaciones por correo electrónico utilizan la variable [!UICONTROL Centro de notificaciones] e incluye un vínculo de descarga directa para el archivo de hoja de edición masiva o el archivo de error asociado. |
 
 {style=&quot;table-layout:auto&quot;}
