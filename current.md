@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Los eventos de Experience League son un lugar bueno para aprender, interactuar y
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/es).
 
 ## ![Icono](/assets/ec_appicon_24.png) Experience Cloud: componentes y administración de interfaz central {#ecloud}
-=======
-Fecha de la versión: **16 de noviembre de 2021**
-
-**Novedades**
-
-* El estado de Adobe ahora informa de incidentes de nivel de producto. Las páginas de Estado de la nube y Producto tienen un nuevo aspecto y filtros mejorados basados en los informes de incidentes de nivel de producto. Esto facilita la comprensión del impacto de su producto en [status.adobe.com](https://status.adobe.com/) y en las notificaciones por correo electrónico. Si no se ha suscrito, utilice este vínculo para configurar sus preferencias de suscripción personalizadas [https://status.adobe.com/es/proactive-notifications/manage](https://status.adobe.com/es/proactive-notifications/manage).
-
-* La página de inicio de Estado ahora está personalizada con eventos filtrados según sus autorizaciones y suscripciones a productos. Consúltelo en la pestaña **status.adobe.com** > **[!UICONTROL Mis eventos]**.
 
 Experience Cloud [componentes de interfaz de usuario central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=es) incluya las funciones disponibles en la página de inicio y el encabezado de producto persistente. Estas funciones incluyen la configuración del perfil del usuario, las preferencias y la búsqueda. También puede encontrar ayuda sobre la administración de usuarios y productos, los atributos del cliente y las audiencias de Experience Cloud.
 
@@ -108,9 +100,9 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK de Adobe Experience Platform Mobile. |
+| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK para Mobile de Adobe Experience Platform. |
 | Marzo de 2022 | [Generar ID de dispositivos de origen](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Vídeo | Obtenga información sobre la generación de ID de dispositivos de origen y cómo funcionan. |
-| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y Mobile. |
+| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y móvil. |
 
 {style=&quot;table-layout:auto&quot;}
 
