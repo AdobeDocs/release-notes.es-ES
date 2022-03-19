@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: deda4aee7483e0ea77a31f1e71016306fbb17473
+source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
 workflow-type: tm+mt
 source-wordcount: '5786'
 ht-degree: 50%
@@ -55,7 +55,7 @@ Actualización más reciente: **18 de marzo de 2022**
 Los eventos de Experience League son un lugar bueno para aprender, interactuar y obtener respuestas de expertos en productos en Adobe.
 
 | Evento | Tipo | Descripción |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) | Vídeo en directo y bajo demanda | Un programa de transmisión en vivo producido por el equipo Experience League. Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.<br> [Detalles y eventos anteriores](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [GEMS de AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Seminario web de Adobe Live | Bootstrap e implementación rápidos de aplicaciones de una sola página (SPA) mediante Adobe [!UICONTROL Creador de aplicaciones] flujos de trabajo y herramientas que no requieren habilidades tradicionales de Experience Manager, como Java™ y Sling. Con Experience Manager sin encabezado, los especialistas en marketing y los desarrolladores pueden tener la experiencia en su propio dominio: los desarrolladores controlan el marco de aplicación, el estilo y el enrutamiento generales, mientras que los especialistas en marketing determinan el contenido y cómo se muestra.<br>**Fecha:** Miércoles, 23 de marzo - [Detalles e inscripción](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Contar historias impactantes con datos](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Seminario web de Adobe Live | La narración de datos se hace bien cuando es un equilibrio entre arte y ciencia. Entonces, ¿por qué manipularlo excesivamente? La campeona de Adobe Analytics Amy Ard discute tres partes que tienen como objetivo guiar la narración de sus datos sin disminuir la creatividad:<ul><li>Identificación de la oportunidad o problema</li><li>Explicación a través de los datos</li><li>Oferta de una solución</li></ul>**Fecha:** Jueves, 31 de marzo - [Detalles e inscripción](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
@@ -110,7 +110,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 | Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK de Adobe Experience Platform Mobile. |
 | Marzo de 2022 | [Generar ID de dispositivos de origen](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Vídeo | Obtenga información sobre la generación de ID de dispositivos de origen y cómo funcionan. |
-| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y móvil. |
+| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y Mobile. |
 
 {style=&quot;table-layout:auto&quot;}
 
