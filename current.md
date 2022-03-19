@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
+source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
 workflow-type: tm+mt
-source-wordcount: '5692'
+source-wordcount: '5702'
 ht-degree: 49%
 
 ---
@@ -68,7 +68,7 @@ Los eventos de Experience League son un lugar bueno para aprender, interactuar y
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/es).
 
-Para obtener la información más reciente sobre la versión, consulte Estado del sistema de Adobe [notas de la versión](c-legacy-releases\2022\02162022.md#status).
+Para obtener la información más reciente sobre la versión, consulte Estado del sistema de Adobe [notas de la versión](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status).
 
 ## ![Icono](/assets/ec_appicon_24.png) Experience Cloud: componentes y administración de interfaz central {#ecloud}
 
@@ -102,7 +102,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK de Adobe Experience Platform Mobile. |
+| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK para Mobile de Adobe Experience Platform. |
 | Marzo de 2022 | [Generar ID de dispositivos de origen](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Vídeo | Obtenga información sobre la generación de ID de dispositivos de origen y cómo funcionan. |
 | Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y Mobile. |
 
