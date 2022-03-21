@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
+source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
 workflow-type: tm+mt
-source-wordcount: '5702'
+source-wordcount: '5696'
 ht-degree: 49%
 
 ---
@@ -102,9 +102,9 @@ Nuevos vídeos, tutoriales o cursos publicados para Experience Platform.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK para Mobile de Adobe Experience Platform. |
+| Marzo de 2022 | [Tutorial sobre implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Obtenga información sobre cómo implementar aplicaciones de Adobe Experience Cloud en su aplicación móvil mediante el SDK de Adobe Experience Platform Mobile. |
 | Marzo de 2022 | [Generar ID de dispositivos de origen](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Vídeo | Obtenga información sobre la generación de ID de dispositivos de origen y cómo funcionan. |
-| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y Mobile. |
+| Marzo de 2022 | [Configuración de conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Obtenga información sobre cómo crear y configurar conjuntos de datos para implementaciones de SDK web y móvil. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -116,7 +116,7 @@ Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.
 
 Fecha de la versión: **23 de marzo de 2022**
 
-* Adobe Analytics [notas de la versión](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=es) (**nueva ubicación**) (Los revisores deben ir a `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* [Notas de la versión](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=es) de Adobe Analytics (**nueva ubicación**)
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/analytics.html?lang=es) de Adobe Analytics
 
 ### AppMeasurement {#appm}
@@ -146,7 +146,7 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe Analytics.
 
 Fecha de la versión: **23 de marzo de 2022**
 
-* Customer Journey Analytics [notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es)  (**nueva ubicación**) (Los revisores deben ir a `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* [Notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es) de Customer Journey Analytics (**nueva ubicación**)
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=es) de Customer Journey Analytics
 
 ## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
