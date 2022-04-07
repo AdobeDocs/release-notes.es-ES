@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
 source-wordcount: '5828'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -50,7 +50,7 @@ Como Experience Maker, la ruta hacia el éxito empieza por [Adobe Experience Lea
 
 ¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, conocimiento de la comunidad y formación impartida por instructores.
 
-## ![Icono](/assets/experience-league.png) de eventos de [!DNL Experience League] {#events}
+## ![Icono](/assets/experience-league.png) Eventos de [!DNL Experience League] {#events}
 
 Los eventos de Experience League son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
@@ -63,7 +63,7 @@ Actualizado **5 de abril de 2022**
 | [Adobe Workfront System Admin Essentials: Diseño de una experiencia de usuario ideal](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Seminario web de Adobe Live | Únase a Mary Ann Erickson, directora de éxitos del cliente en Adobe Workfront, y Steve Enos, analista de operaciones creativas en Liberty Mutual Insurance para averiguar cómo diseñar una experiencia de usuario ideal. <br>**Fecha:** Miércoles, 27 de abril. Tiempo: 8:00am PDT / 4:00pm Reino Unido. <br>[Detalles e inscripción](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) | Vídeo en directo y bajo demanda | Un programa de streaming en directo producido por el equipo Experience League. Es una oportunidad para conectar con expertos en productos de Adobe y conocer consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.<br> [Detalles y eventos anteriores](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Analytics: contar historias impactantes con datos](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Seminario web de Adobe Live | La narración con datos está bien ejecutada cuando es un equilibrio entre arte y ciencia. Así que, ¿por qué utilizar demasiado la ingeniería? La campeona de Adobe Analytics, Amy Ard, ha creado tres partes que tienen como objetivo guiar la narración de sus datos sin que se resienta la creatividad:<ul><li>Identificación de la oportunidad o problema</li><li>Explicación a través de los datos</li><li>Ofrecimiento de una solución</li></ul>**Fecha:** jueves, 31 de marzo. [Detalles y registro](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | [!DNL Developers Live] muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todas las industrias. Vea la dirección principal, obtenga información sobre las API de Analytics, la capa de datos del cliente, los proyectos de código abierto del desarrollador de Adobe y mucho más. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=es) | Vídeo | [!DNL Developers Live] muestra los últimos avances tecnológicos y herramientas para desarrolladores que permiten el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todas las industrias. Vea la dirección principal, obtenga información acerca de las API de Analytics, la capa de datos del cliente, los proyectos de código abierto de Adobe Developer y mucho más. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -73,7 +73,7 @@ Actualizado **5 de abril de 2022**
 
 Para obtener la información más reciente sobre la versión, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=es#status) del Estado del sistema de Adobe.
 
-## ![Icono](/assets/ec_appicon_24.png) de Experience Cloud: componentes y administración de la interfaz central {#ecloud}
+## ![Icono](/assets/ec_appicon_24.png) Experience Cloud: componentes y administración de la interfaz central {#ecloud}
 
 Los [componentes de la IU central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=es) de Experience Cloud incluyen las funciones disponibles en la página de inicio y el encabezado de producto persistente. Estas funciones incluyen la configuración del perfil del usuario, las preferencias y la búsqueda. También puede encontrar ayuda sobre la administración de usuarios y productos, los atributos del cliente y las audiencias de Experience Cloud.
 
@@ -152,13 +152,13 @@ Fecha de la versión: **23 de marzo de 2022**
 * [Notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es) de Customer Journey Analytics (**nueva ubicación**)
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=es) de Customer Journey Analytics
 
-## ![Icono](/assets/audience-manager.png) de Audience Manager {#aam}
+## ![Icono](/assets/audience-manager.png) Audience Manager {#aam}
 
 Correcciones y mejoras en Audience Manager:
 
 | Mejora | Descripción |
 | -----------| ---------- |  
-| Validador para fuentes de datos de destino pertenecientes a otras empresas | Audience Manager publicó una mejora en el [proceso de incorporación de datos por lotes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=es). Para evitar la incorporación accidental de archivos y datos en fuentes de datos de destino propiedad de otros socios, Audience Manager ha añadido un requisito de asignación entre el ID del socio (PID) y las fuentes de datos (DPID) propiedad de otros socios. <ul><li>Vea también el campo __DPID_TARGET_DATA_OWNER_ en [Requisitos de tamaño de archivo y nombre de Amazon S3 para archivos de datos entrantes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=es#name-elements).</li><li>Los consultores y el Servicio de atención al cliente internos de Adobe deberían leer el documento [Administración del acceso de incorporación para datos de segundo nivel](https://experienceleague.adobe.com/docs/audience-manager-admin/admin-guide/companies/admin-manage-onboarding-access.html?lang=es) para obtener información acerca de la nueva mejora de la asignación requerida y cómo solicitar una nueva asignación</li><li>_No_ es necesario para solicitar una asignación para las relaciones de uso compartido de datos existentes. La asignación _tampoco_ es obligatoria al incorporar datos en fuentes de datos de destino que pertenecen a su PID.</li></ul> |
+| Validador para fuentes de datos de destino pertenecientes a otras empresas | Audience Manager publicó una mejora en el [proceso de incorporación de datos por lotes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=es). Para evitar la incorporación accidental de archivos y datos en fuentes de datos de destino propiedad de otros socios, Audience Manager ha añadido un requisito de asignación entre el ID del socio (PID) y las fuentes de datos (DPID) propiedad de otros socios. <ul><li>Vea también el campo __DPID_TARGET_DATA_OWNER_ en [Requisitos de tamaño de archivo y nombre de Amazon S3 para archivos de datos entrantes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=es#name-elements).</li><li>Los consultores y el Servicio de atención al cliente internos de Adobe deberían leer el documento [Administración del acceso de incorporación para datos de segundo nivel](https://experienceleague.adobe.com/docs/audience-manager-admin/admin-guide/companies/admin-manage-onboarding-access.html?lang=es) para obtener información acerca de la nueva mejora de la asignación requerida y cómo solicitar una nueva asignación.</li><li>_No_ es necesario para solicitar una asignación para las relaciones de uso compartido de datos existentes. La asignación _tampoco_ es obligatoria al incorporar datos en fuentes de datos de destino que pertenecen a su PID.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -180,12 +180,12 @@ Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta 
 
 * **Experience Manager as a Cloud Service**
 
-   Observe el [Vídeo de información general sobre la versión de marzo de 2022](https://video.tv.adobe.com/v/341465) para obtener un resumen de las funciones agregadas en la versión 2022.3.0 (marzo de 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+   Vea el [vídeo de información general sobre la versión de marzo de 2022](https://video.tv.adobe.com/v/341465) para obtener un resumen de las funciones añadidas en la versión 2022.3.0 (marzo de 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
-   * [Vídeo de información general de las nuevas funciones de la versión de enero de 2022](https://video.tv.adobe.com/v/340120).
-   * Vídeo de presentación de las nuevas funciones de la [versión de diciembre de 2021](https://video.tv.adobe.com/v/339278).
-   * [Vídeo de información general de las nuevas funciones de la versión de octubre de 2021](https://video.tv.adobe.com/v/338253).
-   * [Vídeo de las nuevas funciones de la versión de septiembre de 2021](https://video.tv.adobe.com/v/337381).
+   * Vídeo de las nuevas funciones de la [versión de enero de 2022](https://video.tv.adobe.com/v/340120).
+   * Vídeo de las nuevas funciones de la [versión de diciembre de 2021](https://video.tv.adobe.com/v/339278).
+   * Vídeo de las nuevas funciones de la [versión de octubre de 2021](https://video.tv.adobe.com/v/338253).
+   * Vídeo de las nuevas funciones de la [versión de septiembre de 2021](https://video.tv.adobe.com/v/337381).
 
    * **Experience Manager Assets as a Cloud Service**
 
@@ -263,7 +263,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | -----------| ---------- | ---------- | ---------- | ------|
 | Marzo de 2022 | [Empiece a desarrollar con AEM sin encabezado](https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=es) | Curso | Cree una página de aterrizaje de AEM sin encabezado que reúna todo el contenido de AEM sin encabezado en ExL. | AEM sin encabezado |
 | Marzo de 2022 | [Creación de su primer sitio web en Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/?lang=es#dashboard/learning) | Curso | Genere rápidamente un nuevo sitio web en Experience Manager mediante una plantilla de sitio predefinida. | AEM Sites |
-| Marzo de 2022 | [Extracción del nodo del XML de datos enviado](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=es) | Vídeo | Aprenda este paso de proceso personalizado para crear un documento XML extrayendo el nodo de otro documento XML. Utilice este proceso cuando desee combinar los datos enviados con la plantilla XDP para generar un PDF. | AEM Forms |
+| Marzo de 2022 | [Extracción del nodo del XML de datos enviado](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=es) | Vídeo | Aprenda este paso de proceso personalizado para crear un documento XML al extraer el nodo de otro documento XML. Utilice este proceso cuando desee combinar los datos enviados con la plantilla XDP para generar un PDF. | AEM Forms |
 | Marzo de 2022 | [Escritura del documento en el sistema de archivos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/write-payload-document.html?lang=es) | Vídeo | Obtenga información sobre cómo escribir los documentos generados en el flujo de trabajo en el sistema de archivos. | AEM Forms |
 | Marzo de 2022 | [Funciones personalizadas](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/custom-functions-aem-forms.html?lang=es) | Vídeo | AEM Forms 6.5 ha introducido la capacidad de definir las funciones de JavaScript que se pueden utilizar para estipular reglas comerciales complejas mediante el editor de reglas. | AEM Forms |
 | Marzo de 2022 | [Serie de expertos sobre el conector mejorado de Workfront para Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=es) | Vídeo | Únase a los expertos de Workfront y Experience Manager Assets de Adobe en esta serie de vídeos de cuatro partes, mientras muestran y analizan los detalles del conector mejorado de Workfront para Experience Manager. | AEM Assets, Workfront |
@@ -379,7 +379,7 @@ Nuevos tutoriales y cursos publicados para Adobe Campaign.
 * Adobe Campaign v8: [Documentación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=es) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=es)
 * Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
 * Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
-* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es)  - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
+* Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) - Vídeos prácticos para [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es) y [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -502,7 +502,7 @@ Last updated: **October 27, 2021**
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Icono](/assets/document-cloud-24.png) de Adobe Document Cloud {#doc-cloud}
+## ![Icono](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
 Nuevos tutoriales y cursos publicados para Adobe Document Cloud.
 
@@ -531,11 +531,11 @@ Para obtener ayuda de Document Cloud, consulte:
 
 Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=es) para obtener los más recientes.
 
-## ![Icono](/assets/experience-league.png) de administración de datos del cliente: voces {#voices}
+## ![Icono](/assets/experience-league.png) Administración de datos del cliente: voces {#voices}
 
-[Voces de administración de datos del cliente](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) es su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Esta colección de tutoriales es su punto de encuentro para escuchar a sus compañeros, inspirarse y aprender acerca de los desarrollos en MarTech. No se requiere registro, simplemente haga clic y mire.
+[Voces de administración de datos del cliente](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) es su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Esta colección de tutoriales es su punto de encuentro para escuchar a sus compañeros, inspirarse y aprender acerca de los desarrollos en MarTech. No se requiere registro, simplemente haga clic y mírelo.
 
-## ![Icono](/assets/experience-league.png) de modelos de experiencia digital {#blueprints}
+## ![Icono](/assets/experience-league.png) Modelos de experiencia digital {#blueprints}
 
 [Los modelos de experiencia digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=es) son implementaciones repetibles para abordar la estrategia y resolver los problemas empresariales establecidos. Cada modelo proporciona una serie de artefactos que explican el principal problema empresarial, las arquitecturas, los pasos de implementación, las consideraciones técnicas y los vínculos a la documentación pertinente.
 
