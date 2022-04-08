@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5828'
-ht-degree: 95%
+source-wordcount: '5956'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Como Experience Maker, la ruta hacia el éxito empieza por [Adobe Experience Lea
 >
 >Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html). Vuelva con frecuencia para mantenerse al tanto de lo que está pasando en Experience League.
 
-Última actualización: **5 de abril de 2022**
+Última actualización: **7 de abril de 2022**
 
 * [[!DNL Experience League] events](#events) (**5 de abril** - AEM relanzamiento de Gems)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Nuevas funciones de [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **14 de marzo de 2022**, para el lanzamiento del 12 de marzo
+Última actualización: **7 de abril de 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Portafolios] | De forma predeterminada, la optimización híbrida está disponible en el nivel de campaña. Ahora, de forma opcional, puede habilitar la optimización híbrida en el nivel de grupo de anuncios, para el cual la capacidad de optimización establece los objetivos de CPA o ROAS [!DNL Google] en el nivel de grupo de anuncios para un control más preciso del rendimiento.<br>Con cualquier portafolios, debe dejar un período de aprendizaje antes de lanzarlo, para garantizar que tenga suficiente cobertura de modelo. Del mismo modo, si cambia un portafolio híbrido de optimización de nivel de campaña al nivel de grupo de anuncios, establezca el portafolios en el estado activo durante unas dos semanas. Esto garantiza que la capacidad de optimización tenga tiempo para conocer los grupos de anuncios incluidos y generar objetivos.<br>Para admitir la optimización en el nivel de grupo de anuncios, las simulaciones personalizadas ahora pueden incluir resultados por grupo de anuncios. Ejecute una simulación personalizada con resultados de nivel de grupo de anuncios antes de iniciar un portafolios híbrido con optimización de nivel de grupo de anuncios. |
-| [!UICONTROL Portafolios] <br> [!UICONTROL Campañas] | (Función beta, campañas de [!DNL Microsoft® Advertising]). Ahora puede configurar campañas de búsqueda para que utilicen la estrategia de oferta [!UICONTROL Maximizar conversiones] y, opcionalmente, establecer un coste por clic máximo.<br>Si ya participa en la optimización beta híbrida para otras estrategias de oferta automática, tendrá acceso directo a la estrategia [!UICONTROL Maximizar conversiones] y puede incluir campañas con la estrategia [!UICONTROL Maximizar conversiones] en portafolios híbridos. Para utilizar esta estrategia en un portafolios híbrido, debe habilitar la carga de los objetivos de Advertising Cloud Search en [!DNL Microsoft® Ads]. Si aún no participa en la versión beta y desea unirse, póngase en contacto con su administrador de cuentas de [!DNL Adobe]. |
-| [!UICONTROL Audiencias]<br><br> de Campaign y [!UICONTROL Hojas de edición por lotes] de Campaign | (Campañas de [!DNL Microsoft® Advertising]). Ahora puede usar cualquiera de sus audiencias de [!DNL Microsoft® Advertising], excepto para audiencias de mercado como objetivos de nivel de campaña o de nivel de [!UICONTROL grupo de anuncios]. Anteriormente, solo podía utilizarlas como objetivos de nivel de [!UICONTROL grupo de anuncios]. |
-| [!UICONTROL Audiencias] de Campaign | (Función beta, cuentas de [!DNL Microsoft® Advertising] elegibles para la [!UICONTROL segmentación por lista de clientes]). Ahora puede crear y administrar audiencias de segmentación por lista de clientes cargando archivos CSV con direcciones de correo electrónico. Los datos deben tener un cifrado hash con el algoritmo SHA-256. |
+| [!UICONTROL Campañas]<br><br>[!UICONTROL Información sobre los anuncios] | (7 de abril) [!DNL Google Ads] cuentas) Advertising Cloud Search está realizando la transición de todas las llamadas API del heredado [!DNL Google AdWords API] a la última [!DNL Google Ads API]. Migración al nuevo [!DNL Google Ads API] garantizará la continuidad con las capacidades existentes y permitirá el acceso a [!DNL Google’s] última versión [!DNL Ads] características.<br><br>Algunas funciones aún no se han actualizado a la nueva API y no están disponibles temporalmente:<ul><li>Extensiones de ubicación:<ul>Las extensiones de ubicación no están visibles en la variable [!UICONTROL Extensiones] vista.</li><li>No se puede crear una extensión.</li><li>Los filtros en las ubicaciones no funcionan.</li></li></ul><li>[!UICONTROL Información sobre los anuncios]: La variable [!UICONTROL Porcentaje de impresiones perdidas] y [!UICONTROL Consulta beta de coincidencia cruzada] los análisis no estarán disponibles a partir del 11 de abril.</li></ul>Prevemos la restauración de las capacidades de extensión de ubicación para finales de abril. Una vez que determinemos cuándo se verá afectado [!UICONTROL Información sobre los anuncios] también se pueden restaurar los módulos, se enviará una actualización con la fecha estimada. |
+| [!UICONTROL Portafolios] | (Versión del 12 de marzo) De forma predeterminada, la optimización híbrida está disponible en el nivel de campaña. Ahora, de forma opcional, puede habilitar la optimización híbrida en el nivel de grupo de anuncios, para el cual la capacidad de optimización establece los objetivos de CPA o ROAS [!DNL Google] en el nivel de grupo de anuncios para un control más preciso del rendimiento.<br>Con cualquier portafolios, debe dejar un período de aprendizaje antes de lanzarlo, para garantizar que tenga suficiente cobertura de modelo. Del mismo modo, si cambia un portafolio híbrido de optimización de nivel de campaña al nivel de grupo de anuncios, establezca el portafolios en el estado activo durante unas dos semanas. Esto garantiza que la capacidad de optimización tenga tiempo para conocer los grupos de anuncios incluidos y generar objetivos.<br>Para admitir la optimización en el nivel de grupo de anuncios, las simulaciones personalizadas ahora pueden incluir resultados por grupo de anuncios. Ejecute una simulación personalizada con resultados de nivel de grupo de anuncios antes de iniciar un portafolios híbrido con optimización de nivel de grupo de anuncios. |
+| [!UICONTROL Portafolios] <br> [!UICONTROL Campañas] | (Coincide con la versión 12; Función beta para [!DNL Microsoft® Advertising] campañas): Ahora puede configurar campañas de búsqueda para que utilicen la variable [!UICONTROL Maximizar conversiones] estrategia de oferta y, opcionalmente, establezca un coste máximo por clic.<br>Si ya participa en la optimización beta híbrida para otras estrategias de oferta automática, tendrá acceso directo a la estrategia [!UICONTROL Maximizar conversiones] y puede incluir campañas con la estrategia [!UICONTROL Maximizar conversiones] en portafolios híbridos. Para utilizar esta estrategia en un portafolios híbrido, debe habilitar la carga de los objetivos de Advertising Cloud Search en [!DNL Microsoft® Ads]. Si aún no participa en la versión beta y desea unirse, póngase en contacto con su administrador de cuentas de [!DNL Adobe]. |
+| [!UICONTROL Audiencias]<br><br> de Campaign y [!UICONTROL Hojas de edición por lotes] de Campaign | (Versión del 12 de marzo); [!DNL Microsoft® Advertising] campañas): ahora puede usar cualquiera de sus [!DNL Microsoft® Advertising] audiencias, excepto para audiencias de mercado como objetivos de nivel de campaña o [!UICONTROL adgroup]objetivos de nivel superior. Anteriormente, solo podía utilizarlas como objetivos de nivel de [!UICONTROL grupo de anuncios]. |
+| [!UICONTROL Audiencias] de Campaign | (Versión del 12 de marzo); Función beta para [!DNL Microsoft® Advertising] cuentas elegibles para [!UICONTROL Coincidencia de cliente]) Ahora puede crear y administrar audiencias de coincidencia de clientes cargando archivos CSV con direcciones de correo electrónico. Los datos deben tener un cifrado hash con el algoritmo SHA-256. |
 
 {style=&quot;table-layout:auto&quot;}
 
