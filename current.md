@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4974'
+source-wordcount: '4977'
 ht-degree: 50%
 
 ---
@@ -25,7 +25,7 @@ Como Experience Maker, la ruta hacia el éxito empieza por [Adobe Experience Lea
 >
 >Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html). Vuelva con frecuencia para mantenerse al tanto de lo que está pasando en Experience League.
 
-Última actualización: **13 de mayo de 2022**
+Última actualización: **14 de mayo de 2022**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Eventos de vídeo recientemente publicados en Experience League:
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Mayo de 2022 | [Marketo Skills Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Vídeos | Empiece por obtener información sobre la hoja de ruta de Marketo. A continuación, descubra la importancia de pensar en la instancia de Marketo como un producto. Obtenga consejos sobre cómo desbloquear el potencial de los campos personalizados de los miembros del programa, los consejos y trucos del Marketo Engage, etc., en esta página recientemente publicada [Marketo Skills Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) desde agosto de 2021, ahora en Experience League. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Actualizaciones centrales de Marketo Engage
 
