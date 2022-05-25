@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 50%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 50%
 
 ![Titular](assets/experience-cloud-banner-3.png)
 
-Como Experience Maker, la ruta hacia el éxito empieza por [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home). Encuentre una amplia biblioteca de documentación de procedimientos, tutoriales autoguiados, vídeos explicativos y cursos para todos los niveles y funciones, una comunidad en línea de compañeros y asistencia técnica especializada cuando la necesite.
+Como Experience Maker, la ruta hacia el éxito empieza por [ Experience League](https://experienceleague.adobe.com/?lang=es#home). Encuentre una amplia biblioteca de documentación de procedimientos, tutoriales autoguiados, vídeos explicativos y cursos para todos los niveles y funciones, una comunidad en línea de compañeros y asistencia técnica especializada cuando la necesite.
 
 ¿Todo listo para empezar? [Complete un test de cinco minutos y gane](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp).
 
@@ -49,7 +49,7 @@ Como Experience Maker, la ruta hacia el éxito empieza por [Adobe Experience Lea
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Modelos de experiencia digital: tutoriales](#blueprints)
 
-¿Necesita ayuda? Visite [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, conocimiento de la comunidad y formación impartida por instructores.
+¿Necesita ayuda? Visite [ Experience League](https://experienceleague.adobe.com/?lang=es#home) para encontrar la documentación técnica y de los productos, cursos seleccionados por Adobe, tutoriales de vídeo, respuestas rápidas, conocimiento de la comunidad y formación impartida por instructores.
 
 ## ![Icono](/assets/experience-league.png) Eventos de [!DNL Experience League] {#events}
 
