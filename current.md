@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
+source-wordcount: '5033'
 ht-degree: 49%
 
 ---
@@ -25,9 +25,9 @@ Como Experience Maker, la ruta hacia el éxito empieza por [ Experience League](
 >
 >Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html). Vuelva con frecuencia para mantenerse al tanto de lo que está pasando en Experience League.
 
-Última actualización: **24 de mayo de 2022**
+Última actualización: **27 de mayo de 2022**
 
-* [Eventos de [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (Actualizado) **27 de mayo**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud: componentes y administración de la interfaz central](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Como Experience Maker, la ruta hacia el éxito empieza por [ Experience League](
 
 Los eventos de Experience League son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-Actualización: **26 de mayo de 2022**
+Actualización: **27 de mayo de 2022**
 
 | Evento | Tipo | Descripción |
 | -----------|---------- | ----|
+| [Foro de gobierno de Experience Makers](https://adobegovforum.govexec.com/agenda/) | Vídeo bajo demanda | El 13º AEM AEM Anual del 10 de mayo fue un éxito, con una combinación de asistentes virtuales y presenciales. Sesiones principales y de grupos especiales centradas en el tema de _Experiencias digitales que colocan a las personas en primer lugar_. Sesiones principales incluidas _Manhunters: Cómo derribamos a Pablo Escobar_, _El futuro del CX_ y _La edad de oro de la creatividad y el lugar de trabajo moderno_. |
 | [Pregunte a los expertos: Aspectos básicos del SDK web](https://www.youtube.com/watch?v=g0KajUfq-S4) | Seminario web | Comprender y usar las prácticas recomendadas de recopilación de datos. <br>[Programación y eventos anteriores](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=es) |
 | [Adobe Campaign: serie de seminarios web de éxito de los clientes](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Mejora de los Recorridos del cliente mediante Adobe Campaign. | Únase a esta conversación en directo entre pares con Anja Starun, responsable de operaciones de participación en las marcas Kayo, Binge y Flash de Streamotion. Conozca directamente de ella las estrategias exitosas que su equipo implementó para crear recorridos de cliente individualizados usando Adobe Campaign. <br>**Fecha:** 26 de mayo a las 15.00 horas EST <br>[Detalles e inscripción](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Comunidad de Adobe Target](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=es#M3096) | Sesión de preguntas y respuestas y descanso | Únase a Brent Kostak y Drew Burns, del equipo de productos de Adobe Target, que pueden responder a sus preguntas de Adobe Target sobre audiencias compartidas, Real-Time CDP, datos de origen, flujos de trabajo de personalización de principio a fin y mucho más.<br>Vea los últimos [Seminario web de personalización en tiempo real](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) y remita sus preguntas de seguimiento a los expertos de la [Rodaje de café](https://adobe.ly/3MyiDHa) en la Comunidad de Adobe Target!<br>**Fecha:** 25 de mayo de 2022 a las 8 de la mañana PDT<br>[Detalles y registro](https://adobe.ly/3MyiDHa) |
