@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
 ht-degree: 95%
@@ -60,9 +60,9 @@ Actualizado el **28 de junio de 2022**
 | [Aproveche la inteligencia de datos profunda para aumentar la personalización](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Seminario web de éxito del cliente | Únase a nuestro experto en Adobe para conocer cómo las funcionalidades avanzadas de Adobe Analytics permitirán a los analistas y especialistas en marketing de su organización acelerar el análisis profundo de datos y revisar perspectivas oportunas para potenciar experiencias de clientes más personalizadas en distintos canales, momentos y etapas de compra.<br>**Fecha:** 6 de julio a las 15:00 AEST - [Detalles e inscripción](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target: Capacidades para el éxito](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Manager | Comprenda los conceptos y las capacidades principales de Adobe Target para probar, personalizar y reconocer el poder de la IA que transforma su experiencia de marca de genérica a genio.<br>**Fecha:** 30 de junio y 1 de julio - [Detalles e inscripción](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-Consulte [Eventos](https://experienceleague.adobe.com/events/?lang=en) para mantenerse actualizado.
-
 {style=&quot;table-layout:auto&quot;}
+
+Consulte [Eventos](https://experienceleague.adobe.com/events/?lang=en) para mantenerse actualizado.
 
 ## ![Icono](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
