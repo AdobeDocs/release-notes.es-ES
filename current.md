@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
+source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
 workflow-type: tm+mt
-source-wordcount: '4288'
-ht-degree: 100%
+source-wordcount: '4395'
+ht-degree: 96%
 
 ---
 
@@ -431,21 +431,24 @@ Last updated: **October 27, 2021**
 
 ### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Última actualización: **8 de junio de 2022** para la versión del 31 de mayo
+Última actualización: **14 de julio de 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| Informes personalizados | (Función beta) Advertising Cloud DSP ahora puede introducir segmentos de origen compuestos de señales autenticadas creadas dentro de una plataforma de datos del cliente (CDP). |
+| Informes personalizados | (versión del 31 de mayo; función beta) Advertising Cloud DSP ahora puede introducir segmentos de origen compuestos de señales autenticadas creadas dentro de una plataforma de datos del cliente (CDP). |
+| [!UICONTROL Inventario] | (Versión del 29 de junio) El nuevo [!UICONTROL Inventario] > [!UICONTROL Ofertas] la vista incluye las mismas capacidades de personalización de datos que la [!UICONTROL Campañas] , incluidos filtros adicionales, personalización de columnas y la opción de guardar vistas personalizadas, clasificación de columnas y una vista de visualización de datos (gráfico). Puede abrir un menú de comandos en cada fila haciendo clic en [!UICONTROL ...] después del nombre de la oferta. |
+| [!DNL Inventory Inspector] | (Versión del 29 de junio) El [!UICONTROL Inventario] de la colocación [!UICONTROL Inspector] ahora incluye gráficos de visualización de datos personalizables y métricas de rendimiento ampliadas, como [!UICONTROL Tasa de visualización], [!UICONTROL Clics]y [!UICONTROL CPM de ayer]. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **8 de junio de 2022**, para la versión del 11 de junio
+Última actualización: **14 de julio de 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Insights] | El análisis de pérdida de uso compartido de impresiones ya está disponible como función beta. |
+| [!UICONTROL Insights] | (Versión del 11 de junio) El análisis de Impresión compartida perdida ya está disponible como función beta. |
+| [!DNL Advanced Campaign Management] | (20 de junio) ([!DNL Google Ads] y [!DNL Microsoft Advertising] campañas) Ahora puede crear variaciones de anuncios de búsqueda interactivas dinámicas utilizando una plantilla de publicidad específica del motor de búsqueda, basada en el contenido de su inventario, desde [!UICONTROL Campañas] > [!UICONTROL Avanzado (ACM)]. |
 
 {style=&quot;table-layout:auto&quot;}
 
