@@ -316,7 +316,7 @@ Consulte los siguientes vínculos para ver las notas de la versión de Adobe Com
 
 ## ![Icono](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Última actualización: **30 de junio de 2022**
+Última actualización: **7 de junio de 2022**
 
 * Para obtener información previa al lanzamiento, consulte [Versión preliminar de Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es)
 * Para obtener información actual, consulte [Notas de la versión de Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=es)
