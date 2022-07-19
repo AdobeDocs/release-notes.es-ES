@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -57,7 +57,7 @@ Actualizado **17 de julio de 2022**
 
 | Evento | Tipo | Descripción |
 | -----------|---------- | ----|
-| [Pregunten a los expertos: Datastreams y preparación de datos](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | En esta final de tres sesiones relativas a la recopilación de datos para Adobe Experience Cloud, nuestros expertos ofrecerán una explicación más profunda de las capacidades avanzadas de recopilación de datos de Adobe, incluidas funciones como la preparación para la recopilación de datos. Al final de esta sesión, los asistentes se sentirán confiados con las últimas y más potentes funciones para recopilar datos de experiencias digitales <br>**Fecha:** 21 de julio a las 9 a.m. PST - [Detalles](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Pregunten a los expertos: Datastreams y preparación de datos](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | En esta final de tres sesiones relativas a la recopilación de datos para Adobe Experience Cloud, nuestros expertos ofrecerán una explicación más profunda de las capacidades avanzadas de recopilación de datos de Adobe, incluidas funciones como la preparación para la recopilación de datos. Al final de esta sesión, los asistentes se sentirán confiados con las últimas y más potentes funciones para recopilar datos de experiencias digitales <br>**Fecha:** 21 de julio a las 9 a.m. PDT - [Detalles](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
