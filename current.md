@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
+source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
 workflow-type: tm+mt
-source-wordcount: '5574'
+source-wordcount: '5576'
 ht-degree: 49%
 
 ---
@@ -117,7 +117,9 @@ Para obtener más información sobre las nuevas funciones, visite sus páginas r
 * [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacidad](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=es)
 
-Actualización de funciones: **11 de julio de 2022**
+### Actualización de funciones
+
+Función lanzada: **11 de julio de 2022**
 
 | Función | Descripción |
 | ------- | ------- |
