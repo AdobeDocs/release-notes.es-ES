@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ Los [componentes de la IU central](https://experienceleague.adobe.com/docs/core-
 
 ### Actualización de aprovisionamiento
 
-Actualizado: **19 de julio de 2022**
-
 >[!IMPORTANT]
 >
 >Revise el siguiente aviso sobre el aprovisionamiento de Experience Cloud.
@@ -85,9 +83,11 @@ Adobe está actualizando su aprovisionamiento para proporcionar a todos los clie
 
 Adobe Experience Platform [!UICONTROL Recopilación de datos] incluye [etiquetas](https://experienceleague.adobe.com/docs/tags.html?lang=en) para una administración universal de etiquetas simplificada, y ofrece una infraestructura de datos de flujo fiable, sólida y completa. Las etiquetas simplifican la recopilación de datos de experiencias del cliente y optimizan el envío de experiencias.
 
-Con esta actualización, los administradores pueden ver cambios o adiciones al Admin Console:
+**Cambios en el Admin Console**
 
-1. La tarjeta de producto de Adobe Experience Platform en el Admin Console incluirá:
+Los administradores pueden ver los cambios o adiciones al Admin Console de la siguiente manera:
+
+* La tarjeta de producto de Adobe Experience Platform en el Admin Console incluirá:
 
    * Places
    * Garantía
@@ -102,7 +102,7 @@ Con esta actualización, los administradores pueden ver cambios o adiciones al A
 
    Para organizaciones que actualmente utilizan Experience Platform, _Lugares_ ahora se consolidará en la tarjeta de Experience Platform.
 
-1. La recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la privacidad seguirán apareciendo como tarjetas de producto independientes de las demás funciones de Experience Platform.
+* La recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la privacidad seguirán apareciendo como tarjetas de producto independientes de las demás funciones de Experience Platform.
 
 Para obtener más información sobre las nuevas funciones, visite sus páginas respectivas en el Experience League:
 
