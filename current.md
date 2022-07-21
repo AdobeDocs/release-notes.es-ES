@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
+source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
 workflow-type: tm+mt
-source-wordcount: '5577'
+source-wordcount: '5575'
 ht-degree: 49%
 
 ---
@@ -108,7 +108,7 @@ Para obtener más información sobre las nuevas funciones, visite sus páginas r
 
 * [Recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
-* [Garantía](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Garantía](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
 * [Espacio de nombre de identidad](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=es)
 * [Zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=es)
 * [Modelo de datos de experiencia](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=es)
