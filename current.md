@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5678'
+source-wordcount: '5706'
 ht-degree: 90%
 
 ---
@@ -475,6 +475,10 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe Marketo.
 ## ![Icono](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] es una aplicación de administración de trabajo unificada para compartir ideas, crear contenido, administrar procesos complejos y trabajar de forma óptima.
+
+**Inicio del tutorial de Workfront**
+
+**27 de julio de 2022**: Visite Workfront nuevo [inicio del tutorial en el Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) para todos los vídeos y artículos de formación y tutoriales.
 
 Consulte la página Versiones de [[!DNL Workfront] ](https://one.workfront.com/s/product-releases) para obtener un resumen de la información más reciente de todos los productos.
 
