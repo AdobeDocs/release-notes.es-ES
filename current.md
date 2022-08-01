@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
 source-wordcount: '5842'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -58,7 +58,7 @@ Actualizado el **28 de julio de 2022**
 | Evento | Tipo | Descripción |
 | -----------|---------- | ----|
 | [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | coffee break de preguntas y respuestas de la comunidad | Nos acompañará la consultora de negocios del Premier Support de Adobe Rachel Booth, alias `@rbooth115`. Se inscribirá en la comunidad de Adobe Target para charlar directamente con usted en [este subproceso](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) sobre sus preguntas relativas a sus áreas de experiencia (personalización, optimización, integración). <br>**Fecha:** Miércoles, 3 de agosto a las 8 a.m. PDT - 9 a.m. - [Detalles e inscripción](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Pregunte a los expertos: Datastreams y preparación de datos](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=es) | Experience League LIVE | En esta última sesión de una serie de tres relativa a la recopilación de datos para Adobe Experience Cloud, nuestros expertos profundizarán en las capacidades avanzadas de recopilación de datos de Adobe, incluidas funciones como la preparación para la recopilación de datos. Al final de esta sesión, los asistentes se sentirán confiados con las últimas y más potentes funciones para recopilar datos de experiencias digitales <br>**Fecha:** 21 de julio a las 9 a.m. PDT - [Detalles](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Pregunte a los expertos: Datastreams y preparación de datos](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=es) | Experience League LIVE | En esta última sesión de una serie de tres relativa a la recopilación de datos para Adobe Experience Cloud, nuestros expertos profundizarán en las capacidades avanzadas de recopilación de datos de Adobe, incluidas funciones como la preparación para la recopilación de datos. Al final de esta sesión, los asistentes se sentirán seguros con las últimas y más potentes funciones para recopilar datos de experiencias digitales <br>**Fecha:** 21 de julio a las 9:00 PST - [Detalles](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -80,42 +80,42 @@ Los [componentes de la IU central](https://experienceleague.adobe.com/docs/core-
 >
 >Revise el siguiente aviso sobre el aprovisionamiento de Experience Cloud.
 
-Adobe está actualizando su aprovisionamiento para proporcionar a todos los clientes Experience Cloud acceso a las funcionalidades básicas que ayudan a la interoperabilidad entre algunos productos Experience Cloud. Los usuarios tendrán Adobe Experience Platform como un nuevo derecho añadido a sus organizaciones Experience Cloud, con [!UICONTROL Recopilación de datos] como servicio incluido.
+Adobe está actualizando su aprovisionamiento para proporcionar a todos los clientes Experience Cloud acceso a las funcionalidades básicas que ayudan a la interoperabilidad entre algunos productos Experience Cloud. Los usuarios tendrán Adobe Experience Platform como un nuevo derecho añadido a sus organizaciones de Experience Cloud, con [!UICONTROL Recopilación de datos] como servicio incluido.
 
-Adobe Experience Platform [!UICONTROL Recopilación de datos] incluye [etiquetas](https://experienceleague.adobe.com/docs/tags.html?lang=en) para una administración universal de etiquetas simplificada, y ofrece una infraestructura de datos de flujo fiable, sólida y completa. Las etiquetas simplifican la recopilación de datos de experiencias del cliente y optimizan el envío de experiencias.
+La [!UICONTROL Recopilación de datos] de Adobe Experience Platform incluye [etiquetas](https://experienceleague.adobe.com/docs/tags.html?lang=es) para una administración de etiquetas universal simplificada y ofrece una infraestructura de datos de flujo fiable, sólida y completa. Las etiquetas simplifican la recopilación de datos de experiencia del cliente y optimizan la entrega de experiencias.
 
 **Cambios en el Admin Console**
 
 Los administradores pueden ver los cambios o adiciones al Admin Console de la siguiente manera:
 
-* La tarjeta de producto de Adobe Experience Platform en el Admin Console incluirá:
+* La tarjeta de producto de Adobe Experience Platform en Admin Console incluirá lo siguiente:
 
    * Places
-   * Garantía
-   * Espacio de nombre de identidad
+   * Assurance
+   * Área de nombres de identidad
    * Zonas protegidas
    * Modelo de datos de experiencia
    * Esquemas
    * Corrientes de datos
    * ID de visitante
 
-   Para las organizaciones que actualmente no usan Experience Platform, ahora verá la variable _Adobe Experience Platform_ en el Admin Console, incluidas las funcionalidades mencionadas anteriormente.
+   Para las organizaciones que actualmente no usan Experience Platform, ahora verá el producto _Adobe Experience Platform_ en Admin Console, incluidas las funcionalidades mencionadas anteriormente.
 
-   Para organizaciones que actualmente utilizan Experience Platform, _Lugares_ ahora se consolidará en la tarjeta de Experience Platform.
+   Para organizaciones que utilizan Experience Platform actualmente, _Places_ ahora se consolidará en la tarjeta de Experience Platform.
 
-* La recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la privacidad seguirán apareciendo como tarjetas de producto independientes de las demás funciones de Experience Platform.
+* La Recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la Privacidad seguirán apareciendo como tarjetas de producto independientes de las demás características de Experience Platform.
 
-Para obtener más información sobre las nuevas funciones, visite sus páginas respectivas en el Experience League:
+Para obtener más información acerca de las nuevas funciones, visite sus páginas respectivas en Experience League:
 
-* [Recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=es)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
-* [Garantía](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
-* [Espacio de nombre de identidad](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=es)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=es)
+* [Área de nombres de identidad](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=es)
 * [Zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=es)
 * [Modelo de datos de experiencia](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=es)
 * [Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es)
-* [Corrientes de datos](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Corrientes de datos](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=es)
+* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=es#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacidad](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=es)
 
 ### Actualización de funciones
@@ -334,7 +334,7 @@ Obtenga más información sobre [[!DNL Experience Manager Guides]](https://www.a
 ### Recursos adicionales
 
 * [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=es): tutoriales sobre Experience League
-* [[!DNL Experience Manager Guides] Aprendizaje y asistencia](https://helpx.adobe.com/es/support/xml-documentation-for-experience-manager.html): documentación del producto
+* Aprendizaje y asistencia de [[!DNL Experience Manager Guides] ](https://helpx.adobe.com/es/support/xml-documentation-for-experience-manager.html): documentación del producto
 
 ## ![Icono](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
