@@ -80,15 +80,15 @@ Los [componentes de la IU central](https://experienceleague.adobe.com/docs/core-
 >
 >Revise el siguiente aviso sobre el aprovisionamiento de Experience Cloud.
 
-Adobe está actualizando su aprovisionamiento para proporcionar a todos los clientes Experience Cloud acceso a las funcionalidades básicas que ayudan a la interoperabilidad entre algunos productos Experience Cloud. Los usuarios tendrán Adobe Experience Platform como un nuevo derecho añadido a sus organizaciones de Experience Cloud, con [!UICONTROL Recopilación de datos] como servicio incluido.
+Adobe está actualizando su aprovisionamiento para proporcionar a todos los clientes Experience Cloud acceso a las funcionalidades básicas que ayudan a la interoperabilidad entre algunos productos Experience Cloud. Los usuarios tendrán Adobe Experience Platform como un nuevo derecho añadido a sus organizaciones Experience Cloud, con [!UICONTROL Recopilación de datos] como servicio incluido.
 
-La [!UICONTROL Recopilación de datos] de Adobe Experience Platform incluye [etiquetas](https://experienceleague.adobe.com/docs/tags.html?lang=es) para una administración de etiquetas universal simplificada y ofrece una infraestructura de datos de flujo fiable, sólida y completa. Las etiquetas simplifican la recopilación de datos de experiencia del cliente y optimizan la entrega de experiencias.
+Adobe Experience Platform [!UICONTROL Recopilación de datos] incluye [etiquetas](https://experienceleague.adobe.com/docs/tags.html?lang=es) para una administración universal de etiquetas simplificada, y ofrece una infraestructura de datos de streaming fiable, sólida y completa. Las etiquetas simplifican la recopilación de datos de experiencias del cliente y optimizan la entrega de experiencias.
 
-**Cambios en el Admin Console**
+**Cambios en Admin Console**
 
-Los administradores pueden ver los cambios o adiciones al Admin Console de la siguiente manera:
+Los administradores pueden ver los cambios o adiciones en Admin Console de la siguiente manera:
 
-* La tarjeta de producto de Adobe Experience Platform en Admin Console incluirá lo siguiente:
+* La tarjeta de producto de Adobe Experience Platform en el Admin Console incluye lo siguiente:
 
    * Places
    * Assurance
@@ -101,11 +101,11 @@ Los administradores pueden ver los cambios o adiciones al Admin Console de la si
 
    Para las organizaciones que actualmente no usan Experience Platform, ahora verá el producto _Adobe Experience Platform_ en Admin Console, incluidas las funcionalidades mencionadas anteriormente.
 
-   Para organizaciones que utilizan Experience Platform actualmente, _Places_ ahora se consolidará en la tarjeta de Experience Platform.
+   Para organizaciones que actualmente utilizan Experience Platform, _Places_ ahora se consolidará en la tarjeta de Experience Platform.
 
-* La Recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la Privacidad seguirán apareciendo como tarjetas de producto independientes de las demás características de Experience Platform.
+* La recopilación de datos de Adobe Experience Platform (anteriormente, Launch) y la privacidad seguirán apareciendo como tarjetas de producto independientes de las demás funciones de Experience Platform.
 
-Para obtener más información acerca de las nuevas funciones, visite sus páginas respectivas en Experience League:
+Para obtener más información sobre las nuevas funciones, visite sus páginas respectivas en Experience League:
 
 * [Recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=es)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
