@@ -5,8 +5,7 @@ doc-type: release notes
 last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
-exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f83c4b1085e3833ada4b11d79fba9ac8bec67278
+source-git-commit: 02987b7f5f4fd84837e4d774ff8f96cea6b4debd
 workflow-type: tm+mt
 source-wordcount: '4134'
 ht-degree: 52%
@@ -191,7 +190,7 @@ _Nuevas funciones disponibles en el canal de prelanzamiento de_
 
 * **Invocar: un paso del flujo de trabajo del Experience Manager** - DDX (Document Description XML) es un lenguaje declarativo de marcado cuyos elementos representan componentes básicos de documentos. Estos componentes básicos incluyen documentos de PDF y XDP, y otros elementos como comentarios, marcadores y texto con estilo. Los documentos DDX son plantillas para los documentos y describen las características deseadas de los documentos de origen que deberían aparecer en los documentos resultantes. Se puede utilizar un solo DDX con una amplia gama de documentos de origen. Puede utilizar el paso Invocar un flujo de trabajo de Experience Manager para realizar varias operaciones, como ensamblar documentos desensamblados, crear y modificar Acrobat y XFA Forms, y otras operaciones descritas en [Referencia de DDX](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) documentación.
 
-* **Convertir en PDF/A: paso de flujo de trabajo de Experience Manager** : PDF/A es un formato de archivo para la preservación a largo plazo del contenido del documento, todas las fuentes están incrustadas y el archivo no está comprimido. Ahora, puede utilizar el paso Convertir en PDF/A y Flujo de trabajo AEM para convertir sus documentos o archivos en cualquier formato a formato de PDF/A.
+* **Convertir en PDF/A: paso de flujo de trabajo de Experience Manager** - PDF/A es un formato de archivo para la preservación a largo plazo del contenido del documento, todas las fuentes están incrustadas y el archivo no está comprimido. Ahora, puede utilizar el paso Convertir en PDF/A y Flujo de trabajo AEM para convertir sus documentos o archivos en cualquier formato a formato de PDF/A.
 
 ### Experience Manager as a Cloud Service Foundation
 
@@ -325,13 +324,13 @@ New videos, tutorials, or courses published for Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 |July 2022|[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)|Video |Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.|Control Panel|
 |July 2022|[Monitor through-puts and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)|Video |Learn how to monitor delivery through-puts and transactional message latencies of your campaign instance.|Control Panel|
-|July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows’ temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
+|July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
 |July 2022|[Develop and customize data models in Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en)|Video (Skill Builder events) |Join this session with our Campaign trainer to learn how to develop a data schema inside a data model within Campaign Classic.|Campaign Classic v7|
 |July 2022|[Deliverability best practices and strategies that drive results](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html)|Video |Learn how to minimize the countless hours that go into the planning and production of your email campaigns.|Campaign Classic v7|
 |July 2022|[Level up Your Cross-channel Marketing with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en)|Video |Watch this deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe Campaign Classic customers.|Campaign Classic v7|
 |July 2022|[Time saving tips from a pro!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en)|Video |Start your new year with tips and tricks from an Adobe Campaign pro! Learn to be more efficient with creating and launching campaigns and how to deliver more meaningful and tailored cross-channel experiences.|Campaign Classic v7|
 |July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Learn about Adobe Campaign integrations with a marketing ecosystem. Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Don't let disparate systems impede a complete understanding of a customer and disrupt cross-channel strategies.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft® to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
+|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft&reg; to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
 |July 2022|[Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en)|Video |Hear Adobe Campaign customers share how they overcome challenges, adjust to the new normal, become more efficient with managing campaigns, and drive meaningful value through Adobe Campaign.|Campaign Classic v7|
 |July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates and understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
 |July 2022|[Keynote - Customer Journey trends and innovation across B2B & B2C](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en)|Video |Learn about the latest trends in Customer Journey Management across B2B and B2C. See the most recent innovations in key journey applications and the broader Adobe Experience Cloud and Platform.|Marketo, Campaign Classic v7, Campaign v8|
@@ -374,7 +373,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
-Utilice Experience Platform para orquestar el recorrido de un cliente a escala a través de canales de experiencia, anticipando de forma inteligente las necesidades de cada individuo en tiempo real.
+Utilice el Experience Platform para orquestar el recorrido de un cliente a escala en todos los canales de experiencia, anticipando de forma inteligente las necesidades de cada individuo en tiempo real.
 
 ### Últimas versiones de productos de [!DNL Journey Orchestration]
 
@@ -490,7 +489,7 @@ Nuevos tutoriales y cursos publicados para Adobe Document Cloud.
 | Agosto de 2022 | [Nueva experiencia de espacio de trabajo](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html) | Vídeo | Obtenga información sobre la nueva experiencia de espacio de trabajo que puede activar en Acrobat, lo que le permite desplazarse sin problemas entre herramientas y archivos. | Adobe Acrobat |
 | Agosto de 2022 | [Configurar pagos en línea](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=en) | Vídeo | Aprenda a configurar y aceptar pagos en línea en sus documentos. | Acrobat Sign |
 | Agosto de 2022 | [Firmar con un sello](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | Vídeo | Aprenda a utilizar sellos en un flujo de trabajo de firma para marcar un documento aprobado o completado. | Acrobat Sign |
-| Agosto de 2022 | [Obtención de una firma en persona](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en) | Vídeo | Obtenga información sobre cómo obtener la firma de otro en persona mediante el uso de [aplicación móvil de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en). | Acrobat Sign |
+| Agosto de 2022 | [Obtención de una firma en persona](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en) | Vídeo | Obtenga información sobre cómo obtener la firma de otra persona en persona mediante el uso de [aplicación móvil de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en). | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
