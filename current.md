@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '4152'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 >
 >Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html). Vuelva con frecuencia para mantenerse al tanto de lo que está pasando en Experience League.
 
-Última actualización: **12 de agosto de 2022**
+Última actualización: **23 de agosto de 2022**
 
 * Eventos de [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (actualizado **23 de agosto**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -208,7 +208,7 @@ _Mejoras en las herramientas del SDK de Dispatcher de Experience Manager as a Cl
 
 _Nueva función disponible en el canal de prelanzamiento_
 
-* Experience Manager as a Cloud Service ahora está integrado con Unified Shell para mejorar la experiencia del usuario y unificarla con todas las demás aplicaciones de Experience Cloud. Consulte [Experience Manager as a Cloud Service con Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=es).
+* Experience Manager as a Cloud Service ahora está integrado con el shell unificado para mejorar la experiencia del usuario y unificarla con todas las demás aplicaciones de Experience Cloud. Consulte [Experience Manager as a Cloud Service con Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=es).
 
 ### [!DNL Cloud Manager]
 
@@ -412,6 +412,8 @@ Adobe [!DNL Workfront] es una aplicación de administración de trabajo unificad
 
 Nuevo curso y tutoriales de Workfront en Experience League.
 
+**Actualización del 23 de agosto:** La traducción al Experience League de todos los tutoriales y la documentación del producto de Workfront estará disponible próximamente.
+
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
 | Agosto de 2022 | [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es) | Página de inicio del tutorial | Visite la nueva página de inicio para tutoriales de Workfront en Experience League. |
@@ -419,7 +421,7 @@ Nuevo curso y tutoriales de Workfront en Experience League.
 | Agosto de 2022 | [Mejore los conocimientos de configuración del sistema para administradores de Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Curso | Obtenga más información acerca de la configuración del sistema para mejorar la experiencia de los usuarios, incluida la organización de estos, los formularios personalizados, los procesos y los hitos de aprobación y las plantillas de diseño. |
 | Agosto de 2022 | [Introducción a Workfront para planificadores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Curso | Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples. |
 | Agosto de 2022 | [Administración y cierre de un proyecto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Curso | Ahora que ha aprendido a crear y planificar proyectos, podemos empezar a administrarlos y cerrarlos. |
-| Agosto de 2022 | [Más información sobre la administración del trabajo como planificador ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Curso | Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar Workfront al máximo. |
+| Agosto de 2022 | [Más información sobre la administración del trabajo como planificador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Curso | Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar Workfront al máximo. |
 | Agosto de 2022 | [Introducción a Workfront para trabajadores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Curso | Este curso es para usuarios con una licencia de trabajo en Adobe Workfront que reciban trabajo o solicitudes y colaboren con equipos en proyectos y documentos. |
 | Agosto de 2022 | [Adobe Workfront para colaboradores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Curso | Aprenda a utilizar una licencia de revisión o solicitud para solicitar, revisar y colaborar fácilmente en tareas, documentos y pruebas en la nueva experiencia de Workfront. |
 | Agosto de 2022 | [Creación y administración de formularios personalizados](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Curso | Capture la información única de su organización creando campos personalizados en su sistema. Aprenda a crear, compartir y adjuntar formularios personalizados en Workfront. |
