@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
+source-wordcount: '6560'
 ht-degree: 40%
 
 ---
@@ -455,9 +455,8 @@ Consulte la página [[!DNL Workfront] versiones del producto](https://experience
 Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Nuevas funciones en  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nuevas funciones en  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Última actualización: **12 de septiembre de 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Empaquetado y colocación] | (Versión del 12 de septiembre) Ya hay disponibles controles de ritmo independientes para el ritmo de vuelo y el ritmo intradía. Anteriormente, una sola estrategia controlaba ambas. La configuración de los paquetes y las ubicaciones existentes se asignó de la siguiente manera:<ul><li>Heredado **[!UICONTROL Estrategia de relleno de ritmo]**=*[!UICONTROL Even]* — Ahora configurado como **[!UICONTROL Ritmo de vuelo]**=*[!UICONTROL Even]* y **[!UICONTROL Espaciado intradía]**=*[!UICONTROL Even]*</li><li>Heredado **[!UICONTROL Estrategia de relleno de ritmo]**=*[!UICONTROL Ligeramente por delante]* — Ahora configurado como **[!UICONTROL Ritmo de vuelo]**=*[!UICONTROL Ligeramente por delante]* y **[!UICONTROL Espaciado intradía]**=*[!UICONTROL Even]*</li><li>Heredado **[!UICONTROL Estrategia de relleno de ritmo]**=*[!UICONTROL Frontload]* — Ahora configurado como **[!UICONTROL Ritmo de vuelo]**=*[!UICONTROL Frontload]* y **[!UICONTROL Espaciado intradía]**=*[!UICONTROL ASAP]*</li><li>Heredado **[!UICONTROL Estrategia de relleno de ritmo]**=*[!UICONTROL Carga frontal agresiva]* — Ahora configurado como **[!UICONTROL Ritmo de vuelo]**=*[!UICONTROL Carga frontal agresiva]* y **[!UICONTROL Espaciado intradía]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
