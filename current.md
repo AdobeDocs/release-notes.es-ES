@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
 workflow-type: tm+mt
-source-wordcount: '5353'
-ht-degree: 42%
+source-wordcount: '6445'
+ht-degree: 40%
 
 ---
 
@@ -163,13 +163,13 @@ Para obtener recursos de ayuda, consulte [Documentación y tutoriales de Audienc
 
 Funciones nuevas, correcciones y actualizaciones en Experience Manager. Adobe recomienda a los clientes con implementaciones On-Premise implementar los parches más recientes para garantizar más estabilidad, seguridad y rendimiento.
 
-Consulte [Notas de la versión actual de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
-Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=es) para estar al día respecto a la información de la versión.
+Adobe recomienda visitar la página [Actualizaciones de versión y hoja de ruta de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=es) para mantenerse al día respecto a la información de la versión.
 
 ### Vídeos de actualización de productos
 
-Observe el [Vídeo de información general de la versión de agosto](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=es) para obtener un resumen de las funciones agregadas en la versión 2022.8.0 (agosto de 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+Observe el [Vídeo de información general sobre la versión de agosto de 2022](https://video.tv.adobe.com/v/345409/?quality=12) para obtener un resumen de las funciones agregadas en la versión 2022.8.0 (agosto de 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [Vídeo de información general sobre la versión de julio de 2022](https://video.tv.adobe.com/v/345409/?quality=12)
 * [Vídeo de información general sobre la versión de junio de 2022](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -181,13 +181,87 @@ Observe el [Vídeo de información general de la versión de agosto](https://exp
 * [Vídeo de información general sobre la versión de octubre de 2021](https://video.tv.adobe.com/v/338253)
 * [Vídeo de información general sobre la versión de septiembre de 2021](https://video.tv.adobe.com/v/337381)
 
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
+
+_Nuevas funciones_
+
+* Al compartir recursos digitales como un vínculo, los usuarios pueden copiar la URL en el portapapeles de inmediato. La mejora permite compartir recursos de una forma más rápida y práctica. Esta funcionalidad permite un uso compartido de recursos más rápido y conveniente.
+* Al cargar archivos TXT, los microservicios de recursos generan automáticamente una miniatura. La miniatura en PNG es una representación del archivo TXT que ayuda a los usuarios a identificar el contenido o los archivos en cierta medida, sin necesidad de abrir los archivos. Esta funcionalidad no requiere ninguna configuración y funciona de forma predeterminada.
+
+_Nueva función disponible en el canal de prelanzamiento_
+
+* Los usuarios ahora pueden ordenar los recursos mostrados en los resultados de búsqueda en las vistas Columna y Tarjeta. El orden funciona en las columnas Nombre, Creada, Modificada o Ninguna.
+
+### Experience Manager [!DNL Forms] como [!DNL Cloud Service]
+
+_Nuevas funciones_
+
+* AEM proyecto de tipo de archivo para Forms as a Cloud Service ahora incluye [modelos de datos de formulario para Microsoft® Dynamics y Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* Documento de registro basado en Acrobat: Compatibilidad as a Cloud Service con Experience Manager Forms [PDF de formularios de Adobe Acrobat (PDF de Acrobat)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) como plantilla para Document of Record además de la plantilla de formulario basada en XFA.
+* Conector del almacén de datos de Microsoft® Azure: Ahora puede [conectar el Modelo de datos de formulario al almacenamiento de Microsoft® Azure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). Permite recuperar y almacenar datos de formulario adaptables en el almacenamiento de Microsoft® Azure como BLOB.
+
+_Funciones beta de Forms_
+
+* **Conector de almacenamiento unificado** - Utilice el conector de almacenamiento unificado para externalizar los datos en proceso en repositorios administrados por el cliente. Por ejemplo, puede realizar lo siguiente
+   * Habilite la funcionalidad de guardar y reanudar de Forms Portal y almacene borradores de formularios adaptables en un repositorio de datos administrado por el cliente.
+   * Almacene los datos de flujos de trabajo de Experience Manager en proceso (datos de variables de flujo de trabajo de Experience Manager) que contienen datos personales confidenciales (SPD) en un repositorio administrado por el cliente.
+* **Experience Manager Forms as a Cloud Service, comunicaciones** - [API de comunicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) le ayuda a combinar plantillas XDP y datos XML para generar documentos de impresión en distintos formatos. El servicio le permite generar documentos en modo sincrónico. Las API le permiten crear aplicaciones que le posibilitan lo siguiente:
+   * Generar documentos rellenando archivos de plantilla con datos XML.
+   * Generar formularios de salida en varios formatos, incluidas secuencias de impresión PDF no interactivas.
+   * Genere archivos PDF de impresión a partir de un formulario XFA PDF y un formulario de Adobe Acrobat.
+Puede escribir a [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) para inscribirse en el programa beta.
+
+_Nuevas funciones disponibles en el canal de prelanzamiento de_
+
+* **Uso de funciones de Adobe Sign en un formulario adaptable** : Adobe Sign para los niveles de servicio empresarial y empresarial puede, opcionalmente, ampliar las funciones de los destinatarios del Acuerdo más allá del Firmante para que coincidan mejor con sus requisitos de flujo de trabajo. Ahora puede [habilitar a cada destinatario del acuerdo para configurar su función en un formulario adaptable](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), con firmante como la función predeterminada.
+* **Analytics para Forms adaptable** : Ahora puede capturar y rastrear el comportamiento del usuario final a través de Adobe Analytics for Adaptive Forms para recopilar perspectivas del usuario final. Ayuda a tomar decisiones informadas basadas en datos para mejorar la experiencia del usuario final.
+* **Conexión sencilla de Experience Manager Forms con Microsoft® Dynamics y Salesforce.com** - El servicio proporciona la configuración de fuentes de datos y modelos de datos listos para usar para Microsoft® Dynamics y [Salesforce.com](https://www.salesforce.com/es/?bc=DF). Esta habilidad lo hace [los desarrolladores pueden configurar los servicios en la nube de Microsoft® Dynamics 365 y Salesforce de forma adaptativa de forma más rápida y sencilla](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Manager Screens as a Cloud Service
+
+_Nuevas funciones_
+
+* Las pantallas as a Cloud Service ahora admiten la supervisión básica de la reproducción. El reproductor ahora informa de varias métricas de reproducción con cada ping (el valor predeterminado es 30 segundos). En función de las métricas, puede detectar varios casos extremos (experiencia atascada, pantalla en blanco, problema de programación, etc.). Esta función permite que el equipo supervise de forma remota si un reproductor está reproduciendo el contenido correctamente. También mejora la reacción ante pantallas en blanco o experiencias rotas en el campo y disminuye el riesgo de mostrar una experiencia rota al usuario final.
+Consulte [Monitorización de reproducción básica](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) para obtener más información.
+* Compatibilidad con miniaturas para vídeos en ahora se admite en Screens as a Cloud Service. Un autor de contenido puede definir una miniatura para los vídeos, de modo que la imagen se utilice como marcador de posición. Pueden probar correctamente la reproducción y la segmentación del contenido, mientras el equipo correspondiente finaliza el vídeo real. También se puede utilizar la imagen en caso de que falle la reproducción del vídeo.
+Consulte [Compatibilidad con miniaturas para vídeos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) para obtener más información.
+
+### [!DNL Cloud Manager]
+
+_Nuevas funciones_
+
+* La versión del AEM proyecto de tipo de archivo utilizado por Cloud Manager ahora se actualiza a la versión 30.
+* Ahora se actualizan las tarjetas de programa de la página de aterrizaje de Cloud Manager y de la experiencia asociada.
+* El Registro de pasos de calidad del código ahora incluye información detallada del registro en el proceso de digitalización de OakPal.
+* Las opciones del menú de la página Actividad ahora incluyen la opción Descargar registro para las ejecuciones completadas del Generador de códigos. Al seleccionar esta opción, se descarga el registro del paso de compilación.
+* Al hacer clic directamente en la tarjeta de programa, ahora se desplaza a la página Información general de Cloud Manager .
+* Los clientes Cloud Service ahora pueden ver los informes de SLA (Service Level Agreement) en Cloud Manager. Esta función está disponible de forma progresiva en los próximos meses.
+Consulte [Informes de SLA](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) para obtener más información.
+* Se ha cambiado el tipo y la gravedad de las reglas de calidad IndexType e IndexDamAssetLucene . Estos son ahora los dos errores de gravedad del bloqueador.
+* Se han introducido nuevas reglas de calidad de índices Oak para cubrir configuraciones asincrónicas y Tika.
+* Aumente el número máximo de certificados SSL por programa a 50.
+* Capacidad de autoservicio para permitir a los usuarios crear y administrar varios repositorios mediante la interfaz de usuario de Cloud Manager.
+* SonarQube leía innecesariamente los datos del historial de Git. En bases de código grandes, esto podría provocar una penalización innecesaria del rendimiento de la compilación.
+* Ahora hay una API disponible para invalidar la caché de dependencias de Maven por canalización.
+* La versión del AEM proyecto de tipo de archivo utilizado por Cloud Manager ahora se actualiza a la versión 29.
+
+### Comunidad
+
+* Una lista completa de [el contenido más reciente del Experience Manager en el Experience League se puede encontrar aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751?profile.language=es#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) Las comunidades son el latido que conecta, atrae y empodera a nuestros usuarios para crear experiencias digitales que cambien el juego para sus clientes.
+Para revisar una lista de todos los asesores de la comunidad, consulte esta [blog de Adobe](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* Cómo enviar una nueva solicitud de función o una sugerencia para el Experience Manager
+   * El nuevo proceso para enviar solicitudes de funciones de Experience Manager ya está activo. [Crear una idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas?profile.language=es). |
+   * Consulte [detalles aquí](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=es).
+   * [Directrices para enviar una nueva idea de Experience Manager](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+
 ### Nuevos cursos y tutoriales para Experience Manager {#tutorials-aem}
 
 Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción | Aplicaciones |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Septiembre de 2022 | [Actualización del estado de la versión 2022.8.0 de AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | Vídeo | Obtenga información del equipo de productos de AEM y obtenga información sobre las funciones y las innovaciones de la última versión de Adobe Experience Manager [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites], Commerce Integration Framework, [!DNL Forms]y [!DNL Cloud Manager]. | AEM |
+| Septiembre de 2022 | [Actualización del estado de la versión 2022.8.0 de AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=es) | Vídeo | Obtenga información del equipo de productos de AEM y obtenga información sobre las funciones y las innovaciones de la última versión de Adobe Experience Manager [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites], Commerce Integration Framework, [!DNL Forms]y [!DNL Cloud Manager]. | AEM |
 | Septiembre de 2022 | [Entrega de imágenes optimizadas para web](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | Vídeo | Obtenga información sobre cómo habilitar la entrega de imágenes optimizada para la web en AEM sitios as a Cloud Service mediante AEM componentes principales. | AEM Sites |
 | Septiembre de 2022 | [Integración con Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | Vídeo | Invoque sus flujos de Power Automate en un envío de formulario adaptable. Conozca los pasos para configurar e integrar Forms CS con Microsoft® power automatizar. Analice los datos de formulario enviados y envíe el documento de trabajo como un archivo adjunto de correo electrónico. | AEM Forms CS |
 | Septiembre de 2022 | [Serie de eventos del Foro de Gestión de Contenido de Adobe - 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en) | Vídeo | Vea la dirección de bienvenida y obtenga una descripción general AEM, entregada por Elliot Sedegah. También cubre el desbloqueo del poder de la velocidad de contenido, y mucho más. | AEM CS |
@@ -201,7 +275,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 Todas las notas de la versión de Experience Manager se mantienen en las páginas siguientes:
 
-* [Información sobre la versión de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Información sobre la versión de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=es)
 * [Notas de la versión de Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=es)
 * [Notas de la versión del servicio de conversión automatizada de formularios](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
 * [Notas de la versión de Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=es)
@@ -220,7 +294,7 @@ Todas las notas de la versión de Experience Manager se mantienen en las página
 * [Formación y asistencia de Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es)
-* [Formación y asistencia de Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)html
+* [Formación y asistencia de Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)
 * [Versiones anteriores de la documentación de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Inicio de la Ayuda de Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=es)
 * [Documentación de Experience Manager: Actualizaciones recientes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=es#aem-as-a-cloud-service)
