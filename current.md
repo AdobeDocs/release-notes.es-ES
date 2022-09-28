@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
 workflow-type: tm+mt
 source-wordcount: '6525'
 ht-degree: 95%
@@ -377,7 +377,7 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe [!DNL Journey Optimizer]
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Septiembre de 2022 | [Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Vídeo | Obtenga información sobre las funcionalidades de gestión de decisiones de Adobe Journey Optimizer. Este curso está diseñado para los especialistas en marketing que deseen aumentar los ingresos, la experiencia del cliente y la fidelidad mediante el envío de las mejores ofertas a sus clientes |
+| Septiembre de 2022 | [Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Curso | Obtenga información sobre las funcionalidades de gestión de decisiones de Adobe Journey Optimizer. Este curso está diseñado para los especialistas en marketing que deseen aumentar los ingresos, la experiencia del cliente y la fidelidad mediante el envío de las mejores ofertas a sus clientes |
 | Septiembre de 2022 | [Creación de una campaña](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=es) | Vídeo | Obtenga información sobre cómo enviar contenido de una sola vez a una audiencia específica ejecutando acciones inmediatamente o según una programación especificada. |
 
 {style=&quot;table-layout:auto&quot;}
