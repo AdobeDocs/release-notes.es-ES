@@ -6,7 +6,7 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: de329edd996f1afa4bdd3633817b3cd3cd631a48
+source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
 workflow-type: tm+mt
 source-wordcount: '5293'
 ht-degree: 76%
@@ -92,7 +92,7 @@ Los [componentes de la IU central](https://experienceleague.adobe.com/docs/core-
 
 Información sobre la versión más reciente y la nueva documentación de [!DNL Experience Platform] y el [!UICONTROL SDK móvil]:
 
-Última versión: **28 de septiembre de 2022**
+Última versión: **26 de octubre de 2022**
 
 * [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es)
 
