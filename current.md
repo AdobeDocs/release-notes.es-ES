@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5293'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 
 Esta página proporciona acceso a las páginas de notas de la versión del producto de Experience Cloud y a los tutoriales, cursos y eventos más recientes sobre Experience League.
 
-Mes de lanzamiento: **Noviembre de 2022**
+Mes de lanzamiento: **noviembre de 2022**
 
 Última actualización: **26 de octubre de 2022**
 
@@ -57,20 +57,20 @@ Mes de lanzamiento: **Noviembre de 2022**
 
 Los eventos de Experience League son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-Los próximos eventos incluyen:
+Los próximos eventos incluyen los siguientes:
 
-* **[!DNL Journey Optimizer]:** 25 de octubre - _Ofrezca la oferta adecuada en el momento adecuado con la administración de decisiones_
-* **[!DNL Workfront]:** 25 de octubre - _Pregunten a los expertos: Seguimiento del seminario web sobre diseño de procesos y flujos de trabajo_
-* **[!DNL Analytics]:** 3 de noviembre - _Consejos y trucos para los campeones de Adobe Analytics_
-* **[!DNL Workfront]:** 4 de noviembre - _Chat del administrador de Adobe Workfront: Marketing y creativos_
-* **[!DNL Experience Manager]:** 9 de noviembre - _Adobe Developers Live: Sin encabezado_
-* **[!DNL Workfront]:** 9 de noviembre - _Miércoles de Workfront: conversación en la comunidad_
+* **[!DNL Journey Optimizer]:** 25 de octubre. _Entregue la oferta correcta en el momento adecuado con gestión de decisiones_
+* **[!DNL Workfront]:** 25 de octubre. _Pregunte a los expertos: continuación del seminario web sobre diseño de procesos y flujos de trabajo_
+* **[!DNL Analytics]:** 3 de noviembre. _Consejos y trucos para los Campeones de Adobe Analytics_
+* **[!DNL Workfront]:** 4 de noviembre. _Chat del administrador de Adobe Workfront: marketing y creativos_
+* **[!DNL Experience Manager]:** 9 de noviembre. _Adobe Developers Live: sin encabezado_
+* **[!DNL Workfront]:** 9 de noviembre. _Miércoles de Workfront: chat de la comunidad_
 
-Para mantenerse actualizado, consulte [Eventos en el Experience League](https://experienceleague.adobe.com/events/?lang=es) para eventos futuros y anteriores.
+Para mantenerse al día, consulte [Eventos en Experience League](https://experienceleague.adobe.com/events/?lang=es) para ver eventos futuros y pasados.
 
 ## ![Icono](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com](https://status.adobe.com/es).
+[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es).
 
 Para obtener la información más reciente sobre la versión, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=es#status) del Estado del sistema de Adobe.
 
@@ -108,7 +108,7 @@ Nuevos vídeos, tutoriales o cursos publicados para Adobe Experience Platform.
 
 ### SDK de [!DNL Adobe Mobile]
 
-Actualizado: **19 de octubre de 2022** - Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para los SDK de Adobe Experience Platform Mobile.
+Actualizado: **19 de octubre de 2022**. Consulte [Notas de la versión y registros de cambios](https://aep-sdks.gitbook.io/docs/release-notes) para conocer los SDK móviles de Adobe Experience Platform.
 
 ## ![Icono](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -116,7 +116,7 @@ Versión de noviembre: **26 de octubre de 2022**
 
 >[!NOTE]
 >
->Las notas de la versión de noviembre estarán disponibles en **26 de octubre de 2022**.
+>Las notas de la versión de noviembre estarán disponibles el **26 de octubre de 2022**.
 
 * [Notas de la versión](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=es) de Adobe Analytics
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/analytics.html?lang=es) de Adobe Analytics
@@ -133,10 +133,10 @@ Nuevos tutoriales, artículos y cursos de vídeo publicados para Adobe Analytics
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Noviembre de 2022 | [¿Qué es Analytics?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | Artículo | Obtenga información sobre los aspectos básicos de Analytics antes de aprender a usar Adobe Analytics. |
-| Noviembre de 2022 | [Crear vistas de detalles personalizadas para los tableros](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | Vídeo | Aprenda a personalizar las vistas de detalles, incluido el texto de los paneles de Adobe Analytics, para refinar la historia que desea contar a los interesados a través de proyectos de informes de valoración móviles. |
-| Noviembre de 2022 | [Resumen de métricas clave visualización](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | Vídeo | Obtenga información sobre la visualización de resumen de métricas clave en Analysis Workspace, lo que le permite ver las tendencias de una métrica importante dentro de un solo intervalo de tiempo. También le permite comparar el rendimiento de las métricas en dos intervalos de tiempo. |
-| Octubre de 2022 | [Gráficos combinados en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | Vídeo | Obtenga información sobre la visualización de gráficos combinados en Analysis Workspace. |
+| Noviembre de 2022 | [¿Qué es el análisis?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=es) | Artículo | Obtenga información acerca de los aspectos básicos del análisis antes de aprender a usar Adobe Analytics. |
+| Noviembre de 2022 | [Creación de vistas de detalles personalizadas para los paneles](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=es) | Vídeo | Aprenda a personalizar las vistas de detalles, incluido el texto de los paneles de Adobe Analytics, para refinar la historia que desea contar a las partes interesadas a través de proyectos de cuadros de resultados móviles. |
+| Noviembre de 2022 | [Visualización del resumen de métricas clave](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=es) | Vídeo | Obtenga información acerca de la visualización del resumen de métricas clave en Analysis Workspace, lo que le permite ver las tendencias de una métrica importante dentro de un solo periodo de tiempo. También le permite comparar el rendimiento de las métricas en dos intervalos de tiempo. |
+| Octubre de 2022 | [Gráficos combinados en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html?lang=es) | Vídeo | Obtenga información sobre la visualización de gráficos combinados en Analysis Workspace. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -146,7 +146,7 @@ Versión siguiente: **26 de octubre de 2022**
 
 >[!NOTE]
 >
->Las notas de la versión de noviembre estarán disponibles en **26 de octubre de 2022**.
+>Las notas de la versión de noviembre estarán disponibles el **26 de octubre de 2022**.
 
 * [Notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es) de Customer Journey Analytics
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=es) de Customer Journey Analytics
@@ -181,8 +181,8 @@ Funciones nuevas, correcciones y actualizaciones en Experience Manager. Adobe re
 Adobe recomienda visitar los siguientes recursos para mantenerse al día con la información de la versión:
 
 * [Actualizaciones y hojas de ruta de versiones de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=es): obtenga información acerca de la hoja de ruta de las versiones de Experience Manager y las actualizaciones de versiones anteriores y de la documentación.
-* [Actualizaciones de la versión as a Cloud Service del Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=es) - Vea los vídeos de funciones de las versiones actuales y anteriores de [!DNL Experience Manager as a Cloud Service].
-* [Notas de la versión actual de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) - Lea las últimas notas de la versión de [!DNL Experience Manager as a Cloud Service].
+* [Actualizaciones de la versión de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=es): vea los vídeos de funcionalidades de las versiones actuales y anteriores de [!DNL Experience Manager as a Cloud Service].
+* [Notas de la versión actuales de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es): lea las últimas notas de la versión de [!DNL Experience Manager as a Cloud Service].
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
@@ -204,13 +204,13 @@ _Nuevas funciones disponibles en [!DNL Sites] el canal del lanzamiento previo_
 
 * La [Consola de fragmento de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=es) proporciona a los usuarios una opción para mostrar el número total de copias de idioma asociadas a un fragmento de contenido. Se ha proporcionado un acceso de un clic para ver todas las copias de idioma. Los usuarios también pueden filtrar la vista de tabla según la configuración regional de su interés.
 
-### Experience Manager [!DNL Assets] como [!DNL Cloud Service]
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
 _Nuevas funciones de[!DNL Assets]_
 
 * Ahora puede configurar Adobe Experience Manager Assets en [restringir el tipo de recursos que los usuarios pueden cargar en función del tipo MIME](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=es).
 
-### Experience Manager [!DNL Forms] como [!DNL Cloud Service]
+### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
 
 _Nuevas funciones_
 
@@ -244,11 +244,11 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 | Publicadas | Nombre | Tipo | Descripción | Aplicaciones |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Noviembre de 2022 | [Incluir paquetes de terceros en el proyecto AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Vídeo | Aprenda a incluir el paquete OSGi de terceros en su proyecto AEM. | AEM Forms |
-| Noviembre de 2022 | [Generación de un documento de PDF con fragmentos mediante una secuencia de comandos ECMA](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Vídeo | Aprenda a utilizar el servicio de salida para generar un archivo pdf utilizando fragmentos XDP. | AEM Forms |
-| Noviembre de 2022 | [Generación de un documento de PDF mediante fragmentos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | Vídeo | Aprenda a utilizar el servicio de salida para generar archivos de PDF mediante fragmentos SDP. | AEM Forms |
-| Noviembre de 2022 | [Extraer datos enlazados y guardarlos en una variable de cadena](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | Vídeo | Aprenda a incluir los datos enviados en el cuerpo del correo electrónico. | AEM Forms |
-| Noviembre de 2022 | [Integración de componentes principales AEM-CIF y Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | Vídeo | Obtenga información sobre cómo enviar datos de evento de tienda desde una página de producto procesada AEM al Experience Platform mediante el conector del CIF - Experience Platform. | AEM CS |
+| Noviembre de 2022 | [Inclusión de paquetes de terceros en un proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=es) | Vídeo | Aprenda a incluir el paquete OSGi de terceros en su proyecto de AEM. | AEM Forms |
+| Noviembre de 2022 | [Generación de un documento de PDF con fragmentos mediante un script ECMA](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=es) | Vídeo | Aprenda a utilizar el servicio de salida para generar un archivo PDF utilizando fragmentos XDP. | AEM Forms |
+| Noviembre de 2022 | [Generación de un documento PDF mediante fragmentos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html?lang=es) | Vídeo | Aprenda a utilizar el servicio de salida para generar archivos PDF mediante fragmentos SDP. | AEM Forms |
+| Noviembre de 2022 | [Extracción de datos vinculados y guardado en una variable de cadena](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html?lang=es) | Vídeo | Aprenda a incluir los datos enviados en el cuerpo del correo electrónico. | AEM Forms |
+| Noviembre de 2022 | [Integración de componentes principales de AEM-CIF y Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=es) | Vídeo | Obtenga información sobre cómo enviar datos de evento de tienda desde una página de producto procesada por AEM a Experience Platform mediante el conector de CIF-Experience Platform. | AEM CS |
 | Octubre de 2022 | [Propiedad de carga de elementos en AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html?lang=es) | Vídeo | Aprenda a configurar y rellenar la lista desplegable con la propiedad de ruta de carga del elemento. | AEM Forms CS |
 | Octubre de 2022 | [Habilitación de la canalización front-end para el Arquetipo de proyecto de AEM estándar](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html?lang=es) | Vídeo | Obtenga información sobre cómo habilitar el proyecto AEM WKND Sites mediante el Arquetipo de proyecto de AEM para implementar recursos front-end como CSS, JavaScript, fuentes e iconos, mediante una canalización front-end para un ciclo más rápido de desarrollo a implementación. | AEM Sites |
 | Octubre de 2022 | [Aplicación Next.js](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html?lang=es) | Vídeo | Obtenga información sobre cómo consultar contenido mediante las API de GraphQL de AEM con consultas persistentes. El cliente de AEM sin encabezado para JavaScript se utiliza para ejecutar las consultas persistentes de GraphQL que alimentan la aplicación. | AEM Sites |
@@ -263,8 +263,8 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 
 Todas las notas de la versión de Experience Manager se mantienen en las páginas siguientes:
 
-* [Actualizaciones del estado de la versión de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [Notas de la versión actuales de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Actualizaciones del estado de la versión de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=es)
+* [Notas de la versión actuales de Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es)
 * [Información sobre la versión de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=es)
 * [Notas de la versión de Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=es)
 * [Notas de la versión del servicio de conversión automatizada de formularios](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=es)
@@ -285,7 +285,7 @@ Todas las notas de la versión de Experience Manager se mantienen en las página
 * [Formación y asistencia de Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es)
 * [Formación y asistencia de Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)
-* [Versiones anteriores de la documentación de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Versiones anteriores de la documentación de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es#previous-updates)
 * [Inicio de la Ayuda de Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=es)
 * [Documentación de Experience Manager: Actualizaciones recientes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=es#aem-as-a-cloud-service)
 
@@ -315,7 +315,7 @@ Nuevas funciones y contenido disponibles de [!DNL Adobe Commerce].
 
 ### Notas de la versión para [!DNL Adobe Commerce] {#release-notes-commerce}
 
-* Consulte [Notas de la versión para Adobe Commerce y Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) para mantenerse actualizado.
+* Consulte las [Notas de la versión para Adobe Commerce y Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es) para mantenerse al día.
 
 >[!NOTE]
 >
@@ -325,9 +325,9 @@ Nuevas funciones y contenido disponibles de [!DNL Adobe Commerce].
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Noviembre de 2022 | [Guía de seguridad y cumplimiento](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html) | Documentación del producto | Explore información detallada sobre las funciones promocionales y de comercialización de Adobe Commerce, incluidos eventos y descuentos específicos. |
-| Octubre de 2022 | [Base de conocimientos de asistencia de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=en) | Documentación de soporte | Abarca la resolución de problemas y las prácticas recomendadas, los anuncios de los hosts, las respuestas a preguntas frecuentes y destaca escenarios específicos que no se han mencionado (por ningún motivo) en la documentación oficial. |
-| Octubre de 2022 | [Información general sobre la instalación local](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | Documentación del producto | Obtenga información acerca del proceso de instalación para implementaciones locales de Adobe Commerce y Magento Open Source. |
+| Noviembre de 2022 | [Guía de seguridad y cumplimiento](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html?lang=es) | Documentación del producto | Explore información detallada acerca de las funciones promocionales y de comercialización de Adobe Commerce, incluidos los descuentos y eventos segmentados. |
+| Octubre de 2022 | [Base de conocimiento de asistencia de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=es) | Documentación de asistencia | Abarca la resolución de problemas y las prácticas recomendadas, contiene anuncios, responde a preguntas frecuentes y destaca escenarios específicos que no se han mencionado (por algún motivo) en la documentación oficial. |
+| Octubre de 2022 | [Información general sobre la instalación local](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=es) | Documentación del producto | Obtenga información acerca del proceso de instalación para implementaciones locales de Adobe Commerce y Magento Open Source. |
 | Octubre de 2022 | [Infraestructura en la nube de Commerce y Magento](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html?lang=es) | Documentación del producto | Obtenga información acerca de todos los comandos, argumentos y opciones disponibles para la herramienta Línea de comandos de Adobe Commerce y Magento en la nube. |
 | Octubre de 2022 | [Servicio de catálogo para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html?lang=es) | Documentación del producto | Obtenga información sobre cómo instalar y probar el servicio de catálogo. |
 | Octubre de 2022 | [Guía de promociones y comercialización de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html?lang=es) | Documentación del producto | Obtenga información acerca de las funciones promocionales y de comercialización, incluidos los descuentos y eventos segmentados. |
@@ -338,7 +338,7 @@ Nuevas funciones y contenido disponibles de [!DNL Adobe Commerce].
 
 Última actualización: **19 de octubre de 2022**
 
-Próxima versión planificada: **Del 25 al 27 de octubre**
+Próxima versión planificada: **25 y 27 de octubre**
 * Para obtener información previa al lanzamiento, consulte [Versión preliminar de Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=es)
 * Para obtener información actual, consulte [Notas de la versión de Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=es)
 
@@ -357,16 +357,16 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe Campaign.
 | Publicadas | Nombre | Tipo | Descripción | Aplicaciones |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Octubre de 2022 | [Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=es) | Vídeo | Aprenda a utilizar campos enumerados y valores sugeridos para crear menús desplegables prácticos en la interfaz del generador de segmentos. | Campaign v8 |
-| Octubre de 2022 | [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Curso | Obtenga información sobre cómo conectar la instancia de Campaign a su proveedor SMTP y cómo analizar y solucionar problemas de la configuración. | Campaign v8 |
+| Octubre de 2022 | [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms&amp;lang=es) | Curso | Obtenga información sobre cómo conectar la instancia de Campaign a su proveedor SMTP y cómo analizar y solucionar problemas de la configuración. | Campaign v8 |
 | Octubre de 2022 | [Delegación completa de subdominios](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=es) | Vídeo actualizado | Aprenda a delegar completamente un subdominio a Adobe Campaign. | Panel de control de Campaign |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Recursos de ayuda de Campaign
 
-* Adobe Campaign v8: [Documentación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
-* Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
-* Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
+* Adobe Campaign v8: [Documentación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=es) - [Guías de implementación](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=es)
+* Adobe Campaign Standard: [Documentación de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es) - [Planificación de versiones](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=es)
+* Adobe Campaign Classic: [Documentación de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es) - [Vídeos de procedimientos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es) - [Actualizaciones más recientes de la documentación](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=es)
 * Panel de control de Adobe Campaign: [Documentación](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=es)  - Vídeos explicativos para [Vídeos explicativos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=es)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -383,16 +383,16 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe [!DNL Journey Optimizer]
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | --------- | ---------- |
-| Noviembre de 2022 | [Creación de contenido dinámico con el generador de reglas de condición](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en) | Vídeo | Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales. |
-| Octubre de 2022 | [Copia de un recorrido a otra zona protegida](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | Vídeo | Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra. |
-| Octubre de 2022 | [Uso de alertas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | Vídeo | Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API. |
+| Noviembre de 2022 | [Creación de contenido dinámico con el generador de reglas de condición](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=es) | Vídeo | Obtenga información sobre cómo crear y guardar las reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales. |
+| Octubre de 2022 | [Copia de un recorrido a otra zona protegida](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=es) | Vídeo | Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra. |
+| Octubre de 2022 | [Uso de alertas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=es) | Vídeo | Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Más recursos para [!DNL Journey Optimizer]
 
-* [Documentación de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
-* [Documentación de gestión de decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=es)
+* [Documentación de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
+* [Documentación de gestión de decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=es)
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -404,7 +404,7 @@ Obtenga más información acerca de las funcionalidades, mejoras y correcciones 
 
 #### Más recursos para [!DNL Journey Orchestration]
 
-* [Documentación de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
+* [Documentación de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es) - [Notas de la versión](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=es) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=es) - [Últimas actualizaciones de la documentación](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=es)
 
 ## ![Icono](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -474,7 +474,7 @@ Last updated: **August 9, 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (Versión del 6 de octubre) Hay nuevas columnas de métricas relacionadas con el ritmo disponibles para la variable [!UICONTROL Campañas] vistas: **[!UICONTROL OTS de ayer]** (en gastos objetivo), **[!UICONTROL Entrega de ayer]**, **[!UICONTROL El gol de ayer]**, **[!UICONTROL OTS de hoy]** (en gastos objetivo), **[!UICONTROL Entrega de hoy]** y **[!UICONTROL El objetivo de hoy]**. |
+| [!UICONTROL Campañas] | (Versión del 6 de octubre) Hay nuevas columnas de métricas relacionadas con el ritmo disponibles para las vistas de [!UICONTROL Campañas]: **[!UICONTROL OTS de ayer]** (en gasto del público objetivo), **[!UICONTROL Envío de ayer]**, **[!UICONTROL Meta de ayer]**, **[!UICONTROL OTS de hoy]** (en gasto del público objetivo), **[!UICONTROL Envío de hoy]** y **[!UICONTROL Meta de hoy]**. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -484,14 +484,14 @@ Last updated: **August 9, 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Portafolios], [!UICONTROL Campañas] | (función beta de inclusión) Una nueva **[!UICONTROL Restricciones del gasto en red]** permite definir límites en las asignaciones presupuestarias para redes de publicidad específicas en portafolios de varias redes. La opción está disponible para portafolios con estrategias de gasto diarias, semanales y mensuales, y solo cuando la variable **[!UICONTROL Habilitar el objetivo de gasto máximo de campaña %]** no está activada. Cuando la variable **[!UICONTROL Ajustar automáticamente los límites presupuestarios de la campaña]** está seleccionada, las restricciones funcionan dentro de los valores configurados para las configuraciones de presupuesto de campaña múltiple y mínima.<br><br>Un nuevo informe de restricción de red en [!UICONTROL Informes básicos] muestra todos los presupuestos de motores de búsqueda mínimos y máximos especificados y el gasto real (coste) de sus carteras.<br><br>Para participar en el programa beta, póngase en contacto con el equipo de la cuenta. |
-| Campañas, hojas de edición masiva, informes | (Función beta para [!DNL Microsoft® Advertising] ) Ya está disponible la siguiente compatibilidad para campañas en la variable [!DNL Microsoft® Audience Network]:<ul><li>Ahora puede crear, editar y cambiar el estado de las campañas de audiencia (tipo de campaña **[!UICONTROL Audiencia (imagen)]** o **[!UICONTROL Audiencia (fuente)]**), grupos de anuncios (tipo de grupo de anuncios) **[!UICONTROL Audiencia]**) y anuncios (tipo creativo) **[!UICONTROL Anuncio adaptable]**) de [!UICONTROL Campañas] vistas y uso de hojas de edición masiva.</li><li>Puede ver las campañas de audiencia existentes, con datos de rendimiento en formato de tabla y gráfico de tendencias, en la variable [!UICONTROL Campañas] vista. Los datos de rendimiento a nivel de anuncio también están disponibles en los informes y en Adobe Analytics (para anunciantes con un [!DNL Analytics] integración).</li></ul>La compatibilidad con la optimización estará disponible en una versión futura. |
-|  | (Función beta para [!DNL Microsoft® Advertising] cuentas) Ahora puede crear y administrar anuncios multimedia en campañas de búsqueda desde [!UICONTROL Campañas] ver y usar hojas de edición masiva. Los anuncios tienen el tipo creativo **[!UICONTROL Publicidad multimedia]**.<br><br>Puede incluir campañas con anuncios multimedia en portafolios estándar o portafolios híbridos con cualquier estrategia de gasto excepto [!UICONTROL Uso compartido de impresiones de Target] (que aún no es compatible con portafolios híbridos).<br><br>Puede ver las campañas de audiencia existentes, con datos de rendimiento en formato de tabla y gráfico de tendencias, en la variable [!UICONTROL Campañas] vista. Los datos de rendimiento a nivel de anuncio también están disponibles en los informes y en [!DNL Analytics] (para anunciantes con un [!DNL Analytics] integración). |
-| [!UICONTROL Campañas], [!UICONTROL Informes] | (Función beta para [!DNL Google Ads] y [!DNL Microsoft® Advertising] cuentas) Las métricas de uso compartido de impresiones del editor ahora están disponibles como columnas en las siguientes vistas e informes de administración de campañas:<ul><li>Vistas de administración de campañas: Todas las vistas de entidades de campaña excepto [!UICONTROL Publicidades]. <b>Nota:</b> Los datos de nivel de anuncio no están disponibles en las redes de publicidad.</li><li>Informes básicos: Todos los informes excepto el [!UICONTROL Variación de anuncio], [!UICONTROL Campaña por hora]y [!UICONTROL Restricciones de red] informes. <b>Nota:</b> Los datos de nivel de anuncio no están disponibles en las redes de publicidad.</li><li>Informes especiales: [!UICONTROL AdWords y Bing Audience Target], [!UICONTROL Uso compartido de impresiones diarias de campaña]y [!UICONTROL Uso compartido diario de impresiones de palabras clave] informes.</li></ul><b>Nota:</b> Porque la variable [!UICONTROL Uso compartido de impresiones diarias de campaña] y [!UICONTROL Uso compartido diario de impresiones de palabras clave] ahora son redundantes, se eliminarán en una versión futura. Si utiliza estos tipos de informes para informes programados, plantillas o fuentes de hojas de cálculo, realice la transición a [!UICONTROL Campaign] y [!UICONTROL Palabra clave] en su lugar. Mientras tanto, algunas métricas existentes se duplican en esos tipos de informes. |
-| [!UICONTROL Reglas de valor de conversión] | ([!DNL Google Ads accounts]).  [!UICONTROL Reglas de valor de conversión] la vista ya no está en versión beta y está disponible en general. Utilícelo para ver su [!DNL Google Ads] reglas de valor de conversión. Anunciantes con [!DNL Google Ads] el seguimiento de conversión a nivel de cuenta individual o inferior también puede crear y administrar reglas. |
-| [!UICONTROL Información sobre los anuncios] | La variable [!UICONTROL Porcentaje de impresiones perdidas] y [!UICONTROL Coincidencia cruzada de consultas] los análisis ya no están en versión beta y están disponibles en general. |
-| [!UICONTROL Recomendaciones] | ([!DNL Google Ads] solo cuentas) La variable [!UICONTROL Recommendations] ya no está en la versión beta y está disponible de forma general.<ul><li>Ver de un vistazo todo [!DNL Google Ads] recomendaciones en las que no se ha actuado para una cuenta.</li><li>Aplique y descarte las recomendaciones de una cuenta.</li><li>Ver registros de cada recomendación que se aplicó a una cuenta.</li></ul> |
-| **[!UICONTROL Importar campañas]** | (Función beta) Puede importar su [!DNL Google Ads] campañas de rendimiento máximo, incluidos anuncios de inventario local, en [!DNL Microsoft® Advertising] campañas de compra inteligente de **[!UICONTROL Herramientas]** > **[!UICONTROL Importar campañas]**. Una vez importadas las campañas, puede comprobar el estado del trabajo de importación, revisar los registros de errores y editar, pausar o eliminar la programación de importación. |
+| [!UICONTROL Portafolios], [!UICONTROL Campañas] | (Funcionalidad Beta de inclusión) Una nueva opción **[!UICONTROL Restricciones del gasto en red]** permite definir límites en las asignaciones presupuestarias para las redes de anuncios específicas en portafolios de varias redes. La opción está disponible para portafolios con estrategias de gasto diarias, semanales y mensuales, y solo cuando la opción **[!UICONTROL Habilitar el % de público objetivo de gasto máximo de campaña]** no está activada. Cuando la opción **[!UICONTROL Ajustar automáticamente los límites presupuestarios de la campaña]** está seleccionada, las restricciones funcionan dentro de los valores configurados para la configuración de presupuesto de campaña múltiple y mínima.<br><br>Un nuevo informe Restricción de red en los [!UICONTROL informes básicos] muestra todos los presupuestos del motor de búsqueda mínimos y máximos especificados, así como el gasto real (coste) de sus portafolios.<br><br>Para participar en el programa Beta, póngase en contacto con el equipo de la cuenta. |
+| Campañas, hojas de edición por lotes, informes | (Funcionalidad Beta para cuentas de [!DNL Microsoft® Advertising]) Ya está disponible la siguiente compatibilidad para campañas en [!DNL Microsoft® Audience Network]:<ul><li>Ahora puede crear, editar y cambiar el estado de las campañas de audiencia [tipo de campaña **[!UICONTROL Audiencia (imagen)]** o **[!UICONTROL Audiencia (fuente)]**], grupos de publicidad (**[!UICONTROL Audiencia]** del tipo de grupo de publicidad) y anuncios (tipo creativo **[!UICONTROL Anuncio adaptable]**) de las vistas [!UICONTROL Campañas], mediante hojas de edición por lotes.</li><li>Puede ver sus campañas de audiencia existentes, con datos de rendimiento en formato de tabla y gráfico de tendencias, en la vista [!UICONTROL Campañas]. Los datos de rendimiento del nivel de anuncios también están disponibles en los informes y en Adobe Analytics (para anunciantes con una integración de [!DNL Analytics]).</li></ul>La compatibilidad con la optimización estará disponible en una versión futura. |
+|  | (Funcionalidad Beta para cuentas de [!DNL Microsoft® Advertising]) Ahora puede crear y administrar anuncios multimedia en campañas de búsqueda desde la vista [!UICONTROL Campañas] mediante hojas de edición por lotes. Los anuncios tienen el tipo creativo **[!UICONTROL Anuncio multimedia]**.<br><br>Puede incluir campañas con anuncios multimedia en portafolios estándar o híbridos con cualquier estrategia de gasto, excepto la [!UICONTROL Cuota de impresiones objetivo] (que aún no es compatible con los portafolios híbridos).<br><br>Puede ver sus campañas de audiencia existentes con datos de rendimiento en formato de tabla y gráfico de tendencias en la vista [!UICONTROL Campañas]. Los datos de rendimiento de nivel de anuncios también están disponibles en los informes y en [!DNL Analytics] (para anunciantes con una integración de [!DNL Analytics]). |
+| [!UICONTROL Campañas], [!UICONTROL Informes] | (Funcionalidad Beta para las cuentas de [!DNL Google Ads] y [!DNL Microsoft® Advertising]) Las métricas de cuota de impresiones del publicador ahora están disponibles como columnas en las siguientes vistas e informes de administración de campañas:<ul><li>Vistas de administración de campañas: todas las vistas de entidades de campaña excepto [!UICONTROL Anuncios]. <b>Nota:</b> Los datos con respecto a la publicidad no están disponibles en las redes de publicidad.</li><li>Informes básicos: todos los informes excepto [!UICONTROL Variación de anuncios], [!UICONTROL Campaña por hora] y [!UICONTROL Restricciones de red]. <b>Nota:</b> Los datos con respecto a la publicidad no están disponibles en las redes de publicidad.</li><li>Informes especiales: [!UICONTROL público objetivo de audiencia de AdWords y Bing], [!UICONTROL Cuota de impresiones diarias de campaña] y [!UICONTROL Cuota de impresiones diarias de palabras clave].</li></ul><b>Nota:</b> Como los informes [!UICONTROL Cuota de impresiones diarias de campaña] y [!UICONTROL Cuota de impresiones diarias de palabras clave] ahora son redundantes, se eliminarán en una versión futura. Si utiliza estos tipos para informes programados, plantillas o fuentes de hojas de cálculo, haga la transición a los informes [!UICONTROL Campaña] y [!UICONTROL Palabra clave] en su lugar. Mientras tanto, algunas métricas existentes están duplicadas en esos tipos de informes. |
+| [!UICONTROL Reglas de valor de conversión] | ([!DNL Google Ads accounts]) La vista [!UICONTROL Reglas de valor de conversión] ya no está en versión Beta y está disponible de forma general. Utilícela para ver sus reglas de valor de conversión de [!DNL Google Ads] actuales. Anunciantes con el seguimiento de conversión de [!DNL Google Ads] en cuanto a una cuenta individual o inferior también puede crear y administrar reglas. |
+| [!UICONTROL Información sobre los anuncios] | Los análisis [!UICONTROL Cuota de impresiones perdidas] y [!UICONTROL Consulta de coincidencia cruzada] ya no están en versión Beta y están disponibles de forma general. |
+| [!UICONTROL Recommendations] | (Solo cuentas de [!DNL Google Ads]) La funcionalidad [!UICONTROL Recommendations] ya no está en versión Beta y está disponible de forma general.<ul><li>Vea las generalidades de todas las recomendaciones de [!DNL Google Ads] que no se han llevado a cabo para una cuenta.</li><li>Aplique y descarte las recomendaciones de una cuenta.</li><li>Ver registros de cada recomendación que se aplicó a una cuenta.</li></ul> |
+| **[!UICONTROL Importar campañas]** | (Funcionalidad Beta) Puede importar sus campañas Máximo rendimiento de [!DNL Google Ads], incluidos los anuncios de inventario local, en campañas de compras inteligentes de [!DNL Microsoft® Advertising] desde **[!UICONTROL Herramientas]** > **[!UICONTROL Importar campañas]**. Una vez importadas las campañas, puede comprobar el estado del trabajo de importación, revisar los registros de errores y editar, pausar o eliminar la programación de importación. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -501,8 +501,8 @@ Nuevos tutoriales y cursos publicados para Adobe Document Cloud, incluyendo [!DN
 
 | Publicadas | Nombre | Tipo | Descripción | Aplicación |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Noviembre de 2022 | [Registro y firma con D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | Vídeo | Aprenda a registrar su identidad con D-Trust y, a continuación, utilice la firma digital D-Trust en un documento. | Acrobat Sign |
-| Noviembre de 2022 | [Introducción para nuevos administradores](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | Vídeo | En esta completa guía de vídeo, obtenga información sobre todas las herramientas necesarias para poner en marcha su organización. | Acrobat Sign |
+| Noviembre de 2022 | [Registro y firma con D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=es) | Vídeo | Aprenda a registrar su identidad con D-Trust y, a continuación, utilice la firma digital de D-Trust en un documento. | Acrobat Sign |
+| Noviembre de 2022 | [Introducción para nuevos administradores](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html?lang=es) | Vídeo | En esta completa guía de vídeo, obtenga información acerca de todas las herramientas necesarias para poner en marcha su organización. | Acrobat Sign |
 | Octubre de 2022 | [Escaneo de cualquier documento a PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html?lang=es) | Vídeo | Aprenda a convertir cualquier documento en papel en un PDF mediante la aplicación móvil gratuita de Adobe Scan. | Acrobat |
 | Octubre de 2022 | [Organización de páginas](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=es) | Vídeo actualizado | Aprenda a reorganizar las páginas tal como le guste, todo en cuestión de segundos. Insertar, reemplazar, dividir, reordenar, rotar e incluso extraer páginas discontinuas para crear un PDF de aspecto profesional. | Acrobat |
 | Octubre de 2022 | [Trabajo con archivos de Dropbox](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=es) | Vídeo | Obtenga información sobre cómo abrir, crear, editar, firmar y guardar cambios en los archivos de Dropbox desde Acrobat. | Acrobat |
@@ -529,9 +529,9 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe Campaign.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Noviembre de 2022 | [Impresionantes recursos digitales](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en) | PDF | Aprenda a integrar Adobe Stock con las bibliotecas CC para crear resultados de diseño coherentes y profesionales para impresión y pantalla en este tutorial práctico. |
-| Noviembre de 2022 | [Mejore los flujos de trabajo CC con bibliotecas CC](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en) | PDF | Aprenda cómo las bibliotecas de Creative Cloud mantienen juntos los elementos de diseño, lo que garantiza la coherencia del proyecto para los diseñadores y equipos en este tutorial práctico. |
-| Noviembre de 2022 | [Revisión de vídeo con Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en) | PDF | Descubra cómo la extensión Frame.io para Adobe Premiere Pro le permite centralizar y compartir recursos, recibir comentarios en tiempo real, rastrear revisiones y obtener aprobaciones más rápidas sin salir de la línea de tiempo en este tutorial práctico. |
+| Noviembre de 2022 | [Recursos digitales impresionantes](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=es) | PDF | Aprenda a integrar Adobe Stock con las Bibliotecas CC, a fin de crear resultados de diseño coherentes y profesionales para las impresiones y en pantalla con este tutorial práctico. |
+| Noviembre de 2022 | [Mejora de los flujos de trabajo de CC con Bibliotecas CC](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=es) | PDF | Aprenda cómo las Bibliotecas Creative Cloud mantienen unidos los elementos de diseño, lo que garantiza la coherencia del proyecto para los diseñadores y equipos, con este tutorial práctico. |
+| Noviembre de 2022 | [Revisión de vídeo con Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=es) | PDF | Descubra cómo la extensión Frame.io para Adobe Premiere Pro le permite centralizar y compartir activos, recibir comentarios en tiempo real, seguir las revisiones y obtener aprobaciones más rápido, sin salir de la cronología, con este tutorial práctico. |
 
 {style=&quot;table-layout:auto&quot;}
 
