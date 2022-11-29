@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
+source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
 workflow-type: tm+mt
-source-wordcount: '4997'
-ht-degree: 93%
+source-wordcount: '5136'
+ht-degree: 91%
 
 ---
 
@@ -446,9 +446,8 @@ Consulte la página [[!DNL Workfront] versiones del producto](https://experience
 Notas de la versión para [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Nuevas funciones en  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nuevas funciones en  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -464,26 +463,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-<!--
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nuevas funciones en [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **October 6, 2022**
+Última actualización: **23 de noviembre de 2022**
 
-| Feature | Description |
+| Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
+| Ofertas | La variable [!UICONTROL Inventario] > [!UICONTROL Ofertas] ver ahora incluye un &quot;[!UICONTROL Depurar la salud]&quot;, que indica el estado de salud de cada acuerdo privado: &quot;[!UICONTROL Correcto],&quot;[!UICONTROL Advertencia],&quot;[!UICONTROL Importante],&quot; o &quot;[!UICONTROL No disponible].&quot; Puede hacer clic en el estado para ver más detalles, incluido por qué una operación no está funcionando o gastando según lo esperado, y los pasos para solucionar posibles problemas. |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Nuevas funciones en [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última actualización: **17 de noviembre de 2022** para la versión del 15 de noviembre
+Última actualización: **23 de noviembre de 2022** para la versión del 15 de noviembre
 
 | Función | Descripción |
 | ------- | ----------- |
 | Campañas, hojas de edición por lotes, informes | ([!DNL Microsoft® Advertising] cuentas) Compatibilidad con campañas en la variable [!DNL Microsoft® Audience Network] ya no está en la versión beta.<ul><li>Puede crear, editar y cambiar el estado de las campañas de audiencia (tipo de campaña &quot;[!UICONTROL Audiencia (imagen)]&quot; o &quot;[!UICONTROL Audiencia (fuente)]&quot;), grupos de anuncios (tipo de grupo de anuncios &quot;[!UICONTROL Audiencia]&quot;), y anuncios (tipo creativo &quot;[!UICONTROL Anuncio adaptable]&quot;) del [!UICONTROL Campañas] vistas y uso de hojas de edición masiva.</li><li>Puede ver sus campañas de audiencia existentes, con datos de rendimiento en formato de tabla y gráfico de tendencias, en la vista [!UICONTROL Campañas]. Los datos de rendimiento del nivel de anuncios también están disponibles en los informes y en Adobe Analytics (para anunciantes con una integración de [!DNL Analytics]).</li></ul>La compatibilidad con la optimización estará disponible en una versión futura. |
 |  | ([!DNL Microsoft® Advertising] cuentas) La compatibilidad con anuncios multimedia ya no está en versión beta. Puede crear y administrar anuncios multimedia en campañas de búsqueda desde la [!UICONTROL Campañas] ver y usar hojas de edición masiva. Los anuncios tienen el tipo creativo “[!UICONTROL Anuncio multimedia]”.<br><br>Puede incluir campañas con anuncios multimedia en portafolios estándar o híbridos con cualquier estrategia de gasto, excepto [!UICONTROL Cuota de impresiones objetivo] (que aún no es compatible con los portafolios híbridos).<br><br>Puede ver sus campañas de audiencia existentes con datos de rendimiento en formato de tabla y gráfico de tendencias en la vista [!UICONTROL Campañas]. Los datos de rendimiento de nivel de anuncios también están disponibles en los informes y en [!DNL Analytics] (para anunciantes con una integración de [!DNL Analytics]). |
 | [!UICONTROL Audiencias], [!UICONTROL Informes] | (Función beta para [!DNL Microsoft® Advertising] cuentas) su [!DNL Microsoft® Advertising] las audiencias de remarketing dinámico ahora están sincronizadas y disponibles en [!UICONTROL Campañas] > [!UICONTROL Audiencias] con la variable [!UICONTROL Tipo de audiencia] &quot;[!UICONTROL Remarketing dinámico] &lt;*VisitorType*>&quot; (como &quot;Remarketing dinámico de compradores anteriores&quot;). También puede crear, actualizar y eliminar audiencias dinámicas de remarketing.<br><br>Las audiencias se pueden usar como destinos y exclusiones de anuncios a nivel de campaña y de grupo de anuncios. Los objetivos pueden incluir modificadores de oferta. **Nota:** Los modificadores de oferta para los destinos de audiencia de remarketing dinámico no están optimizados en los portafolios con la variable &quot;[!UICONTROL Optimizar automáticamente los valores de ajuste de oferta]&quot;.<br><br>Los datos de las audiencias de remarketing dinámico están disponibles en el [!UICONTROL Informe de Audience Target]. |
+| [!UICONTROL Importar campañas] | Todas las opciones para importar [!DNL Google Ads] campañas en [!DNL Microsoft Advertising] ya no están en la versión beta:<ul><li>Importar [!DNL Google Display Network] campañas en [!DNL Microsoft Advertising] campañas de audiencia en [!DNL Microsoft Audience Network].</li><li>Importar [!DNL Google Ads] campañas de rendimiento máximo, incluidos anuncios de inventario local, en [!DNL Microsoft Advertising] campañas de compra inteligentes.</li><li>Importación (ya fuera de la versión beta) [!DNL Google Ads] buscar y mostrar campañas en [!DNL Microsoft Advertising] buscar y mostrar campañas.</li></ul>Una vez que haya importado campañas desde [!UICONTROL Buscar] > [!UICONTROL Herramientas] > [!UICONTROL Importar campañas], puede comprobar el estado del trabajo de importación, revisar los registros de errores y editar, pausar o eliminar la programación de importación. |
 
 {style=&quot;table-layout:auto&quot;}
 
