@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 90%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 
 Esta página proporciona acceso a las páginas de notas de la versión del producto de Experience Cloud y a los tutoriales, cursos y eventos más recientes sobre Experience League.
 
-Última actualización: **26 de diciembre de 2022**
+Última actualización: **6 de enero de 2022**
 
-* [[!DNL Experience League] events](#events) (Actualizado) **7 de diciembre**)
+* [[!DNL Experience League] events](#events) (Actualizado) **Enero de 6**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud: componentes y administración de la interfaz central](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Los eventos de Experience League son un buen lugar para aprender, interactuar y 
 
 Próximos eventos:
 
-* [Chat del administrador: Marketing y creativos](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Enero de 6** - _Esta sesión interactiva está diseñada para conectarle con otros administradores, y trata sobre las prácticas recomendadas, así como consejos y trucos que le ayudarán a sacar el máximo partido de Workfront para usted y sus usuarios._
-* [Conexiones CS: Compartir las mejores prácticas estratégicas](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Enero de 9** - _¿Busca la oportunidad de conectarse con otros clientes y discutir las características de Workfront? Únase a nuestra serie de conexiones CS Una oportunidad mensual de conectarse con otros clientes para hablar de los temas más importantes de su organización._
+* [Chat del administrador: Marketing y creativos](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Enero de 6** - _Esta sesión interactiva está diseñada para conectarle con otros administradores, y trata sobre las prácticas recomendadas, así como consejos y trucos que le ayudarán a sacar el máximo partido a [!DNL Workfront] para usted y sus usuarios._
+* [Conexiones CS: Compartir las mejores prácticas estratégicas](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Enero de 9** - _Buscando una oportunidad de conectarse con otros clientes y discutir [!DNL Workfront] características? Únase a nuestra serie de conexiones CS Una oportunidad mensual de conectarse con otros clientes para hablar de los temas más importantes de su organización._
+* [Novedades de [!DNL Adobe Workfront] 23,1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **10 de enero** - _Únase a [!DNL Adobe Workfront] equipo de productos para obtener más información sobre las próximas funciones y mejoras de nuestra última versión._
+* [Analizador de prácticas recomendadas de AEM para entornos On-Premise y AMS](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 de enero** - _Obtenga información sobre la herramienta Adobe Experience Manager Best Practices Analyzer que proporciona funciones de análisis e informes con respecto a AEM instancias locales y AMS. Tenga en cuenta que no es aplicable a AEM as a Cloud Service._
 
 Para ver una programación de eventos completa, consulte [Eventos en Experience League](https://experienceleague.adobe.com/events/?lang=es).
 
@@ -123,9 +125,9 @@ Nuevos tutoriales, artículos y cursos de vídeo publicados para Adobe Analytics
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Diciembre de 2022 | [Mejorar la seguridad](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Vídeo actualizado | Obtenga información sobre la configuración del Administrador de seguridad en Configuración de la empresa para controlar el acceso a Adobe Analytics. Esto incluye contraseñas seguras, funciones de caducidad y recuperación de contraseñas y restricciones de dominio de correo electrónico. |
-| Diciembre de 2022 | [Establecer un proyecto de Analysis Workspace como página de aterrizaje](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Vídeo actualizado | Obtenga información sobre una forma eficaz de incorporar fácilmente a los usuarios principiantes en los datos de proyectos de análisis de espacio de trabajo. |
-| Diciembre de 2022 | [Personalizar el menú en Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Vídeo actualizado | Obtenga información sobre cómo personalizar el menú Informes y análisis para los usuarios de su organización. Esto ayuda a los usuarios a encontrar los informes que usan con mayor frecuencia. |
+| Diciembre de 2022 | [Mejora de la seguridad](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Vídeo actualizado | Aprenda más sobre la configuración del Administrador de seguridad en Configuración de la empresa para controlar el acceso a Adobe Analytics. Esto incluye contraseñas seguras, funciones de caducidad y recuperación de contraseñas y restricciones de dominio de correo electrónico. |
+| Diciembre de 2022 | [Configuración de un proyecto de Analysis Workspace como su página de aterrizaje](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Vídeo actualizado | Aprenda a incorporar de forma rápida y eficaz a los nuevos usuarios en los datos de proyectos de análisis del espacio de trabajo. |
+| Diciembre de 2022 | [Personalización del menú en Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Vídeo actualizado | Aprenda a personalizar el menú Reports &amp; Analytics para los usuarios de su organización. Esto ayuda a los usuarios a encontrar los informes que usan con mayor frecuencia. |
 | Noviembre de 2022 | [¿Qué es el análisis?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=es) | Artículo | Obtenga información acerca de los aspectos básicos del análisis antes de aprender a usar Adobe Analytics. |
 | Noviembre de 2022 | [Creación de vistas de detalles personalizadas para los paneles](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=es) | Vídeo | Aprenda a personalizar las vistas de detalles, incluido el texto de los paneles de Adobe Analytics, para refinar la historia que desea contar a las partes interesadas a través de proyectos de cuadros de resultados móviles. |
 | Noviembre de 2022 | [Visualización del resumen de métricas clave](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=es) | Vídeo | Obtenga información acerca de la visualización del resumen de métricas clave en Analysis Workspace, lo que le permite ver las tendencias de una métrica importante dentro de un solo periodo de tiempo. También le permite comparar el rendimiento de las métricas en dos intervalos de tiempo. |
