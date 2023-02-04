@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 
 Esta página proporciona acceso a las páginas de notas de la versión del producto de Experience Cloud y a los tutoriales, cursos y eventos más recientes sobre Experience League.
 
-Última actualización: **18 de enero de 2023**
+Última actualización: **3 de febrero de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Nuevas funciones en [!DNL Advertising DSP] {#advertising-dsp}
 
-Última actualización: **23 de noviembre de 2022**
+Última actualización: **3 de febrero de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| Acuerdos | La vista [!UICONTROL Inventario] > [!UICONTROL Acuerdos] ahora incluye la columna “[!UICONTROL Estado del acuerdo]”, que indica el estado de cada acuerdo privado: “[!UICONTROL Correcto]”, “[!UICONTROL Advertencia]”, “[!UICONTROL Crítico]”, o “[!UICONTROL No disponible]”. Puede hacer clic en el estado para obtener más detalles, incluyendo por qué un acuerdo no está funcionando o gastando según lo esperado y los pasos para solucionar posibles problemas. |
+| [!UICONTROL Acuerdos] | (Versión del 25 de enero) Una nueva columna de gasto &quot;PG Impression Pacing&quot; en los informes de vista Inventario > Ofertas que siguen ofertas garantizadas. |
+| [!UICONTROL Campañas] | (Versión del 4 de enero) Un registro de cambios, que muestra los cambios realizados durante el intervalo de fechas seleccionado, ya está disponible para cada campaña. Los registros de cambios ya estaban disponibles para paquetes y ubicaciones. |
 
 {style=&quot;table-layout:auto&quot;}
 
