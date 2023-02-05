@@ -6,7 +6,7 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
+source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
 workflow-type: tm+mt
 source-wordcount: '5407'
 ht-degree: 98%
@@ -25,7 +25,7 @@ Como con Experience Maker, la ruta hacia el éxito empieza por [Experience Leagu
 
 Esta página proporciona acceso a las páginas de notas de la versión del producto de Experience Cloud y a los tutoriales, cursos y eventos más recientes sobre Experience League.
 
-Mes de lanzamiento: **Enero de 2023**
+Mes de lanzamiento: **enero de 2023**
 
 Última actualización: **5 de febrero de 2023**
 
