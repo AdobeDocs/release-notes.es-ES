@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 58%
+source-wordcount: '5082'
+ht-degree: 57%
 
 ---
 
@@ -29,7 +29,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto: febrero de 2023
 
-Contenido actualizado por última vez: **9 de febrero de 2023**
+Contenido actualizado por última vez: **10 de febrero de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Last updated: **August 9, 2022**
 
 ### Nuevas funciones en [!DNL Advertising Search] {#advertising-search}
 
-Última actualización: **8 de febrero de 2023**
+Última actualización: **10 de febrero de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
 | [!UICONTROL Campañas] | (versión del 6 de febrero; función beta) Ya está disponible la compatibilidad de sincronización de solo lectura para su [!DNL Google Ads] campañas de detección. Las campañas de descubrimiento tienen [!UICONTROL Tipo de campaña] &quot;[!UICONTROL Descubrimiento],&quot; [!UICONTROL Tipo de grupo de publicidad] &quot;[!UICONTROL Descubrimiento],&quot; y [!UICONTROL Tipo de creativo] &quot;[!UICONTROL Publicidad de Discovery]&quot; (para anuncios de una sola imagen) o &quot;[!UICONTROL Anuncio de carrusel de Discovery]&quot; (para anuncios de carrusel con varias imágenes). Puede incluir campañas de detección en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] Los datos están disponibles en [!DNL Search]; los datos se envían mediante la actualización `s_kwcid` parámetro de seguimiento, independientemente de `s_kwcid` que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la variable `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
+|  | ([!DNL Google Ads] cuentas; Versión del 11 de febrero) Compatibilidad con el[!UICONTROL Uso compartido de impresiones de Target]&quot; la estrategia de oferta ya está disponible solo para campañas en la red de búsqueda. Para esta estrategia de oferta, [!DNL Google Ads] (no [!DNL Search]) optimiza las ofertas para lograr una cuota de impresión y una posición de publicidad objetivo. Si lo desea, puede especificar un [!UICONTROL Uso compartido de impresiones de Target] como porcentaje, la variable [!UICONTROL Posición de anuncio de Target]y [!UICONTROL CPC máximo] (coste por clic). Esta opción aún no es compatible con portafolios híbridos. |
+| [!UICONTROL Hojas de edición masiva] | ([!DNL Microsoft] campañas; Versión del 11 de febrero) Las hojas de edición masiva ahora incluyen &quot;[!UICONTROL Llamada a acción]&quot; y &quot;[!UICONTROL Lenguaje de llamada a acción]&quot; columnas para anuncios multimedia (en formato de publicidad adaptable), que utilizan la variable &quot;[!UICONTROL Creativo (excepto RSA)]&quot;. |
 
 {style=&quot;table-layout:auto&quot;}
 
