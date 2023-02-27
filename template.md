@@ -5,16 +5,16 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '716'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
 # PLANTILLA: Notas de la versión de Adobe Experience Cloud: mes de 2021
 
-![Banner](/assets/experience-cloud-banner-3.png)
+![Titular](/assets/experience-cloud-banner-3.png)
 
 Nuevas funciones y correcciones en Adobe Experience Cloud.
 
@@ -26,7 +26,7 @@ Nuevas funciones y correcciones en Adobe Experience Cloud.
 >
 >La nueva información publicada tras el lanzamiento se marcará con la fecha de publicación.
 
-Última actualización: **Septiembre de 2021**
+Última actualización del estado: **septiembre de 2021**
 
 * [Eventos en directo de Experience League](#events)
 * [Componentes de la interfaz central de Experience Cloud](#ecloud)
@@ -54,7 +54,7 @@ Consulte [Estado del sistema de Adobe](https://status.adobe.com/es).
 
 ## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
 
-Los componentes de la interfaz central de Experience Cloud incluyen actualizaciones a las que se puede acceder desde el encabezado unificado del producto, como las preferencias de autoayuda, búsqueda y cuenta de usuario. Las actualizaciones de People, Places (Ubicación) y la administración de productos se encuentran aquí.
+Los componentes de la interfaz central de Experience Cloud incluyen actualizaciones a las que se puede acceder desde el encabezado unificado del producto, como las preferencias de autoayuda, búsqueda y cuenta de usuario. Las actualizaciones de personas, lugares (ubicación) y la administración de productos se encuentran aquí.
 
 ### [!UICONTROL Servicios principales] {#core-services}
 
@@ -66,10 +66,10 @@ Funciones y correcciones.
 
 ## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Notas de la versión de [!DNL Experience Platform,] incluyendo [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL ofertas], [!UICONTROL usuarios], [!UICONTROL Places], [!UICONTROL Mobile Services], y boletines de seguridad.
+Notas de la versión de [!DNL Experience Platform,] que incluyen [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL ofertas], [!UICONTROL usuarios], [!UICONTROL lugares], [!UICONTROL Mobile Services] y boletines de seguridad.
 
 * [Servicio de Experience Cloud ID](#ecid)
-* [Notas de la versión de Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
+* [Notas de la versión de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=es)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services y Mobile SDK](#mobile)
@@ -115,7 +115,7 @@ Nuevas funciones y correcciones en Adobe Analytics:
 | Función B | Texto |
 | Función C | Texto |
 
-### [!DNL Media Analytics] SDK para [!DNL iOS] y [!DNL Android™] (antes VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK para [!DNL iOS] y [!DNL Android™] (antes SDK VHL) {#aa-va}
 
 | Función | Descripción |
 | ------- | ------- |
@@ -247,7 +247,7 @@ Texto
 
 ## Magento {#magento}
 
-Para las notas de la versión de Magento, consulte:
+Para las notas de la versión de Magento, consulte lo siguiente:
 
 ## Marketo {#marketo}
 
@@ -257,7 +257,7 @@ Marketo Engage es una solución completa para la gestión de posibles clientes y
 
 Fecha de publicación: 21 de febrero de 2020
 
-* **Microsoft® Dynamics _Cambiar propietario en Microsoft®_ Acción de flujo:** Cambie un posible cliente o contacto directamente desde el Marketo Engage.
+* **Microsoft® Dynamics, _cambio de propietario en Microsoft®_ Acción de flujo:** cambie un posible cliente o un contacto directamente desde Marketo Engage.
 * **Mejoras en las llamadas API:**
    * API de User Management
    * API de esquemas de objetos personalizados
@@ -276,7 +276,7 @@ Las siguientes funciones se lanzarán durante todo el trimestre:
 
 ### Anuncios
 
-**Centro de éxito de Marketo Engage:** lanzamiento en febrero de 2020. El Centro de éxito es un centro de ayuda integrado en el producto que le permite buscar en la Documentación del producto, la Comunidad, las guías de inicio prácticas, el contenido de adopción de acceso y mucho más. Nota: Esta función se inicia como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
+**Centro de éxito de Marketo Engage:** lanzamiento en febrero de 2020. El Centro de éxito es un centro de ayuda integrado en el producto que le permite buscar en la Documentación del producto, la Comunidad, las guías de inicio prácticas, el contenido de adopción de acceso y mucho más. Nota: Esta función se lanza como una versión Beta en ANZ y se comercializará en Norteamérica más adelante en el trimestre.
 
 ### Degradaciones
 
