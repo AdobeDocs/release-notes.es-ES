@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ Esta página le ayuda a mantenerse actualizado sobre la información del lanzami
 **¿Necesita ayuda?** 
 
 Su camino hacia el éxito comienza con [Experience League](https://experienceleague.adobe.com/?lang=es#home). Examine nuestra amplia biblioteca de autoayuda [documentación del producto](https://experienceleague.adobe.com/docs/?lang=es) y [videotutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) guiados. Busque [cursos](https://experienceleague.adobe.com/?lang=es#courses) para todos los niveles y funciones, haga preguntas desde nuestra [comunidad](https://experienceleaguecommunities.adobe.com/?profile.language=es) en línea de compañeros y obtenga [ayuda](https://experienceleague.adobe.com/?support-tab=home&amp;lang=es#support) experta cuando lo necesite.
+
+## Adobe Summit 2023
+
+Únase a nosotros en Las Vegas para ampliar sus habilidades, estimular la inspiración y construir conexiones que le permitan hacer personal la economía digital. Para aquellos que no puedan asistir al evento de primer nivel en Las Vegas, únase a nosotros prácticamente desde cualquier lugar de forma gratuita.
+
+[!BADGE Regístrese para la Cumbre]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Regístrese para la Cumbre"}
 
 ## Eventos y actualizaciones de la versión del producto: febrero de 2023
 
@@ -538,9 +544,9 @@ Last updated: **August 9, 2022**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (versión de 6 de febrero; funcionalidad beta) Ya está disponible la compatibilidad de sincronización de solo lectura para su [!DNL Google Ads] campañas de descubrimiento. Las campañas de descubrimiento tienen [!UICONTROL Tipo de campaña] &quot;[!UICONTROL Descubrimiento],&quot; [!UICONTROL Tipo de grupo de publicidad] &quot;[!UICONTROL Descubrimiento],&quot; y [!UICONTROL Tipo de creativo] &quot;[!UICONTROL Publicidad de Discovery]&quot; (para anuncios de una sola imagen) o &quot;[!UICONTROL Anuncio de carrusel de Discovery]&quot; (para anuncios de carrusel con varias imágenes). Puede incluir campañas de descubrimiento en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] los datos están disponibles en [!DNL Search]; los datos se envían mediante el actualizado `s_kwcid` parámetro de seguimiento, independientemente del `s_kwcid` formato que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
-|  | ([!DNL Google Ads] cuentas; Versión del 11 de febrero) Compatibilidad con el[!UICONTROL Uso compartido de impresiones de Target]&quot; la estrategia de oferta ya está disponible solo para campañas en la red de búsqueda. Para esta estrategia de oferta, [!DNL Google Ads] (no [!DNL Search]) optimiza las ofertas para lograr una cuota de impresión y una posición de publicidad objetivo. Si lo desea, puede especificar un [!UICONTROL Uso compartido de impresiones de Target] como porcentaje, la variable [!UICONTROL Posición de anuncio de Target]y [!UICONTROL CPC máximo] (coste por clic). Esta opción aún no es compatible con portafolios híbridos. |
-| [!UICONTROL Hojas de edición masiva] | ([!DNL Microsoft] campañas; Versión del 11 de febrero) Las hojas de edición masiva ahora incluyen &quot;[!UICONTROL Llamada a acción]&quot; y &quot;[!UICONTROL Lenguaje de llamada a acción]&quot; columnas para anuncios multimedia (en formato de publicidad adaptable), que utilizan la variable &quot;[!UICONTROL Creativo (excepto RSA)]&quot;. |
+| [!UICONTROL Campañas] | (versión de 6 de febrero; funcionalidad beta) Ya está disponible la compatibilidad de sincronización de solo lectura para su [!DNL Google Ads] campañas de descubrimiento. Las campañas de detección tienen [!UICONTROL Tipo de campaña] &quot;[!UICONTROL Detección],&quot; [!UICONTROL Tipo de grupo de publicidad] &quot;[!UICONTROL Detección],&quot; y [!UICONTROL Tipo creativo] &quot;[!UICONTROL Anuncio de descubrimiento]&quot; (para anuncios de una sola imagen) o &quot;[!UICONTROL Anuncio de carrusel de descubrimiento]&quot; (para anuncios de carrusel de varias imágenes). Puede incluir campañas de descubrimiento en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] los datos están disponibles en [!DNL Search]; los datos se envían mediante el actualizado `s_kwcid` parámetro de seguimiento, independientemente del `s_kwcid` formato que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
+|  | ([!DNL Google Ads] Cuentas de; versión del 11 de febrero) Compatibilidad con &quot;[!UICONTROL Cuota de impresiones objetivo]&quot; la estrategia de oferta ahora solo está disponible para campañas en la red de búsqueda. Para esta estrategia de oferta, [!DNL Google Ads] (no [!DNL Search]) optimiza las ofertas para lograr un porcentaje de impresión y una posición de anuncio objetivo. Si lo desea, puede introducir una [!UICONTROL Cuota de impresiones objetivo] como porcentaje, la variable [!UICONTROL Posición del anuncio de destino], y a [!UICONTROL CPC máximo] (coste por clic). Esta opción aún no es compatible con portafolios híbridos. |
+| [!UICONTROL Hojas de edición masiva] | ([!DNL Microsoft] campañas; versión del 11 de febrero) Las hojas de edición masiva ahora incluyen &quot;[!UICONTROL Llamada a acción]&quot; y &quot;[!UICONTROL Lenguaje de llamada a la acción]&quot; columnas para anuncios multimedia (en formato de anuncio interactivo), que utilizan el &quot;[!UICONTROL Creativo (excepto RSA)]&quot; fila. |
 
 {style=&quot;table-layout:auto&quot;}
 
