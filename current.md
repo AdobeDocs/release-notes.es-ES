@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto: febrero de 2023
 
-Contenido actualizado por última vez: **10 de febrero de 2023**
+Contenido actualizado por última vez: **2 de marzo de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Nuevas funciones en [!DNL Advertising DSP] {#advertising-dsp}
 
-Última actualización: **8 de febrero de 2023**
+Última actualización: **2 de marzo de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (versión de 3 de febrero; funciones beta) Ahora puede ver registros de cambios en el formulario de gráfico y agregar notas a cualquier entrada. |
+| [!UICONTROL Campañas] | (Versión del 15 de febrero) Ahora puede ver registros de cambios en el formulario de gráficos y puede agregar notas a cualquier entrada. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nuevas funciones en [!DNL Advertising Search] {#advertising-search}
 
-Última actualización: **10 de febrero de 2023**
+Última actualización: **2 de marzo de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (versión de 6 de febrero; funcionalidad beta) Ya está disponible la compatibilidad de sincronización de solo lectura para su [!DNL Google Ads] campañas de descubrimiento. Las campañas de detección tienen [!UICONTROL Tipo de campaña] &quot;[!UICONTROL Detección],&quot; [!UICONTROL Tipo de grupo de publicidad] &quot;[!UICONTROL Detección],&quot; y [!UICONTROL Tipo creativo] &quot;[!UICONTROL Anuncio de descubrimiento]&quot; (para anuncios de una sola imagen) o &quot;[!UICONTROL Anuncio de carrusel de descubrimiento]&quot; (para anuncios de carrusel de varias imágenes). Puede incluir campañas de descubrimiento en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] los datos están disponibles en [!DNL Search]; los datos se envían mediante el actualizado `s_kwcid` parámetro de seguimiento, independientemente del `s_kwcid` formato que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
+| [!UICONTROL Campañas] | (Cuentas de Google Ads; función beta abierta; versión del 23 de febrero) Compatibilidad de sincronización de solo lectura para [!DNL Google Ads] discovery campaigns está en modo beta para todos los anunciantes.  Las campañas de detección tienen [!UICONTROL Tipo de campaña] &quot;[!UICONTROL Detección],&quot; [!UICONTROL Tipo de grupo de publicidad] &quot;[!UICONTROL Detección],&quot; y [!UICONTROL Tipo creativo] &quot;[!UICONTROL Anuncio de descubrimiento]&quot; (para anuncios de una sola imagen) o &quot;[!UICONTROL Anuncio de carrusel de descubrimiento]&quot; (para anuncios de carrusel de varias imágenes). Puede incluir campañas de descubrimiento en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] los datos están disponibles en [!DNL Search]; los datos se envían mediante el actualizado `s_kwcid` parámetro de seguimiento, independientemente del `s_kwcid` formato que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
 |  | ([!DNL Google Ads] Cuentas de; versión del 11 de febrero) Compatibilidad con &quot;[!UICONTROL Cuota de impresiones objetivo]&quot; la estrategia de oferta ahora solo está disponible para campañas en la red de búsqueda. Para esta estrategia de oferta, [!DNL Google Ads] (no [!DNL Search]) optimiza las ofertas para lograr un porcentaje de impresión y una posición de anuncio objetivo. Si lo desea, puede introducir una [!UICONTROL Cuota de impresiones objetivo] como porcentaje, la variable [!UICONTROL Posición del anuncio de destino], y a [!UICONTROL CPC máximo] (coste por clic). Esta opción aún no es compatible con portafolios híbridos. |
 | [!UICONTROL Hojas de edición masiva] | ([!DNL Microsoft] campañas; versión del 11 de febrero) Las hojas de edición masiva ahora incluyen &quot;[!UICONTROL Llamada a acción]&quot; y &quot;[!UICONTROL Lenguaje de llamada a la acción]&quot; columnas para anuncios multimedia (en formato de anuncio interactivo), que utilizan el &quot;[!UICONTROL Creativo (excepto RSA)]&quot; fila. |
+| Cuentas de Google Manager | (Versión del 23 de febrero) Una nueva [!UICONTROL Administrador] > [!UICONTROL Cuentas de responsable] permite proporcionar autenticación para [!DNL Google Ads] cuentas de responsable a las que [!DNL Search] cargará conversiones entre cuentas. Utilice esta función si desea realizar una carga [!DNL Adobe]Métricas de conversión de varias cuentas con seguimiento personalizado a [!DNL Google Ads] cuenta de manager o b) cargar objetivos de portafolio que incluyan conversiones entre cuentas a [!DNL Google Ads] para la optimización híbrida.<br><br>Una vez que haya agregado las credenciales de una cuenta de administrador, la opción &quot;[!UICONTROL Cuenta de responsable para conversiones entre cuentas]&quot; en la columna [!UICONTROL Campañas] > [!UICONTROL Cuentas] La vista indica el ID de cuenta de responsable de cada cuenta secundaria y la columna muestra un error cuando la cuenta de responsable no está autenticada. |
 
 {style=&quot;table-layout:auto&quot;}
 
