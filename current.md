@@ -31,7 +31,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 Únase a nosotros en Las Vegas para ampliar sus habilidades, estimular la inspiración y construir conexiones que le permitan hacer personal la economía digital. Para aquellos que no puedan asistir al evento de primer nivel en Las Vegas, únase a nosotros prácticamente desde cualquier lugar de forma gratuita.
 
-[!BADGE Registrar]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Regístrese para [!DNL Adobe Summit]&quot;}
+[!BADGE Registrar]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1Smv=other" tooltip="Regístrese para [!DNL Adobe Summit]"}
 
 ## Eventos y actualizaciones de la versión del producto: febrero de 2023
 
