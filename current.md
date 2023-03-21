@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4607'
-ht-degree: 99%
+source-wordcount: '4500'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Actualización más reciente: **15 de marzo de 2023**
+Actualización más reciente: **20 de marzo de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,13 +601,15 @@ Last updated: **August 9, 2022**
 
 Obtenga información sobre las últimas funciones de Adobe Advertising.
 
-Última actualización: **2 de marzo de 2023**
+<!--
+Last updated: **March 2, 2023**
 
-| Función | Descripción |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (versión de 15 de febrero) Ahora puede ver registros de cambios en el formulario de gráfico y agregar notas a cualquier entrada. |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### Nuevas funciones en [!DNL Advertising Search] {#advertising-search}
 
@@ -615,10 +617,8 @@ Obtenga información sobre las últimas funciones de Adobe Advertising.
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (Cuentas de Google Ads; función beta abierta; versión del 23 de febrero) Compatibilidad de sincronización de solo lectura para campañas de descubrimiento de [!DNL Google Ads] está en modo beta para todos los anunciantes. Las campañas de descubrimiento tienen [!UICONTROL Tipo de campaña] “[!UICONTROL Descubrimiento],” [!UICONTROL Tipo de grupo de publicidad] “[!UICONTROL Descubrimiento],” y [!UICONTROL Tipo de creativo] “[!UICONTROL Publicidad de Discovery]” (para anuncios de una sola imagen) o “[!UICONTROL Anuncio de carrusel de Discovery]” (para anuncios de carrusel con varias imágenes). Puede incluir campañas de descubrimiento en portafolios estándar e híbridos.<br><br>Los datos de nivel de anuncio para sus campañas de descubrimiento están disponibles en los informes. Para los anunciantes con una integración de Adobe Analytics, los datos de nivel de anuncio están disponibles en [!DNL Analytics]. Del mismo modo, [!DNL Analytics] los datos están disponibles en [!DNL Search]; los datos se envían mediante el actualizado `s_kwcid` parámetro de seguimiento, independientemente del `s_kwcid` formato que normalmente se utiliza para la cuenta. Si normalmente utiliza la versión anterior de la `s_kwcid`, los datos de clics/costes y los datos de ingresos se rastrean usando diferentes `s_kwcids`, pero ambos conjuntos de datos se clasifican y agregan completamente en la misma campaña y cuenta. |
-|  | (Cuentas de [!DNL Google Ads]; versión del 11 de febrero) Compatibilidad con &quot;[!UICONTROL Cuota de impresiones objetivo]&quot; la estrategia de oferta ahora solo está disponible para campañas en la red de búsqueda. Para esta estrategia de oferta, [!DNL Google Ads] (no [!DNL Search]) optimiza las ofertas para lograr un porcentaje de impresión y una posición de anuncio objetivo. Si lo desea, puede introducir una [!UICONTROL Cuota de impresiones objetivo] como porcentaje, la [!UICONTROL Posición del anuncio de destino], y un [!UICONTROL CPC máximo] (coste por clic). Esta opción aún no es compatible con portafolios híbridos. |
-| [!UICONTROL Hojas de edición masiva] | (Campañas de [!DNL Microsoft]; versión del 11 de febrero) Las hojas de edición masiva ahora incluyen las columnas &quot;[!UICONTROL Llamada a la acción]&quot; y &quot;[!UICONTROL Lenguaje de llamada a la acción]&quot; para anuncios multimedia (en formato de anuncio interactivo), que utilizan la fila &quot;[!UICONTROL Creativo (excepto RSA)]&quot;. |
-| Cuentas de Google Manager | (Versión del 23 de febrero) Una nueva funcionalidad de [!UICONTROL Administrador] > [!UICONTROL Cuentas de responsable] permite proporcionar autenticación para [!DNL Google Ads] cuentas de responsable a las que [!DNL Search] cargará conversiones entre cuentas. Utilice esta funcionalidad si desea a) realizar una carga de métricas de conversión de varias cuentas con seguimiento de [!DNL Adobe] a una cuenta de manager de [!DNL Google Ads] o b) cargar objetivos de portafolio que incluyan conversiones entre cuentas a [!DNL Google Ads] para la optimización híbrida.<br><br>Una vez que haya agregado las credenciales de una cuenta de administrador, la columna opcional &quot;[!UICONTROL Cuenta de responsable para conversiones entre cuentas]&quot; en la vista [!UICONTROL Campañas] > [!UICONTROL Cuentas] indica el ID de cuenta de responsable de cada cuenta secundaria, y la columna muestra un error cuando la cuenta de responsable no está autenticada. |
+| [!UICONTROL Campañas] | ([!DNL Microsoft Advertising] campañas de audiencia; función beta abierta; Versión del 18 de marzo) Las campañas de audiencia ahora pueden utilizar la estrategia de oferta de CPC mejorado (eCPC). Puede establecer ofertas dentro de la configuración del grupo de anuncios secundario.<br><br>Las campañas de audiencia con eCPC se pueden incluir en portafolios para la optimización. |
+| [!UICONTROL Campañas], [!UICONTROL Informes] | ([!DNL Google Ads] y [!DNL Microsoft Advertising] cuentas; Versión del 18 de marzo) Las siguientes métricas de prominencia están disponibles en las vistas de administración de campañas y en los informes:<ul><li><p>[!UICONTROL El contenido es]: El número de impresiones recibidas para los anuncios de la red de visualización/audiencia se dividió por el número estimado de impresiones de anuncios en pantalla que reunía los requisitos para recibir.</p><p>Esto y el otro &quot;[!UICONTROL Contenido]*&quot; las métricas están disponibles en todas las vistas de administración de campañas para las entidades relacionadas con los anuncios de contenido y en los informes básicos relacionados:  [!UICONTROL Motor de búsqueda], [!UICONTROL Cuenta del motor de búsqueda], [!UICONTROL Campaign], [!UICONTROL Grupo de publicidad]y [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL IS perdido de contenido (presupuesto)]: El porcentaje estimado de impresiones que sus anuncios en la red de visualización/audiencia no recibieron porque su presupuesto diario o mensual era demasiado bajo.<p></li><li><p>[!UICONTROL IS (rango) perdido de contenido]: El porcentaje estimado de impresiones de que sus anuncios en la red de visualización/audiencia no se mostraron debido a una clasificación de anuncios deficiente.</p></li><li><p>[!UICONTROL Buscar coincidencia exacta es]: El número de impresiones recibidas para búsquedas que coincidieron exactamente con su palabra clave se dividió por el número estimado de impresiones de coincidencia exactas que reunía los requisitos para recibir.</p><p>Esta métrica está disponible en todas las vistas de administración de campañas para las entidades relacionadas con los anuncios de búsqueda y en los informes básicos relacionados:  [!UICONTROL Motor de búsqueda], [!UICONTROL Cuenta del motor de búsqueda], [!UICONTROL Campaign], [!UICONTROL Grupo de publicidad], [!UICONTROL Palabra clave], [!UICONTROL Grupo de productos]y [!UICONTROL Portfolio]. También están en el [!UICONTROL Restricción], [!UICONTROL Clasificación de etiquetas]y [!UICONTROL Valor de etiqueta] informes.</p></li></ul> |
 
 {style="table-layout:auto"}
 
