@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Actualización más reciente: **29 de marzo de 2023**
+Última actualización: **6 de abril de 2023**
 
-* [Eventos de [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (**Actualizado el 6 de abril de 2023**)
+* [Certificación](#certification) (**¡Nuevo! 6 de abril de 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaz y administración de [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Averigua lo que está pasando en Experience League. Los eventos son un buen luga
 
 +++Próximos eventos
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage puede ser grande, descubra cómo un equipo pequeño maximiza su instancia_ | **30 de marzo a las 8:00 am PT** |  [Registro](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Conectar: Chat de administración estratégica_ | **10 de abril a las 8:00 AM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Conectar: Chat de administrador para Marketing y Creative_ | **31 de marzo a las 10:00 AM MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break con Matthew Baillie y Georgia Fyley_ | **12 de abril a las 8:00 am PT** |  [Registro](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas: Capacidad de entrega (parte 2)_ | **5 de abril a la 1:00 PM ET** | [Registro](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Aprenda: Resumen de la versión de Adobe Workfront 23.2_ | **12 de abril a las 12:30 p.m. CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_¡Revisite la Cumbre todo el año!_ | **On Demand** | [Detalles](https://business.adobe.com/summit/adobe-summit.html)
 
 Consulte [Eventos de Experience League](https://experienceleague.adobe.com/events/?lang=es) para obtener una programación completa de los próximos eventos y los eventos anteriores bajo demanda.
+
++++
+
+## ![Icono](/assets/certification-badge.png) Certificación{#certification}
+
+¡Atención a todos los Adobes! Adobe se complace en anunciar el lanzamiento del nuevo Experience Cloud [Certificación](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) en el Experience League.
+
++++Detalles
+
+El sitio de certificación es su centro de atención integral para todos [!DNL Experience Cloud] contenido relacionado con la certificación, que incluye:
+
+* Certificaciones disponibles
+* Renovaciones de certificación para soluciones de Adobe
+* Actualizaciones del programa de certificación
+
+¡Y mucho más! Vaya a [Certificación de Adobe](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) en Experience League e inicie su recorrido de certificación hoy!
 
 +++
 
