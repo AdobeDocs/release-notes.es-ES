@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1901183db80b397aebd80187b0e03dc422342a93
+source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
 workflow-type: tm+mt
-source-wordcount: '5969'
-ht-degree: 61%
+source-wordcount: '5815'
+ht-degree: 60%
 
 ---
 
@@ -90,25 +90,13 @@ El sitio de certificación es su centro de atención integral para todos [!DNL E
 
 ## ![Icono](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
->[!IMPORTANT]
->
->Obtenga información sobre las últimas funciones y actualizaciones en [!DNL Adobe System Status].
+Obtenga información sobre las últimas funciones y actualizaciones en [!DNL Adobe System Status].
 
 +++Detalles
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos de Adobe y las interrupciones y sesiones de mantenimiento de los servicios. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es).
 
-Fecha de publicación: **15 de febrero de 2023**
-
-**Novedades**
-
-* [!DNL Status] ha agregado compatibilidad con API que le permite llamar directamente a los servidores de Adobe para consultar y ver eventos como en la IU de [status.adobe.com](https://status.adobe.com/es). Puede utilizar estas API para integrarlas en su sistema de monitorización o paneles para ver eventos en tiempo real desde el Estado del Adobe. Los eventos se pueden filtrar según el Producto, la Oferta de productos, la Región, el Entorno (cuando esté disponible), la Configuración regional y el Tipo de evento.
-
-| Función | Descripción |
-| ------- | -------|
-| API de Estado de Adobe | <ul><li>Las API de Estado de Adobe proporcionan información detallada y actualizaciones en tiempo real sobre los productos de la nube de Adobe y los incidentes de cortes, interrupciones y mantenimiento de los servicios.</li><li>Las API deben configurarse en [Consola de Adobe Developer](https://developer.adobe.com/console) antes de que se puedan usar. Su organización debe tener derechos de al menos un producto de Adobe para acceder a las API de Adobe. Se requiere una cuenta de Developer Console con los permisos correctos.</li><li>Consulte la documentación [here](https://developer.adobe.com/adobe-status/) y siga las guías de configuración.</li><li>Una vez completada la configuración, puede utilizar el [Documento de referencia de API](https://developer.adobe.com/adobe-status/api/) para ver las API disponibles y las firmas para llamarlas.</li></ul> |
-
-{style="table-layout:auto"}
+Consulte [notas de la versión](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=es#status) para ver las últimas actualizaciones en Estado de Adobe.
 
 +++
 
