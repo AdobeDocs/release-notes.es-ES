@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
+source-wordcount: '5765'
 ht-degree: 62%
 
 ---
@@ -31,7 +31,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **12 de abril de 2023**
+Última actualización: **18 de abril de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [Certificación en el Adobe](#certification) (**¡Nuevo!**)
@@ -58,13 +58,23 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 Averigua lo que está pasando en Experience League. Los eventos son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe. 
 
+Actualizado: **19 de abril de 2023**
+
 +++Próximos eventos
 
-* **[!DNL Workfront]** | _Conectar: Chat de administración estratégica_ | **10 de abril a las 8:00 AM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Pregunten a los expertos: Seguimiento del seminario web sobre la limpieza del flujo de trabajo mediante la automatización_ | **27 de abril a las 10:30 AM MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break con Matthew Baillie y Georgia Fyley_ | **12 de abril a las 8:00 am PT** |  [Registro](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _Taller sobre supercargadores de AEM Sites_ | **25 de abril a las 8:00 am PT** |  [Registro](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Aprenda: Resumen de la versión de Adobe Workfront 23.2_ | **12 de abril a las 12:30 p.m. CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Obtenga recopilación de datos y reenvío de eventos en funcionamiento con solo unos pocos clics._ | **25 de abril a las 9:00 am PT** | [Registro](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Análisis profundo del Campeón de Marketo: Descripción del correo electrónico_ | **25 de abril a las 10:00 am PT** | [Registro](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM horario de oficina del campeón - AEM as a Cloud Service_ | **27 de abril a las 7:30 am PT** | [Registro](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Creación de un equipo de expertos de Adobe Analytics_ | **27 de abril a las 8:00 am PT** | [Registro](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target: ofrezca experiencias personalizadas de cliente cada vez._ | **27 de abril a las 9:00 am BST** | [Registro](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_¡Revisite la Cumbre todo el año!_ | **On Demand** | [Detalles](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Actualización más reciente: **14 de abril de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | ([!DNL Microsoft® Advertising] campañas de audiencia; Versión del 15 de abril) Las campañas de audiencia ahora pueden usar la estrategia de oferta &quot;CPM manual&quot;. Puede establecer ofertas dentro de la configuración del grupo de anuncios secundario.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campañas] | ([!DNL Microsoft® Advertising] campañas de audiencia; Versión del 15 de abril) Las campañas de audiencia ahora pueden usar la estrategia de oferta &quot;CPM manual&quot;. Puede establecer ofertas dentro de la configuración del grupo de anuncios secundario.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Seis nuevos ([!DNL Google Ads] las recomendaciones están disponibles en [!UICONTROL Perspectivas e informes] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL La búsqueda interactiva mejora la solidez de los anuncios]: Sugerencias para mejorar la solidez de las publicidades para un anuncio de búsqueda interactivo</li><li>[!UICONTROL Actualizar la campaña local a un máximo de rendimiento]: Actualizar una campaña local heredada a una campaña de rendimiento máximo</li><li>[!UICONTROL Actualice la campaña de compras inteligentes a un máximo de rendimiento]: Actualizar una campaña de compras inteligente heredada a una campaña de rendimiento máximo</li><li>[!UICONTROL Conjunto de previsiones ROAS de Target]: Aumente el presupuesto antes de un evento estacional que se prevea aumente el tráfico y cambie la estrategia de oferta de [!DNL Maximize Conversion Value] a [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta de CPA de Target demasiado baja]: Levante la variable [!DNL Target CPA] por una cantidad recomendada cuando es demasiado baja y hay pocas conversiones o ninguna</li><li>[!UICONTROL Mostrar opción de expansión]: Expandir el alcance actualizando una campaña para utilizar la expansión de visualización</li></ul>Como la adición y eliminación de recursos, el cambio de tipos de campaña y los cambios en los presupuestos y las estrategias de oferta pueden afectar al rendimiento, recomendamos que analice los pros y los contras de cada recomendación con su equipo de cuenta de Adobe para que pueda tomar una decisión informada. |
 
 {style="table-layout:auto"}
