@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5499'
+source-wordcount: '5500'
 ht-degree: 47%
 
 ---
@@ -31,7 +31,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **8 de mayo de 2023**
+Última actualización: **9 de mayo de 2023**
 
 * [Eventos de [!DNL Experience League]](#events)
 * [Certificación de Adobe](#certification)
@@ -60,7 +60,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 Averigua lo que está pasando en Experience League. Los eventos son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-Actualización: **10 de mayo de 2023**
+Actualización: **9 de mayo de 2023**
 
 +++Próximos eventos
 
@@ -195,7 +195,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 +++Detalles
 
-Versión siguiente: **10 de mayo de 2023**
+Fecha de versión: **10 de mayo de 2023**
 
 * [Notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es) de Customer Journey Analytics
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=es) de Customer Journey Analytics
@@ -217,7 +217,7 @@ Nuevos vídeos, tutoriales o cursos publicados para CJA.
 
 ## ![Icono](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Versión: **10 de mayo de 2023**
+Fecha de versión: **10 de mayo de 2023**
 
 * [Notas de la versión](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=es) de [!DNL Streaming Media Analytics]
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=es) de [!DNL Streaming Media Analytics]
