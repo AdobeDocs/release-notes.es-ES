@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
+source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
 workflow-type: tm+mt
-source-wordcount: '5500'
-ht-degree: 47%
+source-wordcount: '5744'
+ht-degree: 49%
 
 ---
 
@@ -267,7 +267,7 @@ Vea el [vídeo de información general sobre la versión de febrero de 2023](htt
 
 _Nuevas funciones_
 
-* Exportar fragmentos de contenido de AEM as a cloud service a Adobe target como ofertas JSON.
+* Exportar fragmentos de contenido de AEM as a Cloud Service a Adobe target como ofertas JSON.
 * Ahora, la compatibilidad con la paginación y la ordenación de GraphQL, junto con las mejoras en el almacenamiento en caché interno, ayudan a mejorar el rendimiento de las aplicaciones cliente disociadas al recuperar grandes conjuntos de contenido de AEM mediante consultas y filtros complejos de GraphQL.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
@@ -275,7 +275,7 @@ _Nuevas funciones_
 _Nuevas funciones_
 
 * Nuevo protocolo (DASH - Dynamic Adaptive Streaming over HTTP) compatible con el flujo adaptable en la entrega de vídeo de Dynamic Media (con CMAF habilitado):
-   * La transmisión adaptativa (DASH/HLS) garantiza una mejor experiencia de visualización de vídeos por parte del usuario final.
+   * La transmisión adaptable (DASH/HLS) garantiza una mejor experiencia de visualización de vídeos por parte del usuario final.
    * DASH es el protocolo estándar internacional para la transmisión de vídeo adaptable y es ampliamente adoptado en el sector.
    * Disponible en Asia-Pacífico y América del Norte; [habilitado mediante un ticket de asistencia](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#enable-dash). Próximamente en Europa, Oriente Medio y África.
 * Se ha añadido compatibilidad con imágenes WebP para extraer automáticamente metadatos, generar miniaturas y representaciones personalizadas. Ahora, las funciones Smart Tag y Smart Crop también son compatibles con estos archivos.
@@ -292,9 +292,9 @@ _Nuevas funciones_
 * **[Integración con puntos de conexión REST mediante la API abierta 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=es#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** : integre sin problemas los sistemas de registro compatibles con Open API 3.0 para almacenar y recuperar datos mediante modelos de datos de formulario.
 * **[Compartir un formulario adaptable para su revisión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=es)** - Utilice el mecanismo de revisión de Forms adaptable para permitir que uno o más revisores revisen el formulario.
 
-### Programa de adopción anticipada de Forms adaptable sin objetivos
+### Formularios adaptables sin encabezado, programa para primeros usuarios
 
-Utilice Forms adaptable sin encabezado para permitir a los desarrolladores crear, publicar y administrar formularios interactivos a los que se puede acceder e interactuar mediante API, en lugar de a través de una interfaz gráfica de usuario tradicional. Los formularios adaptables sin encabezado le ayudan a:
+Utilice los formularios adaptables sin encabezado para que los desarrolladores puedan crear, publicar y gestionar formularios interactivos a los que se pueda acceder y con los que se pueda interactuar a través de API, en lugar de a través de una interfaz gráfica de usuario tradicional. Los formularios adaptables sin encabezado le ayudan a:
 
 * Cree formularios multicanal de alta calidad en el lenguaje de programación que elija.
 * Integre de forma nativa formularios en sus aplicaciones de escritorio y móviles, sitios web y aplicaciones de chat
@@ -472,24 +472,18 @@ Vaya aquí para conocer las últimas funcionalidades, mejoras y correcciones en 
 
 Obtenga más información sobre las funciones, mejoras y correcciones más recientes en las notas de la versión de [Campaign 7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=es), [Campaign 8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=es) y [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=es).
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### Nuevos tutoriales y cursos [!DNL Campaign] {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+Nuevos vídeos, tutoriales o cursos publicados de Adobe Campaign.
 
-|Published|Name|Type|Description |Applications|
+| Publicadas | Nombre | Tipo | Descripción | Aplicación |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|April 2023|[Query data](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en)|Video |Learn how to query data using the query editor.|Campaign v8|
-|April 2023|[Add attachments to an email delivery](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en)|Video |Learn how to add attachments to an email delivery and how to configure different types of email attachments.|Campaign v8|
-|April 2023|[Configure deliveries for A/B testing](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html)|Video |Learn how to configure a delivery for A/B testing.|Campaign v8|
-|April 2023|[Configure Landing pages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html)|Video |Learn how to create and configure landing pages.|Campaign v8|
-|April 2023|[Configure scheduler activities](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html)|Video |Learn how to configure a scheduler activity in a workflow.|Campaign v8|
-|April 2023|[Create a preference center](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html)|Video |Learn how to create a preference center using Adobe Campaign's web application editor.|Campaign v8|
-|April 2023|[Manage time zones](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html)|Video |Learn how to apply time zones to scheduled workflow activities.|Campaign v8|
-|April 2023|[Understand quarantine Management](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html)|Video |Understand how quarantine management works in Adobe Campaign and learn how to manage quarantined addresses.|Campaign v8|
-|April 2023|[Schedule messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html)|Video |Learn how to schedule an email delivery.|Campaign v8|
-|April 2023|[Send a proof for an email delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html)|Video |Learn how to test an email message before sending it to the final recipients.|Campaign v8|
+| Mayo de 2023 | [Creación de una encuesta](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Vídeo | Aprenda a crear una encuesta en Adobe Campaign Classic. | Campaign v8 |
+| Mayo de 2023 | [Creación de una encuesta](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Vídeo | Aprenda a crear una encuesta en Adobe Campaign Classic. | Campaign Classic |
+| Mayo de 2023 | [Diseño del contenido de envío de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Vídeo | Obtenga información sobre cómo configurar, personalizar y probar el contenido de envío de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos, incrustar códigos de barras y códigos QR. | Campaign Classic |
+| Mayo de 2023 | [Monitorización de un envío](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Vídeo | Comprenda los registros de mensajes, los registros de trabajos y los registros de entregas. | Campaign Standard |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] Base de conocimiento de asistencia
 
@@ -522,18 +516,17 @@ Obtenga información sobre las últimas actualizaciones de la versión para [!DN
 
 Descubra las funcionalidades, mejoras y correcciones más recientes en las [Notas de la versión de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=es).
 
-<!-- ### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
+### Nuevos tutoriales y cursos de [!DNL Journey Optimizer] {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
+Nuevos vídeos, tutoriales o cursos publicados de Adobe [!DNL Journey Optimizer].
 
-|Published|Name|Type|Description |
+| Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)|Updated video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
-|April 2023|[Decision Management - Frequency capping](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/frequency-capping.html)|Video |Understand how frequency capping for Offer Decisioning works. Learn how to configure frequency capping for a custom event and how to configure increments by defining the frequency.|
-|April 2023|[Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)|Video |Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.|
-|April 2023|[Author an in-app message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html)|Video |Learn how to author and test an in-app message.|
+| Mayo de 2023 | [Creación de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Vídeo | Obtenga información sobre cómo crear una experiencia web mediante el editor visual web en campañas de Journey Optimizer. |
+| Mayo de 2023 | [Creación de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Vídeo | Comprender qué es una campaña web. Obtenga información sobre cómo configurar las propiedades de campaña web, revisarlas y publicarlas. |
+| Mayo de 2023 | [Exportar conjuntos de datos a ubicaciones de almacenamiento en la nube](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Vídeo | Obtenga información sobre cómo exportar un conjunto de datos de Journey Optimizer a un destino de Amazon S3. |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 <!--### [!DNL Journey Optimizer] support knowledge base
 
