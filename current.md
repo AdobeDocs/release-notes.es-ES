@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
+source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 97%
+source-wordcount: '5725'
+ht-degree: 94%
 
 ---
 
@@ -31,9 +31,9 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **10 de mayo de 2023**
+Última actualización: **22 de mayo de 2023**
 
-* [Eventos de [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Mayo de 22**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaz y administración de [!DNL Experience Cloud]](#ecloud)
@@ -48,7 +48,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
 * [[!DNL Campaign]](#ac) (actualizado el **10 de mayo**)
-* [[!DNL Journey Optimizer]](#journey-opt) (actualizado **10 de mayo**)
+* [[!DNL Journey Optimizer]](#journey-opt) (actualizado) **Mayo de 10**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -56,29 +56,34 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![Icono](/assets/experience-league.png) Eventos de [!DNL Experience League] {#events}
+## ![Icono](/assets/experience-league.png) [!DNL Experience League] eventos y actualizaciones {#events}
 
 Averigua lo que está pasando en Experience League. Los eventos son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-Actualización: **9 de mayo de 2023**
+Actualización: **22 de mayo de 2023**
+
+**Búsqueda de contenido mejorada en el Experience League:** Puede personalizar cómo filtrar los resultados de búsqueda de contenido para los productos que posee. Mostrar resultados según:
+
+* Tutoriales
+* Cursos
+* Documentación
+* Productos
+* Eventos
+* Certificaciones
+
+Ir a [Experience League](https://experienceleague.adobe.com/?lang=es#home) ¡y échale un vistazo!
 
 +++Próximos eventos
 
-* **[!DNL Campaign]** | _Adobe Campaign: ¡acierta siempre el marketing por correo electrónico!_ | **11 de mayo a las 9:00 a. m. BST** |  [Registro](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Workfront]** | _Aprenda: Campos personalizados calculados en Workfront_ | **11 de mayo a las 10:30 a. m. MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Commerce]** | _Commerce &amp; Coffee: 7 formas de generar lealtad del cliente y retención_ | **11 de mayo a la 1:00 p. m. PT** | [Registro](https://register.gotowebinar.com/#register/4149787110381957724)
-
-* **[!DNL Workfront]** | _Connect: Chat de administrador estratégico_ | **15 de mayo a las 8:00 a. m. CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Taller sobre Supercharger de Adobe Experience Manager Sites_ | **16 de mayo a las 9:00 a. m. BST** | [Registro](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _Hecho para el contenido: componentes de contenido y fragmentos de experiencias_ | **16 de mayo a las 8:00 a. m. PT** | [Registro](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _Experience Makers The Skill Exchange para Adobe Analytics: APAC_ | **17 de mayo a la 1:30 p. m. AEST** | [Registro](https://cvent.me/vWyONx?RefId=Experience+League)
-
 * **[!DNL Experience Manager]** | _Live de Desarrollador: experiencias componibles. Conferencia virtual de un día con sesiones en directo y oportunidades para hacer contactos con la comunidad._ | **23 de mayo a las 8:00 a. m. MDT** | [Registro](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
+* **[!DNL Workfront]** | _Obtenga información: Introducción a Scrum con Adobe Workfront_ | **23 de mayo a las 14:00 CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Sobrecargue su organización para ofrecer una personalización basada en datos_ | **24 de mayo a las 8:00 AM PT** | [Registrar](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+
+* **[!DNL Workfront]** | _Pregunte a los expertos: Fundamentos de las plantillas de proyectos Seminario web de seguimiento_ | **24 de mayo a las 10:00 AM CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Assets]** | _Espressos y Experience Manager: migración a AEM Assets_ | **25 de mayo a las 13:00 h PT** | [Registrar](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 ¡Y mucho más! Vaya a [Eventos](https://experienceleague.adobe.com/events/?lang=es) en Experience League para ver eventos anteriores y programados.
 
@@ -368,7 +373,7 @@ Nuevos vídeos, tutoriales y cursos publicados durante el mes pasado.
 | Mayo de 2023 | [Personalización del editor de texto en comunicaciones interactivas](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html?lang=es) | Vídeo | Personalice el editor de texto en comunicaciones interactivas para añadir fuentes y tamaños personalizados. | AEM Forms |
 | Mayo de 2023 | [Aplicación de React con AEM Forms y Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html?lang=es) | Vídeo | Cree un documento de comunicación interactivo con los datos enviados desde una aplicación de React nativa y preséntela al usuario final para firmar con el widget de Acrobat Sign | AEM Forms |
 | Mayo de 2023 | [Integración de Forms CS con Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html?lang=es) | Vídeo | Aprenda a configurar e integrar AEM Forms CS con Microsoft® Sharepoint | AEM Forms CS |
-| Mayo de 2023 | [Almacenar el envío de formularios en OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html?lang=es) | Vídeo | Configure el formulario adaptable para almacenar datos de formulario en OneDrive. | AEM Forms CS |
+| Mayo de 2023 | [Almacenar el envío de formularios en OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html?lang=es) | Vídeo | Configurar formularios adaptables para almacenar datos de formulario en OneDrive. | AEM Forms CS |
 | Mayo de 2023 | [Cómo utilizar imágenes optimizadas de AEM sin encabezado](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=es) | Vídeo | Aprenda a utilizar imágenes optimizadas en AEM sin encabezado. | AEM CS |
 | Mayo de 2023 | [Cómo trabajar con resultados grandes en AEM sin encabezado](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=es) | Vídeo | Aprenda a trabajar con grandes conjuntos de resultados en AEM sin encabezado. | AEM CS |
 
@@ -478,10 +483,10 @@ Nuevos vídeos, tutoriales o cursos publicados para [!DNL Adobe Campaign].
 
 | Publicadas | Nombre | Tipo | Descripción | Aplicación |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mayo de 2023 | [Creación de una encuesta](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Vídeo | Obtenga información sobre cómo crear una encuesta en [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Mayo de 2023 | [Creación de una encuesta](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Vídeo | Obtenga información sobre cómo crear una encuesta en [!DNL Adobe Campaign] Versión 8. | [!DNL Campaign] v8 |
 | Mayo de 2023 | [Creación de una encuesta](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Vídeo | Obtenga información sobre cómo crear una encuesta en [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
 | Mayo de 2023 | [Diseño del contenido de los envíos de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Vídeo | Obtenga información sobre cómo configurar, personalizar y probar el contenido de los envíos de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos e incrustar códigos de barras y códigos QR. | [!DNL Campaign Classic] |
-| Mayo de 2023 | [Monitorización de un envío](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Vídeo | Comprenda los registros de mensajes, los registros de trabajos y los registros de entregas. | [!DNL Campaign Standard] |
+| Mayo de 2023 | [Monitorización de un envío](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Vídeo | Comprenda los registros de mensajes, los registros de trabajos y los registros de envío. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +527,9 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe [!DNL Journey Optimizer]
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
-| Mayo de 2023 | [Autor de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Vídeo | Obtenga información sobre cómo crear una experiencia web mediante el editor visual web en [!DNL Journey Optimizer] campañas. |
+| Mayo de 2023 | [Autor de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Vídeo | Aprenda a crear una experiencia web con el editor visual web en [!DNL Journey Optimizer] campañas. |
 | Mayo de 2023 | [Creación de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Vídeo | Comprender qué es una campaña web. Obtenga información sobre cómo configurar las propiedades de campaña web, revisarlas y publicarlas. |
-| Mayo de 2023 | [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Vídeo | Obtenga información sobre cómo exportar un conjunto de datos desde [!DNL Journey Optimizer] a un [!DNL Amazon] Destino S3. |
+| Mayo de 2023 | [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Vídeo | Obtenga información sobre cómo exportar un conjunto de datos desde [!DNL Journey Optimizer] a un [!DNL Amazon] Destino de S3. |
 
 {style="table-layout:auto"}
 
@@ -680,7 +685,7 @@ Actualización más reciente: **14 de abril de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Campañas] | (Campañas de audiencia de [!DNL Microsoft® Advertising]; versión del 15 de abril) Las campañas de audiencia ahora pueden usar la estrategia de oferta “CPM manual”. Puede establecer ofertas dentro de la configuración del grupo de publicidad secundario.<br><br>La compatibilidad con la optimización no está disponible para campañas de CPM. |
+| [!UICONTROL Campañas] | (Campañas de audiencia de [!DNL Microsoft® Advertising]; versión del 15 de abril) Las campañas de audiencia ahora pueden usar la estrategia de oferta “CPM manual”. Puede establecer ofertas dentro de la configuración del grupo de publicidad secundario.<br><br>La compatibilidad con la optimización no está disponible para campañas CPM. |
 | [!UICONTROL Recommendations] | Hay seis nuevas recomendaciones de [!DNL Google Ads] disponibles en [!UICONTROL Perspectivas e informes] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL La búsqueda adaptable mejora la solidez de los anuncios]: sugerencias para mejorar la solidez de la publicidad para un anuncio de búsqueda interactivo</li><li>[!UICONTROL Actualizar la campaña local a una de máximo de rendimiento]: actualice una campaña local heredada a una de máximo rendimiento</li><li>[!UICONTROL Actualizar la campaña de compras inteligentes a una de máximo de rendimiento]: actualice una campaña de compras inteligente heredada a una de máximo rendimiento</li><li>[!UICONTROL Conjunto de previsiones ROAS de Target]: aumente el presupuesto antes de un evento estacional en que se prevea para aumentar el tráfico y cambiar la estrategia de oferta de [!DNL Maximize Conversion Value] a [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta de CPA de Target demasiado baja]: aumente el [!DNL Target CPA] por una cantidad recomendada cuando es demasiado baja y hay pocas conversiones o ninguna</li><li>[!UICONTROL Adhesión de expansión de visualización]: expanda el alcance actualizando una campaña para utilizar la expansión de visualización</li></ul>Como añadir y eliminar activos, cambiar los tipos de campaña y modificar los presupuestos y las estrategias de puja puede afectar al rendimiento, le recomendamos consultar los pros y los contras de cada recomendación con el equipo de su cuenta de Adobe para poder tomar una decisión fundamentada. |
 
 {style="table-layout:auto"}
