@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
+workflow-type: tm+mt
+source-wordcount: '5698'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **22 de mayo de 2023**
+Última actualización: **30 de mayo de 2023**
 
 * Eventos y actualizaciones de [[!DNL Experience League] ](#events) (actualizado el **22 de mayo**)
 * [Certificación de Adobe](#certification)
@@ -52,7 +52,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (actualizado el **30 de mayo**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -671,11 +671,11 @@ Last updated: **August 9, 2022**
 
 Obtenga información sobre las últimas funciones de Adobe Advertising.
 
-Actualización más reciente: **10 de abril de 2023**
+Última actualización: **30 de mayo de 2023**
 
 | Función | Descripción |
 | ------- | ----------- |
-| [!UICONTROL Informes] | (Versión de marzo) Un nuevo informe [!UICONTROL Hogar] muestra impresiones, alcance y frecuencia en diversas dimensiones en el nivel del hogar en función de la dirección IP, en lugar de hacerlo en el nivel de dispositivo/cookie. El informe incluye nueve dimensiones: [!UICONTROL Campaign], [!UICONTROL Paquete], [!UICONTROL Ubicación], [!UICONTROL Sitio/Aplicaciones], [!UICONTROL Tipo de medios], [!UICONTROL Dispositivo], [!UICONTROL Audiencia], [!UICONTROL Longitud creativa] y [!UICONTROL Etiquetas] creadas por el usuario. |
+| [!UICONTROL Campañas] | (Versión del 24 de mayo) Ahora puede pausar o activar campañas, paquetes y anuncios. Ya puede pausar y activar las ubicaciones. |
 
 {style="table-layout:auto"}
 
