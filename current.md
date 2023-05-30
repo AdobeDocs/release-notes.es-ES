@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
 workflow-type: tm+mt
-source-wordcount: '5698'
-ht-degree: 99%
+source-wordcount: '5609'
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 
 Averigua lo que está pasando en Experience League. Los eventos son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-Actualización: **22 de mayo de 2023**
+Actualización: **30 de mayo de 2023**
 
 **Búsqueda de contenido mejorada en Experience League:** puede personalizar cómo filtrar los resultados de búsqueda de contenido para los productos que posee. Mostrar resultados según:
 
@@ -75,17 +75,13 @@ Actualización: **22 de mayo de 2023**
 
 +++Próximos eventos
 
-* **[!DNL Experience Manager]** | _Live de Desarrollador: experiencias componibles. Conferencia virtual de un día con sesiones en directo y oportunidades para hacer contactos con la comunidad._ | **23 de mayo a las 8:00 a. m. MDT** | [Registro](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _AEM Horario de oficina del Campeón de DAEM: Administrador de nube de_ | **31 de mayo a las 7:30 AM PT** | [Registrar](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _Aprenda: Introducción a Scrum con Adobe Workfront_ | **23 de mayo a las 2:00 p. m. CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Coffee Break de preguntas y respuestas de la comunidad de Adobe Journey Optimizer con Ivan Mironchuk Peter Fransen, Jason Hickey y Sandra Hausmann_ | **31 de mayo a las 8:00 AM PT** | [Registrar](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]** | _Potencie su organización para ofrecer una personalización basada en datos_ | **24 de mayo a las 8:00 a. m. PT** | [Registro](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _Maximización del valor con Adobe Audience Manager: navegación por los cambios del sector y transición a RTCDP_ | **1 de junio a las 10:00 h PT** | [Registrar](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _Pregunte a los expertos: continuación del seminario web sobre fundamentos de las plantillas de proyectos_ | **24 de mayo a las 10:00 a. m. CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]** | _Espressos y Experience Manager: migración a AEM Assets_ | **25 de mayo a la 1:00 p. m. PT** | [Registro](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
-
-¡Y mucho más! Vaya a [Eventos](https://experienceleague.adobe.com/events/?lang=es) en Experience League para ver eventos anteriores y programados.
+[Más...](https://experienceleague.adobe.com/events/?lang=es)
 
 +++
 
