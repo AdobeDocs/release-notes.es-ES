@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5609'
-ht-degree: 98%
+source-wordcount: '5635'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,7 @@ Su camino hacia el éxito comienza con [Experience League](https://experiencelea
 * Eventos y actualizaciones de [[!DNL Experience League] ](#events) (actualizado el **22 de mayo**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [Interfaz y administración de [!DNL Experience Cloud]](#ecloud)
+* [[!DNL Experience Cloud] interfaz y administración](#ecloud) (actualizado) **Mayo de 25**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ Encuentre las actualizaciones de la página de inicio de la interfaz de Experien
 
 +++Detalles
 
-_No se actualizó en mayo._
+Versión: **25 de mayo de 2023**
+
+* Se ha actualizado el menú Ayuda para incluir los resultados de búsqueda de los vídeos de tutoriales de Experience League, la documentación del producto y las publicaciones de la comunidad. Puede ver los resultados en Experience League.
 
 Para obtener ayuda, consulte la [Interfaz de Experience Cloud y la Guía de administración](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=es) (incluye [!UICONTROL Atributos del cliente] y [!UICONTROL Audiencias]).
 
