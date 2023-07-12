@@ -6,10 +6,10 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
-ht-degree: 40%
+source-wordcount: '5836'
+ht-degree: 43%
 
 ---
 
@@ -31,7 +31,7 @@ Inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=e
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **11 de julio de 2023**
+Última actualización: **12 de julio de 2023**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [Certificación de Adobe](#certification)
@@ -286,7 +286,7 @@ Vea la [Vídeo de información general sobre la versión de junio de 2023](https
 
 _Nuevas funciones_
 
-* [!UICONTROL Fragmentos de contenido] y sus referencias ahora se pueden publicar en [AEM Servicio de previsualización de](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service) uso del [Consola de fragmento de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=es), permitiendo a los usuarios previsualizar la experiencia final en una aplicación de vista previa disociada antes de lanzarse.
+* Los fragmentos de contenido y sus referencias ahora se pueden publicar en el [Servicio de previsualización de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=es#access-preview-service) mediante la [consola de fragmento de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=es), permitiendo a los usuarios previsualizar la experiencia final en una aplicación de vista previa disociada antes de lanzarse.
 * AEM Ahora, las imágenes se pueden optimizar dinámicamente para la entrega web en escenarios sin encabezado mediante GraphQL de la aplicación de la forma más rápida y sencilla. [Variables de consulta](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) se puede definir en las consultas de GraphQL AEM para permitir que las aplicaciones cliente disociadas soliciten las imágenes optimizadas correspondientes de los usuarios de la aplicación de la forma que se va a.
 * Etiquetas en [Variaciones de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) AEM ahora se puede enviar a JSON mediante la API de entrega de contenido de GraphQL de la.
 
@@ -316,7 +316,7 @@ Una nueva experiencia de usuario mejorada para [crear vínculos compartidos](htt
 
 **Dynamic Media: se han actualizado los campos relacionados con los recortes inteligentes en el perfil de imagen**
 
-La interfaz de usuario de algunos campos relacionados con el recorte inteligente en un perfil de imagen ahora se actualiza para reflejar las directrices actuales para definir un recorte inteligente. Consulte [Opciones de recorte](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options).
+La interfaz de usuario de algunos campos relacionados con el recorte inteligente en un perfil de imagen ahora se actualiza para reflejar las directrices actuales para definir un recorte inteligente. Consulte las [Opciones de recorte](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options).
 
 _Nuevas funciones de la vista Recursos_
 
@@ -352,11 +352,11 @@ _Nuevas funciones disponibles en Forms_
 
 * [Uso de soluciones de Acrobat Sign para la administración pública (reclamación de HIPPA) con AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] ahora se integra con [!DNL Acrobat Sign Solutions] para el Gobierno. Esta integración proporciona un nivel avanzado de cumplimiento y seguridad para las firmas electrónicas con envíos de formularios adaptables para cuentas asociadas con el gobierno (departamentos y agencias gubernamentales).
 
-La integración con Adobe Acrobat Sign Solutions para Administración Pública permite a los socios y clientes gubernamentales de Adobe utilizar firmas electrónicas en [!UICONTROL Forms adaptable] para algunas de las líneas de negocio más críticas y sensibles. Este nivel adicional de seguridad garantiza que todas las firmas electrónicas cumplan plenamente con la normativa FedRAMP Moderate, lo que proporciona tranquilidad a los clientes gubernamentales de Adobe.
+La integración con Adobe Acrobat Sign Solutions para Administración Pública permite a los socios y clientes gubernamentales de Adobe utilizar firmas electrónicas en [!UICONTROL Forms adaptable] para algunas de las líneas de negocio más críticas y sensibles. Este nivel adicional de seguridad garantiza que todas las firmas electrónicas cumplan plenamente con la normativa FedRAMP Moderate, lo que proporciona tranquilidad a los clientes de la administración pública de Adobe.
 
-* [Tratamiento de errores mejorado con controladores de error personalizados en el editor de reglas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): Ahora puede invocar una función personalizada (mediante la Biblioteca de clientes) en respuesta a un error devuelto por un servicio externo y proporcionar una respuesta adaptada a los usuarios finales. O bien, puede realizar acciones específicas en busca de errores devueltos por un servicio. Por ejemplo, puede invocar un flujo de trabajo personalizado en el backend para códigos de error específicos o informar al cliente de que el servicio está inactivo.
+* [Tratamiento de errores mejorado con controladores de error personalizados en el editor de reglas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): Ahora puede invocar una función personalizada (mediante la Biblioteca de clientes) en respuesta a un error devuelto por un servicio externo y proporcionar una respuesta adaptada a los usuarios finales. O bien, puede realizar acciones específicas en busca de errores devueltos por un servicio. Por ejemplo, puede invocar un flujo de trabajo personalizado en el back-end para códigos de error específicos o informar al cliente de que el servicio está inactivo.
 
-Esta funcionalidad ayuda a mejorar su capacidad general de gestión de errores mediante la introducción de respuestas de error basadas en estándares compatibles con los controladores de error OOTB, con buena flexibilidad y control.
+Esta funcionalidad ayuda a mejorar su capacidad general de gestión de errores mediante la introducción de respuestas de error basadas en estándares compatibles con los controladores de errores OOTB, con buena flexibilidad y control.
 
 [Métodos de autenticación mejorados para el modelo de datos de formulario](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=es): Disfrute de una mayor seguridad con la introducción de la autenticación basada en credenciales de cliente para conectar AEM Forms (modelos de datos de formulario) con fuentes de datos compatibles. Esta mejora elimina la necesidad de suplantación o inicio de sesión del usuario, lo que refuerza la protección de los datos.
 
@@ -424,19 +424,19 @@ Todas las notas de la versión de [!DNL Experience Manager] se mantienen en las 
 
 Nuevos vídeos, tutoriales o cursos publicados para Experience Manager.
 
-| Publicadas | Nombre | Tipo | Descripción | Aplicaciones |
+| Publicadas | Aplicaciones | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Julio de 2023 | [Acceso rápido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Vídeo | Descubra cómo [!UICONTROL Acceso rápido] puede aumentar su productividad y optimizar su flujo de trabajo al servir como su lente personal en [!DNL AEM Assets]. Esta función mantiene todos los recursos que necesita para las tareas asignadas al alcance de su mano. | [!DNL AEM Assets] |
-| Julio de 2023 | [Mostrar _gracias_ mensaje sobre el envío de formularios sin encabezado](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artículo | Mostrar un _gracias_ mensaje de envío correcto de formularios sin encabezado. | [!DNL AEM Forms] |
-| Julio de 2023 | [Previsualizar Bookmarklet: ejemplo de código](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artículo | Obtenga información sobre cómo crear un bookmarklet de JavaScript para previsualizar su[!UICONTROL  Fragmento de contenido del generador de aplicaciones] AEM extensión en el contexto de la [!UICONTROL Fragmento de contenido] páginas. | [!UICONTROL Fragmentos de contenido] |
-| Julio de 2023 | [Exportar fragmento de contenido a XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artículo | Se pueden añadir botones personalizados al [!UICONTROL Editor de fragmentos de contenido] menú de encabezado con el `headerMenu` punto de extensión. En este ejemplo se muestra cómo agregar un botón al menú de encabezado y cómo controlar el evento de clic para exportar el activo [!UICONTROL Fragmento de contenido] como XML o CSV. | [!UICONTROL Fragmentos de contenido] |
-| Julio de 2023 | [Mostrar el formulario al hacer clic en la tarjeta](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artículo | Profundizar en el formulario desde la vista de tarjeta. | [!DNL AEM Forms] |
-| Julio de 2023 | [Añadir widgets al editor de texto enriquecido (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Vídeo | AEM Aprenda a añadir widgets al Editor de texto enriquecido (RTE) en el Editor de texto enriquecido (RTEs) en el [!UICONTROL Editor de fragmentos de contenido]. | [!UICONTROL Fragmentos de contenido] |
-| Julio de 2023 | [Añadir insignias al editor de texto enriquecido](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Vídeo | AEM Aprenda a añadir insignias al Editor de texto enriquecido (RTE) en el Editor de texto enriquecido () [!UICONTROL Editor de fragmentos de contenido]. | [!UICONTROL Fragmentos de contenido] |
-| Julio de 2023 | [Columnas de cuadrícula personalizadas](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Vídeo | Descubra cómo se puede agregar una columna de cuadrícula personalizada a la [!UICONTROL Consola de fragmento de contenido]. | [!UICONTROL Fragmentos de contenido] |
-| Julio de 2023 | [recursos 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Vídeo | Obtenga información acerca de la compatibilidad con recursos 3D en [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| Julio de 2023 | [Referencias](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Vídeo | AEM Descubra cómo la consola y el editor de fragmentos de contenido de la consola de facilitan la comprensión y administración del contenido referenciado. | [!DNL AEM Sites] |
-| Julio de 2023 | [Personalizar respuesta en función de los datos enviados](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Vídeo | Cree un servicio de envío personalizado para administrar el envío de formularios adaptables sin encabezado. | [!DNL AEM Forms] |
+| Julio de 2023 | [!DNL AEM Assets] | [Acceso rápido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Vídeo | Descubra cómo [!UICONTROL Acceso rápido] puede aumentar su productividad y optimizar su flujo de trabajo al servir como su lente personal en [!DNL AEM Assets]. Esta función mantiene todos los recursos que necesita para las tareas asignadas al alcance de su mano. |
+| Julio de 2023 | [!DNL AEM Assets] | [recursos 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Vídeo | Obtenga información acerca de la compatibilidad con recursos 3D en [!DNL AEM Assets as a Cloud Service]. |
+| Julio de 2023 | [!DNL AEM Forms] | [Mostrar _gracias_ mensaje sobre el envío de formularios sin encabezado](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artículo | Mostrar un _gracias_ mensaje de envío correcto de formularios sin encabezado. |
+| Julio de 2023 | [!DNL AEM Forms] | [Mostrar el formulario al hacer clic en la tarjeta](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artículo | Profundizar en el formulario desde la vista de tarjeta. |
+| Julio de 2023 | [!DNL AEM Forms] | [Personalizar respuesta en función de los datos enviados](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Vídeo | Cree un servicio de envío personalizado para administrar el envío de formularios adaptables sin encabezado. |
+| Julio de 2023 | [!UICONTROL Fragmentos de contenido] | [Previsualizar bookmarklet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artículo | Obtenga información sobre cómo crear un bookmarklet de JavaScript para previsualizar su[!UICONTROL  Fragmento de contenido del generador de aplicaciones] AEM extensión en el contexto de la [!UICONTROL Fragmento de contenido] páginas. |
+| Julio de 2023 | [!UICONTROL Fragmentos de contenido] | [Exportar fragmento de contenido a XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artículo | Se pueden añadir botones personalizados al [!UICONTROL Editor de fragmentos de contenido] menú de encabezado con el `headerMenu` punto de extensión. En este ejemplo se muestra cómo agregar un botón al menú de encabezado y cómo controlar el evento de clic para exportar el activo [!UICONTROL Fragmento de contenido] como XML o CSV. |
+| Julio de 2023 | [!UICONTROL Fragmentos de contenido] | [Añadir widgets al editor de texto enriquecido (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Vídeo | AEM Aprenda a añadir widgets al Editor de texto enriquecido (RTE) en el Editor de texto enriquecido (RTEs) en el [!UICONTROL Editor de fragmentos de contenido]. |
+| Julio de 2023 | [!UICONTROL Fragmentos de contenido] | [Añadir insignias al editor de texto enriquecido](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Vídeo | AEM Aprenda a añadir insignias al Editor de texto enriquecido (RTE) en el Editor de texto enriquecido () [!UICONTROL Editor de fragmentos de contenido]. |
+| Julio de 2023 | [!UICONTROL Fragmentos de contenido] | [Columnas de cuadrícula personalizadas](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Vídeo | Descubra cómo se puede agregar una columna de cuadrícula personalizada a la [!UICONTROL Consola de fragmento de contenido]. |
+| Julio de 2023 | [!DNL AEM Sites] | [Referencias](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Vídeo | AEM Descubra cómo la consola y el editor de fragmentos de contenido de la consola de facilitan la comprensión y administración del contenido referenciado. |
 
 {style="table-layout:auto"}
 
