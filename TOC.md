@@ -7,7 +7,7 @@ user-guide-description: Obtenga información sobre nuevas funciones, correccione
 user-guide-url: https://www.adobe.com
 source-git-commit: c282feb91e5e7981d04abc06eb7b14cbfbca80c5
 workflow-type: ht
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
