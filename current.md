@@ -6,7 +6,7 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 637dbc7168945c8ec51ddabbef72d3ea2981a6b9
+source-git-commit: 94e567e767551992e794b8c8476307d441d77953
 workflow-type: tm+mt
 source-wordcount: '5503'
 ht-degree: 50%
@@ -72,7 +72,7 @@ Obtenga información sobre las integraciones de aplicaciones de Experience Cloud
 
 +++Próximos eventos en Experience League
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Connect: Chat de administrador estratégico de Workfront_ |** 14 de agosto a las 7:00 AM CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Taller para clientes | _Connect: Chat de administrador estratégico de Workfront_ |**14 de agosto a las 7:00 AM CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER]** | Creadores de experiencia | _El intercambio de habilidades para Adobe Experience Manager_ | **17 de agosto a las 9:00 AM PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,9 +83,9 @@ Obtenga información sobre las integraciones de aplicaciones de Experience Cloud
 
 * **[!DNL WORKFRONT]** | Taller para clientes | _Aprender con Workfront: colas solicitadas_ | **22 de agosto a las 9:00 AM MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL EXPERIENCE CLOUD] | Seminario web | La mezcla perfecta: Adobe Analytics + Adobe Commerce | **22 de agosto a las 11:00 AM MT** | [Registrar](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | Seminario web | _La mezcla perfecta: Adobe Analytics + Adobe Commerce_ | **22 de agosto a las 11:00 AM MT** | [Registrar](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* [!DNL EXPERIENCE CLOUD] | Seminario web | La mezcla perfecta: Marketo + Workfront | **31 de agosto a las 11:00 AM MT** | [Registrar](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | Seminario web | _La mezcla perfecta: Marketo + Workfront_ | **31 de agosto a las 11:00 AM MT** | [Registrar](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 Ver los [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es). Ahora puede utilizar la navegación de la izquierda para buscar eventos grabados basados en el tipo de serie o aplicación.
 
