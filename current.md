@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94e567e767551992e794b8c8476307d441d77953
+source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
 workflow-type: tm+mt
-source-wordcount: '5503'
-ht-degree: 100%
+source-wordcount: '5421'
+ht-degree: 97%
 
 ---
 
@@ -31,9 +31,9 @@ Inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=e
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **9 de agosto de 2023**
+Última actualización: **29 de agosto de 2023**
 
-* [Eventos y actualizaciones de [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **29 de agosto**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaz y administración de [!DNL Experience Cloud]](#ecloud)
@@ -72,20 +72,17 @@ Obtenga información sobre las integraciones de aplicaciones de Experience Cloud
 
 +++Próximos eventos en Experience League
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Connect: Chat de administrador estratégico de Workfront_ |**14 de agosto a las 7:00 a. m. CT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** | Seminario web | Coffee Break de preguntas y respuestas de la comunidad con expertos en Adobe Journey Optimizer Siddharth Jain, Chetan Prasad y Nikhil Sharma_ | **30 de agosto a las 8:00 a. m. pT** | [Registrar](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE MANAGER]** | Creadores de experiencia | _El intercambio de habilidades para Adobe Experience Manager_ | **17 de agosto a las 9:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE CLOUD]** | Seminario web | _La mezcla perfecta: Marketo + Workfront_ | **31 de agosto a la 1:00 p. m. ET** | [Registrar](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** | Creadores de experiencia | _El intercambio de habilidades para Adobe Workfront_ | **16 de agosto a las 9:00 a. m. PT** | [Registrarse](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
-* **[!DNL ANALYTICS]** | Creadores de experiencia | _El intercambio de habilidades para Adobe Analytics_ | **17 de agosto a las 9:00 a. m. PT** | [Registrarse](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
+* **[!DNL WORKFRONT]** | Evento comunitario | _Adobe Workfront Connect: Chat del administrador para marketing y creativos_ | **1 de septiembre a las 10:00 h MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL TARGET]** | Seminario web | _Estrategias para lograr el máximo impacto en el retorno con preparación para la temporada alta_ | **17 de agosto a las 8:00 a. m. PT** | [Registrarse](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
+* **[!DNL MARKETO ENGAGE]** | Evento comunitario | _Mejore la capacidad de entrega de correos electrónicos con[!DNL Marketo Engage]_ | **7 de septiembre a las 8:00 a. m PT** | [Registrar](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Aprender con Workfront: colas solicitadas_ | **22 de agosto a las 9:00 a. m. MT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **GENERAL** | Livestream | _App Builder Live: Migración a OAuth_ | **7 de septiembre a las 9:00 h PT** | [Registrar](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL EXPERIENCE CLOUD]** | Seminario web | _La combinación perfecta: Adobe Analytics y Adobe Commerce_ | **22 de agosto a las 11:00 a. m. MT** | [Registrarse](https://register.gotowebinar.com/register/8741953502398625879?source=ExL )
-
-* **[!DNL EXPERIENCE CLOUD]** | Seminario web | _La combinación perfecta: Marketo y Workfront_ | **31 de agosto a las 11:00 a. m. MT** | [Registrarse](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL WORKFRONT]** | Taller para clientes | _Obtenga información: argumentos a favor de un administrador de sistemas a tiempo completo_ | **7 de septiembre a las 12:00 p. m. CT** | [Registrar](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 Ver los [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es). Ahora puede utilizar la navegación de la izquierda para buscar eventos grabados basados en el tipo de serie o aplicación.
 
