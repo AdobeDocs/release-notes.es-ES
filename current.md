@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
+source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
 workflow-type: tm+mt
-source-wordcount: '7132'
-ht-degree: 100%
+source-wordcount: '7206'
+ht-degree: 97%
 
 ---
 
@@ -33,9 +33,9 @@ Inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=e
 
 ## Eventos y actualizaciones de la versión del producto
 
-Última actualización: **19 de septiembre de 2023**
+Última actualización: **28 de septiembre de 2023**
 
-* [Eventos y actualizaciones de [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (Actualizado: **28 de septiembre**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaz y administración de [!DNL Experience Cloud]](#ecloud)
@@ -50,7 +50,7 @@ Inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=e
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Optimizer]](#journey-opt) (actualizado) **28 de septiembre**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -77,15 +77,13 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 +++Próximos eventos en Experience League
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Administrador 101: Introducción a Workfront_ | **19 de septiembre a las 10:00 AM CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS]** | Seminario web | _Descubra y entregue perspectivas procesables con Adobe Analytics_ | **5 de octubre a las 9:00 h BST** | [Registrar](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Aproveche el poder de New Relic APM para AEM as a Cloud Service_ | **20 de septiembre a las 8:00 a. m. PT** | [Registrarse](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
+* **[!DNL WORKFRONT]** | Seminario web | _Novedades de Adobe Workfront 23.10_ | **5 de octubre a las 7:00 h PT** | [Registrar](https://webinars.on24.com/adobe_workfront/whatsnewin2310?partnerref=EXL)
 
-* **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Pregunte al Panel del cliente: Ventajas y prácticas recomendadas con Fusion_ | **26 de septiembre a las 11:00 a. m. CT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER]** | Seminario web | _Espressos y Experience Manager: Actualización a Dynamic Media_ | **5 de octubre a la 1:00 p. m. ET** | [Registrar](https://attendee.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | Aprenda de sus compañeros | _Una profundización en las herramientas en AEM Sites_ | **28 de septiembre a las 8:00 a. m. PT** | [Registrarse](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
-
-* **[!DNL WORKFRONT]** | Aprenda de sus compañeros | _Una profundización en las herramientas en AEM Sites_ | **28 de septiembre a las 8:00 a. m. PT** | [Registrarse](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+* **[!DNL WORKFRONT]** | Taller del cliente | _Pregunte a los expertos: Automatice sus procesos de trabajo con Workfront Fusion_ | **5 de octubre a las 11:00 h MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Evento comunitario | _Connect: Chat del administrador para Marketing y Creative_ | **6 de octubre a las 10:00 a. m. MT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -649,6 +647,11 @@ Nuevos vídeos, tutoriales o cursos publicados de Adobe [!DNL Journey Optimizer]
 
 | Publicadas | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |
+| Septiembre de 2023 | [Administración, creación y uso de fragmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=es) | Vídeo | Obtenga información sobre cómo administrar, crear y utilizar fragmentos en Adobe Journey Optimizer. |
+| Septiembre de 2023 | [SPA Compatibilidad con aplicaciones de una sola página () en el editor web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | SPA Aprenda a crear aplicaciones de una sola página () en el editor web de Journey Optimizer. |
+| Septiembre de 2023 | [Informes de nivel de canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Vídeo | Obtenga información sobre cómo acceder, navegar y exportar informes en el nivel de canal. |
+| Septiembre de 2023 | [Exportación de informes en formato CSV](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Vídeo | Obtenga información sobre cómo descargar un informe CSV para un informe y para un widget único. |
+| Septiembre de 2023 | [SPA Compatibilidad con aplicaciones de una sola página () en el editor web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | SPA Aprenda a crear aplicaciones de una sola página () en el editor web de Journey Optimizer. |
 | Septiembre de 2023 | [Creación de un mensaje en la aplicación en un recorrido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=es) | Vídeo | Comprenda qué es un mensaje en la aplicación y cómo se puede aplicar en un recorrido. Obtenga información sobre cómo crear un mensaje en la aplicación en un recorrido y cómo probar y publicar el recorrido. |
 
 {style="table-layout:auto"}
