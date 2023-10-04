@@ -6,7 +6,7 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 5cae1d473da0a27eed20018de5545af7d76f0953
 workflow-type: tm+mt
 source-wordcount: '7502'
 ht-degree: 63%
@@ -79,9 +79,9 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 * **[!DNL ANALYTICS]** | Seminario web | _Descubra y entregue perspectivas procesables con Adobe Analytics_ | **5 de octubre a las 9:00 h BST** | [Registrar](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** | Seminario web | _Novedades de Adobe Workfront 23.10_ | **5 de octubre a las 7:00 h PT** | [Registrar](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Seminario web | _Novedades de Adobe Workfront 23.10_ | **5 de octubre a las 10:00 h ET** | [Registrar](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** | Seminario web | _Espressos y Experience Manager: Actualización a Dynamic Media_ | **5 de octubre a la 1:00 p. m. ET** | [Registrar](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** | Seminario web | _Espressos y Experience Manager: Actualización a Dynamic Media_ | **5 de octubre a las 23:00 h MDT** | [Registrar](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** | Taller del cliente | _Pregunte a los expertos: Automatice sus procesos de trabajo con Workfront Fusion_ | **5 de octubre a las 11:00 h MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 * **[!DNL WORKFRONT]** | Taller para clientes | _Administrador 101: Cómo hacer que los usuarios usen Workfront_ | **17 de octubre a las 9:00 a. m. MT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** y **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: Una sesión de análisis profundo sobre [!UICONTROL Servicios de entrega perimetral], funciones sin encabezado, extensibilidad, composición y herramientas de productividad_ | **6 de noviembre a las 9:00 AM MT** | [Registrar](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** y **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: Una sesión de análisis profundo sobre [!UICONTROL Servicios de entrega perimetral], funciones sin encabezado, extensibilidad, composición y herramientas de productividad_ | **6 de noviembre a las 8:00 AM MT** | [Registrar](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Ver los [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es). Ahora puede utilizar la navegación de la izquierda para buscar eventos grabados basados en el tipo de serie o aplicación.
 
