@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
 workflow-type: tm+mt
-source-wordcount: '7532'
+source-wordcount: '7491'
 ht-degree: 99%
 
 ---
@@ -19,21 +19,11 @@ ht-degree: 99%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-**Octubre de 2023**
-
-Esta página le ayuda a mantenerse actualizado sobre la información del lanzamiento del producto, los eventos y las oportunidades de aprendizaje de la Experience League.
-
->[!TIP]
->
->Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html). Vuelva con frecuencia para mantenerse al día de lo que está sucediendo con las aplicaciones empresariales de Adobe.
-
-**¿Necesita ayuda?**
-
 Inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=es#home) y personalice su experiencia de búsqueda en la biblioteca de recursos de autoayuda de Adobe. Examinar [documentación del producto](https://experienceleague.adobe.com/docs/?lang=es), [vídeos de tutoriales](https://experienceleague.adobe.com/?lang=esdocs/home-tutorials.html), [cursos](https://experienceleague.adobe.com/?lang=es#courses), y [eventos](https://experienceleague.adobe.com/events/?lang=es) para todos los niveles y funciones. Haga preguntas desde su [comunidad](https://experienceleaguecommunities.adobe.com/?profile.language=es) en línea de compañeros y consiga [asistencia](https://experienceleague.adobe.com/?support-tab=home&amp;lang=es#support) de expertos cuando más lo necesita.
 
-## Eventos y actualizaciones de la versión del producto
+Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-Última actualización: **9 de octubre de 2023**
+**9 de octubre de 2023**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [Certificación de Adobe](#certification)
