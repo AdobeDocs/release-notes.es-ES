@@ -1,15 +1,15 @@
 ---
 title: Últimas notas de la versión
-description: Encuentre las últimas notas de la versión para obtener productos y servicios de Adobe [!DNL Experience Cloud] . Obtenga información sobre los próximos eventos y la nueva documentación sobre Experience League. Descubra los tutoriales y cursos más recientes para aplicaciones  [!DNL Experience Cloud] .
+description: Buscar las últimas notas de la versión para Adobe [!DNL Experience Cloud] productos y servicios. Obtenga información sobre los próximos eventos y la nueva documentación sobre Experience League. Descubra los tutoriales y cursos más recientes para aplicaciones  [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6888'
-ht-degree: 95%
+source-wordcount: '5582'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Noviembre de 2023
 
-Última actualización: **16 de noviembre de 2023**
+Última actualización: **viernes, 16 de noviembre de 2023**
 
 * [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Noviembre de 16**)
 * [Certificación de Adobe](#certification)
@@ -37,7 +37,6 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (liberado **26 de octubre**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -61,12 +60,6 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 ### Eventos en Experience League
 
 +++Próximos eventos en Experience League
-
-* **[!DNL JOURNEY OPTIMIZER]** | Seminario web | _Dominio de la optimización de campañas multicanal_ | **28 de noviembre a las 8:00 a. m PT** | [Registrar](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Pregunte a los expertos: continuación del seminario web de formación y habilitación de Workfront_ | **29 de noviembre a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Evento comunitario | _Connect: chat de la comunidad de Adobe Workfront_ | **5 de diciembre a las 10:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Evento comunitario | _Connect: Chat de administrador estratégico de Workfront_ | **11 de diciembre a las 6:00 AM PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -264,7 +257,7 @@ Actualizaciones y nuevo contenido para [!DNL Audience Manager].
 
 +++Detalles
 
-A partir de julio de 2023, Adobe interrumpirá el desarrollo de [!DNL Data Integration Library (DIL)] y la ampliación de [!DNL DIL].
+Desde julio de 2023, Adobe interrumpió el desarrollo de [!DNL Data Integration Library (DIL)] y la extensión de [!DNL DIL].
 Los clientes existentes pueden seguir utilizando su implementación de [!DNL DIL]. Sin embargo, Adobe no desarrollará [!DNL DIL] más allá de este punto. Se recomienda a los clientes que evalúen el [SDK web de Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=es) para su estrategia de recopilación de datos a largo plazo. Los clientes que deseen implementar nuevas integraciones de recopilación de datos a partir de julio de 2023 deberán utilizar la [Experience Platform de la web de SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=es) en su lugar.
 
 Para obtener recursos de ayuda, consulte [Documentación y tutoriales de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager.html?lang=es) en Experience League.
@@ -415,7 +408,7 @@ Forme parte del programa de adopción temprana de Adobe y tenga la oportunidad d
    * La disponibilidad del programa de adopción anticipada de esta función es limitada.
    * Esta función se utiliza para recuperar contenido eliminado accidentalmente y no está pensada para la recuperación ante desastres.
 
-* **Panel de auditoría de experiencias**. [El panel de auditoría de experiencias de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=es?lang=es) incluye una vista de tendencias de las puntuaciones de rendimiento de la página, junto con información y recomendaciones para ayudarle a mejorarlas. La auditoría de experiencias se incluye como paso en la canalización de producción de Cloud Manager.
+* **Panel de auditoría de experiencias**. [El panel de auditoría de experiencias de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en) incluye una vista de tendencias de las puntuaciones de rendimiento de la página, junto con información y recomendaciones para ayudarle a mejorarlas. La auditoría de experiencias se incluye como paso en la canalización de producción de Cloud Manager.
 
   El panel utiliza Google Lighthouse, una herramienta automatizada de código abierto para mejorar la calidad de sus aplicaciones web. Puede ejecutarlo con cualquier página web que sea pública o que requiera autenticación. Tiene auditorías de rendimiento, accesibilidad, aplicaciones web progresivas, SEO y más.
 
