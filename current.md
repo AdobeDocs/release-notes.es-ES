@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
+source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
 workflow-type: tm+mt
-source-wordcount: '5582'
-ht-degree: 97%
+source-wordcount: '5877'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,11 @@ Esta página le ayuda a encontrar notas de la versión para aplicaciones empresa
 
 Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Noviembre de 2023
+## Noviembre/diciembre de 2023
 
-Última actualización: **viernes, 16 de noviembre de 2023**
+Última actualización: **sábado, 05 de enero de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Noviembre de 16**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Enero de 5**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
@@ -59,13 +59,27 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
+Actualizado **5 de enero de 2024**
+
 +++Próximos eventos en Experience League
 
-* **[!DNL WORKFRONT]** | Evento comunitario | _Connect: Chat de administrador estratégico de Workfront_ | **11 de diciembre a las 6:00 AM PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Evento de comunidad | _Connect: Chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión dirigida por el cliente le conectará con otros administradores para analizar las prácticas recomendadas, así como consejos y trucos. | **5 de enero a las 9:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Administrador 101 - Traiga Sus Preguntas De Workfront!_ | **12 de diciembre a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a otros clientes de Workfront en una sesión colectiva de solución de problemas y uso compartido del éxito. | **8 de enero a las 6:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Taller para clientes | _Más información: Informes de fin de año_ | **19 de diciembre a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Seminario web | _¿Qué novedades hay en Workfront 24.1?_ | Seminario web sobre la versión 24.1 de Workfront de cara al cliente | **11 de enero a las 8:00 a. m MT** | [Registrar](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Administrador 101: Introducción a Workfront_ | ¿Es nuevo en Workfront? Este evento proporciona a los nuevos administradores del sistema una introducción a los recursos, un resumen de la navegación del sistema y prácticas recomendadas para la configuración inicial. | **17 de enero a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | Aprenda de sus compañeros | _Dominio de puntuación de persona con Marketo Engage: matices localizados en un marco global_ | Únase a este seminario web el 18 de enero de 2024, ya que el Campeón Marketo Engage comparte cómo permitir influencias locales en el modelo de puntuación al trabajar globalmente sin perder coherencia en toda la organización. | **18 de enero a las 8:00 a. m PT** | [Registrar](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Más información: Resumen de la versión de Adobe Workfront 24.1_ | Únase a otros clientes de Workfront mientras analizamos las últimas funciones de la versión, las ventajas y las ideas sobre los planes de despliegue y la administración del cambio. | **24 de enero a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión dirigida por el cliente le conectará con otros administradores para analizar las prácticas recomendadas, así como consejos y trucos. | **2 de febrero a las 9:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Administrador 101: Cómo hacer que los usuarios usen Workfront_ | ¿Es nuevo en Workfront? Únase a nuestra reunión mensual para nuevos administradores. Este mes analizaremos las prácticas recomendadas para la adopción de usuarios. | **14 de febrero a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Círculo de la industria - Educación superior_ | Este primer círculo de la industria, completamente nuevo en 2024, es una mesa redonda informal diseñada para reunir a administradores de Workfront en educación superior para establecer contactos, compartir experiencias, aprendizaje y prácticas recomendadas. | **8 de febrero a las 9:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Ver más [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es) en Experience League.
 
