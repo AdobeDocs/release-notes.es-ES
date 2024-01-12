@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 93%
+source-wordcount: '6123'
+ht-degree: 89%
 
 ---
 
@@ -28,6 +28,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 Última actualización: **sábado, 12 de enero de 2024**
 
 * [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Enero de 12**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **¡Nuevo!**
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
@@ -80,6 +81,23 @@ Actualizado **12 de enero de 2024**
 Ver más [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es) en Experience League.
 
 +++
+
+## ![Icono](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) es una solución integral para acelerar y simplificar su cadena de suministro de contenido con IA generativa y automatización inteligente.
+
++++Detalles
+
+| Publicadas | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |
+| Enero de 2024 | [Tutorials GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Vídeos | Ver tutoriales del Experience League sobre el nuevo [!DNL Adobe GenStudio]. GenStudio es una solución integral para acelerar y simplificar su cadena de suministro de contenido con IA generativa y automatización inteligente. |
+| Enero de 2024 | [Flujo de trabajo y planificación: Optimizar y acelerar el trabajo](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Vídeos | Para la empresa que lucha por conectarse y seguir sus requisitos de contenido a través del proceso de planificación para la producción y finalización de contenido. La falta de procesos efectivos, planificación, aprobaciones y coherencia de los datos en todos los proyectos están privando a la cadena de suministro de contenido de esta compañía de productividad y eficiencia. |
+| Enero de 2024 | [Productividad creativa: equipos creativos de gran capacidad](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Vídeos | Para la compañía que tiene creativos de rock star pero que necesita aumentar su creación de contenido. GenStudio proporciona herramientas con GenAI que ayudan a este equipo a mejorar su producción de contenido, entrega y capacidad de detección. |
+| Enero de 2024 | [Agilidad del marketing: Capacite a los no creativos para escalar](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Vídeos | Con el Adobe GenStudio, a veces se puede abordar una solicitud de contenido sin el tratamiento completo del equipo creativo/estudio. El Adobe pone las herramientas en manos de los especialistas en marketing y de otros posibles creadores de contenido. Estas herramientas permiten realizar giros rápidos en la creación de variaciones de contenido. Las actualizaciones las puede ejecutar un grupo ampliado y más amplio de personas conectadas a la cadena de suministro de contenido, lo que aumenta considerablemente el rendimiento del contenido y el tiempo de salida al mercado. |
+| Enero de 2024 | [Entrega y activación: experiencias de potencia y rendimiento](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Vídeos | Para la empresa que necesita asistencia para obtener el contenido adecuado delante del individuo adecuado en el canal correcto. GenStudio hace que esa conexión sea mejor que cualquier otra solución, al mismo tiempo que proporciona el análisis para garantizar el rendimiento general del contenido. |
+
+{style="table-layout:auto"}
+
 
 ## ![Icono](/assets/certification-badge.png) Certificación{#certification}
 
