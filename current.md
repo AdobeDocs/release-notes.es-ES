@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6284'
+source-wordcount: '6259'
 ht-degree: 38%
 
 ---
@@ -24,7 +24,7 @@ Esta página le ayuda a localizar los siguientes recursos informativos para apli
 * Notas de la versión y documentación del producto
 * Artículos de soporte de Knowledge Base
 * Próximos eventos en Experience League
-* Últimos tutoriales y cursos de vídeo
+* Últimos tutoriales de vídeo
 
 Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=es#home) y personalice su experiencia de búsqueda en la biblioteca gratuita de Adobe de [documentación](https://experienceleague.adobe.com/docs/?lang=es), [cursos](https://experienceleague.adobe.com/?lang=es#courses), [eventos](https://experienceleague.adobe.com/events/?lang=es), [foros comunitarios](https://experienceleaguecommunities.adobe.com/?profile.language=es), y [apoyo](https://experienceleague.adobe.com/?support-tab=home&amp;lang=es#support).
 
@@ -32,7 +32,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Enero de 2024
 
-Última actualización: **jueves, 17 de enero de 2024**
+Última actualización: **jueves, 24 de enero de 2024**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **¡Nuevo!**
@@ -68,15 +68,15 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
+Actualizado **24 de enero de 2024**
+
 +++Próximos eventos en Experience League
 
-* **[!DNL ANALYTICS]y[!DNL Customer Journey Analytics]** | EXPERIENCE LEAGUE LIVE | _Trayendo su [!DNL Adobe Analytics] datos y análisis en[!DNL Customer Journey Analytics]_ | Obtenga información sobre el uso de procesos automatizados para mover datos y análisis de Adobe Analytics a [!DNL Customer Journey Analytics], así como cualquier problema que deba tenerse en cuenta en el camino. | **17 de enero a las 10:00 h PT** | [Registrar](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | Seminario web | _Marketo y Mochas: Aspectos básicos de los paneles de atribución_ | ¿Están configurados sus modelos de atribución y paneles de MPI para aprovechar las métricas de rendimiento críticas al alcance de su mano? Únase a nuestros expertos en Adobe y aprenda a utilizar estas herramientas para impulsar el éxito de su equipo de marketing. | **25 de enero a la 1:00 p. m. ET** | [Registrar](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Taller del cliente | _Administrador 101: Introducción a [!DNL Workfront_] | Nuevo en [!DNL Workfront]? Este evento proporciona a los nuevos administradores del sistema una introducción a los recursos, un resumen de la navegación del sistema y prácticas recomendadas para la configuración inicial. | **17 de enero a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Seminario web | _Aumente la eficacia en la creación y gestión de contenido._ | Descubra cómo mejorar la velocidad del contenido con fragmentos de experiencias de Adobe Experience Manager Sites. Obtenga sugerencias para ofrecer experiencias variadas y personalizadas a escala en cualquier canal. | **1 de febrero a las 9:00 AM GMT** | [Registrar](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | Aprenda de sus compañeros | _Dominio de puntuación de persona con [!DNL Marketo Engage]: matices localizados en un marco global_ | Únase a este seminario web el 18 de enero de 2024 como [!DNL Marketo Engage] Champion explica cómo permitir las influencias locales en el modelo de puntuación al trabajar globalmente sin perder coherencia en toda la organización. | **18 de enero a las 8:00 a. m PT** | [Registrar](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Taller del cliente | _Más información: Adobe [!DNL Workfront] Resumen de la versión 24.1_ | Unirse a otros [!DNL Workfront] clientes mientras analizamos las últimas funciones de la versión, las ventajas e ideas sobre los planes de despliegue y la administración del cambio. | **24 de enero a las 8:00 a. m PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | Seminario web | _Comercio y café: Personalización de las experiencias de comercio electrónico con IA_ | Nunca ha sido tan fácil personalizar las experiencias de comercio electrónico para cada cliente. Únase a Corey Gelato, el propio Adobe, para conocer cómo la IA ayuda a adaptar sin esfuerzo sus productos, correos electrónicos y sitios web en Adobe Commerce. | **1 de febrero a la 1:00 p. m. ET** | [Registrar](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conecta con otros administradores para analizar prácticas recomendadas, sugerencias y trucos. | **2 de febrero a las 9:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
