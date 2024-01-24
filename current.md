@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 Última actualización: **jueves, 24 de enero de 2024**
 
-* [Eventos y actualizaciones de [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Enero de 24**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **¡Nuevo!**
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (actualizado) **Enero de 24**)
 * [Administración de datos del cliente: voces](#voices)
 * [Modelos de experiencia digital](#blueprints)
 * [Vulnerabilidades de seguridad del producto Adobe](https://helpx.adobe.com/es/security.html)
@@ -826,7 +826,13 @@ Para tutoriales de [!DNL Document Cloud], consulte:
 
 Nuevos vídeos, tutoriales o cursos publicados para aplicaciones en [!DNL Adobe Creative Cloud for enterprise].
 
+Actualizado **24 de enero de 2024**
+
 +++Detalles
+
+| Publicadas | Aplicación | Nombre | Tipo | Descripción |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Enero de 2024 | [!DNL Adobe Express] | [Tutorials para Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Vídeos | Empiece a crear un trabajo increíble que se destaque con la IA generativa basada en [!DNL Adobe Firefly]. Diseña flyers, TikToks, currículos y carretes con [!DNL Adobe Express]. |
 
 Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=es) para conocer los tutoriales más recientes.
 
