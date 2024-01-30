@@ -9,7 +9,7 @@ internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: ht
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
