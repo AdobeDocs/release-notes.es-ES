@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 96%
+source-wordcount: '6393'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Enero de 2024
 
-Última actualización: **viernes, 01 de febrero de 2024**
+Última actualización: **jueves, 07 de febrero de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **1 de febrero**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **7 de febrero**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **¡Nuevo!**
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado **1 de febrero de 2024**
+Actualizado **7 de febrero de 2024**
 
 +++Próximos eventos en Experience League
 
-* **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conecta con otros administradores para analizar prácticas recomendadas, sugerencias y trucos. | **2 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Libros de reproducción de casos de uso: plantillas de autoservicio para implementar casos de uso en unos pocos clics_ | Descubra cómo los manuales de casos de uso pueden traducir sus objetivos de marketing en objetos de implementación en solo unos clics. | **8 de febrero a las 9:00 h PT** | [Registrarse](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Círculo de la industria - Educación superior_ | Este primer círculo del sector, completamente nuevo en 2024, es una mesa redonda informal diseñada para reunir los administradores de [!DNL Workfront] de la educación superior para interactuar, compartir experiencias, aprendizaje y prácticas recomendadas. | **8 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
