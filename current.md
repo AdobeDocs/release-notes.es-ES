@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
 source-wordcount: '6393'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 Última actualización: **jueves, 07 de febrero de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **7 de febrero**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (Actualizado el **7 de febrero**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **¡Nuevo!**
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (actualizado) **Enero de 29**)
+* [[!DNL Adobe Experience Manager]](#aem) (Actualizado el **29 de enero**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -57,7 +57,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (actualizado) **Enero de 24**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Actualizado el **24 de enero**)
 * [Administración de datos del cliente: voces](#voices)
 * [Modelos de experiencia digital](#blueprints)
 * [Vulnerabilidades de seguridad del producto Adobe](https://helpx.adobe.com/es/security.html)
@@ -68,7 +68,7 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado **7 de febrero de 2024**
+Actualizado: **jueves, 07 de febrero de 2024**
 
 +++Próximos eventos en Experience League
 
@@ -76,7 +76,7 @@ Actualizado **7 de febrero de 2024**
 
 * **[!DNL WORKFRONT]** | Taller del cliente | _Connect: Círculo de la industria - Educación superior_ | Este primer círculo del sector, completamente nuevo en 2024, es una mesa redonda informal diseñada para reunir los administradores de [!DNL Workfront] de la educación superior para interactuar, compartir experiencias, aprendizaje y prácticas recomendadas. | **8 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | Seminario web | _Goteo de datos: Canales de marketing y modelado de atribución_ | ¿Conoce el impacto que las interacciones con los clientes tienen en las conversiones? Únase a nuestros expertos en Adobes para mostrarnos cómo configurar canales de marketing y aprovechar la IA en Adobe Analytics para crear modelos de atribución personalizados. | **8 de febrero a la 1:00 p. m. ET** | [Registrar](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+* **[!DNL ANALYTICS]** | Seminario web | _Goteo de datos: Canales de marketing y modelado de atribución_ | ¿Conoce el impacto que las interacciones con los clientes tienen en las conversiones? Únase a nuestros expertos de Adobe que nos muestran cómo configurar canales de marketing y aprovechar la IA en Adobe Analytics para crear modelos de atribución personalizados. | **8 de febrero a las 13:00 h ET** | [Registrarse](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Evento de comunidad | _Workfront Collective_ | Únase a otros clientes de Workfront en nuestra sesión colectiva mensual de solución de problemas y uso compartido del éxito. | **12 de febrero a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -86,9 +86,9 @@ Actualizado **7 de febrero de 2024**
 
 * **[!DNL EXPERIENCE PLATFORM]** | Seminario web | _Liderazgo estratégico desatado: el poder del patrocinio ejecutivo_ | Adquirir las tácticas para lograr efectivamente los objetivos organizacionales a través de la influencia estratégica. Esta sesión está diseñada para empoderar a los ejecutivos que buscan elevar su patrocinio ejecutivo. | **15 de febrero a las 10:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Seminario web | _Ventajas de Lean Team: Desbloquee las capacidades para lograr un éxito optimizado_ | Descubra cómo las integraciones de productos pueden optimizar los flujos de trabajo digitales, mejorar la eficacia del equipo y escalar los procesos empresariales. Aprenda técnicas para mejorar la colaboración dentro de equipos lean para obtener la máxima productividad. | **20 de febrero a las 10:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Seminario web | _Ventajas de Lean Team: Desbloquee las funcionalidades para lograr un éxito optimizado_ | Descubra cómo las integraciones de productos pueden optimizar los flujos de trabajo digitales, mejorar la eficacia del equipo y escalar los procesos empresariales. Aprenda técnicas para mejorar la colaboración dentro de equipos lean para obtener la máxima productividad. | **20 de febrero a las 10:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Pregunte al servicio de atención al cliente: resolución de problemas comunes de plantillas y vistas_ | Únase al equipo de Asistencia al cliente de Workfront para una sesión de tipo &quot;Pregunte al experto&quot; para conocer las prácticas recomendadas y las sugerencias de solución de problemas centradas en las plantillas y vistas de diseño. | **22 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Pregunte al servicio de atención al cliente: resolución de problemas comunes de plantillas y vistas de diseño_ | Únase al equipo de Asistencia al cliente de Workfront para una sesión de tipo “Pregunte al experto” para conocer las prácticas recomendadas y las sugerencias de solución de problemas centradas en las plantillas y vistas de diseño. | **22 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Ver más [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examinar [grabaciones de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es) en Experience League.
 
@@ -832,13 +832,13 @@ Para tutoriales de [!DNL Document Cloud], consulte:
 
 Nuevos vídeos, tutoriales o cursos publicados para aplicaciones en [!DNL Adobe Creative Cloud for enterprise].
 
-Actualización: **jueves, 24 de enero de 2024**
+Actualización: **24 de enero de 2024**
 
 +++Detalles
 
 | Publicadas | Aplicación | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Enero de 2024 | [!DNL Adobe Express] | [Tutorials para Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Vídeos | Empiece a crear un trabajo increíble que se destaque con la IA generativa basada en [!DNL Adobe Firefly]. Diseña flyers, TikToks, currículos y carretes con [!DNL Adobe Express]. |
+| Enero de 2024 | [!DNL Adobe Express] | [Tutoriales para Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=es) | Vídeos | Empiece a crear un trabajo increíble que se destaque con la IA generativa basada en [!DNL Adobe Firefly]. Diseñe flyers, TikToks, currículos y Reels con [!DNL Adobe Express]. |
 
 Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=es) para conocer los tutoriales más recientes.
 
