@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
-workflow-type: ht
-source-wordcount: '5528'
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+workflow-type: tm+mt
+source-wordcount: '5447'
 ht-degree: 100%
 
 ---
@@ -70,10 +70,6 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 Actualizado: **14 de febrero de 2024**
 
 +++Detalles
-
-* **[!DNL EXPERIENCE PLATFORM]** | Seminario web | _Liderazgo estratégico desatado: el poder del patrocinio ejecutivo_ | Adquirir las tácticas para lograr efectivamente los objetivos organizacionales a través de la influencia estratégica. Esta sesión está diseñada para empoderar a los ejecutivos que buscan elevar su patrocinio ejecutivo. | **15 de febrero a las 10:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Seminario web | _Ventajas de Lean Team: Desbloquee las funcionalidades para lograr un éxito optimizado_ | Descubra cómo las integraciones de productos pueden optimizar los flujos de trabajo digitales, mejorar la eficacia del equipo y escalar los procesos empresariales. Aprenda técnicas para mejorar la colaboración dentro de equipos lean para obtener la máxima productividad. | **20 de febrero a las 10:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Pregunte al servicio de atención al cliente: resolución de problemas comunes de plantillas y vistas de diseño_ | Únase al equipo de Asistencia al cliente de Workfront para una sesión de tipo “Pregunte al experto” para conocer las prácticas recomendadas y las sugerencias de solución de problemas centradas en las plantillas y vistas de diseño. | **22 de febrero a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -257,7 +253,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 +++Detalles
 
-[!DNL Customer Journey Analytics]Fecha de la versión: **16 de febrero de 2024**
+[!DNL Customer Journey Analytics]Fecha de publicación: **16 de febrero de 2024**
 
 * [Notas de la versión](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=es) de [!DNL Customer Journey Analytics]
 
