@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
 workflow-type: tm+mt
 source-wordcount: '5771'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -32,9 +32,9 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Febrero de 2024
 
-Última actualización: **jueves, 28 de febrero de 2024**
+Última actualización: **28 de febrero de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events)  (actualizado) **28 de febrero**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el **28 de febrero**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,27 +67,27 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado: **jueves, 28 de febrero de 2024**
+Actualizado: **28 de febrero de 2024**
 
 +++Detalles
 
-* **EXPERIENCE MANAGER** | Seminario web | _AEM Evento de comunidad de EMEA_ | Tendremos una gran sesión interactiva sobre la cadena de suministro de contenido para discutir sus objetivos, sus logros hasta el momento, los desafíos que enfrenta y cómo abordarlos. | **29 de febrero a las 3:00 PM GMT** | [Registrar](https://registration.adobe.com/AdobeAEM24/)
+* **EXPERIENCE MANAGER** | Seminario web | _Evento de la comunidad de EMEA AEM_ | Celebraremos una gran sesión interactiva sobre la cadena de suministro del contenido para hablar de los objetivos, los logros hasta ahora, los desafíos a los que se enfrenta y cómo abordarlos. | **29 de febrero a las 15:00 h GMT** | [Registrarse](https://registration.adobe.com/AdobeAEM24/)
 
 * **ADMINISTRADOR y CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Avance con la nueva interfaz de usuario web de Adobe Campaign_ | Únase a nosotros el 29 de febrero para aprender a planificar, iniciar y medir estrategias multicanal mediante la nueva interfaz de usuario web de Adobe Campaign y obtener una vista previa de las nuevas funcionalidades de IA generativa. | **29 de febrero a las 8:00 h PT** | [Registrarse](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
 * **EXPERIENCE MANAGER** | Livestream | _App Builder cumple 10,0 años_ | Únase al equipo de ingeniería del Generador de aplicaciones para conocer las novedades de su última versión de CLI y lo que se vislumbra, incluidos algunos enfoques nuevos para facilitar y aumentar la depuración. | **29 de febrero a las 9:00 h PT** | [Registrarse](https://streamyard.com/watch/i7TEbhnR73h9)
 
-* **WORKFRONT** | Taller del cliente | _Más información: Workfront para Asuntos legales y de cumplimiento_ | Únase a nosotros en un taller sobre cómo la colaboración con sus equipos de Legal &amp; Compliance puede optimizar sus procesos, ampliar su plataforma de Workfront a una audiencia mayor en su organización y aumentar su adopción. | **29 de febrero a las 9:30 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Taller del cliente | _Más información: Workfront para asuntos legales y de cumplimiento_ | Únase a nosotros en un taller sobre cómo la colaboración con sus equipos de asuntos legales y cumplimiento puede optimizar sus procesos, ampliar su plataforma de Workfront a un público más amplio en su organización y hacer crecer su adopción. | **29 de febrero a las 9:30 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Evento de comunidad | _Connect: Chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conecta con otros administradores para analizar prácticas recomendadas, sugerencias y trucos. | **1 de marzo a las 9:00 h PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT**| Evento de la comunidad | _Connect: chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conecta con otros administradores para analizar prácticas recomendadas, sugerencias y trucos. | **1 de marzo a las 9:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Seminario web | _Reactivación con Workfront: Administración de recursos_ | Explore uno de los casos de uso más impactantes de Workfront, la administración de recursos, mientras el asesor empresarial de Workfront de Adobe se desplaza por el uso de modelos para crear fácilmente sistemas de administración de trabajo que evolucionen según sus necesidades. | **7 de marzo a la 1:00 p. m. ET** | [Registrar](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | Seminario web | _Despierte con Workfront: Administración de recursos_ | Explore uno de los casos de uso más impactantes de Workfront, la administración de recursos, mientras el asesor empresarial de Workfront de Adobe le guía por el uso de modelos para crear fácilmente sistemas de administración del trabajo que evolucionen según sus necesidades. | **7 de marzo a las 13.00 h ET** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **WORKFRONT** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a otros clientes de Workfront en una sesión colectiva de solución de problemas y uso compartido del éxito. | **11 de marzo a las 6:00 AM PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Evento de la comunidad | _Connect: Workfront Collective_ | Únase a otros clientes de Workfront para una sesión colectiva de resolución de problemas y compartir éxitos. | **11 de marzo a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a otros clientes de Workfront en una sesión colectiva de solución de problemas y uso compartido del éxito. | **11 de marzo a las 6:00 AM PT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Evento de la comunidad | _Connect: Workfront Collective_ | Únase a otros clientes de Workfront para una sesión colectiva de resolución de problemas y compartir éxitos. | **11 de marzo a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Seminario web | _Espressos y Experience Manager AEM: ¿Por qué es más poderoso el uso de la nube para la preparación de los?_ | Únase a los expertos de Adobe para discutir cómo garantizar una transición sin problemas a la nube mediante la evaluación de contenido y la planificación de la migración con herramientas como el Analizador de prácticas recomendadas y Cloud Acceleration Manager. | **14 de marzo a la 1:00 p. m. ET** | [Registrar](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | Seminario web | _Espressos y Experience Manager: ¿Por qué AEM es más potente en la nube_ | Únase a los expertos de Adobe que hablarán sobre cómo garantizar una transición sin problemas a la nube mediante la evaluación de contenidos y la planificación de la migración con herramientas como el Analizador de prácticas recomendadas y Cloud Acceleration Manager.  **14 de marzo a las 13:00 ET** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **ADOBE SUMMIT** | Conferencia sobre la experiencia digital | _Amplíe sus habilidades, descubra las últimas tendencias y explore el futuro del crecimiento basado en la experiencia_ | Aprenda de las marcas líderes, descubra el futuro de la IA generativa y prepárese para el crecimiento basado en la experiencia. | **Del 25 al 28 de marzo en Las Vegas y en línea** | [Registrarse](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
