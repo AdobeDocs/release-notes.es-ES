@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 Actualizado: **28 de febrero de 2024**
 
 +++Detalles
-
-* **CAMPAIGN (VERSIÓN 7, VERSIÓN 8)** | Coffee Break | _Coffee Break de preguntas y respuestas de la comunidad de Adobe Campaign_ | Únase a nosotros durante una sesión de chat de una hora de duración en torno a la nueva interfaz de usuario web de Adobe Campaign con nuestro equipo de productos de Adobe Campaign. | **7 de marzo a las 8:00 h PT** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Seminario web | _Despierte con Workfront: Administración de recursos_ | Explore uno de los casos de uso más impactantes de Workfront, la administración de recursos, mientras el asesor empresarial de Workfront de Adobe le guía por el uso de modelos para crear fácilmente sistemas de administración del trabajo que evolucionen según sus necesidades. | **7 de marzo a las 13.00 h ET** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Evento de la comunidad | _Connect: Workfront Collective_ | Únase a otros clientes de Workfront para una sesión colectiva de resolución de problemas y compartir éxitos. | **11 de marzo a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
