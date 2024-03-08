@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5499'
-ht-degree: 99%
+source-wordcount: '5572'
+ht-degree: 98%
 
 ---
 
@@ -73,9 +73,11 @@ Actualizado: **28 de febrero de 2024**
 
 * **WORKFRONT** | Evento de la comunidad | _Connect: Workfront Collective_ | Únase a otros clientes de Workfront para una sesión colectiva de resolución de problemas y compartir éxitos. | **11 de marzo a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Evento de la comunidad | _Connect: Workfront Collective_ | Únase a otros clientes de Workfront para una sesión colectiva de resolución de problemas y compartir éxitos. | **11 de marzo a las 6:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Taller del cliente | _Administrador 101: Obtención de datos de Workfront_ | ¿Es nuevo en Workfront? Únase a nuestras reuniones mensuales de &quot;nuevo administrador&quot; para hacer preguntas, obtener recursos y recomendaciones, conocer a otros administradores nuevos y, para esta sesión, conocer las prácticas recomendadas para la creación de informes de todas las cosas en Workfront. | **13 de marzo a las 8:00 h PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Seminario web | _Espressos y Experience Manager: ¿Por qué AEM es más potente en la nube_ | Únase a los expertos de Adobe que hablarán sobre cómo garantizar una transición sin problemas a la nube mediante la evaluación de contenidos y la planificación de la migración con herramientas como el Analizador de prácticas recomendadas y Cloud Acceleration Manager.  **14 de marzo a las 13:00 ET** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS de | _AEM Introducción a la creación de y Edge Delivery Services_ | AEM AEM Únase al seminario web de GEM para empezar a crear contenido con Edge Delivery Services en la creación de. AEM AEM Aprenda a crear un proyecto habilitado para el desarrollo de junto con la creación de WYSIWYG mediante el servicio en la nube de. | **13 de marzo a las 9:00 h PT** | [Registrarse](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | Seminario web | _Espressos y Experience Manager: ¿Por qué AEM es más potente en la nube_ | Únase a los expertos de Adobe que hablarán sobre cómo garantizar una transición sin problemas a la nube mediante la evaluación de contenidos y la planificación de la migración con herramientas como el Analizador de prácticas recomendadas y Cloud Acceleration Manager.  **14 de marzo a las 13:00 ET** | [Registrarse](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | Conferencia sobre la experiencia digital | _Amplíe sus habilidades, descubra las últimas tendencias y explore el futuro del crecimiento basado en la experiencia_ | Aprenda de las marcas líderes, descubra el futuro de la IA generativa y prepárese para el crecimiento basado en la experiencia. | **Del 25 al 28 de marzo en Las Vegas y en línea** | [Registrarse](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
