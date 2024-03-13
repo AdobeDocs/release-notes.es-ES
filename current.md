@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 65%
 
 ---
@@ -605,7 +605,6 @@ Tutoriales de vídeos nuevos o actualizados publicados para Adobe Campaign.
 | Febrero de 2024 | Interfaz de usuario web de Campaign | [Administrar y crear audiencias](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Vídeo | Obtenga información sobre cómo crear y administrar audiencias, cómo seleccionar audiencias para una entrega y definir grupos de control. |
 | Febrero de 2024 | Interfaz de usuario web de Campaign | [Creación de un flujo de trabajo de direccionamiento](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Vídeo | Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de objetivos. |
 | Febrero de 2024 | Interfaz de usuario web de Campaign | [Creación de un envío de correo electrónico](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Vídeo | Obtenga información sobre cómo crear un envío de correo electrónico desde cero, definir el público, diseñar el contenido, simular la previsualización y enviar una prueba. |
-| Febrero de 2024 | Interfaz de usuario web de Campaign | [Diseño del contenido del correo electrónico desde cero](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Vídeo | Obtén información sobre cómo navegar por el Diseñador de correo electrónico. Aprenda a estructurar y diseñar un correo electrónico desde cero, a personalizarlo y a probarlo. |
 | Febrero de 2024 | Interfaz de usuario web de Campaign, Experience Platform | [Creación de una audiencia con Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Vídeo | Obtenga información sobre cómo crear un destino para utilizar una audiencia de Experience Platform en Adobe Campaign. |
 | Febrero de 2024 | Interfaz de usuario web de Campaign | [Creación de un correo electrónico mediante un HTML de carga](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Vídeo | Aprenda a crear un correo electrónico cargando HTML, a hacerlo compatible con el diseñador de correo electrónico y a convertirlo en una plantilla. |
 | Febrero de 2024 | Interfaz de usuario web de Campaign | [Cancelar suscripción a tareas y tareas pendientes](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Artículo | Utilice una lista de cosas que hacer y cosas que evitar al administrar las cancelaciones de suscripción. |
