@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Marzo de 2024
 
-Actualización más reciente: **sábado, 22 de marzo de 2024**
+Actualización más reciente: **sábado, 29 de marzo de 2024**
 
-* [Eventos y actualizaciones de [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado) **Marzo de 29**)
 * [Certificación de Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
@@ -67,23 +67,25 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Contenido actualizado el **sábado, 15 de marzo de 2024**
+Contenido actualizado el **sábado, 29 de marzo de 2024**
 
 +++Detalles
 
-* **ADOBE SUMMIT** | Conferencia sobre la experiencia digital | _Amplíe sus habilidades, descubra las últimas tendencias y explore el futuro del crecimiento basado en la experiencia_ | Aprenda de las marcas líderes, descubra el futuro de la IA generativa y prepárese para el crecimiento basado en la experiencia. | **Del 25 al 28 de marzo en Las Vegas y en línea** | [Registrarse](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | Creadores de experiencias: intercambio de aptitudes | _Intercambio de aptitudes en Adobe Summit para Adobe Analytics_ | El 28 de marzo de 2024, organizaremos el intercambio de aptitudes de Adobe Analytics en Summit en Las Vegas. Regístrese ahora para obtener sugerencias, trucos y prácticas recomendadas de los clientes y campeones de Analytics. | **28 de marzo a las 9:00 a. m. PT** | [Registrarse](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Creadores de experiencias: intercambio de aptitudes | _Intercambio de aptitudes en Adobe Summit para AEM_ | El 28 de marzo de 2024, organizaremos el intercambio de aptitudes de AEM en la cumbre de Las Vegas. Preinscríbase ahora para obtener sugerencias, trucos y prácticas recomendadas de clientes y campeones de AEM. | **28 de marzo a las 9:00 a. m. PT** | [Registrarse](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Creadores de experiencias: intercambio de aptitudes | _Intercambio de aptitudes en el Adobe Summit para Marketo Engage_ | El 28 de marzo de 2024, organizaremos el intercambio de aptitudes Marketo Engage en la cumbre de Las Vegas. Regístrese ahora para aprender consejos, trucos y prácticas recomendadas de los clientes y campeones de Marketo Engage. | **28 de marzo a las 9:00 a. m. PT** | [Registrarse](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Creadores de experiencias: intercambio de aptitudes | _Intercambio de aptitudes en Adobe Summit para Workfront_ | El 28 de marzo de 2024, organizaremos el intercambio de aptitudes de Adobe Workfront en la cumbre de Las Vegas. Preinscríbase ahora para obtener sugerencias, trucos y prácticas recomendadas de los clientes de Workfront. | **28 de marzo a las 9:00 a. m. PT** | [Registrarse](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT**| Evento de la comunidad | _Connect: chat del administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conectará con otros administradores para analizar las prácticas recomendadas, sugerencias y trucos. | **5 de abril a las 9:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | Taller del cliente | _Administrador 101: Introducción a Workfront_ | ¿Es nuevo en Workfront? Únase a nuestras reuniones mensuales de Admin 101 para hacer preguntas, obtener recursos, aprender prácticas recomendadas y conocer a otros administradores nuevos. Esta sesión se centra en la configuración inicial. | **10 de abril a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Taller del cliente | _Más información: Resumen de la versión del segundo trimestre de 2024 de Adobe Workfront_ | Únase a otros administradores de sistemas de Workfront mientras revisamos las últimas mejoras incluidas en la versión del segundo trimestre de 2024. Analizaremos los beneficios, los planes de despliegue y la gestión del cambio. | **16 de abril a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | Aprenda de sus compañeros | _Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage_ | Únase a nosotros en directo y déjese inspirar por casos de uso reales de cómo se puede utilizar la API de REST para optimizar los flujos de trabajo, como la combinación de posibles clientes de forma masiva, la creación de programas de seguimiento de UTM y el uso de ChatGPT para optimizar los tiempos de envío. | **17 de abril a las 8:00 a. m. PT** | [Registrarse](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | Taller del cliente | _Más información: 10 consejos de modo de texto en Adobe Workfront_ | ¿Quiere ampliar sus conocimientos de creación de informes con el modo de texto? ¡No busques más! Este taller proporcionará una breve introducción a los aspectos básicos del modo de texto y el Explorador de API, seguido de 10 sugerencias sobre el modo de texto en Adobe Workfront. | **18 de abril a las 9:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Vea más [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examine las [grabaciones de los eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=es) en Experience League.
+
+* **WORKFRONT** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a sus colegas administradores de sistemas de Workfront en esta sesión colectiva mensual de intercambio y reflexión, en la que analizamos las últimas actualizaciones y las prácticas recomendadas. | **22 de abril a las 6:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Chat de preguntas y respuestas | _Pregunta: Migración a Adobe Business Platform_ | Únase a nosotros para realizar preguntas y respuestas con nuestros ingenieros de asistencia técnica para saber qué esperar y cómo prepararse mejor para la migración de Adobe Business Platform. | **23 de abril a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
