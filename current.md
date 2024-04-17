@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5962'
-ht-degree: 95%
+source-wordcount: '5857'
+ht-degree: 96%
 
 ---
 
@@ -70,10 +70,6 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 Contenido actualizado el **lunes, 31 de marzo de 2024**
 
 +++Detalles
-
-* **WORKFRONT** | Taller del cliente | _Más información: Resumen de la versión del segundo trimestre de 2024 de Adobe Workfront_ | Únase a otros administradores de sistemas de Workfront mientras revisamos las últimas mejoras incluidas en la versión del segundo trimestre de 2024. Analizaremos los beneficios, los planes de despliegue y la gestión del cambio. | **16 de abril a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** | Aprenda de sus compañeros | _Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage_ | Únase a nosotros en directo y déjese inspirar por casos de uso reales de cómo se puede utilizar la API de REST para optimizar los flujos de trabajo, como la combinación de posibles clientes de forma masiva, la creación de programas de seguimiento de UTM y el uso de ChatGPT para optimizar los tiempos de envío. | **17 de abril a las 8:00 a. m. PT** | [Registrarse](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** | Taller del cliente | _Más información: 10 consejos de modo de texto en Adobe Workfront_ | ¿Quiere ampliar sus conocimientos de creación de informes con el modo de texto? ¡No busques más! Este taller proporcionará una breve introducción a los aspectos básicos del modo de texto y el Explorador de API, seguido de 10 sugerencias sobre el modo de texto en Adobe Workfront. | **18 de abril a las 9:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
