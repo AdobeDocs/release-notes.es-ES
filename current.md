@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6189'
+source-wordcount: '6236'
 ht-degree: 98%
 
 ---
@@ -67,7 +67,7 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado el **sábado, 19 de abril de 2024**
+Actualizado el **sábado, 26 de abril de 2024**
 
 +++Detalles
 
@@ -77,7 +77,9 @@ Actualizado el **sábado, 19 de abril de 2024**
 
 * **COMMERCE** | Seminario web | _Commerce &amp; Coffee: Dominio de Ecommerce Essentials_ | Únase al consultor de estrategia sénior de Commerce, Corey Gelato, ya que comparte los aspectos básicos del comercio electrónico para el éxito, incluidas las promociones personalizadas de clientes, los programas de fidelidad y los procesos optimizados de pago y envío. | **2 de marzo a las 10:00 a. m. PT** | [Registrarse](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **COMMERCE** | Taller del cliente | _Administrador 101: Cómo hacer que los usuarios usen Workfront_ | ¿Nuevo en Workfront? Únase a nuestras reuniones mensuales de Admin 101 para hacer preguntas, obtener recursos, aprender prácticas recomendadas y conocer a otros administradores nuevos. Este mes, analizaremos la adopción de usuarios. | **8 de marzo a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Taller del cliente | _Administrador 101: Cómo hacer que los usuarios usen Workfront_ | ¿Es nuevo en Workfront? Únase a nuestras reuniones mensuales de Admin 101 para hacer preguntas, obtener recursos, aprender prácticas recomendadas y conocer a otros administradores nuevos. Este mes, analizaremos la adopción de usuarios. | **8 de marzo a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Evento de comunidad | _Workfront Industry Circle: Higher Education_ | Si es cliente de Workfront en Educación Superior y está interesado en la resolución colectiva de problemas y en compartir aprendizajes con otros administradores, únase a nosotros para una conversación abierta de 1 hora en colaboración con WGU. | **9 de marzo a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Vea los [próximos eventos](https://experienceleague.adobe.com/events/) o examine las [grabaciones de los eventos](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
