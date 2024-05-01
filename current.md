@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 98%
 
 ---
@@ -32,7 +32,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Abril de 2024
 
-Última actualización: **jueves, 24 de abril de 2024**
+Última actualización: **jueves, 01 de mayo de 2024**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [Certificación de Adobe](#certification)
@@ -67,11 +67,9 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado el **miércoles, 30 de abril de 2024**
+Actualizado el **jueves, 01 de mayo de 2024**
 
 +++Detalles
-
-* **WORKFRONT** | Pregunte al experto: Operaciones de Fusion | _Práctica de cómo contratar personal para la administración de sistemas_ | Únase al experto Andy Hess para obtener más información sobre las operaciones en Adobe Workfront Fusion, incluida la forma de cuantificarlas, así como consejos y trucos para optimizar su uso en sus escenarios. | **30 de abril a las 10:30 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Receso | _Receso de preguntas y respuestas de la comunidad de Adobe Journey Optimizer_ | Únase a los expertos de Adobe Journey Optimizer para formular sus preguntas y charlar sobre el nuevo canal de experiencia basado en código de Journey Optimizer. | **8 de marzo a las 8:00 a. m. PT** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
