@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6449'
+source-wordcount: '6457'
 ht-degree: 53%
 
 ---
@@ -71,7 +71,7 @@ Actualizado el **jueves, 15 de mayo de 2024**
 
 +++Detalles
 
-* **WORKFRONT** | Chat de preguntas y respuestas | _Pregunte a los expertos: Asignación de personal a las prácticas de administración - Seguimiento del seminario web_ | Únase a sus colegas y a nuestros expertos de Dell y al Adobe en nuestro evento de seguimiento del seminario web para continuar el debate sobre la asignación de personal a sus prácticas administrativas. | **16 de marzo a las 8:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM Y TARGET** | Seminario web | _La mezcla perfecta: RTCDP, Target y amigos_ | Únase al consultor de soluciones sénior Josh Kimball, quien comparte cómo RTCDP unifica los datos de canales cruzados en perfiles de clientes y se conecta sin problemas a Adobe Target para activar una estrategia personalizada para estos segmentos. | **23 de mayo a la 1:00 AM ET** | [Registrar](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Evento de comunidad | _Adobe Workfront Industry Circle: minorista_ | Si es cliente de Workfront en Retail y está interesado en resolver problemas de forma colectiva y compartir aprendizajes con otros administradores, únase a nosotros para un debate abierto de 1 hora, dirigido por administradores de DSW y Nordstrom. | **23 de marzo a las 11:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
