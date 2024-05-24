@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6546'
-ht-degree: 94%
+source-wordcount: '6446'
+ht-degree: 95%
 
 ---
 
@@ -67,13 +67,9 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado el **sábado, 17 de mayo de 2024**
+Actualizado el **sábado, 24 de mayo de 2024**
 
 +++Detalles
-
-* **REAL-TIME CUSTOMER DATA PLATFORM Y TARGET** | Seminario web | _La mezcla perfecta: RTCDP, Target y amigos_ | Únase al consultor de soluciones sénior Josh Kimball, quien comparte cómo RTCDP unifica los datos de canales cruzados en perfiles de clientes y se conecta sin problemas a Adobe Target para activar una estrategia personalizada para estos segmentos. | **23 de mayo a la 1:00 AM ET** | [Registrar](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Evento de la comunidad | _Adobe Workfront Industry Circle: minorista_ | Si es cliente de Workfront en el sector minorista y está interesado en resolver problemas colectivos y compartir lo aprendido con otros administradores, únase a nosotros para el debate abierto de una hora, dirigido por los administradores de DSW y Nordstrom. | **23 de marzo a las 11:00 a. m. PT** | [Registrarse](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Receso | _Receso de preguntas y respuestas de la comunidad de Adobe Workfront: migración de Adobe Business Platform_ | Únase a los expertos de Workfront en la comunidad y haga cualquier pregunta que tenga sobre Adobe Business Platform, la migración de su organización a Adobe Admin Console y mucho más. | **29 de marzo a las 8:00 a. m. PT** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763?profile.language=es)
 
