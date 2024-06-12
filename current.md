@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ Nuevos tutoriales publicados para aplicaciones de en [!DNL Adobe Creative Cloud 
 | Publicadas | Aplicación | Nombre | Tipo | Descripción |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Mayo de 2024 | [!DNL Firefly] | [Creación de escenas reutilizables para mercancías](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Vídeo | Aprenda a crear escenas reutilizables para mercancías como bolsos y accesorios. La creación de escenas reutilizables acelera la comercialización digital porque permiten actualizar el material publicado en el sitio web de forma estacional o cuando así lo decida. |
-| Mayo de 2024 | [!DNL Firefly] | [Aceleración del proceso creativo](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vídeo | Aprenda a visualizar rápidamente ideas y a explorar conceptos para campañas comerciales. La aceleración del proceso creativo permite a las organizaciones producir contenido de alta calidad a un ritmo rápido. |
+| Mayo de 2024 | [!DNL Firefly] | [Aceleración del proceso creativo](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vídeo | Aprenda a visualizar ideas y explorar conceptos para campañas empresariales. La aceleración del proceso creativo permite a las organizaciones producir contenido de alta calidad a un ritmo rápido. |
 
 Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) para conocer los tutoriales más recientes.
 
