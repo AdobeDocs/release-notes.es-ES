@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3e248cbbf78e9379263d6f76a6c8078fd28ff93f
+source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -122,12 +122,12 @@ Obtenga información sobre las últimas funciones y actualizaciones en [!DNL Ado
 
 Para las notas de la versión, consulte lo siguiente:
 
-* [15 de mayo de 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024)
-* [30 de enero de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/02142024)
-* [Octubre de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/10042023)
-* [Agosto de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/08092023)
-* [Marzo de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/03082023)
-* [Enero de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/02082023)
+* [15 de mayo de 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [30 de enero de 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [Octubre de 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
+* [Agosto de 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
+* [Marzo de 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
+* [Enero de 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
