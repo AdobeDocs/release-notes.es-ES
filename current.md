@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
+source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
 workflow-type: tm+mt
-source-wordcount: '3536'
-ht-degree: 44%
+source-wordcount: '3621'
+ht-degree: 43%
 
 ---
 
@@ -67,19 +67,23 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Eventos en Experience League
 
-Actualizado el **jueves, 17 de julio de 2024**
+Actualizado el **sábado, 26 de julio de 2024**
 
 +++Detalles
-
-* **[!DNL WORKFRONT]** | Taller del cliente | _Aprenda con los clientes: use [!DNL Workfront] para las reorganizaciones_ | Únase para una presentación de una hora de clientes y clientes anteriores, ya que comparten su experiencia y recomendaciones sobre cómo usar [!DNL Workfront] para ayudar a los cambios estructurales y de proceso de los informes de la organización. | **23 de julio a las 9:00 AM MT** | [Registrarse](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO AND MARKETO ENGAGE]** | Seminario web | _Marketo y Mochas: sentando las bases - madurez, parte 1_ | Únase a los asesores comerciales de Adobe y aprenda a desarrollar mejor el uso de Marketo de su organización. Revisaremos todo, desde la administración de instancias hasta la biblioteca de programas, que aloja varios programas para iniciar la creación del programa. | **25 de julio a las 11:00 a.m. MT** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Seminario web | _Preguntar al servicio de atención al cliente de [!DNL Workfront] - Solucionar problemas de expresiones calculadas_ | Únase al equipo de Asistencia al cliente de [!DNL Workfront] durante una hora en expresiones calculadas. Entre ejemplos comunes, sugerencias para la resolución de problemas, aprendizajes clave y una demostración en directo, esta sesión no se puede perder. | **31 de julio a las 9:00 AM MT** | [Registrarse](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL COMMERCE]** | Seminario web | _Commerce y café: estrategias para el éxito del comercio electrónico B2B_ | Únase al consultor de estrategia de Commerce, Corey Gelato, que destaca algunas de las tendencias y estrategias de comercio electrónico B2B más impactantes que los clientes pueden aprovechar dentro de Adobe Commerce. | **1 de agosto a las 11:00 a.m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conectará con otros administradores para analizar las prácticas recomendadas, sugerencias y trucos. | **2 de agosto a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Taller del cliente | _Administrador 101: Obteniendo usuarios para usar Workfront_ | ¿Es nuevo en Workfront? Únase a nuestras reuniones mensuales de Admin 101 para hacer preguntas, obtener recursos, aprender prácticas recomendadas y conocer a otros administradores nuevos. Este mes, analizaremos la adopción de usuarios. | **6 de agosto a las 9:00 AM MT** | [Registrarse](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL ANALYTICS]** | Creadores de experiencia | _Intercambio de habilidades para Adobe Analytics_ | Únase a nosotros el 7 de agosto en este evento gratuito de aprendizaje digital para clientes. Expertos y compañeros le explicarán cómo utilizan Adobe Analytics. También hay tiempo para obtener respuestas a sus preguntas. | **7 de agosto a las 10:00 a.m. MT** | [Registrarse](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL MARKETO]** | Creadores de experiencia | _Intercambio de habilidades para Adobe Marketo Engage_ | Únase a nosotros el 8 de agosto en este evento gratuito de aprendizaje digital para clientes. Expertos y compañeros le explicarán cómo utilizan Marketo Engage. También hay tiempo para que respondan sus preguntas. | **8 de agosto a las 10:00 a.m. MT** | [Registrarse](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL COMMERCE]** | Creadores de experiencia | _Detrás de la preparación: Adobe Developer App Builder_ | Únase al administrador de cuentas técnico de Adobe y aprenda todo lo que necesita saber para integrar Adobe Commerce con cualquier otra aplicación de comercio electrónico a través del marco de trabajo de extensibilidad de terceros de Adobe Developer App Builder | **8 de agosto a las 11:00 a.m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/expphv5tkyoc/event/registration.html?campaign-id=ExL)
 
 ¡Y mucho más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
