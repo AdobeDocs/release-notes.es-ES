@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 92%
 
 ---
 
@@ -32,9 +32,9 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Agosto de 2024
 
-Última actualización: **miércoles, 20 de agosto de 2024**
+Última actualización: **viernes, 22 de agosto de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el: **20 de agosto**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el: **22 de agosto**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Obtenga información sobre emocionantes eventos en Experience League. Los evento
 
 ### Listas de reproducción en el Experience League (nuevo)
 
-Actualización: **16 de agosto de 2024**
+Actualización: **22 de agosto de 2024**
 
-Las [listas de reproducción](https://experienceleague.adobe.com/en/playlists) del vídeo son nuevas en el Experience League. Una lista de reproducción es una colección revisada de vídeos diseñados para ayudarle a adquirir rápidamente las habilidades y los conocimientos que busca.
+Hay nuevas [listas de reproducción](https://experienceleague.adobe.com/es/playlists) de vídeo disponibles en el Experience League. Una lista de reproducción es una colección revisada de vídeos diseñados para ayudarle a adquirir rápidamente las habilidades y los conocimientos que busca.
+
+Las funciones de lista de reproducción incluyen:
+
+* Reproducción automática de vídeos
+* Selección de capítulos y velocidad de reproducción
+* Reanudar donde lo dejó
+* Transcripciones de vídeo
 
 Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **[!UICONTROL Examinar todas las listas de reproducción]**.
 
 >[!NOTE]
 >
->Se están retirando **cursos** del Experience League. Si tiene un marcador en un curso, se le redirigirá a una lista de reproducción correspondiente.
-
-Si desea enviar comentarios al Experience League sobre listas de reproducción o cualquier problema de ayuda, utilice la ventana emergente Comentarios en la parte inferior de cada página.
+>Se están retirando **cursos** del Experience League. Si ha marcado un curso, se le redirigirá a una lista de reproducción correspondiente, si existe. En algunos casos, es posible que tenga que buscar una nueva lista de reproducción que cubra los temas que está buscando.
 
 ### Eventos en Experience League
 
@@ -86,13 +91,11 @@ Si desea enviar comentarios al Experience League sobre listas de reproducción o
 
 * **[!DNL EXPERIENCE CLOUD]** | Evento de comunidad | _Premios Adobe Experience Maker 2025_ | Ya están abiertas las inscripciones para los premios Adobe Experience Maker 2025. Extraordinario es solo el principio. Visionarios audaces. Experiencias de cliente excepcionales. | **N/A** | [Solicitar ahora](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Taller del cliente | _Más información: uso de colas de solicitudes de Workfront para procesos de admisión_ | Únase para debatir las ventajas y las prácticas recomendadas de las colas de solicitudes de Workfront para realizar seguimientos, organizar e informar sobre el trabajo de su organización. | **21 de agosto a las 9:30 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Evento de comunidad | _Goteo de datos: conceptos básicos de Adobe Analytics y más_ | Únase a los expertos de Adobe Analytics para que nos guíen a través de las prácticas recomendadas para organizar su espacio de trabajo, navegar por las rutas de aprendizaje de Adobe Analytics para principiantes y conectarlo con herramientas de visualización de datos de terceros. | **22 de agosto a las 11:00 a. m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Taller del cliente | _Más información: defensa de Workfront Fusion_ | Únase al equipo de éxito del cliente en un taller interactivo de una hora con Deloitte y la asesoría de integraciones de Adobe Workfront para aprender a cuantificar el ahorro de tiempo y crear un sólido argumento comercial para Workfront Fusion. | **27 de agosto a las 10:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Descanso para preguntas y respuestas de la comunidad de Adobe Journey Optimizer_ | Es una sesión de chat de tipo AMA de una hora con expertos en Journey Optimizer de todo el mundo que deben probar las funciones de Journey Optimizer: experimentación de recorridos, restricción de frecuencias y mensajería multilingüe. | **4 de septiembre a las 9:00 a.m. MT** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conectará con otros administradores para analizar las prácticas recomendadas, sugerencias y trucos. | **6 de septiembre a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Y mucho más. Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
