@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 92%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ Esta página le ayuda a localizar los siguientes recursos informativos para apli
 
 Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience League](https://experienceleague.adobe.com/?lang=es#home) y personalice su experiencia de búsqueda en la biblioteca gratuita de Adobe de [documentación](https://experienceleague.adobe.com/es/docs), [cursos](https://experienceleague.adobe.com/?lang=es#courses), [eventos](https://experienceleague.adobe.com/events/), [foros comunitarios](https://experienceleaguecommunities.adobe.com/?profile.language=es), y [asistencia](https://experienceleague.adobe.com/?support-tab=home&amp;lang=es#support).
 
+**Dejar comentarios**
+
+Busque **_¿Fue útil este contenido?_** elemento emergente al final de cada página. Los comentarios se depuran y se envían a los autores de contenido.
+
+**Recibir notificación**
+
 Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Agosto de 2024
 
-Última actualización: **viernes, 22 de agosto de 2024**
+Última actualización: **jueves, 28 de agosto de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el: **22 de agosto**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el: **28 de agosto**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 * **[!DNL EXPERIENCE CLOUD]** | Evento de comunidad | _Premios Adobe Experience Maker 2025_ | Ya están abiertas las inscripciones para los premios Adobe Experience Maker 2025. Extraordinario es solo el principio. Visionarios audaces. Experiencias de cliente excepcionales. | **N/A** | [Solicitar ahora](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Taller del cliente | _Más información: defensa de Workfront Fusion_ | Únase al equipo de éxito del cliente en un taller interactivo de una hora con Deloitte y la asesoría de integraciones de Adobe Workfront para aprender a cuantificar el ahorro de tiempo y crear un sólido argumento comercial para Workfront Fusion. | **27 de agosto a las 10:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Descanso para preguntas y respuestas de la comunidad de Adobe Journey Optimizer_ | Es una sesión de chat de tipo AMA de una hora con expertos en Journey Optimizer de todo el mundo que deben probar las funciones de Journey Optimizer: experimentación de recorridos, restricción de frecuencias y mensajería multilingüe. | **4 de septiembre a las 9:00 a.m. MT** | [Registrarse](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS de | AEM _¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo rápido (RDAs) para la creación de entornos de desarrollo de?_ | Únase a nosotros para conocer cómo utilizar RDE para reducir los tiempos de respuesta de desarrollo y obtener comentarios casi instantáneos para los cambios de código. Presentaremos las últimas funciones, como registro mejorado, compatibilidad con front-end y más. | **4 de septiembre a las 9:00 a.m. MT** | [Registrarse](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión basada en el cliente le conectará con otros administradores para analizar las prácticas recomendadas, sugerencias y trucos. | **6 de septiembre a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
