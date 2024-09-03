@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Agosto de 2024
 
-Última actualización: **jueves, 28 de agosto de 2024**
+Última actualización: **miércoles, 03 de septiembre de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el: **28 de agosto**)
+* [[!DNL Experience League] Eventos y actualizaciones](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interfaz central y administración](#ecloud) (actualizado: **3 de septiembre**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Fecha de la versión: **14 de agosto**)
@@ -132,7 +132,11 @@ Obtenga información acerca de los componentes y la administración de la interf
 
 +++Detalles
 
-No se ha actualizado.
+Versión: **2 de septiembre de 2024**
+
+| Función | Descripción |
+| -----------| ---------- |
+| Notificaciones al Slack | Puede configurar las preferencias de su cuenta para enviar notificaciones al Experience Cloud a Slack. Consulte _Notificaciones al Slack_ en la ayuda de [Preferencias y notificaciones de la cuenta](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) para obtener más información. |
 
 Para obtener ayuda sobre los componentes de la interfaz principal de Experience Cloud, consulte la [Interfaz de Experience Cloud y la Guía de administración](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud) (incluye [!UICONTROL Atributos del cliente], [!DNL Experience Cloud Assets], y [!UICONTROL Públicos]).
 
