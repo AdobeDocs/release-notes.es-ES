@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3845'
+source-wordcount: '3847'
 ht-degree: 97%
 
 ---
 
-# Notas de la versión de Experience Cloud, octubre de 2024
+# Notas de la versión del Experience Cloud: septiembre/octubre de 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ Busque **_¿Fue útil este contenido?_** (elemento emergente) al final de cada p
 
 Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Octubre de 2024
+## De septiembre a octubre de 2024
 
 Última actualización: **viernes, 03 de octubre de 2024**
 
