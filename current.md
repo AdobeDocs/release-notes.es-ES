@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
 workflow-type: tm+mt
-source-wordcount: '4127'
-ht-degree: 100%
+source-wordcount: '3845'
+ht-degree: 97%
 
 ---
 
@@ -38,15 +38,15 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Octubre de 2024
 
-Última actualización: **jueves, 02 de octubre de 2024**
+Última actualización: **viernes, 03 de octubre de 2024**
 
 * Eventos y actualizaciones de [[!DNL Experience League] ](#events) (actualizado el **10 de septiembre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (Versión: **2 de octubre**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versión: **2 de octubre**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,21 +93,9 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL MARKETO ENGAGE]** | Evento de comunidad | _Marketo y Mochas: Optimizar el uso de Marketo (Madurez, parte 2)_ | Aprenda a optimizar el uso de Marketo en la parte 2 de nuestra serie Madurez de Marketo. Esta sesión se centra en las prácticas recomendadas de administración de datos, integraciones y optimización de programas para mejorar la personalización. | **12 de septiembre a las 11:00 a. m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
+* **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador de sistemas de un equipo creativo o de marketing? Esta sesión dirigida por el cliente le conectará con otros administradores de Workfront para analizar las prácticas recomendadas, así como consejos y trucos. | **4 de octubre a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Taller del cliente | _Aprender: Volver a los tableros de Workfront con el producto de Adobe_ | ¿Busca formas nuevas y creativas de utilizar los tableros de Workfront? Únase a nuestros responsables de producto para conocer las prácticas recomendadas de los tableros y cómo utilizar la función para mejorar la adopción. | **12 de septiembre a las 12:00 p. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a los encuentros colectivos mensuales los lunes para conectar con otros clientes, discutir sobre funciones de Workfront y aportar ideas para resolver desafíos comunes. | **16 de septiembre a las 07:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Taller del cliente | _Administrador 101: Traiga sus preguntas sobre Workfront_ | ¿Nuevo en Workfront? ¿Se ha perdido alguna de las sesiones anteriores de Administrador 101? Únase a nuestra sesión de resumen para hacer preguntas, obtener recursos y recomendaciones y conocer a otros administradores nuevos. | **17 de septiembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO ENGAGE]** | Webinar | _Domine recorridos complejos de clientes con programas de participación de varias secuencias_ | Únase al campeón de Adobe Marketo Engage Max Garrett para explorar cómo interactuar y nutrir de forma sistemática las relaciones con los clientes con programas de participación de múltiples contactos y flujos en cada paso de su recorrido. | **17 de septiembre a las 9:00 a. m. MT** | [Registrarse](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Taller del cliente | _Aprender: Realización de valores: sacar el máximo partido a Workfront_ | ¿Busca orientación sobre cómo obtener el máximo valor de su esfuerzo en Workfront? Únase a la Customer Success Manager sénior, Kait Winchell, que compartirá las prácticas recomendadas del sector para sacar el máximo partido a Workfront. | **19 de septiembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce &amp; Coffee: Preparación de temporada alta_ | Únase a Corey Gelato para obtener una descripción general de cómo preparar su sitio para una temporada alta en cualquier época del año. Aprenda a optimizar el rendimiento del sitio web, administrar el inventario, cumplir pedidos y aumentar la asistencia de forma proactiva. | **19 de septiembre a las 11:00 a. m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
-
-* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | Webinar | _Dynamic Media Experience: Presentando las últimas innovaciones_ | Ya disponibles nuevas innovaciones en AEM Dynamic Media para mejorar la experiencia del cliente. Únase a nosotros para obtener un resumen centrado en el valor y una descripción general de una experiencia del usuario atractiva creada con las últimas tecnologías. | **25 de septiembre a las 10:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Evento de comunidad | _Administrador 101: Introducción a Workfront_ | ¿Es nuevo en Workfront? Únase a nosotros en la primera sesión de la serie de 3 partes Admin 101. Conozca las prácticas recomendadas y las recomendaciones relacionadas con la configuración y navegación del sistema, así como los recursos que debe tener. | **8 de octubre a las 9:00 AM MT** | [Registrarse](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Y mucho más. Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
@@ -247,7 +235,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 +++Detalles
 
-Fecha de la versión de [!DNL Customer Journey Analytics]: **11 de septiembre de 2024**
+Fecha de la versión de [!DNL Customer Journey Analytics]: **jueves, 02 de octubre de 2024**
 
 * [!DNL Customer Journey Analytics] Notas de la versión de [](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -638,7 +626,6 @@ Nuevos tutoriales publicados para [!DNL Document Cloud], incluidos [!DNL Acrobat
 | Publicadas | Aplicación | Nombre | Tipo | Descripción |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Septiembre de 2024 | Acrobat | [Cómo promocionar un usuario a una función de administrador](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin.html?lang=es) | Vídeo | Obtenga información sobre cómo promocionar un usuario a una función de administrador de Acrobat Sign mediante Adobe Admin Console. |
-| Septiembre de 2024 | Acrobat | [Cómo usar varios perfiles](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/multiple-profiles) | Vídeo | Aprenda a utilizar el selector de perfiles para trabajar con varias cuentas de Acrobat Sign. |
 | Septiembre de 2024 | Acrobat Sign | [Informes de auditoría](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Vídeo | Obtenga información sobre cómo acceder, utilizar y configurar informes de auditoría para adaptarlos a las necesidades de su organización. Todos los documentos de Acrobat Sign pasan por una serie de “hitos” de evento que definen el progreso de una transacción. Estos hitos se documentan de forma exhaustiva en un informe de auditoría para cada transacción. |
 | Septiembre de 2024 | Acrobat Sign | [Herramienta Descarga por lotes](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | Vídeo | Aprenda a utilizar la herramienta de descarga por lotes para bajar rápidamente todos los acuerdos firmados. La herramienta Descarga por lotes está disponible para Windows y macOS X. |
 | Septiembre de 2024 | Acrobat Sign | [Configuración de actualizaciones automáticas](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | Vídeo | Aprenda a vincular con facilidad su cuenta a Salesforce para obtener actualizaciones automáticas, operaciones de optimización y precisión. |
