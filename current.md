@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
+source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
 workflow-type: tm+mt
-source-wordcount: '3922'
-ht-degree: 95%
+source-wordcount: '3969'
+ht-degree: 94%
 
 ---
 
@@ -93,11 +93,13 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL WORKFRONT]** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase al equipo de éxito del cliente para una conversación abierta el lunes por la mañana diseñada para conectarle con otros administradores de Workfront, hablar de las últimas funciones, compartir ideas y crear ideas sobre soluciones para desafíos comunes. | **14 de octubre a las 7:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Taller del cliente | _Aprenda: Mejorar la eficiencia - Cómo utiliza Cognizant Adobe Workfront para la excelencia del proyecto_ | Únase a Sujatha T S, directora sénior de operaciones creativas y creativa y marca global, administrador de sistemas, mientras comparte cómo Cognizant optimizó su sistema y sus procesos para mejorar la eficiencia y la excelencia del proyecto. | **17 de octubre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Y mucho más. Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
+* **[!DNL COMMERCE]** | Seminario web | _Detrás de la preparación: optimiza tu tienda Commerce_ | ¿Buscas estrategias para mantener y optimizar tu tienda de manera eficiente? Descubra cómo evitar bloqueadores de datos comunes, estrategias para mitigar la actividad de bots y planificación del espacio en disco y el tamaño de la base de datos. | **17 de octubre a las 11:00 a. m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Chat de preguntas y respuestas | _Conozca: el Recorrido de Qualcomm con la adopción de Adobe Workfront_ | Conozca el enfoque estratégico que Becky Barus, la directora técnica certificada de Adobe Workfront en Qualcomm, utilizó para impulsar significativamente la adopción de Adobe Workfront por parte de los usuarios. | **23 de octubre a las 10:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
 +++
 
