@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
-workflow-type: ht
-source-wordcount: '4668'
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+workflow-type: tm+mt
+source-wordcount: '4532'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Noviembre de 2024
 
-Última actualización: **23 de octubre**
+Última actualización: **30 de octubre**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 ### Eventos en Experience League
 
 +++Detalles
-
-* **[!DNL Workfront]** | Chat de preguntas y respuestas | _Aprender: el recorrido de Qualcomm con la adopción de Adobe Workfront_ | Conozca el enfoque estratégico que Becky Barus, la responsable técnica certificada de Adobe Workfront en Qualcomm, utilizó para impulsar significativamente la adopción de Adobe Workfront por parte de los usuarios. | **23 de octubre a las 10:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | EXPERIENCE LEAGUE LIVE | _Adobe Experience League Live: armonizar el público de Experience Ecosystems: composición del público federado en Experience Platform_ | Descubra cómo la composición de público federado ofrece un enfoque completo para la depuración y activación del público con Real-Time CDP y Journey Optimizer. | **24 de octubre a las 9:30 a. m. MT** | [Registrarse](https://engage.adobe.com/ExpLeagueLive-241024.html?lang=es)
-
-* **[!DNL Workfront]** | Chat de preguntas y respuestas | _Panel de clientes: lecciones aprendidas de administradores veteranos de Workfront_ | Únase a cuatro clientes experimentados de Adobe Workfront en una mesa redonda interactiva de 1 hora para aprender qué hacer (o no hacer) al implementar, heredar, administrar y expandir una instancia de Workfront. | **29 de octubre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](varios productos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase a nosotros para Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Encuentre la información de la última versión para [!DNL Adobe Analytics] y [
 
 +++Detalles
 
-Fecha de la versión de [!DNL Analytics]: **2 de octubre de 2024**
+Fecha de la versión de [!DNL Analytics]: **jueves, 23 de octubre de 2024**
 
 * [!DNL Analytics] [Notas de la versión](https://experienceleague.adobe.com/es/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 +++Detalles
 
-Fecha de la versión de [!DNL Customer Journey Analytics]: **2 de octubre de 2024**
+Fecha de la versión de [!DNL Customer Journey Analytics]: **jueves, 23 de octubre de 2024**
 
 * [!DNL Customer Journey Analytics] Notas de la versión de [](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
