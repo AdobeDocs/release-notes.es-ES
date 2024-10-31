@@ -93,7 +93,7 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL Experience Cloud](varios productos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase a nosotros para Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Experience Cloud] (varios productos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase a nosotros para Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase nosotros en Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -222,7 +222,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 Fecha de la versión de [!DNL Customer Journey Analytics]: **jueves, 23 de octubre de 2024**
 
-* [!DNL Customer Journey Analytics] Notas de la versión de [](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
+* [!DNL Customer Journey Analytics] Notas de la versión de [&#128279;](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [Tutoriales y documentación del producto](https://experienceleague.adobe.com/es/docs/customer-journey-analytics) de [!DNL Customer Journey Analytics]
 
