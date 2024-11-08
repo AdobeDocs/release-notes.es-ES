@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
+source-git-commit: 719336060311e774db7799c3357946dc2568ac67
 workflow-type: tm+mt
-source-wordcount: '4608'
-ht-degree: 98%
+source-wordcount: '4484'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 ## Noviembre de 2024
 
-Última actualización: **4 de noviembre**
+Última actualización: **8 de noviembre**
 
 * [Eventos y actualizaciones de [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,7 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL Workfront]** | Taller del cliente | _Más información: Aplicar la administración de cambios a su Recorrido de Workfront_ | Únase a la directora de éxito de clientes sénior, Keri Amundson, mientras comparte las prácticas recomendadas de administración de cambios para ayudar a impulsar cambios en su recorrido de Workfront. | **7 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | Taller del cliente | _Más información: Aplicar la administración de cambios a su Recorrido de Workfront_ | Únase a la directora de éxito de clientes sénior, Keri Amundson, mientras comparte las prácticas recomendadas de administración de cambios para ayudar a impulsar cambios en su recorrido de Workfront. | **7 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](varios productos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase a nosotros para Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Únase nosotros en Adobe Developers Live de forma presencial en la sede central de Adobe en San José. Conéctese con los desarrolladores de AEM y Commerce, explore las últimas innovaciones y descubra las prácticas recomendadas. 12 de noviembre, de forma presencial o en línea. ¡Regístrese ahora! | **12 de noviembre a las 9:00 a. m. MT** | [Registrarse](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 ¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
