@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience Le
 
 **Noviembre de 2024**
 
-Última actualización: **sábado, 22 de noviembre de 2024**
+Última actualización: **lunes, 24 de noviembre de 2024**
 
 * [[!DNL Experience League] eventos y actualizaciones](#events) (**24 de noviembre**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience Le
 * [Certificación de Adobe](https://experienceleague.adobe.com/es/certification-home)
 * [Vulnerabilidades de seguridad del producto Adobe](https://helpx.adobe.com/es/security.html)
 
-## Eventos y actualizaciones de [!DNL Experience League] {#events}
+## [!DNL Experience League] actualizaciones y eventos {#events}
 
 Obtenga información sobre emocionantes eventos en Experience League. Los eventos son un buen lugar para aprender, interactuar y obtener respuestas de los expertos en productos de Adobe.
 
-+++Detalles
+### Actualizaciones para el Experience League
 
-### Mejoras en la tabla de contenido
++++Detalles
 
 Actualización: **22 de noviembre de 2024**
 
-Se han realizado las siguientes actualizaciones en cada tabla de contenido de Experience League:
+**Actualizaciones del índice:** Se han realizado las siguientes actualizaciones en cada índice del Experience League:
 
 * **[!UICONTROL Expandir todas las secciones]**: muestra toda la tabla de contenido en cualquier guía del Experience League. (Esta opción se desactiva después de cargar una página. Este problema se solucionará en una actualización futura). Se han eliminado las opciones **[!UICONTROL Ver más]** y **[!UICONTROL Ver menos]**.
 * **Desplazamiento**: habilita el desplazamiento por una tabla de contenido larga.
