@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 93%
+source-wordcount: '4775'
+ht-degree: 92%
 
 ---
 
@@ -32,11 +32,11 @@ Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience Le
 
 **Recibir notificaciones:** Para recibir notificaciones mensuales por correo electrónico acerca de actualizaciones en esta página, suscríbase a [Actualización de producto con prioridad de Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Noviembre de 2024**
+**Noviembre/diciembre de 2024**
 
-Última actualización: **jueves, 11 de diciembre de 2024**
+Última actualización: **martes, 16 de diciembre de 2024**
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (**11 de diciembre**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (**16 de diciembre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL Workfront]** | Evento de comunidad | _Conectar: Workfront Collective_ | Únase a nuestros eventos colectivos mensuales de lunes de Workfront diseñados para conectarse con otros clientes, discutir las funciones de Workfront, compartir ideas y crear ideas para resolver desafíos comunes. | **16 de diciembre a las 7:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Chat de preguntas y respuestas | _Administrador 101: Traiga Sus Preguntas Sobre Workfront_ | ¿Es nuevo en Workfront? ¿Se ha perdido alguna de las sesiones anteriores de Administrador 101? Únase a nuestra sesión de resumen para hacer preguntas, obtener recursos y recomendaciones y conocer a otros administradores nuevos. | **17 de diciembre a las 9:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Seminario web sobre la versión del primer trimestre de Adobe Workfront_ | Este seminario web, organizado en colaboración con Jeremy Flores, director de producto senior, resaltará las mejoras de funciones de Adobe Workfront más recientes, que se lanzarán la próxima semana en el lanzamiento del primer trimestre de 2025. | **9 de enero a las 10:30 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador del sistema de un equipo creativo o de marketing? Esta sesión dirigida por el cliente y organizada en colaboración con los Servicios de Ayuda Católica proporcionará prácticas recomendadas, así como tiempo libre para preguntas. | **10 de enero a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
