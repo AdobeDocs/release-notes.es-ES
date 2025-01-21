@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4855'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -34,7 +34,8 @@ Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience Le
 
 **Noviembre/diciembre de 2024**
 
-Última actualización: **miércoles, 09 de enero de 2024**
+Última actualización: **21 de enero de 2024**
+Actualización de la página siguiente: **22 de enero de 2025**
 
 * [[!DNL Experience League] eventos y actualizaciones](#events) (**16 de diciembre**)
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ Para obtener la mejor experiencia de autoayuda, inicie sesión en [Experience Le
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Actualizado el **21 de enero**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -104,9 +105,17 @@ Para examinar las listas de reproducción, vaya a **[!UICONTROL Aprender]** > **
 
 +++Detalles
 
-* **[!DNL Workfront]** | Workfront | _Seminario web sobre la versión del primer trimestre de Adobe Workfront_ | Este seminario web, organizado en colaboración con Jeremy Flores, director de producto senior, resaltará las mejoras de funciones de Adobe Workfront más recientes, que se lanzarán la próxima semana en el lanzamiento del primer trimestre de 2025. | **9 de enero a las 10:30 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Despierta Con Workfront: Pregúntame Cualquier Cosa_ | En esta sesión &quot;Pregúntame cualquier cosa&quot;, las asesoras empresariales de Adobe Workfront Samantha Miller, Aaron Baker y Mary Ann Erickson responderán a preguntas en directo y compartirán prácticas recomendadas en Workfront para ayudar a los clientes a tener éxito en 2025. | **23 de enero a las 11:00 a.m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _Conectar: chat de administrador para marketing y creativos_ | ¿Es administrador del sistema de un equipo creativo o de marketing? Esta sesión dirigida por el cliente y organizada en colaboración con los Servicios de Ayuda Católica proporcionará prácticas recomendadas, así como tiempo libre para preguntas. | **10 de enero a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Conectar: Workfront Collective_ | Únase a nuestros eventos colectivos mensuales de lunes de Workfront diseñados para conectarse con otros clientes, discutir las funciones de Workfront, compartir ideas y crear ideas para resolver desafíos comunes. | **27 de enero a las 7:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Aprenda a superar la resistencia al cambio en su Recorrido Workfront_ | Únase a nuestros expertos en administración de cambios de Workfront para analizar las prácticas recomendadas de identificación y superación de resistencias con los usuarios. | **30 de enero a las 10:00 a.m. MT** | [Registrarse](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Serie de seminarios web sobre madurez de Adobe Target_ | Innovaciones de Adobe Target, incluida GenAI, y prácticas recomendadas sobre personalización y experimentación a escala con tecnología de IA. | **4 de febrero a las 9:00 a.m. MT** | [Registrarse](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo y Mochas: 5 características de Marketo que debes conocer en 2025_ | En nuestra primera sesión del año dedicada a Marketo y Mochas, las expertas en Marketo, Carly Gaver y Kate Colbert, ofrecerán más de cinco funciones enriquecidas en capacidades que pueden ayudar a mejorar la experiencia del cliente y aumentar la demanda en 2025. | **6 de febrero a las 11:00 a.m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce &amp; Coffee: el auge del autoservicio en B2B_ | Empiece el año con nuestros expertos en Commerce, Corey Gelato y Agbi Bajrushi, mientras exploran las últimas tendencias B2B y un enfoque para aprovechar las nuevas funciones de Adobe Commerce y mantenerse por delante de la competencia todo el año. | **13 de febrero a las 11:00 a.m. MT** | [Registrarse](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
@@ -381,13 +390,13 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* [!DNL Web User Interface]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [15 de enero de 2025 - Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-not) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign], versión 8: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-not) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic], versión 7: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-classic/using/release-notes/latest-release) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [25.1 - Notas de la versión de 2025](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home)
 
 ### Nuevos tutoriales de [!DNL Campaign] {#tutorials-campaign}
 
