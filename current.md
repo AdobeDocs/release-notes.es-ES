@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ Características principales:
 
 +++Detalles
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conferencia sobre la experiencia digital_ | Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. | **El 18 y el 19 de marzo en Las Vegas y en línea** | [Registrarse](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Aprenda de sus compañeros | _Cómo medir y compartir el valor de Workfront_ | **26 de febrero a las 8:00 a.m. PT** | Únase a nosotros el 26 de febrero de 2025, mientras sus colegas de Synchrony y EMMsphere comparten cómo crearon su &quot;Por qué Workfront&quot; definitivo y cómo comunican resultados mensurables como el ahorro de tiempo y costes. | [Registrar](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Aprenda de sus compañeros | _Cómo medir y compartir el valor de Workfront_ | Únase a nosotros el 26 de febrero de 2025, mientras sus colegas de Synchrony y EMMsphere comparten cómo crearon su &quot;Por qué Workfront&quot; definitivo y cómo comunican resultados mensurables como el ahorro de tiempo y costes.| **26 de febrero a las 8:00 h PT** | [Registrarse](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Seminario web | _Asegurar el patrocinio ejecutivo para Adobe Workfront_ | **27 de febrero a las 9:00 AM MST** | Descubra cómo el asistente de IA puede desbloquear perspectivas operativas valiosas, aumentando la productividad y redefiniendo el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas. | [Registrar](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Seminario web | _Asegurar el patrocinio ejecutivo para Adobe Workfront_ | Descubra cómo el asistente de IA puede desbloquear perspectivas operativas valiosas, aumentando la productividad y redefiniendo el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas.| **27 de febrero a las 9:00 horas MST** | [Registrarse](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloquear información operativa con el Asistente de IA en Adobe Experience Platform_ | **27 de febrero a las 8:30 AM PST** | Descubra cómo el asistente de IA puede desbloquear perspectivas operativas valiosas, aumentando la productividad y redefiniendo el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas. | [Registrar](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloquear información operativa con el Asistente de IA en Adobe Experience Platform_ | Descubra cómo el asistente de IA puede desbloquear perspectivas operativas valiosas, aumentando la productividad y redefiniendo el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas.| **27 de febrero a las 8:30 AM PST** | [Registrarse](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conferencia sobre la experiencia digital_ | **18 y 19 de marzo en Las Vegas y en línea**| Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. |  [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 ¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
