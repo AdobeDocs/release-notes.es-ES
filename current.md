@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
 source-wordcount: '3590'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -87,9 +87,9 @@ Características principales:
 
 +++Detalles
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloquear información operativa con el Asistente de IA en Adobe Experience Platform_ | **27 de febrero a las 8:30 AM PST** | Descubra cómo el asistente de IA puede desbloquear perspectivas operativas valiosas, aumentando la productividad y redefiniendo el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas. | [Registrar](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Platform]** | Experience League LIVE | _Revele datos operativos con el Asistente de IA en Adobe Experience Platform_ | **27 de febrero a las 8:30 h PST** | Descubra cómo el asistente de IA puede revelar datos operativos valiosos, aumentar la productividad y redefinir el trabajo en Adobe Experience Platform y sus aplicaciones basadas en plataformas. | [Registrarse](https://engage.adobe.com/ExpLeagueLive-250227.html?lang=es)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conferencia sobre la experiencia digital_ | **18 y 19 de marzo en Las Vegas y en línea**| Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. |  [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conferencia sobre la experiencia digital_ | **18 y 19 de marzo en Las Vegas y en línea**| Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. |  [Registrarse](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 ¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
