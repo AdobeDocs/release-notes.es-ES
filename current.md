@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Obtenga información acerca de los componentes y la administración de la interf
 
 +++Detalles
 
-| Fecha | Función | Descripción |
+| Fecha | Actualización | Descripción |
 | -----------| -----------| ---------- |
+| viernes, 06 de marzo de 2025 | Corrección de opciones del menú del botón derecho | Las pestañas de navegación de encabezado de Experience Cloud ahora permiten funciones de menú desplegable del explorador y hacer clic con el botón derecho. Esto corrige un problema introducido en la versión de febrero del sistema de diseño Spectrum 2. |
 | 13 de febrero | Espectro 2 | El marco de aplicación de [!DNL Experience Cloud], incluida la barra de encabezado y los componentes a los que se accede desde la barra de encabezado (y el carril de navegación izquierdo para determinadas aplicaciones), se actualizará a Espectro 2. Espectro es el estándar de diseño de Adobe. Este diseño actualizado incluye iconografía actualizada pero la misma funcionalidad. Sin embargo, varios elementos del encabezado se han vuelto a colocar para alinearlos con otros sitios y aplicaciones de Adobe. |
 
 Para obtener ayuda sobre los componentes de la interfaz principal de [!DNL Experience Cloud], consulte la [Interfaz de Experience Cloud y la Guía de administración](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud) (incluye [!UICONTROL Atributos del cliente], [!DNL Experience Cloud Assets] y [!UICONTROL Públicos]).
