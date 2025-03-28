@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0dbafac346009c94ed92bd36d3700f54a93fd8d6
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ Busca [eventos](https://experienceleague.adobe.com/events/) y regístrate para l
 +++Events
 
 * **[!DNL Adobe Summit]** | _Conferencia sobre la experiencia digital_ | **18 y 19 de marzo en Las Vegas y en línea**| Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. |  [Registrarse](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Administración 101: Traiga sus preguntas sobre Workfront_ | **25 de marzo** | ¿Primera vez en Workfront? ¿Se ha perdido alguna de las sesiones anteriores de Administrador 101? Únase a nuestra sesión de resumen para hacer preguntas, obtener recursos y recomendaciones y conocer a otros administradores nuevos. | [Registrarse](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Aprender: 10 consejos sobre el modo de texto en Adobe Workfront_ | **27 de marzo** | ¿Quiere ampliar sus conocimientos de creación de informes con el modo de texto? No busque más. Este taller le presentará los aspectos básicos del modo de texto y del Explorador de API, seguido de diez consejos básicos para Adobe Workfront. | [Registrarse](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Conectar: Workfront Collective_ | **31 de marzo** | Únase a los encuentros colectivos mensuales de Workfront los lunes diseñados para conectar con otros clientes, discutir las características de Workfront, compartir y proponer ideas conjuntas para resolver retos comunes. | [Registrarse](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -192,22 +188,6 @@ Fecha de la versión de [!DNL Analytics]: **12 de marzo de 2025**
 ### AppMeasurement {#appm}
 
 * [Notas de la versión de AppMeasurement para JavaScript](https://github.com/adobe/appmeasurement/releases)
-
-<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
-
-New tutorials published for Adobe [!DNL Analytics] on Experience League.
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
-
-<!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
-
-New articles and updates to existing articles for [!DNL Analytics].
-
-|Published|Name|Type|Description|
-|---------|----|----|-----------|
-|January 2025|[[!DNL Virtual Report Suite (VRS)] and funnel discrepancies in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25603) | New article| Learn how to solve funnel discrepancies in [!DNL Adobe Analytics] [!DNL Virtual Report Suite] (VRS) by comparing it to parent suite data and applying the correct segments.| -->
 
 +++
 
