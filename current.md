@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3867'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 95%
 
 [Experience League](https://experienceleague.adobe.com/?lang=es#home) es su biblioteca de recursos que pueden ayudarle a obtener información sobre las aplicaciones empresariales de Experience Cloud y Adobe. Iniciar sesión y:
 
-* [Personalice su aprendizaje](https://experienceleague.adobe.com/en/home/profile-settings): Ayúdenos a personalizar su experiencia de aprendizaje. Seleccione su función, el sector y los productos que le interesen.
-* [Examinar y descubrir](https://experienceleague.adobe.com/en/browse): encuentre contenido popular, nuevos tutoriales, documentación, eventos próximos y mucho más.
-* [Obtenga perspectivas nuevas](https://experienceleague.adobe.com/en/perspectives): Hemos recopilado una variedad de casos de uso y prácticas recomendadas en el mundo real, escritos por colegas y expertos en productos de Adobe.
-* [Obtenga la certificación](https://experienceleague.adobe.com/es/certification-home): El nuevo portal de certificación de Adobe le permite perfeccionar sus habilidades y obtener la certificación mediante un proceso sencillo.
-* [Participe con una comunidad de compañeros](https://experienceleaguecommunities.adobe.com/?profile.language=es): Únase a grupos, conozca a nuestros asesores de la comunidad de Experience League e incluso aprenda a serlo.
+* [Personalice su aprendizaje](https://experienceleague.adobe.com/es/home/profile-settings): ayúdenos a personalizar su experiencia de aprendizaje. Seleccione su función, el sector y los productos que le interesen.
+* [Examinar y descubrir](https://experienceleague.adobe.com/es/browse): encuentre contenido popular, nuevos tutoriales, documentación, eventos próximos y mucho más.
+* [Obtenga nuevas perspectivas](https://experienceleague.adobe.com/es/perspectives): hemos recopilado una amplia variedad de casos de uso reales y prácticas recomendadas, escritos por compañeros y expertos en productos de Adobe.
+* [Obtenga la certificación](https://experienceleague.adobe.com/es/certification-home): el nuevo portal de certificación de Adobe le permite perfeccionar sus habilidades y obtener la certificación mediante un proceso sencillo.
+* [Participe en una comunidad de compañeros](https://experienceleaguecommunities.adobe.com/?profile.language=es): únase a grupos, conozca a nuestros asesores de la comunidad de Experience League e incluso aprenda cómo convertirse en uno de ellos.
 
-Para recibir una notificación trimestral por correo electrónico acerca de actualizaciones en esta página, suscríbase a [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html?lang=es).
+Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html?lang=es).
 
 ## Marzo de 2025
 
-Actualización más reciente: **viernes, 13 de marzo de 2025**
+Actualización más reciente: **13 de marzo de 2025**
 
 Utilice estos vínculos para buscar notas de la versión de la aplicación, eventos, nuevos tutoriales y los últimos artículos de asistencia de la base de conocimiento:
 
@@ -64,9 +64,9 @@ Utilice estos vínculos para buscar notas de la versión de la aplicación, even
 
 ## Eventos en [!DNL Experience League] {#events}
 
-Busca [eventos](https://experienceleague.adobe.com/events/) y regístrate para los que te interesen.
+Busque [eventos](https://experienceleague.adobe.com/events/?lang=es) y regístrese para los que le interesen.
 
-+++Events
++++Eventos
 
 * **[!DNL Adobe Summit]** | _Conferencia sobre la experiencia digital_ | **18 y 19 de marzo en Las Vegas y en línea**| Únase a compañeros y escuche a ejecutivos de Coca-Cola Company, JPMorganChase, ServiceNow y más. |  [Registrarse](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
@@ -78,7 +78,7 @@ Busca [eventos](https://experienceleague.adobe.com/events/) y regístrate para l
 
 * **[!DNL Analytics]** | _Goteo de datos: Ventajas de migrar de un sistema antiguo a WebSDK_ | **10 de abril** | Acompáñenos mientras Arindam Agarwal, asesor técnico de Adobe, nos guía por las ventajas de implantar Adobe WebSDK. Arindam proporcionará información general detallada y responderá preguntas en directo durante las preguntas y respuestas. Regístrese hoy mismo. | [Registrarse](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
+¡Y muchos más! Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
 +++
 
@@ -88,7 +88,7 @@ Obtenga información sobre las últimas funciones y actualizaciones en [!DNL Ado
 
 No hay actualizaciones de marzo.
 
-+++Notas de la versión
++++Notas de la versión 
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es).
 
