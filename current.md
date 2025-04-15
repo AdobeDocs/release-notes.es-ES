@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef653e4d57445416cbe6b474948d0eb5e3399c38
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3876'
+source-wordcount: '3879'
 ht-degree: 94%
 
 ---
@@ -33,7 +33,7 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 
 Utilice estos vínculos para buscar notas de la versión de la aplicación, eventos, nuevos tutoriales y los últimos artículos de asistencia de la base de conocimiento:
 
-* [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el **15 de abril**)
+* [[!DNL Experience League] eventos y actualizaciones](#events) (Actualizado **el 15** de abril)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,11 +66,11 @@ Busque [eventos](https://experienceleague.adobe.com/events/?lang=es) y regístre
 
 +++Eventos
 
-* **[!DNL Marketo]** | _Marketo y Mochas: auditando una instancia heredada o actual_ | **17 de abril** | ¿Ha heredado recientemente una instancia de Marketo? ¿O quizá desea realizar auditorías periódicas en su instancia actual para maximizar su potencial? Únase a nosotros en este seminario web de Marketo y Mochas con nuestras asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, centrado en cómo realizar una auditoría en profundidad para comprender el estado actual de su instancia. | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
+* **[!DNL Marketo]** | _Marketo &amp; Mochas: Auditoría de una instancia_ heredada o actual | **17** de abril | ¿Ha heredado recientemente una instancia de Marketo? ¿O tal vez está buscando realizar auditorías regulares en su instancia actual para maximizar su potencial? Unirse nosotros para este seminario web de Marketo &amp; Mochas con nuestros asesores de Adobe Systems Empresa, Cynthia Chang y Carly Gaver, centrado en cómo realizar una auditoría profunda para comprender el estado actual de su instancia. | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Workfront]** | _Conectar: Workfront Collective_ | **21 de abril** | Este evento no tiene presentación formal ni agenda. Los temas de debate se basan en su participación. Piense en este taller como una sesión colectiva de solución de problemas. Si hay algo con lo que se le desafía en Workfront (o un éxito que desee compartir y promocionar) y desea hablar sobre soluciones con otros clientes, este es el evento perfecto para usted. | [Registrarse](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **21** de abril | Este evento no tiene presentación formal ni agenda. Los temas de discusión se basan en su participación. Piense en este taller como una sesión colectiva de resolución problema si hay algo con lo que tiene un desafío en Workfront (¡o un éxito que desea compartir y promover!) y desea hablar sobre soluciones con otros clientes, esta es la evento perfecta para usted. | [Registrarse](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Multisolución** | _Detrás de la preparación: Un desglose completo de las herramientas de supervisión proactivas_ | **24 de abril** | Únase a nosotros en una sesión exhaustiva sobre el uso de herramientas de monitorización de vanguardia como SWAT, Fastly y New Relic para optimizar el estado y el rendimiento del sistema.  | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **Multisolución** | _Detrás de la cerveza: Un desglose completo de la Herramientas_ de monitoreo proactivo | **24** de abril | Unirse nosotros para una sesión detallada sobre cómo aprovechar las herramientas de monitoreo de vanguardia gustar SWAT, Fastly y Nuevo Relic para optimizar el estado y el rendimiento del sistema.  | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 Vea todos los [próximos eventos](https://experienceleague.adobe.com/events/?lang=es) o examine [grabaciones de eventos anteriores](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
@@ -349,13 +349,13 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* [!DNL Campaign] v8.7.4: [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: [Notas](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) de la versión | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Web User Interface]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Standard]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2)
+* [!DNL Campaign Classic] 7.4.2: [Notas](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) de la versión | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
