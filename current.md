@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4071'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ Esta página le ayuda a encontrar notas de la versión específicas de la aplica
 Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html?lang=es).
 
 Actualizado: **jueves, 16 de abril de 2025**
+
++++Ver todos los productos
 
 * [[!DNL Experience League] eventos y actualizaciones](#events) (actualizado el **15 de abril**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Actualizado: **jueves, 16 de abril de 2025**
 * [Certificación de Adobe](https://experienceleague.adobe.com/es/certification-home)
 * [Vulnerabilidades de seguridad del producto Adobe](https://helpx.adobe.com/es/security.html)
 
++++
+
 ## Eventos en [!DNL Experience League] {#events}
 
 Busque [eventos](https://experienceleague.adobe.com/en/events) y regístrese para los que le interesen.
 
-+++Eventos
++++Próximos eventos
 
 * **[!DNL Marketo]** | _Marketo y Mochas: auditando una instancia heredada o actual_ | **17 de abril** | ¿Ha heredado recientemente una instancia de Marketo? ¿O quizá desea realizar auditorías periódicas en su instancia actual para maximizar su potencial? Únase a nosotros en este seminario web de Marketo y Mochas con nuestras asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, centrado en cómo realizar una auditoría en profundidad para comprender el estado actual de su instancia. | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
@@ -87,13 +91,13 @@ Fecha de la versión: **20 de marzo de 2025**
 **Novedades**
 
 * Asistente virtual beta
-* Nueva página de ayuda del glosario de eventos
+* Nueva página de ayuda del Glosario de eventos
 * Correcciones de errores y mejoras
 
 | Función | Descripción |
 | ------- | ------- |
-| **Asistente virtual beta** | <ul><li>La asistencia virtual es una característica que permite a los clientes de [!DNL Adobe Status] en la web y en dispositivos móviles obtener respuestas a sus preguntas y realizar acciones rápidas sin salir de la página principal. Puede servir como un lugar en el que puedan resolver todas sus consultas. Si desea participar en la versión beta del cliente, envíe un correo electrónico a [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
-| **Página de ayuda del glosario de evento nuevo** | <ul><li>Una página de ayuda dedicada para guiar a los usuarios de [!DNL Adobe Status] en todos los tipos de eventos, iconografía y sus estados en detalle para que sea más fácil navegar por el sitio web.</li><li>La página de información general sobre el estado de Adobe > menú Ayuda tiene un nuevo elemento de menú (Glosario de eventos) que apunta a esta nueva página.</li><li>Cualquiera de las superficies de Adobe que hace referencia a [!DNL Adobe Status] puede agregar vínculos a la nueva página de ayuda.</li></ul> |
+| **Asistente virtual beta** | <ul><li>El Asistente virtual es una función que permitirá a los clientes de Status en la web y en dispositivos móviles obtener respuestas a sus preguntas y realizar acciones rápidas sin salir de la página principal. Puede servir como un solo lugar para resolver todas las consultas. Si desea participar en la versión beta del cliente, envíe un correo electrónico a [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
+| **Nuevo glosario de eventos** | <ul><li>Una página de ayuda dedicada para guiar a los usuarios de [!DNL Adobe Status] en todos los tipos de eventos, iconografía y sus estados en detalle para que sea más fácil navegar por el sitio web.</li><li>La página de información general sobre el estado de Adobe > menú Ayuda tiene un nuevo elemento de menú (Glosario de eventos) que apunta a esta nueva página.</li><li>Cualquiera de las superficies de Adobe que hace referencia a [!DNL Adobe Status] puede agregar vínculos a la nueva página de ayuda.</li></ul> |
 | **Correcciones de errores y mejoras** | <ul><li>Notificaciones de Slack: el mensaje de recordatorio se muestra como Programado</li><li>Los eventos de productos retirados no deben mostrarse en la página Información general</li><li>_Cerrado_ > _Se descartó el mensaje de actualización del CSO_ y las notificaciones no se envían</li><li>El encabezado y pie de página web de estado tardan mucho tiempo en cargarse al actualizar</li><li>El menú de localización de estado del pie de página está dañado</li></ul> |
 
 Notas de la versión anteriores de [!DNL Adobe System Status]:
@@ -360,13 +364,13 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* [!DNL Campaign] v8.7.4: [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: 10 de abril de 2025 - [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 18 de febrero de 2025 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.1 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2: 2 de abril de 2025 - [Notas de la versión](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
