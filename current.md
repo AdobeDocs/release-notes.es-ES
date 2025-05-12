@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9dd5b8cc1453458a07562fa1399eb1c09ab4d7f4
+source-git-commit: 4a0ccbe0ec095e4b800d6aa68dc3a10edfe09549
 workflow-type: tm+mt
-source-wordcount: '3883'
-ht-degree: 98%
+source-wordcount: '4284'
+ht-degree: 89%
 
 ---
 
@@ -21,20 +21,20 @@ ht-degree: 98%
 
 Esta página le ayuda a encontrar notas de la versión específicas de la aplicación, próximos eventos, nuevos tutoriales y los artículos de asistencia más recientes sobre Experience League.
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/es/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/es/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/es/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/es/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/?profile.language=es): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
+<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 Para recibir una notificación mensual por correo electrónico acerca de las actualizaciones realizadas en esta página, suscríbase a la [Actualización de producto prioritario de Adobe](https://www.adobe.com/subscription/priority-product-update.html?lang=es).
 
-**Actualizado el 25 de abril de 2025**
+**Actualizado el 12 de mayo de 2025**
 
 +++Ver todos los productos
 
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]: interfaz central y administración](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interfaz central y administración](#ecloud) (actualizado: **12 de mayo**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -66,6 +66,24 @@ Para recibir una notificación mensual por correo electrónico acerca de las act
 Busque [eventos](https://experienceleague.adobe.com/es/events) y regístrese para los que le interesen.
 
 +++Próximos eventos
+
+* **Multisolución** | _Adobe Digital Insights: Seminario web sobre el estado de la adopción de Digital &amp; GenAI_ | Con la tecnología de los datos procedentes de más de un billón de visitas a los sitios estadounidenses, Adobe Digital Insights compartirá tendencias clave en el sector minorista y de viajes, incluido el aumento de la adopción móvil, la adopción de GenAI y la fragmentación de la atención del consumidor. | **Jueves 15 de mayo** | [Registrarse](https://events.teams.microsoft.com/event/c63a6057-465d-486a-a447-f644cd3648e4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Multisolución** | _Subir de nivel con Adobe: cómo postularse y destacarse como campeón_ | Únase al equipo de marketing de adopción de Adobe y a los actuales campeones de Adobe para asistir a un seminario web exclusivo en el que le guiaremos a través del programa y compartiremos sugerencias sobre el envío de una solicitud destacada. | **Jueves 15 de mayo** | [Registrarse](https://engage.adobe.com/Champion_applications.html)
+
+* **[!DNL Workfront]** | _Este es el evento colectivo de Workfront, una oportunidad de colaboración colectiva para todos los trabajadores de Workfront._ | Este evento no tiene presentación formal ni agenda. Los temas de debate se basan exclusivamente en la participación de los asistentes. | **Lunes, 19 de mayo** | [Registrarse](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&amp;_charset_=utf-8)
+
+* **[!DNL Workfront]** | _Formas de administrar recursos de Creative en Workfront_ | ¿Está interesado en aprender a administrar recursos en Workfront sin depender de herramientas tradicionales como el Planificador de recursos o el Distribuidor de cargas de trabajo? Si es así, esta sesión es para usted. | **Martes, 20 de mayo** | [Registrarse](https://events.teams.microsoft.com/event/126180b0-7153-414f-8ef3-a2bbc53176bb@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Commerce]** | _Commerce y café: impulsando el crecimiento con SEO_ | En esta sesión, el consultor de estrategia de Commerce, Corey Gelato, y el consultor de estrategia de Commerce, Agbi Bajrushi, profundizarán en la SEO. | **Miércoles, 21 de mayo** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5750600822/event_landing.html?sco-id=5750592916&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **[!DNL Workfront]** | _Empiece rápido, escale inteligente: Activación exitosa a nivel de equipo con Workfront Planning_ | El despliegue de una nueva solución de planificación en toda la empresa puede parecer como hervir el océano: costoso, lento y desconectado de las necesidades de los equipos que solo quieren hacer las cosas ahora. En esta sesión, describiremos el modelo de implementación federal frente a estatal y le mostraremos cómo los usuarios que lo adoptaron por primera vez utilizan Workfront Planning para desbloquear valor rápidamente, sin esperar el consenso a nivel empresarial.  | **Miércoles, 28 de mayo** | [Registrarse](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Desbloquea la potencia de Workfront Data Connect_ | ¿Quiere llevar los informes de Workfront al siguiente nivel? Incluido en el paquete de Ultimate, pero disponible como complemento ($) para clientes de Select o Prime, este seminario web de una hora de duración, organizado en colaboración con la administración de productos de Adobe Workfront, le presentará Data Connect y todo lo que puede hacer.  | **Jueves, 29 de mayo** | [Registrarse](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Guides]** | _Adobe DITAWORLD 2025_ | Planee unirse a nosotros del 3 al 5 de junio de 2025, durante tres días repletos de presentaciones de expertos del sector y charlas increíbles con colegas del sector. | **3-5 de junio** | [Registrarse](https://2025-adobe-dita-world.meetus.adobeevents.com/?utm_campaign=community_forum&amp;utm_source=experience_league)
+
+* **[!DNL Workfront]** | _Despertar con Workfront: optimizar para aumentar. Auditoría y alineación de la instancia de Adobe Workfront_ | Descripción | **Mes, día @ 10:00 AM MT** | [Registrarse](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5748588430/event_landing.html?sco-id=5748605291&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 Consulte la lista completa de los [próximos eventos](https://experienceleague.adobe.com/es/events) o explore los eventos [a demanda](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview) en Experience League.
 
@@ -267,7 +285,7 @@ Nuevos tutoriales publicados para [!DNL Experience Manager] en [!DNL Experienc
 | Publicadas | Aplicaciones | Nombre | Tipo | Descripción |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | Abril de 2025 | [!DNL Experience Manager Assets] | [Subtítulos de vídeos en Dynamic Media](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/advanced/video-closed-captions) | Nuevo vídeo | Aprenda a crear subtítulos con la IA. Los subtítulos se generan automáticamente una vez que se carga un archivo de vídeo en AEM Assets con Dynamic Media. |
-| Abril de 2025 | [!DNL Experience Manager] | [Uso de la API de Forms Document Services](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/forms/forms-document-services-api/introduction) | Nuevo vídeo | Aprenda a utilizar la API de Forms Document Services basada en OpenAPI. |
+| Abril de 2025 | [!DNL Experience Manager] | [Uso de la API de Forms Document Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/forms-document-services-api/introduction) | Nuevo vídeo | Aprenda a utilizar la API de Forms Document Services basada en OpenAPI. |
 | Abril de 2025 | [!DNL Experience Manager] | [API de AEM basadas en OpenAPI que utilizan autenticación de usuario de SPA](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/aem-apis/openapis/invoke-api-using-oauth-single-page-app#wknd-spa-overview-and-functional-flow) | Nuevo vídeo | Aprenda a utilizar el flujo de autenticación de aplicación de una sola página de OAuth para habilitar la autenticación basada en usuarios para las API de AEM basadas en OpenAPI. |
 
 ### Nueva base de conocimiento de asistencia de [!DNL Experience Manager]{#kb-aem}
@@ -339,7 +357,7 @@ Obtenga acceso a las notas previas al lanzamiento, las notas de la versión actu
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * Para obtener información previa al lanzamiento, consulte Versión preliminar de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/es/docs/target/using/release-notes/target-release-notes)
@@ -355,7 +373,7 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* Versión 8.7.4: 10 de abril de 2025 de [!DNL Campaign], [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
+*  Versión 8.7.4: 10 de abril de 2025 de [!DNL Campaign], [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Web User Interface]: 18 de febrero de 2025 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
 
@@ -369,8 +387,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/es/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/es/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
+|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
+|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
 
 ### Nueva base de conocimiento de asistencia de [!DNL Campaign]{#kb-campaign}
 
@@ -429,19 +447,19 @@ Obtenga información sobre las últimas actualizaciones de la versión para [!DN
 
 Última versión: miércoles, 29 de abril de 2025
 
-* [Journey Optimizer B2B edition](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b) (todo de autoayuda)
+* [Journey Optimizer B2B edition](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (todo de autoayuda)
 * [Notas de la versión](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/release-notes) para Journey Optimizer B2B edition
 * [Documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/guide-overview) para Journey Optimizer B2B edition
-* [Tutoriales y descripciones generales de vídeo](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b-learn/tutorials/overview) para Journey Optimizer B2B edition
-* [Descripción del producto y licencia](https://helpx.adobe.com/es/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) para Journey Optimizer B2B edition
+* [Tutoriales y descripciones generales de vídeo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) para Journey Optimizer B2B edition
+* [Descripción del producto y licencia](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) para Journey Optimizer B2B edition
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 Para obtener más información, consulte lo siguiente:
 
@@ -517,12 +535,12 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[[!DNL Workfront]: Apply layout template](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23173.html?lang=es)|New article| Learn how to apply the layout template in four ways: [!UICONTROL User profile], [!UICONTROL Job Role], [!UICONTROL Home Team], and [!UICONTROL Home Group].|
-|December 2023|[[!DNL Workfront]: proof failed to generate](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23149.html?lang=es)|New article| Learn how to resolve the `Proof Failed to Generate` error when you upload a new proof.|
-|December 2023|[[!DNL Fusion]: `Failed to verify connection '52174'. Status Code Error: 500`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23142.html?lang=es)|New article| Learn how to resolve the [!DNL Workfront Fusion] error, `Failed to verify connection '52174'. Status Code Error: 500`.|
-|December 2023|[[!DNL Workfront]: Stuck export](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23080.html?lang=es)|New article| Learn how to resolve the issue if your [!UICONTROL Kick-start] export or a [!UICONTROL Resource Planner] export is stuck.|
-|December 2023|[[!DNL Workfront Fusion]: `JWT Connection Error` for [!DNL AEM Assets Fusion]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22911.html?lang=es)|New article| Learn how to resolve if a `JWT connection error` occurs while configuring a connection for [!DNL AEM Assets as a Cloud Service] using the [!DNL Fusion AEM Assets] module.|
-|December 2023|[Project sharing lists are automatically pre-populated on creating new projects](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23045.html?lang=es)|New article| Learn how to resolve if project sharing lists get automatically pre-populated.|
+|December 2023|[[!DNL Workfront]: Apply layout template](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23173.html)|New article| Learn how to apply the layout template in four ways: [!UICONTROL User profile], [!UICONTROL Job Role], [!UICONTROL Home Team], and [!UICONTROL Home Group].|
+|December 2023|[[!DNL Workfront]: proof failed to generate](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23149.html)|New article| Learn how to resolve the `Proof Failed to Generate` error when you upload a new proof.|
+|December 2023|[[!DNL Fusion]: `Failed to verify connection '52174'. Status Code Error: 500`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23142.html)|New article| Learn how to resolve the [!DNL Workfront Fusion] error, `Failed to verify connection '52174'. Status Code Error: 500`.|
+|December 2023|[[!DNL Workfront]: Stuck export](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23080.html)|New article| Learn how to resolve the issue if your [!UICONTROL Kick-start] export or a [!UICONTROL Resource Planner] export is stuck.|
+|December 2023|[[!DNL Workfront Fusion]: `JWT Connection Error` for [!DNL AEM Assets Fusion]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22911.html)|New article| Learn how to resolve if a `JWT connection error` occurs while configuring a connection for [!DNL AEM Assets as a Cloud Service] using the [!DNL Fusion AEM Assets] module.|
+|December 2023|[Project sharing lists are automatically pre-populated on creating new projects](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23045.html)|New article| Learn how to resolve if project sharing lists get automatically pre-populated.|
 
 {style="table-layout:auto"}
 -->
@@ -618,8 +636,8 @@ Nuevos tutoriales publicados para aplicaciones en [!DNL Adobe Creative Cloud for
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.adobe.com/es/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) para conocer los tutoriales más recientes.
 
@@ -635,21 +653,21 @@ Consulte [Tutoriales de Creative Cloud para empresas](https://experienceleague.a
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/es/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/es/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/es/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
