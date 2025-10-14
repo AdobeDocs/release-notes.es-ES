@@ -4,9 +4,9 @@ description: Notas de la versión de Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Funciones y correcciones.
 
 Consulte [Estado del sistema de Adobe](https://status.adobe.com/es).
 
-## ![Icono](/assets/ec_appicon_24.png) Componentes de la IU central de Experience Cloud {#ecloud}
+## Componentes de la IU central de Experience Cloud {#ecloud}
 
 Los componentes de la interfaz central de Experience Cloud incluyen actualizaciones a las que se puede acceder desde el encabezado unificado del producto, como las preferencias de autoayuda, búsqueda y cuenta de usuario. Las actualizaciones de personas, lugares (ubicación) y la administración de productos se encuentran aquí.
 
@@ -64,7 +64,7 @@ Funciones y correcciones.
 
 Funciones y correcciones.
 
-## ![Icono](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Notas de la versión de [!DNL Experience Platform,] que incluyen [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL ofertas], [!UICONTROL usuarios], [!UICONTROL lugares], [!UICONTROL Mobile Services] y boletines de seguridad.
 
@@ -257,11 +257,11 @@ Marketo Engage es una solución completa para la gestión de posibles clientes y
 
 Fecha de publicación: 21 de febrero de 2020
 
-* **Microsoft® Dynamics, _cambio de propietario en Microsoft®_ Acción de flujo:** cambie un posible cliente o un contacto directamente desde Marketo Engage.
+* **Microsoft® Dynamics _Cambio de propietario en Microsoft®_ Acción de flujo:** cambie un cliente potencial o un contacto directamente desde Marketo Engage.
 * **Mejoras en las llamadas API:**
    * API de User Management
    * API de esquemas de objetos personalizados
-   * API de reglas de redireccionamiento de páginas de aterrizaje
+   * API de reglas de redireccionamiento de páginas de destino
 * **Almacenamiento en caché del descriptor de formulario:** mejoras en las páginas de destino y en los formularios.
 
 ### Próximas funciones
