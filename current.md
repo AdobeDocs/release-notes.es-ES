@@ -394,7 +394,7 @@ Obtenga acceso a las notas de la versión, los nuevos tutoriales y los artículo
 +++Notas de la versión, nuevos tutoriales y artículos de asistencia
 
 * Consulte las [Notas de la versión para  [!DNL Adobe Commerce]  y  [!DNL Magento Open Source]](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview) para mantenerse al día.
-* Consulte las [Guías de servicios de Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home) para ver la información y documentación de la versión de Commerce Services.
+* Consulte las [Guías de servicios de Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home) para ver la información y documentación de la versión de Commerce Services.
 * Consulte [Disponibilidad del producto](https://experienceleague.adobe.com/es/docs/commerce-operations/release/product-availability) para acceder a las notas de la versión de producto individuales y comprobar la disponibilidad.
 
 ### Nuevos tutoriales para [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -425,7 +425,7 @@ Nuevos artículos y actualizaciones de artículos existentes para Adobe Commerce
 | Diciembre de 2025 | [Solucionar problemas del montaje completo de `/tmp` para Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29644) | Nuevos artículos | Obtenga información acerca de las soluciones al problema cuando el montaje de `/tmp` está lleno, el sitio puede estar inactivo y no puede SSH en un nodo. |
 | Diciembre de 2025 | [No se puede quitar el código fuente o cambiar el código fuente](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29648) | Nuevos artículos | Obtenga información sobre las soluciones al problema cuando no puede eliminar un origen o modificar su código porque el sistema restringe estas acciones. |
 | Diciembre de 2025 | [No se puede guardar la clase *en el directorio generated/code* error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29649) | Nuevos artículos | Obtenga información acerca de las soluciones al problema en el que la forma en que se especifican las dependencias impide que las clases se generen automáticamente sobre la marcha y la clase *no se puede guardar en el directorio generated/code*. |
-| Diciembre de 2025 | [Solucionador de problemas de Adobe Commerce [!DNL Fastly] 2}](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29661) | Nuevos artículos | Este solucionador de problemas de [!DNL Fastly] para usuarios de Adobe Commerce le guiará hasta las soluciones, en función de su respuesta acerca de los síntomas que se producen. |
+| Diciembre de 2025 | [Solucionador de problemas de Adobe Commerce [!DNL Fastly] 2&rbrace;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29661) | Nuevos artículos | Este solucionador de problemas de [!DNL Fastly] para usuarios de Adobe Commerce le guiará hasta las soluciones, en función de su respuesta acerca de los síntomas que se producen. |
 | Diciembre de 2025 | [Error al purgar [!DNL Fastly] caché en la nube (*La solicitud de purga no se procesó correctamente.*)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29667) | Nuevos artículos | Obtenga información acerca de las soluciones al problema cuando se usa una opción de purga [!DNL Fastly] y se produce el error: *La solicitud de purga no se procesó correctamente.* |
 | Diciembre de 2025 | [Error de tiempo de espera de puerta de enlace 504 al guardar una categoría con más de 1k productos](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29703) | Nuevos artículos | Obtenga información acerca de las soluciones para un problema de tiempo de espera que se produce al realizar operaciones en categorías grandes (más de 1000 productos). |
 
@@ -447,8 +447,8 @@ Publicado: **14 de noviembre de 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Para obtener información previa al lanzamiento, consulte Versión preliminar de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/es/docs/target/using/release-notes/target-release-notes)
-* Para obtener información actual, consulte Notas de la versión de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/es/docs/target/using/release-notes/release-notes)
+* Para obtener información previa al lanzamiento, consulte Versión preliminar de [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/es/docs/target/using/release-notes/target-release-notes)
+* Para obtener información actual, consulte Notas de la versión de [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/es/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -603,7 +603,7 @@ Obtenga información sobre las últimas notas de la versión para [!DNL Adobe Wo
 
 Para toda la información de la versión:
 
-* Consulte la página de versiones de productos de [Adobe [!DNL Workfront]  ](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases) para obtener información sobre la programación de versiones y las notas de la versión de [!DNL Workfront].
+* Consulte la página de versiones de productos de [Adobe [!DNL Workfront]  &#x200B;](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases) para obtener información sobre la programación de versiones y las notas de la versión de [!DNL Workfront].
 
 * Consulte la Información general sobre la actividad de la versión de [Adobe [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) para obtener la información más reciente sobre Fusion.
 
