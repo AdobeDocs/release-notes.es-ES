@@ -394,7 +394,7 @@ Obtenga acceso a las notas de la versión, los nuevos tutoriales y los artículo
 +++Notas de la versión, nuevos tutoriales y artículos de asistencia
 
 * Consulte las [Notas de la versión para  [!DNL Adobe Commerce]  y  [!DNL Magento Open Source]](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview) para mantenerse al día.
-* Consulte las [Guías de servicios de Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home) para ver la información y documentación de la versión de Commerce Services.
+* Consulte las [Guías de servicios de Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home) para ver la información y documentación de la versión de Commerce Services.
 * Consulte [Disponibilidad del producto](https://experienceleague.adobe.com/es/docs/commerce-operations/release/product-availability) para acceder a las notas de la versión de producto individuales y comprobar la disponibilidad.
 
 ### Nuevos tutoriales para [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -447,8 +447,8 @@ Publicado: el **14 de noviembre de 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Para obtener información previa al lanzamiento, consulte Versión preliminar de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/es/docs/target/using/release-notes/target-release-notes)
-* Para obtener información actual, consulte Notas de la versión de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/es/docs/target/using/release-notes/release-notes)
+* Para obtener información previa al lanzamiento, consulte Versión preliminar de [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/es/docs/target/using/release-notes/target-release-notes)
+* Para obtener información actual, consulte Notas de la versión de [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/es/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -603,7 +603,7 @@ Obtenga información sobre las últimas notas de la versión para [!DNL Adobe Wo
 
 Para toda la información de la versión:
 
-* Consulte la página de versiones de productos de [Adobe [!DNL Workfront]  ](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases) para obtener información sobre la programación de versiones y las notas de la versión de [!DNL Workfront].
+* Consulte la página de versiones de productos de [Adobe [!DNL Workfront]  &#x200B;](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases) para obtener información sobre la programación de versiones y las notas de la versión de [!DNL Workfront].
 
 * Consulte la Información general sobre la actividad de la versión de [Adobe [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) para obtener la información más reciente sobre Fusion.
 
@@ -710,7 +710,7 @@ Vea los nuevos tutoriales publicados para [!DNL Document Cloud], incluidos [!DNL
 | Enero de 2026 | Acrobat | [Tablas complejas](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/complex-tables) | Vídeo | Obtenga información sobre cómo etiquetar tablas para mejorar la accesibilidad en Acrobat. |
 | Enero de 2026 | Acrobat | [Conceptos básicos del etiquetado](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/basics-tagging) | Vídeo | Conozca los aspectos básicos de cómo etiquetar un archivo PDF para que sea accesible. |
 | Enero de 2026 | Acrobat | [Crear un PDF accesible en Acrobat](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessible-acrobat) | Vídeo | Obtenga información sobre cómo crear un PDF accesible a partir de Acrobat. |
-| Enero de 2026 | Acrobat | Acción guiada](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/make-accessible-action) [[!UICONTROL Hacer accesible] | Vídeo | Obtenga información sobre cómo utilizar la acción guiada _[!UICONTROL Hacer accesible]_ para que pueda acceder a su archivo PDF. |
+| Enero de 2026 | Acrobat | Acción guiada[&#128279;](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/make-accessible-action) [!UICONTROL Hacer accesible] | Vídeo | Obtenga información sobre cómo utilizar la acción guiada _[!UICONTROL Hacer accesible]_ para que pueda acceder a su archivo PDF. |
 | Enero de 2026 | Acrobat Sign | [Crear una vista adaptada a dispositivos móviles](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/create-mobile-friendly) | Vídeo | Obtenga información sobre cómo generar un documento perfectamente adaptado a dispositivos móviles sin la asistencia de ningún desarrollador. |
 | Enero de 2026 | Acrobat Sign | [Vista adaptada a dispositivos móviles](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/mobile-friendly) | Vídeo | Aprenda a utilizar la vista adaptada a dispositivos móviles para completar formularios en estos. |
 | Enero de 2026 | Acrobat Sign | [Crear un flujo de trabajo personalizado](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow) | Vídeo | Obtenga información sobre cómo crear y utilizar flujos de trabajo personalizados para acelerar el proceso de creación y envío de un acuerdo. |
