@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b769f4e91b64c5cc4afae5183459a39758f1b0ca
+source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
 workflow-type: tm+mt
-source-wordcount: '4066'
-ht-degree: 50%
+source-wordcount: '5639'
+ht-degree: 52%
 
 ---
 
@@ -24,7 +24,7 @@ En esta página podrá hacer lo siguiente:
 * Ver nuevos tutoriales de vídeo por aplicación
 * Consultar los artículos de asistencia más recientes
 
-Última actualización: **jueves, 25 de febrero de 2026**
+Última actualización: **3 de marzo de 2026**
 
 ## Cursos en Experience League
 
@@ -45,7 +45,7 @@ Cada curso concluye con un certificado de finalización que se puede compartir, 
 +++Ver vínculos de sección
 
 * [Programación de eventos](#events) (actualizado el: **20 de febrero**)
-* [Características de IA en [!DNL Experience Cloud]](#ai) (actualizado el **20 de febrero**)
+* [Características de IA en [!DNL Experience Cloud]](#ai) (actualizado: **3 de marzo**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] : interfaz central y administración](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -82,10 +82,6 @@ Busque [eventos](https://experienceleague.adobe.com/es/events) y regístrese par
 
 +++Ver los próximos eventos
 
-* **[!DNL Workfront]** | _Seminario web_ | Habilitación a escala: convertir modelos de Workfront en programas de formación reales. | **26 de febrero** | [Registrarse](https://events.teams.microsoft.com/event/3ebe62c9-48da-4f99-a504-db4d4a05257d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Adobe Insider Tour]** | _Únase a nosotros en el recorrido de Adobe Insider_ | Estamos encantados de llevar el Adobe Insider Tour a Seattle el 26 de febrero, y nos encantaría que se uniera a nosotros. | **26 de febrero** | [Registrarse](https://event.adobe.com/adobe-insider-tour-seattle)
-
 * **[!DNL Workfront]** | _Connect: Chat del administrador para Marketing y Creative_ | Estamos encantados de llevar el Adobe Insider Tour a Seattle el 26 de febrero, y nos encantaría que se uniera a nosotros. | **6 de marzo** | [Registrarse](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]**   _Ver el futuro del marketing, la creatividad y la IA_   Descubra las próximas novedades en marketing, creatividad e IA. | **Las Vegas, del 19 al 22 de abril** | [Registrarse](https://summit.adobe.com/na/)
@@ -102,8 +98,9 @@ Encuentre los últimos recursos de aprendizaje publicados para la IA generativa 
 
 | Producto | Recurso | Descripción | Actualizado |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Consumo de créditos de IA y trabajos del agente](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Obtenga información acerca de los trabajos del agente y las tasas de consumo de crédito de IA en las aplicaciones de Experience Cloud. | **sábado, 20 de febrero de 2026** |
-| [!DNL Experience Cloud] | [IA agéntica en aplicaciones de Experience Cloud](https://experienceleague.adobe.com/es/docs/core-services/interface/features/agentic-ai) | Obtenga información acerca de la activación de IA auténtica en Experience Cloud. Descubra cómo funcionan los trabajos del agente y el consumo de crédito de IA. | **viernes, 29 de enero de 2026** |
+| [!DNL Experience Cloud] | [Agentes de Adobe Experience Platform para mejorar la eficiencia de marketing y los resultados empresariales](https://www.youtube.com/live/VlxHXfEnqjI) | Esta sesión exclusiva incluye una sesión de preguntas y respuestas con Anjul Bhambhri, vicepresidente sénior de Adobe Experience Cloud. Descubra el recorrido y la audaz visión de Adobe para proporcionar funcionalidades innovadoras de inteligencia artificial aplicada a la actividad empresarial que permitan a los profesionales creativos y de marketing automatizar pasos complejos, acelerar la toma de decisiones y ampliar la capacidad de sus equipos sin poner en riesgo el control o la supervisión. | **3 de marzo de 2026** |
+| [!DNL Experience Cloud] | [Consumo de créditos de IA y trabajos del agente](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Obtenga información acerca de los trabajos del agente y las tasas de consumo de crédito de IA en las aplicaciones de Experience Cloud. | **3 de marzo de 2026** |
+| [!DNL Experience Cloud] | [IA agéntica en aplicaciones de Experience Cloud](https://experienceleague.adobe.com/es/docs/core-services/interface/features/agentic-ai) | Obtenga información acerca de la activación de IA auténtica en Experience Cloud. Descubra cómo funcionan los trabajos del agente y el consumo de crédito de IA. | **3 de marzo de 2026** |
 | [!DNL Experience Manager as a Cloud Service] | [IA agéntica en AEM](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem) | Obtenga información sobre los nuevos agentes de IA en AEM CS. | 21 de noviembre de 2025 |
 | [!DNL Experience Cloud] | [IA generativa en aplicaciones de Experience Cloud](https://experienceleague.adobe.com/es/docs/core-services/interface/features/generative-ai) | Descubra dónde están disponibles las funciones con tecnología de IA en Experience Cloud. | Noviembre de 2025 |
 | Inicio de la documentación de IA | [Documentación de IA](https://experienceleague.adobe.com/en/docs/ai) | Para encontrar vínculos a información sobre las funciones con tecnología de IA (IA generativa y agentes de IA) en Experience Cloud, visite la nueva página de destino de la documentación del producto. | Octubre de 2025 |
@@ -157,7 +154,7 @@ Información sobre la versión más reciente y la nueva documentación de [!DNL 
 
 **Experience Platform**
 
-**Actualizaciones del miércoles, 27 de enero de 2026**: consulte las [[!DNL Experience Platform] notas de la versión](https://experienceleague.adobe.com/es/docs/experience-platform/release-notes/latest) para obtener más información.
+**Actualizaciones del 27 de enero de 2026**: consulte las [[!DNL Experience Platform] notas de la versión](https://experienceleague.adobe.com/es/docs/experience-platform/release-notes/latest) para obtener más detalles.
 
 **SDK móvil**
 
@@ -307,22 +304,22 @@ Funciones nuevas, correcciones y actualizaciones en [!DNL Experience Manager]. A
 
 Nuevo: [IA agéntica en AEM](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 
-Versión actual: **2026.1.0, viernes, 29 de enero de 2026**
+Versión actual: **2026.1.0 - 29 de enero de 2026**
 
 La próxima versión de la funcionalidad (2026.2.0) está planificada para el **26 de febrero de 2026**.
 
-* [Inicio de Notas de la versión para AEM CS](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Último vídeo de información general sobre la versión de AEM CS](https://experienceleague.adobe.com/es/docs/events/aemcs-release-update-recordings/overview)
+* [Inicio de las notas de la versión de AEM CS](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Vídeo de información general sobre la última versión de AEM CS](https://experienceleague.adobe.com/es/docs/events/aemcs-release-update-recordings/overview)
 
 Otras notas de la versión del producto [!DNL Experience Manager] se mantienen en las páginas siguientes:
 
-* [[!DNL Experience Manager] Notas de la versión de Service Pack 6.5](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes)
-* [[!DNL Experience Manager] Notas de la versión de Cloud Manager](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [Notas de la versión de [!DNL Experience Manager] 6.5 Service Pack](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager] notas de la versión de Cloud Manager](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Notas de la versión del servicio de conversión automatizada de formularios](https://experienceleague.adobe.com/es/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [[!DNL Experience Manager] Notas de la versión de Assets Dynamic Media](https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [[!DNL Experience Manager] Notas de la versión de Brand Portal](https://experienceleague.adobe.com/es/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [[!DNL Experience Manager] Notas de la versión de la aplicación de escritorio](https://experienceleague.adobe.com/es/docs/experience-manager-desktop-app/using/release-notes)
-* [[!DNL Experience Manager] Notas de la versión de Dispatcher](https://experienceleague.adobe.com/es/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager] notas de la versión de Dynamic Media de Assets](https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager] notas de la versión de Brand Portal](https://experienceleague.adobe.com/es/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager] notas de la versión de Desktop App](https://experienceleague.adobe.com/es/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager] notas de la versión de Dispatcher](https://experienceleague.adobe.com/es/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### Nuevos tutoriales de [!DNL Experience Manager] {#tutorials-aem}
 
@@ -441,7 +438,7 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* [!DNL Web User Interface]: miércoles, 27 de enero de 2026 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 27 de enero de 2026 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign] v8: 8.9.1: 27 de enero de 2026 - [Notas de la versión](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home)
 
@@ -489,7 +486,7 @@ Nuevos tutoriales publicados en Experience League para Adobe [!DNL Journey Optim
 
 | Publicadas | Aplicaciones | Nombre | Tipo | Descripción |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Febrero de 2026 | [!DNL Journey Optimizer] | [Enviar mensajes de correo directo con recorridos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail-in-journeys.html?lang=es) | Vídeo | Explore cómo aprovechar el canal de correo postal en Adobe Journey Optimizer para automatizar y programar envíos de correo postal dentro de sus recorridos. |
+| Febrero de 2026 | [!DNL Journey Optimizer] | [Enviar mensajes de correo directo con recorridos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail-in-journeys.html?lang=es) | Vídeo | Explore cómo aprovechar el canal de correo directo en Adobe Journey Optimizer para automatizar y programar envíos de correo directo en sus recorridos. |
 | Febrero de 2026 | [!DNL Journey Optimizer] | [Optimizar notificaciones push con AJO Decisioning](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications) | Vídeo | Aprenda a utilizar AJO Decisioning para personalizar las notificaciones push para su público. Cree ofertas atractivas basadas en perfiles de destinatarios para impulsar las ventas. |
 | Febrero de 2026 | [!DNL Journey Optimizer] | [Crear un conjunto de datos de consulta](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/lookup-dataset) | Vídeo | Cree un conjunto de datos de búsqueda para utilizarlo en el recorrido. |
 | Febrero de 2026 | [!DNL Journey Optimizer] | [Crear notificaciones push web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-web-push-notifications.html?lang=es) | Vídeo | Aprenda a crear notificaciones push web en Adobe Journey Optimizer. Amplíe su alcance más allá de los dispositivos móviles para atraer a los usuarios directamente en los navegadores web. |
@@ -581,9 +578,9 @@ Obtenga información sobre las últimas notas de la versión para [!DNL Adobe Wo
 
 ### Actualizaciones de [!DNL Adobe Workfront]
 
-* [Información general de la versión del primer trimestre de 2026](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview)
+* [Información general sobre la versión del primer trimestre de 2026](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview)
 
-* [Información general sobre la versión del cuarto trimestre de 2025](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
+* [Resumen de la versión del cuarto trimestre de 2025](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 Para toda la información de la versión:
 
@@ -660,13 +657,13 @@ Para examinar la ayuda de Adobe [!DNL Advertising], visite [Documentación de Ad
 
 ### Nuevas funciones en [!DNL Advertising DSP] {#advertising-dsp}
 
-jueves, 21 de enero de 2026
+21 de enero de 2026
 
 Consulte [Novedades en  [!DNL Advertising DSP]](https://experienceleague.adobe.com/es/docs/advertising/dsp/home)
 
 ### Nuevas funciones en [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-jueves, 21 de enero de 2026
+21 de enero de 2026
 
 Consulte [Novedades en  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/es/docs/advertising/search-social-commerce/home)
 
@@ -698,7 +695,7 @@ Para examinar tutoriales de [!DNL Document Cloud], consulte lo siguiente:
 * [Adobe Acrobat](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/overview)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/overview)
 * [Tutoriales de API de servicios de Adobe Acrobat](https://experienceleague.adobe.com/es/docs/acrobat-services-learn/tutorials/overview)
-* [Información y asistencia técnica de Document Cloud](https://helpx.adobe.com/es/support/document-cloud.html?lang=es)
+* [Formación y asistencia de Document Cloud](https://helpx.adobe.com/es/support/document-cloud.html)
 
 +++
 
