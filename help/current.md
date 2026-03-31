@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: c26c54047c0399effc03e12a7ced1b1c4d3ac4ba
+source-git-commit: bd15330698bc1312e14730da803d000aec5f2fd2
 workflow-type: tm+mt
-source-wordcount: 6872
-ht-degree: 100%
+source-wordcount: 6716
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ En esta página podrá hacer lo siguiente:
 * Ver nuevos tutoriales de vídeo por aplicación
 * Consultar los artículos de asistencia más recientes
 
-Última actualización: **19 de marzo de 2026**
+Última actualización: **31 de marzo de 2026**
 
 En esta página:
 
@@ -61,12 +61,6 @@ En esta página:
 * [Vulnerabilidades de seguridad del producto Adobe](https://helpx.adobe.com/es/security.html){target="_blank"}
 
 ## Seminarios web y eventos de aprendizaje {#events}
-
-* **[!DNL Experience Cloud]** | _Horario de oficina del campeón de Adobe Experience Platform_ | Hablemos de desafíos, bloqueadores y listas de deseos. ¿Qué necesita para hacer que su sistema zumbido? | **24 de marzo de 2026** | [Registrarse](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
-
-* **[!DNL Workfront]** | _Administrador 101: Traiga Sus Preguntas Sobre Workfront_ | Únase a nosotros en un taller de seguimiento de una hora de duración, donde compartiremos rápidamente un resumen de cada sesión y luego lo abriremos a preguntas y respuestas. | **24 de marzo de 2026** | [Registrarse](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Fusión descodificada: Parte 2 - Comencemos a construir_ | En la parte 2 de nuestra serie Fusion, nos sumergiremos en plantillas listas para usar y le mostraremos cómo utilizarlas para impulsar su recorrido de automatización. | **25 de marzo de 2026** | [Registrarse](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Ver la programación completa de [próximos](https://experienceleague.adobe.com/es/events){target="_blank"} y [eventos a petición](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
@@ -415,7 +409,7 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Campaign
 | Febrero de 2026 | El informe [Rendimiento de entrega [!UICONTROL de Adobe Campaign] muestra un recuento procesado más alto](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Nuevo artículo | Obtenga información sobre las soluciones al problema cuando el [!UICONTROL informe Rendimiento de entrega] muestre valores de procesamiento o envío por hora más altos que no se alinean con las métricas de éxito mostradas en el resumen de entrega. |
 | Febrero de 2026 | [[!UICONTROL ID de Broadlog] no enviado a Adobe Analytics a través de la integración de Campaign Managed Cloud](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Nuevo artículo | Obtenga información sobre las soluciones al problema cuando Adobe Campaign Managed Cloud no envía [!UICONTROL ID de Broadlog] a Adobe Analytics al usar el flujo de trabajo estándar `webAnalyticsSendMetrics`. |
 | Febrero de 2026 | [Faltan datos de la versión del sistema operativo y del dispositivo en los registros de seguimiento de la nube administrada por Adobe Campaign](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema que se produce cuando los registros de seguimiento en Adobe Campaign Managed Cloud solo muestran dispositivos y la familia del sistema operativo, y el producto no incluye campos para la versión del sistema operativo, el modelo del dispositivo o la versión. |
-| Febrero de 2026 | Falta el botón [**[!UICONTROL Agregar idioma ]**en el generador de correo electrónico de la IU web de Campaign](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando el botón **[!UICONTROL Agregar idioma]** no aparece en el generador de correo electrónico de la interfaz de usuario web de Adobe Campaign v8 al editar una entrega de correo electrónico. |
+| Febrero de 2026 | Falta el botón [**[!UICONTROL Agregar idioma &#x200B;]**&#x200B;en el generador de correo electrónico de la IU web de Campaign](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando el botón **[!UICONTROL Agregar idioma]** no aparece en el generador de correo electrónico de la interfaz de usuario web de Adobe Campaign v8 al editar una entrega de correo electrónico. |
 | Febrero de 2026 | [Límite de envío para variantes de idioma en Adobe Campaign v8](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando un envío está configurado con más de 40 variantes de idioma en Adobe Campaign v8, que no es compatible. |
 | Febrero de 2026 | [La entrega push falla durante la ejecución del flujo de trabajo en Adobe Campaign Classic v8](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema que se produce cuando la entrega push falla durante la ejecución del flujo de trabajo en la fase de preparación de destino porque las tablas temporales del flujo de trabajo se crean en Postgres mientras la preparación de la entrega se ejecuta en [!DNL Snowflake]. |
 | Febrero de 2026 | [Errores de autorización al enviar envíos en Adobe Campaign v8](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema de los usuarios no administradores que reciben errores de autorización al intentar enviar o confirmar envíos vinculados a una campaña en Adobe Campaign v8, incluso cuando los permisos de carpeta se asignan correctamente. |
@@ -583,7 +577,7 @@ Vea los nuevos tutoriales publicados para [!DNL Document Cloud], incluidos [!DNL
 | Publicadas | Aplicación | Nombre | Tipo | Descripción |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
 | Febrero de 2026 | Acrobat | [Acrobat Sign 101 - Introducción](https://experienceleague.adobe.com/es/docs/events/acrobat-sign-webinars/getstartedusers/getting-started){target="_blank"} | Vídeo | Conozca los conceptos básicos de Acrobat Sign para empezar a firmar documentos rápidamente. Le mostraremos cómo: Preparar y enviar sus documentos para su firma electrónica Ver lo que ven sus firmantes Administrar y realizar un seguimiento del progreso de los acuerdos Crear su propia firma, y más. |
-| Febrero de 2026 | Acrobat | [Uso de la función de delegado](https://docs.adobe.com/content/help/es-ES/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html) | Vídeo | Aprenda a utilizar la función de delegado para enviar un documento a un intermediario que luego pueda enrutar el documento para su firma. |
+| Febrero de 2026 | Acrobat | [Uso de la función de delegado](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=es) | Vídeo | Aprenda a utilizar la función de delegado para enviar un documento a un intermediario que luego pueda enrutar el documento para su firma. |
 
 Para examinar tutoriales de [!DNL Document Cloud], consulte lo siguiente:
 
