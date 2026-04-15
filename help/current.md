@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 8bcfd73109a76f83b9bdb8afed13693561eb0e5e
+source-git-commit: 47738804b28c044373041282fa74527bf2f29128
 workflow-type: tm+mt
-source-wordcount: 6788
-ht-degree: 83%
+source-wordcount: 6824
+ht-degree: 81%
 
 ---
 
@@ -26,14 +26,14 @@ En esta página podrá hacer lo siguiente:
 * Ver nuevos tutoriales de vídeo por aplicación
 * Consultar los artículos de asistencia más recientes
 
-Última actualización: **6 de abril de 2026**
+Última actualización: **15 de abril de 2026**
 
 En esta página:
 
 * [Seminarios web y eventos de aprendizaje](#events)
+* [IA en Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [administración de [!DNL Adobe Experience Cloud]](#ecloud)
-* [IA en Experience Cloud](#ai)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -100,6 +100,7 @@ Encuentre recursos de aprendizaje nuevos y recientes publicados para IA en Exper
 
 | Producto | Recurso | Descripción | Actualizado |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Centro de IA](https://experienceleague.adobe.com/es/ai-training){target="_blank"} | El centro de IA de Experience League ayuda a los especialistas en marketing a desarrollar habilidades prácticas de IA para el trabajo de marketing diario. Aprenda de los compañeros que navegan por los mismos desafíos y descubra lo que realmente funciona. | **15 de abril de 2026** |
 | [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Descubra cómo Adobe Marketing Agent for Microsoft 365 Copilot conecta Experience Platform directamente con Microsoft 365 Copilot. | 6 de abril de 2026 |
 | [!DNL AEM CS] | [Servidor MCP de Cloud Manager](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Descubra cómo el servidor MCP de Cloud Manager permite que las herramientas de IA interactúen con AEM as a Cloud Service para administrar programas, entornos, repositorios y canalizaciones. | 6 de abril de 2026 |
 | [!DNL Acrobat Services] | [Analizador de Acrobat](https://experienceleague.adobe.com/es/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore los seminarios web de Adobe Acrobat Analyzer para ver cómo la inteligencia artificial generativa extrae perspectivas estructuradas y auditables de los documentos para automatizar los flujos de trabajo, reducir el riesgo y acelerar la toma de decisiones empresariales a escala. | 10 de marzo de 2026 |
@@ -375,7 +376,7 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 ### Últimas versiones de productos de Campaign
 
-* [Interfaz de usuario web - Marzo de 2026](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Interfaz de usuario web - marzo de 2026](https://experienceleague.adobe.com/es/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
 * [[!DNL Campaign] v8: 8.9.2 - 11 de marzo de 2026](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
