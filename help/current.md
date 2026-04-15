@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 47738804b28c044373041282fa74527bf2f29128
+source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
-source-wordcount: 6824
-ht-degree: 81%
+source-wordcount: 6867
+ht-degree: 80%
 
 ---
 
@@ -31,9 +31,9 @@ En esta página podrá hacer lo siguiente:
 En esta página:
 
 * [Seminarios web y eventos de aprendizaje](#events)
+* [Administración y IU central de [!DNL Adobe Experience Cloud]](#ecloud)
 * [IA en Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
-* [administración de [!DNL Adobe Experience Cloud]](#ecloud)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -64,33 +64,11 @@ En esta página:
 
 Ver la programación completa de [próximos](https://experienceleague.adobe.com/es/events){target="_blank"} y [eventos a petición](https://experienceleague.adobe.com/es/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
-## [!DNL Adobe System Status] {#status}
+## Administración y IU central de [!DNL Adobe Experience Cloud] {#ecloud}
 
-[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es){target="_blank"}.
-
-* Asistente virtual de IA beta
-* Correcciones de errores y mejoras
-
-| Función | Descripción |
-| ------- | ------- |
-| **Asistente virtual de IA beta** | <ul><li>El Asistente virtual es una función que ayuda a los clientes de Status en la web y a dispositivos móviles a realizar acciones rápidas y proporcionar comentarios. Sirve como único punto de contacto para resolver todas las consultas.</li><li>Estamos agregando capacidades de IA al Asistente virtual, lo que permite un acceso más rápido y conversacional a la información de eventos y suscripciones.</li><li>La versión beta del cliente está en curso. Si desea participar, envíe un correo electrónico al [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
-| **Correcciones de errores y mejoras** | <ul><li>Habilite fechas en el nivel de historial para la API de eventos.</li><li>Correcciones de errores de accesibilidad.</li><li>Suscripciones de Marketo: los entornos no se acumulaban en los centros de datos, lo que provocaba notificaciones perdidas.</li><li>El encabezado y pie de página no estaban localizados en la página Estado.</li><li>El mantenimiento programado no mostraba el mantenimiento más antiguo.</li><li>La API de estado no devolvía la misma información que la web de estado con eventos descartados.</li><li>Cuando se cerraba el mantenimiento después de la fecha de finalización real, no se mostraba correctamente en la interfaz de usuario de estado.</li></ul> |
-
-
-Historial de notas de la versión:
-
-* [Diciembre de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
-* [Agosto de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
-* [Abril de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
-* [Agosto de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
-* [Mayo de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
-* [Enero de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
-* [Octubre de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
-* [Agosto de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
-* [Marzo de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [Enero de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
-
-## administración de [!DNL Adobe Experience Cloud] {#ecloud}
+| Función | Fecha de la versión | Descripción |
+| ------- | ------- | ------- |
+| Página de inicio actualizada | 20 de abril de 2026 | Aspecto de la página principal actualizado en `https://experience.adobe.com/home`. Con esta versión, todas las funcionalidades seguirán siendo las mismas, con la interfaz de usuario actualizada, compatibilidad con el _modo oscuro_ completo y accesibilidad mejorada. |
 
 Consulte la [interfaz y administración de Experience Cloud](https://experienceleague.adobe.com/es/docs/core-services/interface/experience-cloud){target="_blank"} para obtener documentación.
 
@@ -107,6 +85,30 @@ Encuentre recursos de aprendizaje nuevos y recientes publicados para IA en Exper
 | [!DNL Experience Cloud] | [Agentes de Adobe Experience Platform para mejorar la eficiencia de marketing y los resultados empresariales](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Esta sesión exclusiva incluye una sesión de preguntas y respuestas con Anjul Bhambhri, vicepresidente sénior de Adobe Experience Cloud. Descubra el recorrido y la audaz visión de Adobe para proporcionar funcionalidades innovadoras de inteligencia artificial aplicada a la actividad empresarial que permitan a los profesionales creativos y de marketing automatizar pasos complejos, acelerar la toma de decisiones y ampliar la capacidad de sus equipos sin poner en riesgo el control o la supervisión. | 3 de marzo de 2026 |
 | [!DNL Experience Cloud] | [Consumo de créditos de IA y trabajos del agente](https://experienceleague.adobe.com/es/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Obtenga información acerca de los trabajos del agente y las tasas de consumo de crédito de IA en las aplicaciones de Experience Cloud. | 3 de marzo de 2026 |
 
+## [!DNL Adobe System Status] {#status}
+
+[!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es){target="_blank"}.
+
+* Asistente virtual de IA beta
+* Correcciones de errores y mejoras
+
+| Función | Descripción |
+| ------- | ------- |
+| **Asistente virtual de IA beta** | <ul><li>El Asistente virtual es una función que ayuda a los clientes de Status en la web y a dispositivos móviles a realizar acciones rápidas y proporcionar comentarios. Sirve como único punto de contacto para resolver todas las consultas.</li><li>Estamos agregando capacidades de IA al Asistente virtual, lo que permite un acceso más rápido y conversacional a la información de eventos y suscripciones.</li><li>La versión beta del cliente está en curso. Si desea participar, envíe un correo electrónico al [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
+| **Correcciones de errores y mejoras** | <ul><li>Habilite fechas en el nivel de historial para la API de eventos.</li><li>Correcciones de errores de accesibilidad.</li><li>Suscripciones de Marketo: los entornos no se acumulaban en los centros de datos, lo que provocaba notificaciones perdidas.</li><li>El encabezado y pie de página no estaban localizados en la página Estado.</li><li>El mantenimiento programado no mostraba el mantenimiento más antiguo.</li><li>La API de estado no devolvía la misma información que la web de estado con eventos descartados.</li><li>Cuando se cerraba el mantenimiento después de la fecha de finalización real, no se mostraba correctamente en la interfaz de usuario de estado.</li></ul> |
+
+Historial de notas de la versión:
+
+* [Diciembre de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [Agosto de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
+* [Abril de 2025](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
+* [Agosto de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
+* [Mayo de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
+* [Enero de 2024](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
+* [Octubre de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
+* [Agosto de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
+* [Marzo de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
+* [Enero de 2023](https://experienceleague.adobe.com/es/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
