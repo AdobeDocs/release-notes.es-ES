@@ -11,7 +11,7 @@ product_v2:
 source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
 source-wordcount: 6867
-ht-degree: 80%
+ht-degree: 98%
 
 ---
 
@@ -79,7 +79,7 @@ Encuentre recursos de aprendizaje nuevos y recientes publicados para IA en Exper
 | Producto | Recurso | Descripción | Actualizado |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [Centro de IA](https://experienceleague.adobe.com/es/ai-training){target="_blank"} | El centro de IA de Experience League ayuda a los especialistas en marketing a desarrollar habilidades prácticas de IA para el trabajo de marketing diario. Aprenda de los compañeros que navegan por los mismos desafíos y descubra lo que realmente funciona. | **15 de abril de 2026** |
-| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Descubra cómo Adobe Marketing Agent for Microsoft 365 Copilot conecta Experience Platform directamente con Microsoft 365 Copilot. | 6 de abril de 2026 |
+| [!DNL Experience Cloud] | [Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Descubra cómo Adobe Marketing Agent para Microsoft 365 Copilot conecta Experience Platform directamente con Microsoft 365 Copilot. | 6 de abril de 2026 |
 | [!DNL AEM CS] | [Servidor MCP de Cloud Manager](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Descubra cómo el servidor MCP de Cloud Manager permite que las herramientas de IA interactúen con AEM as a Cloud Service para administrar programas, entornos, repositorios y canalizaciones. | 6 de abril de 2026 |
 | [!DNL Acrobat Services] | [Analizador de Acrobat](https://experienceleague.adobe.com/es/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore los seminarios web de Adobe Acrobat Analyzer para ver cómo la inteligencia artificial generativa extrae perspectivas estructuradas y auditables de los documentos para automatizar los flujos de trabajo, reducir el riesgo y acelerar la toma de decisiones empresariales a escala. | 10 de marzo de 2026 |
 | [!DNL Experience Cloud] | [Agentes de Adobe Experience Platform para mejorar la eficiencia de marketing y los resultados empresariales](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Esta sesión exclusiva incluye una sesión de preguntas y respuestas con Anjul Bhambhri, vicepresidente sénior de Adobe Experience Cloud. Descubra el recorrido y la audaz visión de Adobe para proporcionar funcionalidades innovadoras de inteligencia artificial aplicada a la actividad empresarial que permitan a los profesionales creativos y de marketing automatizar pasos complejos, acelerar la toma de decisiones y ampliar la capacidad de sus equipos sin poner en riesgo el control o la supervisión. | 3 de marzo de 2026 |
@@ -89,13 +89,13 @@ Encuentre recursos de aprendizaje nuevos y recientes publicados para IA en Exper
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es){target="_blank"}.
 
-* Asistente virtual de IA beta
+* Asistente virtual de IA en beta
 * Correcciones de errores y mejoras
 
 | Función | Descripción |
 | ------- | ------- |
-| **Asistente virtual de IA beta** | <ul><li>El Asistente virtual es una función que ayuda a los clientes de Status en la web y a dispositivos móviles a realizar acciones rápidas y proporcionar comentarios. Sirve como único punto de contacto para resolver todas las consultas.</li><li>Estamos agregando capacidades de IA al Asistente virtual, lo que permite un acceso más rápido y conversacional a la información de eventos y suscripciones.</li><li>La versión beta del cliente está en curso. Si desea participar, envíe un correo electrónico al [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
-| **Correcciones de errores y mejoras** | <ul><li>Habilite fechas en el nivel de historial para la API de eventos.</li><li>Correcciones de errores de accesibilidad.</li><li>Suscripciones de Marketo: los entornos no se acumulaban en los centros de datos, lo que provocaba notificaciones perdidas.</li><li>El encabezado y pie de página no estaban localizados en la página Estado.</li><li>El mantenimiento programado no mostraba el mantenimiento más antiguo.</li><li>La API de estado no devolvía la misma información que la web de estado con eventos descartados.</li><li>Cuando se cerraba el mantenimiento después de la fecha de finalización real, no se mostraba correctamente en la interfaz de usuario de estado.</li></ul> |
+| **Asistente virtual de IA en beta** | <ul><li>El asistente virtual es una función que ayuda a los clientes de estado en la web y en móviles a realizar acciones rápidas y proporcionar comentarios. Sirve como único punto de contacto para resolver todas las consultas.</li><li>Estamos añadiendo capacidades de IA al asistente virtual, lo que permite un acceso más rápido y conversacional a la información de eventos y suscripciones.</li><li>La versión beta del cliente está en curso. Si desea participar, envíe un correo electrónico a [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
+| **Correcciones de errores y mejoras** | <ul><li>Habilite fechas a nivel del historial para la API de eventos.</li><li>Correcciones de errores de accesibilidad.</li><li>Suscripciones de Marketo: los entornos no se estaban acumulando en los centros de datos, lo que provocaba notificaciones perdidas.</li><li>El encabezado y el pie de página no estaban localizados en la página Estado.</li><li>El mantenimiento programado no mostraba el mantenimiento más antiguo.</li><li>La API de estado no devolvía la misma información que la web de estado con eventos descartados.</li><li>Cuando se cerraba el mantenimiento después de la fecha de finalización real, no se mostraba correctamente en la interfaz de usuario de estado.</li></ul> |
 
 Historial de notas de la versión:
 
@@ -112,21 +112,21 @@ Historial de notas de la versión:
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
-* Página principal de ayuda de [Adobe Brand Concierge](https://experienceleague.adobe.com/es/docs/brand-concierge/content/home){target="_blank"}
+* Página de inicio de [Adobe Brand Concierge](https://experienceleague.adobe.com/es/docs/brand-concierge/content/home){target="_blank"}
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-* Página principal de ayuda de [LLM Optimizer](https://experienceleague.adobe.com/es/docs/llm-optimizer/using/home){target="_blank"}
+* Página de inicio de [LLM Optimizer](https://experienceleague.adobe.com/es/docs/llm-optimizer/using/home){target="_blank"}
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
 Vea la información de la versión más reciente, la nueva documentación y los artículos de soporte.
 
-**Experience Platform - 24 de marzo de 2026**
+**Experience Platform: 24 de marzo de 2026**
 
 * [[!DNL Experience Platform] notas de la versión](https://experienceleague.adobe.com/es/docs/experience-platform/release-notes/latest){target="_blank"}
 
-**SDK móvil - 3 de abril de 2026**
+**SDK móvil: 3 de abril de 2026**
 
 * [[!DNL Experience Platform] notas de la versión de Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
@@ -198,7 +198,7 @@ Encuentre la información de la última versión para [!DNL Customer Journey Ana
 
 **Febrero de 2026**
 
-* [Notas de la versión de Customer Journey Analytics (CJA)](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"}
+* [Notas de la versión de Customer Journey Analytics (CJA)](https://experienceleague.adobe.com/es/docs/analytics-platform/using/releases/latest?lang=es#releases){target="_blank"}
 
 ### Nuevos tutoriales de [!DNL Customer Journey Analytics] {#tutorials-cja}
 
@@ -206,10 +206,10 @@ Nuevos tutoriales para [!DNL Customer Journey Analytics].
 
 | Publicadas | Nombre | Tipo | Descripción |
 | ----------- | ---------- | ---------- | ---------- |
-| Abril de 2026 | [Validar la calidad de vinculación de identidad y datos con vista previa](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/visitor-id/validate-identity-stitching-quality){target="_blank"} | Vídeo | Obtenga información sobre la función de vista previa de conjuntos de datos en Customer Journey Analytics que ofrece métricas de vinculación de identidad instantánea, incluida la cobertura de ID de persona y la cobertura de ID persistente, directamente al configurar conexiones. |
-| Abril de 2026 | [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview){target="_blank"} | Vídeo | Conozca los conceptos básicos de Analysis Workspace en Adobe Customer Journey Analytics, incluidos los componentes clave, los proyectos y los paneles utilizados para explorar y visualizar datos de Experience Platform. |
-| Abril de 2026 | [Analytics a CJA: nuevos términos y cómo se asignan](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/cja-basics/new-terms-and-concepts-in-cja){target="_blank"} | Vídeo | Aprenda a traducir sus conocimientos actuales de Adobe Analytics a Customer Journey Analytics asignando conceptos conocidos como métricas principales, grupos de informes, variables y mucho más a equivalentes de CJA. |
-| Abril de 2026 | [Introducción a Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics){target="_blank"} | Vídeo | Obtenga una introducción a Adobe Customer Journey Analytics. Descubra cómo unifica los datos de canales cruzados de Adobe Experience Platform para analizar los recorridos completos de los clientes en Analysis Workspace. |
+| Abril de 2026 | [Validación de la calidad de los datos y de la unificación de identidades mediante la vista previa](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/visitor-id/validate-identity-stitching-quality){target="_blank"} | Vídeo | Obtenga información sobre la función de vista previa del conjunto de datos en Customer Journey Analytics que ofrece métricas al instante de unificación de identidades, incluida la cobertura de ID de persona y la cobertura de ID persistente, directamente al configurar las conexiones. |
+| Abril de 2026 | [Información general de Analysis Workspace](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview){target="_blank"} | Vídeo | Conozca los conceptos básicos de Analysis Workspace en Adobe Customer Journey Analytics, incluidos los componentes clave, proyectos y paneles que se emplean para explorar y visualizar datos de Experience Platform. |
+| Abril de 2026 | [Analytics a CJA: nuevos términos y cómo se asignan](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/cja-basics/new-terms-and-concepts-in-cja){target="_blank"} | Vídeo | Aprenda a convertir sus conocimientos actuales de Adobe Analytics a Customer Journey Analytics asignando conceptos conocidos como métricas principales, grupos de informes, variables y mucho más a los equivalentes de CJA. |
+| Abril de 2026 | [Introducción a Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics){target="_blank"} | Vídeo | Obtenga una introducción a Adobe Customer Journey Analytics. Descubra cómo unifica los datos en canales múltiples de Adobe Experience Platform para analizar los recorridos completos de los clientes en Analysis Workspace. |
 
 ### Nueva base de conocimiento de asistencia de [!DNL Customer Journey Analytics]{#kb-cja}
 
@@ -228,11 +228,11 @@ Actualizado: **octubre de 2025**
 
 * [Notas de la versión](https://experienceleague.adobe.com/es/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
 
-* [Tutoriales y documentación del producto](https://experienceleague.adobe.com/es/docs/media-analytics/using/media-overview){target="_blank"}
+* [Documentación y tutoriales del producto](https://experienceleague.adobe.com/es/docs/media-analytics/using/media-overview){target="_blank"}
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
-* [Marzo de 2026: Notas de la versión](https://experienceleague.adobe.com/es/docs/mix-modeler/using/releases/latest){target="_blank"}
+* [Marzo de 2026: notas de la versión](https://experienceleague.adobe.com/es/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -260,7 +260,7 @@ Nuevo: [IA agéntica en AEM](https://experienceleague.adobe.com/es/docs/experien
 
 Versión actual: **2026.3.0 - 26 de marzo de 2026**
 
-La próxima versión de la funcionalidad (2026.3.0) está planificada para el **30 de abril de 2026**.
+La próxima versión de la función (2026.3.0) está planificada para el **30 de abril de 2026**.
 
 * [Inicio de las notas de la versión de AEM CS](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}
 * [Vídeo de información general sobre la última versión de AEM CS](https://experienceleague.adobe.com/es/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
@@ -282,12 +282,12 @@ Nuevo vídeo y tutoriales escritos (artículos) publicados para [!DNL Experience
 | Publicadas | Aplicaciones | Nombre | Formato | Descripción |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Abril de 2026 | [!DNL AEM CS] | [Servidor MCP de Cloud Manager](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Vídeo | Descubra cómo el servidor MCP de Cloud Manager permite que las herramientas de IA interactúen con AEM as a Cloud Service para administrar programas, entornos, repositorios y canalizaciones. |
-| Abril de 2026 | [!DNL AEM CS] | [Crear configuración de nube para la integración de AEP y AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-cloud-configuration){target="_blank"} | Vídeo | Obtenga información sobre cómo crear una configuración de nube en AEM Forms y conectarse de forma segura con Experience Platform mediante las credenciales de Developer Console. |
-| Abril de 2026 | [!DNL AEM CS] | [Acelerar las operaciones de contenido de AEM mediante el servidor MCP de contenido](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/accelerate-content-operations-with-aem-mcp-server){target="_blank"} | Vídeo | Aprenda a utilizar AEM Content MCP Server desde su IDE con tecnología de IA preferido, como Cursor, para optimizar y acelerar las operaciones de contenido de AEM. |
-| Abril de 2026 | [!DNL AEM CS] | [Servidores MCP en AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/overview){target="_blank"} | Artículo | Aprenda a utilizar los servidores MCP (AEM Model Context Protocol) de sus aplicaciones preferidas basadas en chat o IDE con tecnología de IA para optimizar y acelerar el trabajo de contenido de AEM. |
-| Abril de 2026 | [!DNL AEM Forms] | [Integrar AEM Forms con Adobe Experience Platform](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-integration-with-aep){target="_blank"} | Vídeo | Obtenga información sobre cómo crear y administrar perfiles en Adobe Experience Platform mediante envíos de AEM Forms. Esta integración optimiza la administración de datos y mejora la experiencia del usuario. |
-| Abril de 2026 | [!DNL AEM CS] | [Asistente de IA de AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/ai-assistant/overview){target="_blank"} | Vídeo | Simplifique AEM con el asistente de IA. Descubra características, prácticas recomendadas y solucione problemas a la vez que aumenta la productividad con la compatibilidad con tecnología de IA. |
-| Abril de 2026 | [!DNL AEM CS] | [¿Para quién es el Asistente de IA?](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/ai-assistant/who-is-ai-assistant-for){target="_blank"} | Vídeo | Descubra cómo el asistente de IA aumenta la productividad de los autores de contenido, los equipos técnicos y los administradores en Adobe Experience Manager. |
+| Abril de 2026 | [!DNL AEM CS] | [Creación de la configuración en la nube para la integración de AEP y AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-cloud-configuration){target="_blank"} | Vídeo | Obtenga información sobre cómo crear una configuración en la nube en AEM Forms para conectarse de forma segura con Experience Platform mediante las credenciales de Developer Console. |
+| Abril de 2026 | [!DNL AEM CS] | [Aceleración de las operaciones de contenido de AEM mediante el servidor MCP de contenido](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/accelerate-content-operations-with-aem-mcp-server){target="_blank"} | Vídeo | Aprenda a utilizar el servidor MCP de contenido de AEM desde su IDE con tecnología de IA preferido, como Cursor, para optimizar y acelerar las operaciones de contenido de AEM. |
+| Abril de 2026 | [!DNL AEM CS] | [Servidores MCP en AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/overview){target="_blank"} | Artículo | Aprenda a utilizar los servidores MCP (Model Context Protocol) de AEM desde su IDE con tecnología de IA o sus aplicaciones basadas en chats preferidas para optimizar y acelerar el trabajo de contenido de AEM. |
+| Abril de 2026 | [!DNL AEM Forms] | [Integración de AEM Forms con Adobe Experience Platform](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-integration-with-aep){target="_blank"} | Vídeo | Obtenga información sobre cómo crear y administrar perfiles en Adobe Experience Platform mediante envíos de AEM Forms. Esta integración optimiza la gestión de datos y mejora las experiencias del usuario. |
+| Abril de 2026 | [!DNL AEM CS] | [Asistente de IA de AEM](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/ai-assistant/overview){target="_blank"} | Vídeo | Simplifique AEM con el asistente de IA. Descubra funciones, prácticas recomendadas y solucione problemas a la vez que aumenta la productividad gracias a la asistencia con tecnología de IA. |
+| Abril de 2026 | [!DNL AEM CS] | [¿Para quién está pensado el asistente de IA?](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/ai-assistant/who-is-ai-assistant-for){target="_blank"} | Vídeo | Descubra cómo el asistente de IA aumenta la productividad de los autores de contenido, los equipos técnicos y los administradores en Adobe Experience Manager. |
 
 ### Nueva base de conocimiento de asistencia de [!DNL Experience Manager]{#kb-aem}
 
@@ -323,8 +323,8 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Experien
 
 Obtenga acceso a las notas de la versión, los nuevos tutoriales y los artículos de asistencia de la base de conocimiento para [!DNL Adobe Commerce].
 
-* [Notas de la versión para [!DNL Adobe Commerce] y [!DNL Magento Open Source]](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Adobe [!DNL Commerce] Guías de servicios](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
+* [Notas de la versión para  [!DNL Adobe Commerce]  y  [!DNL Magento Open Source]](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [Guías de servicios de Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilidad del producto](https://experienceleague.adobe.com/es/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### Nuevos tutoriales para [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -333,7 +333,7 @@ Tutoriales nuevos para [!DNL Adobe Commerce] en Experience League.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | ----------- | ---------- | ---------- | ---------- |
-| Abril de 2026 | [Crear tarifas de envío personalizadas con las herramientas de IA](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | Varios vídeos | Aprenda a configurar herramientas de IA para crear tarifas de envío personalizadas, incluida la clonación del Starter Kit, la revisión de estructuras y la preparación de su entorno. |
+| Abril de 2026 | [Creación de tarifas de envío personalizadas con las herramientas de IA](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | Varios vídeos | Aprenda a configurar herramientas de IA para crear tarifas de envío personalizadas, incluida la clonación del paquete de inicio, la revisión de estructuras y la preparación de su entorno. |
 
 ### Nueva base de conocimiento de asistencia de [!DNL Commerce]{#kb-commerce}
 
@@ -360,7 +360,7 @@ Nuevos artículos y actualizaciones de artículos existentes para Adobe Commerce
 
 Obtenga acceso a las notas de versión preliminar, las notas de la versión actual y los nuevos tutoriales de [!DNL Adobe Target].
 
-Publicado: **26.3.7 - 26 de marzo de 2026**
+Publicación: **26.3.7 - 26 de marzo de 2026**
 
 <!-- 
 ### New [!DNL Target] support knowledge base{#kb-target}
@@ -384,7 +384,7 @@ Obtenga las actualizaciones más recientes para [!DNL Adobe Campaign]. Encuentre
 
 * [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/es/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.3 - 16 de marzo de 2026](https://experienceleague.adobe.com/es/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [[!DNL Campaign Classic] Versión 7.4.3: - 16 de marzo de 2026](https://experienceleague.adobe.com/es/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
@@ -479,7 +479,7 @@ Descubra las últimas notas de la versión y la programación de versiones para 
 
 * [Notas de la versión actual](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/current){target="_blank"}
 * [!DNL Marketo Engage] [programación de versiones](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/release-schedule){target="_blank"}
-* [notas de la versión](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} de Dynamic Chat (marzo de 2026)
+* [Notas de la versión &#x200B;](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} de Dynamic Chat (marzo de 2026)
 
 <!-- 
 ### New Marketo tutorials {#tutorials-marketo}
@@ -511,9 +511,9 @@ Obtenga información sobre las últimas notas de la versión para [!DNL Adobe Wo
 
 Para toda la información de la versión:
 
-* [Adobe [!DNL Workfront] versiones de productos](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versiones de producto de Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
-* [Información general sobre la actividad de la versión de Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
+* [Información general sobre la actividad de la versión  [!DNL Workfront]  de Adobe Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
 ### Nuevos tutoriales de Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -521,7 +521,7 @@ Nuevos tutoriales y eventos de [!DNL Workfront] sobre Experience League.
 
 | Publicadas | Nombre | Tipo | Descripción |
 | ----------- | ---------- | ---------- | ---------- |
-| Abril de 2026 | [Resumen de formación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview){target="_blank"} | Artículos y vídeos | Obtenga información acerca del libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de unidad de prueba de Workfront. |
+| Abril de 2026 | [Información general sobre la formación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview){target="_blank"} | Artículos y vídeos | Obtenga información acerca del libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de unidad de prueba de Workfront. |
 
 
 <!--
@@ -565,7 +565,7 @@ Tutoriales de vídeo para GenStudio para marketing de rendimiento.
 
 [!DNL Adobe Pass] es una plataforma de TV multipantalla que ayuda a las emisoras, canales y proveedores de servicios a crear y monetizar experiencias de visualización atractivas y personalizadas.
 
-* [Documentación de Adobe Pass](https://experienceleague.adobe.com/es/docs/pass){target="_blank"} para encontrar información específica de la versión, requisitos del sistema, limitaciones, problemas corregidos y problemas conocidos.
+* [Documentación de Adobe Pass](https://experienceleague.adobe.com/es/docs/pass){target="_blank"} para consultar información específica de la versión, requisitos del sistema, limitaciones, problemas solucionados y problemas conocidos.
 
 ## [!DNL Adobe Document Cloud] {#doc-cloud}
 
@@ -573,10 +573,10 @@ Vea los nuevos tutoriales publicados para [!DNL Document Cloud], incluidos [!DNL
 
 | Publicadas | Aplicación | Nombre | Tipo | Descripción |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| Abril de 2026 | Acrobat | [Preparar documentos financieros listos para el ejecutivo de insight para la entrega](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | Vídeo | Descubra cómo los equipos financieros utilizan Acrobat para administrar los documentos financieros desde insight hasta la entrega. Este caso de uso muestra un flujo de trabajo completo para analizar la información, colaborar con las partes interesadas y crear materiales financieros listos para el ejecutivo. |
-| Abril de 2026 | Acrobat | [De insight al impacto: optimiza los flujos de trabajo de incorporación](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | Vídeo | Descubra cómo los equipos de RRHH utilizan Acrobat Studio para optimizar la incorporación de los empleados de principio a fin. |
-| Abril de 2026 | Acrobat | [Convierta información legal en instrucciones procesables](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | Vídeo | Descubra cómo los equipos jurídicos utilizan Acrobat Studio para analizar documentos complejos, colaborar de forma segura y convertir las perspectivas en directrices claras y procesables, más rápido y con mayor confianza. |
-| Abril de 2026 | Acrobat | [Convierta el conocimiento del cliente en recursos de ventas ganadores](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | Vídeo | Descubra cómo los equipos de ventas pueden recopilar las perspectivas de los clientes, colaborar en un espacio de trabajo compartido y convertir la inteligencia validada en presentaciones y propuestas de marca, de forma más rápida y con mayor confianza. |
+| Abril de 2026 | Acrobat | [Preparación de documentos financieros listos para la dirección ejecutiva desde el análisis hasta la entrega](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | Vídeo | Descubra cómo los equipos financieros utilizan Acrobat para administrar documentos financieros desde el análisis hasta la entrega. Este caso de uso muestra un flujo de trabajo completo para analizar la información, colaborar con las partes interesadas y crear materiales financieros listos para presentar a la dirección ejecutiva. |
+| Abril de 2026 | Acrobat | [Del análisis al impacto: optimización de los flujos de trabajo de incorporación](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | Vídeo | Descubra cómo los equipos de RR. HH. utilizan Acrobat Studio para optimizar la incorporación de los empleados de principio a fin. |
+| Abril de 2026 | Acrobat | [Convertir la información legal en directrices procesables](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | Vídeo | Descubra cómo los equipos jurídicos utilizan Acrobat Studio para analizar documentos complejos, colaborar de forma segura y convertir la información en directrices claras y procesables, de forma más rápida y con mayor confianza. |
+| Abril de 2026 | Acrobat | [Convertir el conocimiento del cliente en recursos de ventas eficaces](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | Vídeo | Descubra cómo los equipos de ventas pueden recopilar los datos del cliente, colaborar en un espacio de trabajo compartido y convertir el conocimiento validado en presentaciones y propuestas de marca, de forma más rápida y con mayor confianza. |
 
 Para examinar tutoriales de [!DNL Document Cloud], consulte lo siguiente:
 
