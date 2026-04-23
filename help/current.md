@@ -6,7 +6,8 @@ last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
 workflow-type: tm+mt
 source-wordcount: 6909
@@ -325,7 +326,7 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Experien
 Obtenga acceso a las notas de la versión, los nuevos tutoriales y los artículos de asistencia de la base de conocimiento para [!DNL Adobe Commerce].
 
 * [Notas de la versión para  [!DNL Adobe Commerce]  y  [!DNL Magento Open Source]](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Guías de servicios de Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
+* [Guías de servicios de Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilidad del producto](https://experienceleague.adobe.com/es/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### Nuevos tutoriales para [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -407,7 +408,7 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Campaign
 | Febrero de 2026 | El informe [Rendimiento de entrega [!UICONTROL de Adobe Campaign] muestra un recuento procesado más alto](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Nuevo artículo | Obtenga información sobre las soluciones al problema cuando el [!UICONTROL informe Rendimiento de entrega] muestre valores de procesamiento o envío por hora más altos que no se alinean con las métricas de éxito mostradas en el resumen de entrega. |
 | Febrero de 2026 | [[!UICONTROL ID de Broadlog] no enviado a Adobe Analytics a través de la integración de Campaign Managed Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Nuevo artículo | Obtenga información sobre las soluciones al problema cuando Adobe Campaign Managed Cloud no envía [!UICONTROL ID de Broadlog] a Adobe Analytics al usar el flujo de trabajo estándar `webAnalyticsSendMetrics`. |
 | Febrero de 2026 | [Faltan datos de la versión del sistema operativo y del dispositivo en los registros de seguimiento de la nube administrada por Adobe Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema que se produce cuando los registros de seguimiento en Adobe Campaign Managed Cloud solo muestran dispositivos y la familia del sistema operativo, y el producto no incluye campos para la versión del sistema operativo, el modelo del dispositivo o la versión. |
-| Febrero de 2026 | Falta el botón [**[!UICONTROL Agregar idioma ]**en el generador de correo electrónico de la IU web de Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando el botón **[!UICONTROL Agregar idioma]** no aparece en el generador de correo electrónico de la interfaz de usuario web de Adobe Campaign v8 al editar una entrega de correo electrónico. |
+| Febrero de 2026 | Falta el botón [**[!UICONTROL Agregar idioma &#x200B;]**&#x200B;en el generador de correo electrónico de la IU web de Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando el botón **[!UICONTROL Agregar idioma]** no aparece en el generador de correo electrónico de la interfaz de usuario web de Adobe Campaign v8 al editar una entrega de correo electrónico. |
 | Febrero de 2026 | [Límite de envío para variantes de idioma en Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando un envío está configurado con más de 40 variantes de idioma en Adobe Campaign v8, que no es compatible. |
 | Febrero de 2026 | [La entrega push falla durante la ejecución del flujo de trabajo en Adobe Campaign Classic v8](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema que se produce cuando la entrega push falla durante la ejecución del flujo de trabajo en la fase de preparación de destino porque las tablas temporales del flujo de trabajo se crean en Postgres mientras la preparación de la entrega se ejecuta en [!DNL Snowflake]. |
 | Febrero de 2026 | [Errores de autorización al enviar envíos en Adobe Campaign v8](https://experienceleague.adobe.com/es/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Nuevo artículo | Obtenga información acerca de las soluciones al problema de los usuarios no administradores que reciben errores de autorización al intentar enviar o confirmar envíos vinculados a una campaña en Adobe Campaign v8, incluso cuando los permisos de carpeta se asignan correctamente. |
@@ -480,7 +481,7 @@ Descubra las últimas notas de la versión y la programación de versiones para 
 
 * [Notas de la versión actual](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/current){target="_blank"}
 * [!DNL Marketo Engage] [programación de versiones](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/release-schedule){target="_blank"}
-* [Notas de la versión ](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} de Dynamic Chat (marzo de 2026)
+* [Notas de la versión &#x200B;](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} de Dynamic Chat (marzo de 2026)
 
 <!-- 
 ### New Marketo tutorials {#tutorials-marketo}
@@ -512,7 +513,7 @@ Obtenga información sobre las últimas notas de la versión para [!DNL Adobe Wo
 
 Para toda la información de la versión:
 
-* [Versiones de producto de Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versiones de producto de Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Información general sobre la actividad de la versión  [!DNL Workfront]  de Adobe Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
