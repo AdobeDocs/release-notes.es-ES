@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
+source-git-commit: c2c033d86d985c059d1266f70568087b756605d5
 workflow-type: tm+mt
-source-wordcount: '6331'
+source-wordcount: '6383'
 ht-degree: 48%
 
 ---
@@ -28,7 +28,7 @@ En esta página podrá hacer lo siguiente:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Última actualización: **10 de junio de 2026**
+Última actualización: **11 de junio de 2026**
 
 ## Novedades
 
@@ -84,6 +84,7 @@ Encuentre recursos de aprendizaje nuevos y recientes publicados para la IA gener
 
 | Producto | Recurso | Descripción | Actualizado |
 | ------- | ------- | ------- | ------- |
+| CX Enterprise | [Catálogo de funciones de inteligencia artificial aplicada a empresas CX](https://agentic-capability-explorer.entapp.adproto.com/) | Descubra qué trabajos de inteligencia artificial auténticos están disponibles en sus aplicaciones empresariales con licencia de CX. Consulte [Trabajos de agente de Adobe Experience Platform y consumo de créditos de IA](https://experienceleague.adobe.com/es/docs/core-services/interface/features/ai-credit-consumption) para obtener más información. | **11 de junio de 2026** |
 | [!DNL CX Enterprise] | [Paneles de supervisión de IA](https://experienceleague.adobe.com/es/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise ahora proporciona paneles para monitorizar el uso de IA auténtica en las aplicaciones existentes. Rastree la adopción, revise las conversaciones y los comentarios y administre el consumo de crédito de IA para los agentes de Experience Platform a los que se accede a través del asistente de IA y otras superficies conversacionales. Las vistas Información general, Usuarios, Comentarios y Créditos de IA ayudan a las partes interesadas en la administración a guiar la adopción con datos. | **2 de junio de 2026** |
 | [!DNL CX Enterprise] - Experience League | [Centro de IA](https://experienceleague.adobe.com/es/ai-training){target="_blank"} | El centro de IA de Experience League ayuda a los expertos en marketing a desarrollar habilidades prácticas de IA para el trabajo de marketing diario. Aprenda de los compañeros que navegan por los mismos desafíos y descubra lo que realmente funciona. | 15 de abril de 2026 |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Descubra cómo Adobe Marketing Agent para Microsoft 365 Copilot conecta Experience Platform directamente con Microsoft 365 Copilot. | 6 de abril de 2026 |
