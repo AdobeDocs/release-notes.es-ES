@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
+source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
 workflow-type: tm+mt
-source-wordcount: '7107'
+source-wordcount: '7116'
 ht-degree: 28%
 
 ---
@@ -43,7 +43,7 @@ Encuentre los últimos recursos de aprendizaje publicados para la IA generativa 
 
 | Aplicación | Actualización | Descripción | Actualizado |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Coworker es una aplicación de IA auténtica que automatiza los flujos de trabajo de la experiencia del cliente de extremo a extremo. Detecta señales, crea audiencias e inicia campañas con administración integrada en horas. | 11 de junio de 2026 |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) es una aplicación de IA auténtica que automatiza los flujos de trabajo de la experiencia del cliente de extremo a extremo. Detecta señales, crea audiencias e inicia campañas con administración integrada en horas. | 11 de junio de 2026 |
 | CX Enterprise | **Catálogo de capacidades de inteligencia artificial aplicada a la agencia** | Descubra qué trabajos de inteligencia artificial auténticos están disponibles en sus aplicaciones empresariales con licencia de CX. Encuentre el enlace en [trabajos del agente de Adobe Experience Platform y consumo de créditos de IA](https://experienceleague.adobe.com/es/docs/core-services/interface/features/ai-credit-consumption). | 11 de junio de 2026 |
 | [!DNL CX Enterprise] | **[!UICONTROL Supervisión]** | CX Enterprise ahora proporciona [paneles de supervisión de IA](https://experienceleague.adobe.com/es/docs/core-services/interface/features/monitoring){target="_blank"} para supervisar el uso de IA auténtica en aplicaciones existentes. Rastree la adopción, revise las conversaciones y los comentarios y administre el consumo de crédito de IA para los agentes de Experience Platform a los que se accede a través del asistente de IA y otras superficies conversacionales. Las vistas Información general, Usuarios, Comentarios y Créditos de IA ayudan a las partes interesadas en la administración a guiar la adopción con datos. | 2 de junio de 2026 |
 | [!DNL CX Enterprise] - Experience League | **Formación de IA** | El [centro de IA](https://experienceleague.adobe.com/es/ai-training){target="_blank"} de Experience League ayuda a los especialistas en mercadotecnia a desarrollar habilidades prácticas de IA para el trabajo diario de mercadotecnia. Aprenda de los compañeros que navegan por los mismos desafíos y descubra lo que realmente funciona. | 15 de abril de 2026 |
@@ -249,7 +249,7 @@ Nuevo vídeo y tutoriales escritos (artículos) publicados para [!DNL Experience
 
 | Publicadas | Aplicaciones | Nombre | Formato | Descripción |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Junio de 2026 | [!DNL AEM CS] | [Servidor MCP de Experience Governance](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/experience-governance-mcp-server){target="_blank"} | Vídeo | Descubra cómo el servidor MCP de Experience Governance permite que las herramientas de IA interactúen con AEM as a Cloud Service para imponer la integridad de la marca y los requisitos de conformidad. |
+| Junio de 2026 | [!DNL AEM CS] | [Servidor MCP de Experience Governance](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/ai/mcp-servers/experience-governance-mcp-server){target="_blank"} | Vídeo | Descubra cómo el servidor MCP de Experience Governance permite que las herramientas de IA interactúen con AEM as a Cloud Service para imponer la integridad de la marca y los requisitos de conformidad. |
 | Junio de 2026 | [!DNL AEM CS] | [Transformar AEM con agentes de IA y asistentes inteligentes](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/transform-aem-with-ai-agents-and-assistants){target="_blank"} | Vídeo | Explore cómo los agentes de IA y los asistentes inteligentes están transformando el ciclo vital del contenido de AEM. Descubra cómo estas funcionalidades automatizan y mejoran la entrega de experiencias a escala. |
 | Junio de 2026 | [!DNL AEM Assets] | [Gobernanza de Assets](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/governance/governance){target="_blank"} | Vídeo | Obtenga información acerca de las funcionalidades de gobernanza de recursos en AEM Assets. Descubra cómo las políticas de gobernanza ayudan a mantener la coherencia de la marca y el control en toda la biblioteca de recursos. |
 | Junio de 2026 | [!DNL AEM Assets] | [Descubrimiento de recursos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/search-and-discovery/discovery){target="_blank"} | Vídeo | Descubra cómo funciona la detección de recursos en AEM Assets. Explore las herramientas de búsqueda y exploración que ayudan a los equipos a encontrar rápidamente el contenido adecuado. |
