@@ -1,6 +1,6 @@
 ---
 description: Información que le ayudará a comunicarse con Adobe y a comprender los aspectos legales relativos al uso de este producto y esta documentación.
-keywords: Dynamic Tag Management; Notas de la versión
+keywords: dynamic tag management;notas de la versión
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
 title: Contacto e información legal
@@ -8,9 +8,9 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: ht
-source-wordcount: '219'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 34%
 
 ---
 
@@ -22,13 +22,13 @@ Información que le ayudará a comunicarse con Adobe y a comprender los aspectos
 
 ## Ayuda y asistencia técnica {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-El cometido del Servicio de atención al cliente de Adobe Experience Cloud es ayudarle y, para ello, le ofrece una serie de opciones de asistencia:
+El cometido del Servicio de atención al cliente de Adobe Marketing Cloud es ayudarle y, para ello, le ofrece una serie de opciones de asistencia:
 
-Consulte [Contacto con el Soporte técnico de Adobe Enterprise](https://helpx.adobe.com/es/contact/enterprise-support.ec.html)
+Ver [Póngase en contacto con el soporte técnico empresarial de Adobe](https://helpx.adobe.com/es/contact/enterprise-support.ec.html)
 
 ## Servicio, capacidad y facturación {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-Según la configuración de su solución, es posible que algunas de las opciones descritas en esta documentación no estén disponibles para usted. Cada cuenta es única, de modo que debe consultar el contrato para obtener información acerca de los precios, las fechas de vencimiento, los términos y las condiciones. Si quiere actualizar o cambiar de nivel de servicios, o si tiene preguntas acerca de su servicio actual, póngase en contacto con el administrador de su cuenta.
+Según la configuración de su solución, es posible que algunas de las opciones descritas en esta documentación no estén disponibles para usted. Cada cuenta es única, por lo que debe consultar el contrato para obtener información sobre los precios, las fechas de vencimiento, los términos y las condiciones. Si desea actualizar o cambiar de nivel de servicio, o si tiene preguntas acerca de su servicio actual, póngase en contacto con su administrador de cuentas.
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -44,6 +44,6 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 [Condiciones de uso](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centro de privacidad](https://www.adobe.com/es/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Un símbolo de marca (®, ™, etc.) indica una marca comercial de Adobe.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_es](https://www.adobe.com/es/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Información actualizada/Información adicional de código de terceros disponible en [https://www.adobe.com/go/thirdparty_es](https://www.adobe.com/es/products/eula/third_party.html).
