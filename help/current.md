@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ Esta página le ayuda a encontrar:
 * Nuevas [notas de la versión](#application-release-notes) del producto para todas las aplicaciones de CX Enterprise
 * Nuevos [tutoriales y artículos de soporte](#articles) disponibles en Experience League
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>Para recibir un correo electrónico mensual sobre las nuevas características y actualizaciones de CX Enterprise en esta página, habilita **[!UICONTROL Actualización de producto prioritario]** en la página [[!UICONTROL Boletines]](https://account.adobe.com/magazines).
 
 Última actualización: **14 de agosto de 2026**
 
@@ -548,7 +541,7 @@ Consulte los tutoriales y artículos de asistencia más recientes sobre Experien
 | Julio de 2026 | [!DNL Journey Optimizer] | [Configurar recompensas para un desafío de fidelidad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | Vídeo | Aprenda a configurar recompensas de desafío seleccionando tipos de recompensa, definiendo métodos de entrega y recompensando a los participantes en hitos clave o al finalizar el desafío. |
 | Julio de 2026 | [!DNL Journey Optimizer] | [Configurar un desafío de fidelidad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | Vídeo | Aprenda a configurar un desafío de lealtad seleccionando el tipo de desafío adecuado, configurando audiencias y programaciones, definiendo reglas de participación y controlando cómo se realiza el seguimiento y se recompensa el progreso. |
 | Julio de 2026 | [!DNL Journey Optimizer] | [Cree tareas para el desafío de fidelidad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | Vídeo | Aprenda a crear y configurar tareas de desafío de lealtad mediante actividades de compra, gasto y evento personalizado, incluidas reglas de elegibilidad y exclusiones. |
-| Julio de 2026 | [!DNL Journey Optimizer] | [Descubra qué es la lealtad a Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | Vídeo | Descubra cómo la lealtad de Journey Optimizer convierte los datos de lealtad en experiencias personalizadas con perspectivas impulsadas por IA, gamification adaptable y perfiles de cliente unificados que impulsan la participación. |
+| Julio de 2026 | [!DNL Journey Optimizer] | [Descubre qué es Journey Optimizer Loyalty](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | Vídeo | Descubra cómo Journey Optimizer Loyalty convierte los datos de lealtad en experiencias personalizadas con perspectivas impulsadas por IA, gamification adaptable y perfiles de cliente unificados que impulsan la participación. |
 | Julio de 2026 | [!DNL Journey Optimizer] | [Simular recorridos con audiencias externas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/simulate-journeys-with-external-audiences){target="_blank"} | Vídeo | Obtenga información sobre cómo simular recorridos utilizando perfiles de audiencia externa desde un archivo CSV o una composición de audiencia federada, personalizar mensajes con atributos externos y validar rutas de recorrido antes de publicar. |
 | Julio de 2026 | [!DNL Journey Optimizer] | [Configurar y usar canales personalizados](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/configure-and-use-custom-channels){target="_blank"} | Vídeo | Aprenda a conectar plataformas de mensajería no admitidas de forma nativa en Journey Optimizer, como Slack, WeChat o Telegram, mediante canales personalizados y a utilizarlas en sus recorridos. |
 | Julio de 2026 | [!DNL Journey Optimizer] | [Introducción al nuevo lienzo de recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-the-new-journey-canvas){target="_blank"} | Vídeo | Descubra la nueva experiencia de lienzo de recorrido en Journey Optimizer, que presenta un motor de renderización moderno que alinea la creación de recorridos con la experiencia ya utilizada en campañas orquestadas y composición de audiencias. |
