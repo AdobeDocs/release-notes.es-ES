@@ -2,17 +2,17 @@
 title: Notas de la versión central
 description: Busque vínculos a las notas de la versión de la aplicación Experience Cloud. Vea nuevos vídeos de tutoriales, lea artículos de asistencia y busque recursos de autoayuda en Experience League.
 doc-type: release notes
-last-update: August 2026
+last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
+source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
 
 ---
 
-# Notas de la versión de CX Enterprise central, agosto de 2026
+# Notas de la versión de CX Enterprise central, septiembre de 2026
 
 Esta página le ayuda a encontrar lo último:
 
