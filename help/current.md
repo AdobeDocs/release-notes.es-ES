@@ -9,16 +9,14 @@ source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
-
 ---
-
 # Notas de la versión de CX Enterprise central, septiembre de 2026
 
 Esta página le ayuda a encontrar lo último:
 
 * [Notas de la versión](#application-release-notes) para todas las aplicaciones de CX Enterprise (actualizado el **8 de septiembre**)
 * [Eventos y novedades](#events) en Experience League (actualizado el **8 de septiembre**)
-* [Colaborador de IA y CX Enterprise](#ai) recursos de aprendizaje
+* Recursos de aprendizaje de [AI y CX Enterprise Coworker](#ai)
 * [Tutoriales y artículos de soporte](#articles) disponibles en Experience League
 
 >[!TIP]
