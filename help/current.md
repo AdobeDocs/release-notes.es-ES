@@ -423,7 +423,7 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Experien
 
 Obtenga acceso a los nuevos tutoriales y los artículos de asistencia de la base de conocimiento de [!DNL Adobe Commerce].
 
-* [Guías de servicios de Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
+* [Guías de servicios de Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/es/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilidad del producto](https://experienceleague.adobe.com/es/docs/commerce-operations/release/product-availability){target="_blank"}
 
 Tutoriales nuevos para [!DNL Adobe Commerce] en Experience League.
@@ -499,7 +499,7 @@ Nuevos artículos y actualizaciones de artículos existentes para [!DNL Campaign
 | --------- | ---- | ---- | ----------- |
 | Agosto de 2026 | [Campaign: la entrega push muestra un recuento de éxito nulo en UAT](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40670) | Nuevo artículo | Obtenga información sobre las soluciones al problema que se produce cuando los envíos push de Adobe Campaign en el entorno UAT se completan con un estado [!UICONTROL Finalizado], pero no muestran mensajes procesados ni correctos para los envíos [!DNL iOS] y [!DNL Android]. |
 | Agosto de 2026 | [Campaña: [!DNL Redshift] Columnas no visibles en la carga de datos de Campaign (RDBMS)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40675) | Nuevo artículo | Obtenga información sobre las soluciones al problema cuando Adobe Campaign usa la actividad [!UICONTROL Carga de datos (RDBMS)] con una conexión ODBC [!DNL Amazon Redshift] y las columnas de tabla o vista no aparecen en el cuadro de diálogo de selección de columnas. |
-| Agosto de 2026 | [Errores de autenticación de datos adjuntos SAS de Campaign [!DNL Azure Blob] 2}](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40677) | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando la preparación de envíos de Adobe Campaign falla con un error HTTP 403, *el servidor no pudo autenticar la solicitud. Asegúrese de que el valor del encabezado Autorización esté correctamente formado, incluida la firma.*, al recuperar un archivo adjunto de entrega de [!DNL Azure Blob Storage] al que hace referencia una dirección URL HTTPS firmada con SAS que funciona en un explorador o con `curl`. |
+| Agosto de 2026 | [Errores de autenticación de datos adjuntos SAS de Campaign [!DNL Azure Blob] 2&rbrace;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40677) | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando la preparación de envíos de Adobe Campaign falla con un error HTTP 403, *el servidor no pudo autenticar la solicitud. Asegúrese de que el valor del encabezado Autorización esté correctamente formado, incluida la firma.*, al recuperar un archivo adjunto de entrega de [!DNL Azure Blob Storage] al que hace referencia una dirección URL HTTPS firmada con SAS que funciona en un explorador o con `curl`. |
 | Agosto de 2026 | [Campaña: Alto número de procesos zombis en web@default](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40680) | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando una alerta de monitorización informa de un número inusualmente alto de procesos zombis en una instancia de Adobe Campaign, alcanzando los 23 procesos `web@default` que han desaparecido, aunque el indicador de monitorización muestre un valor máximo de 2. |
 | Agosto de 2026 | [No están disponibles las reglas de tipología adicionales en Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40484) | Nuevo artículo | Obtenga información acerca de las soluciones al problema cuando solo los tipos de reglas [!UICONTROL Filtrado], [!UICONTROL Control] y [!UICONTROL Presentación de ofertas] aparezcan en Adobe Campaign Classic v8 al crear una nueva regla de tipología, y los tipos adicionales, como las reglas [!UICONTROL Presión] y [!UICONTROL Capacidad], no estén disponibles en la Consola del cliente. |
 
@@ -614,7 +614,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 | August 2025 | [Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"} | New article | Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings. |
 -->
 
-Para obtener la documentación más reciente del producto, consulte la página de inicio de la documentación de [Adobe [!DNL Workfront] ](https://experienceleague.adobe.com/es/docs/workfront/using/home){target="_blank"}.
+Para obtener la documentación más reciente del producto, consulte la página de inicio de la documentación de [Adobe [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/es/docs/workfront/using/home){target="_blank"}.
 
 ### [!DNL Adobe GenStudio for Performance Marketing] {#tutorials-genstudio-marketing}
 
