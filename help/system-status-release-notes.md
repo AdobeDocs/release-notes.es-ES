@@ -4,13 +4,13 @@ description: Historial de versiones del estado del sistema de Adobe (status.adob
 doc-type: release notes
 last-update: October 2026
 author: mfrei
-source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
+source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 27%
+source-wordcount: '271'
+ht-degree: 30%
 ---
 
-# [!DNL Adobe System Status] notas de la versión {#status-release-notes}
+# Notas de la versión de [!DNL Adobe System Status] {#status-release-notes}
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es){target="_blank"}.
 
@@ -18,7 +18,6 @@ Esta página hace un seguimiento de [!DNL Adobe System Status] actualizaciones a
 
 | Fecha | Actualizaciones |
 | ------- | ------- |
-| 1 de octubre de 2026 | <ul><li>Se ha corregido una sección de nube vacía cuando no tiene suscripciones ni derechos y **Mis eventos** está activado</li><li>Disponibilidad mejorada con failover de origen de Akamai</li><li>Recuperación de perfiles actualizada para utilizar el ámbito de identidad requerido</li></ul> |
 | Marzo de 2026 | <ul><li>Asistente virtual de IA en beta</li><li>Correcciones de errores y mejoras</li></ul> |
 | 8 de diciembre de 2025 | <ul><li>Mejoras en los comentarios del Asistente virtual (flujos de trabajo guiados optimizados, iconos intuitivos)</li><li>Correcciones de errores y mejoras</li></ul> |
 | 16 de julio de 2025 | <ul><li>Disponibilidad general del Asistente virtual</li><li>Búsqueda de ID de evento en páginas de Product y Cloud, y en el Asistente virtual</li><li>Actualización de configuración de notificaciones de Slack</li><li>Correcciones de errores y mejoras</li></ul> |
