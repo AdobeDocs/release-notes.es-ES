@@ -2,15 +2,15 @@
 title: Notas de la versión de Adobe System Status
 description: Historial de versiones del estado del sistema de Adobe (status.adobe.com).
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
-# Notas de la versión de [!DNL Adobe System Status] {#status-release-notes}
+# [!DNL Adobe System Status] notas de la versión {#status-release-notes}
 
 [!DNL Adobe System Status] proporciona información detallada, actualizaciones de estado y notificaciones por correo electrónico sobre los productos y servicios de Adobe. Reciba notificaciones sobre cortes, interrupciones y eventos de mantenimiento. Puede comprobar el estado en [status.adobe.com/es](https://status.adobe.com/es){target="_blank"}.
 
@@ -18,6 +18,7 @@ Esta página hace un seguimiento de [!DNL Adobe System Status] actualizaciones a
 
 | Fecha | Actualizaciones |
 | ------- | ------- |
+| 1 de octubre de 2026 | <ul><li>Se ha corregido una sección de nube vacía cuando no tiene suscripciones ni derechos y **Mis eventos** está activado</li><li>Disponibilidad mejorada con failover de origen de Akamai</li><li>Recuperación de perfiles actualizada para utilizar el ámbito de identidad requerido</li></ul> |
 | Marzo de 2026 | <ul><li>Asistente virtual de IA en beta</li><li>Correcciones de errores y mejoras</li></ul> |
 | 8 de diciembre de 2025 | <ul><li>Mejoras en los comentarios del Asistente virtual (flujos de trabajo guiados optimizados, iconos intuitivos)</li><li>Correcciones de errores y mejoras</li></ul> |
 | 16 de julio de 2025 | <ul><li>Disponibilidad general del Asistente virtual</li><li>Búsqueda de ID de evento en páginas de Product y Cloud, y en el Asistente virtual</li><li>Actualización de configuración de notificaciones de Slack</li><li>Correcciones de errores y mejoras</li></ul> |
