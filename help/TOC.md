@@ -4,7 +4,7 @@ product: experience cloud
 user-guide-title: Notas de la versión de Adobe Experience Cloud
 breadcrumb-title: Notas de la versión central
 user-guide-description: Obtenga información sobre nuevas funciones, correcciones y avisos importantes de Adobe Experience Cloud y Experience Platform.
-user-guide-url: https://www.adobe.com
+user-guide-url: https://www.adobe.com/es
 color: red
 source-git-commit: 8bec27c50695e72a6e2648c5d17aebd7a21ab73a
 workflow-type: tm+mt
